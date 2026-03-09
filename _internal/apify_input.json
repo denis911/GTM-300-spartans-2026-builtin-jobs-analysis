@@ -1,0 +1,11 @@
+{
+    "startUrls": [
+        "https://builtin.com/jobs?search=GTM+engineer&state=New+York&country=USA&allLocations=true",
+        "https://builtin.com/jobs?search=GTM+engineer&state=California&country=USA&allLocations=true",
+        "https://builtin.com/jobs/remote/hybrid/office?search=GTM+engineer&country=USA&allLocations=true",
+        "https://builtin.com/jobs/remote/hybrid/office?search=GTM+engineer&country=GBR&allLocations=true",
+        "https://builtin.com/jobs/remote/hybrid/office?search=GTM+engineer&country=DEU&allLocations=true",
+        "https://builtin.com/jobs/role/gtm-engineer"
+    ],
+    "maxItems": 10
+}

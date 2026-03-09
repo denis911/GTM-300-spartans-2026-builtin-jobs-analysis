@@ -56,6 +56,13 @@ echo %OPENAI_API_KEY%
 ```
 
 
+### 3. Apify Actors (Automatic Fallback)
+The scraping script `_internal/00_run_apify.py` handles actor selection automatically:
+- **Primary**: `easyapi/builtin-jobs-scraper` (Optimized, may require subscription)
+- **Fallback**: `shahidirfan/builtin-jobs-scraper` (Free-tier friendly)
+
+If the primary actor returns a 403 (Subscription/Proxy error), the script automatically switches to the fallback. Data is normalized across both actors to maintain consistent fields (`title`, `company`, `description`, etc.).
+
 ---
 
 *Code and analysis by Antigravity AI, inspired by the AI Engineering Field Guide.*
