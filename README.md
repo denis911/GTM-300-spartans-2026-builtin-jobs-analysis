@@ -1,8 +1,8 @@
 # GTM Engineer Job Market Analysis
 
-**~300 job descriptions** from Builtin.com · Collected March 2026 · Cities: New York · San Francisco · London · Berlin · Austin TX
+**310 high-quality technical GTM leads** · Collected March 2026 · Cities: New York · San Francisco · London · Berlin · Austin TX
 
-Collect ~300 GTM (Go-To-Market) Engineer job descriptions from Builtin.com, structured by city, clean and normalize the data with an LLM extraction step, run a comprehensive Jupyter notebook analysis, and produce GitHub-ready documentation.
+Collect and analyze GTM (Go-To-Market) Engineer job descriptions from Builtin.com, structured by city, clean and normalize the data with an LLM extraction step, run a comprehensive Jupyter notebook analysis, and produce GitHub-ready documentation.
 
 Original idea is taken from repository AI Engineering research: https://github.com/alexeygrigorev/ai-engineering-field-guide/tree/main/job-market
 
@@ -11,7 +11,7 @@ Original idea is taken from repository AI Engineering research: https://github.c
 | Path | Description |
 |---|---|
 | `data_structured/` | Structured YAML files — title, company, tech_stack, compensation |
-| `data_raw/` | Raw YAML files from Apify export |
+| `data_raw/` | Raw JSON source from Apify export |
 | `analysis.ipynb` | Full analysis notebook with charts |
 | `_internal/` | Scraping scripts, structuring scripts, charts, dedup report |
 
@@ -20,6 +20,12 @@ Successfully collected **829 unique job listings** from Builtin.com across:
 - **Regions**: New York, San Francisco, London, Berlin, Austin, and Global Remote.
 - **Coverage**: 100% for Title, Company, Location, Description, and URL.
 - **Cost**: $0.02 (Apify Free Tier).
+
+## Stage 2: Data Cleaning and Structuring (LLM)
+Refined the raw dataset into a structured format focused on Technical Go-To-Market roles.
+- **"300 Spartans" Goal**: Achieved **310 leads** identified as "GTM Technical" (37% relevancy rate).
+- **Tech Stack Extraction**: Captured modern GTM tools including **Clay**, **n8n**, **Tray.io**, and **Salesforce**.
+- **Data Fidelity**: Used JSON as the primary source to preserve 100% text accuracy (solving CSV parsing issues with HTML/newlines).
 
 ## Prerequisites
 
