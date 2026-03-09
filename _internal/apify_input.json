@@ -7,5 +7,5 @@
         "https://builtin.com/jobs/remote/hybrid/office?search=GTM+engineer&country=DEU&allLocations=true",
         "https://builtin.com/jobs/role/gtm-engineer"
     ],
-    "maxItems": 10
+    "maxItems": 1000
 }

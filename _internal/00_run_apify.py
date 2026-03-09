@@ -53,39 +53,71 @@ def main(test_mode: bool = False):
     output_csv_path = os.path.join(base_dir, OUTPUT_CSV)
 
     with open(input_path) as f:
-        run_input = json.load(f)
+        input_data = json.load(f)
 
+    # Process each URL one by one (fallback actor uses singular startUrl)
+    urls = input_data.get("startUrls", [])
+    max_items = input_data.get("maxItems", 100)
+    
     if test_mode:
-        run_input["maxItems"] = 10
-        run_input["startUrls"] = run_input["startUrls"][:1]
-        print("⚙️  TEST MODE: maxItems=10, first URL only")
+        urls = urls[:1]
+        max_items = 10
+        print(f"⚙️  TEST MODE: urls[0] only, results_wanted=10")
 
-    print(f"Starting Apify actor run (maxItems={run_input.get('maxItems')})...")
-    print(f"URLs: {len(run_input.get('startUrls', []))} search URLs")
+    all_results = []
+    print(f"🚀 Starting scrape for {len(urls)} target URLs...")
+    
+    for i, url in enumerate(urls, 1):
+        print(f"\n🌐 Processing URL {i}/{len(urls)}: {url}")
+        
+        # Prepare input for the actor (using fallback actor schema)
+        run_input = {
+            "startUrl": url,
+            "results_wanted": max_items,
+            "max_pages": 100
+        }
 
-    try:
-        run = client.actor(ACTOR_PRIMARY).call(run_input=run_input)
-    except Exception as e:
-        error_msg = str(e).lower()
-        if "subscription" in error_msg or "payment" in error_msg or "paid" in error_msg or "403" in error_msg:
-            print(f"⚠️ Primary actor requires subscription or returned 403: {e}")
-            print(f"🔄 Falling back to: {ACTOR_FALLBACK}")
-            run = client.actor(ACTOR_FALLBACK).call(run_input=run_input)
-        else:
-            print(f"❌ Unexpected error calling primary actor: {e}")
-            raise
+        try:
+            # Try primary actor
+            try:
+                print(f"   Calling primary actor: {ACTOR_PRIMARY}")
+                run = client.actor(ACTOR_PRIMARY).call(run_input=run_input)
+            except Exception as e:
+                error_msg = str(e).lower()
+                if "subscription" in error_msg or "payment" in error_msg or "paid" in error_msg or "403" in error_msg:
+                    print(f"   ⚠️ Primary actor restricted. Falling back to: {ACTOR_FALLBACK}")
+                    run = client.actor(ACTOR_FALLBACK).call(run_input=run_input)
+                else:
+                    raise
 
-    print(f"✅ Run complete. Status: {run['status']}")
-    print(f"   Dataset ID:  {run['defaultDatasetId']}")
-    print(f"   Run ID:      {run['id']}")
+            print(f"   ✅ Run ID: {run['id']} ({run['status']})")
+            
+            # Fetch results for this URL
+            dataset_id = run["defaultDatasetId"]
+            items = list(client.dataset(dataset_id).iterate_items())
+            print(f"   ✨ Items found: {len(items)}")
+            all_results.extend(items)
+            
+        except Exception as e:
+            print(f"   ❌ Error processing URL: {e}")
+            continue
 
-    # Fetch results
-    raw_items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
-    print(f"   Items fetched: {len(raw_items)}")
+    print(f"\n📊 Total items collected across all runs: {len(all_results)}")
+    
+    # Dedup by URL
+    seen_urls = set()
+    results = []
+    for item in all_results:
+        item_url = item.get("url")
+        if item_url and item_url not in seen_urls:
+            seen_urls.add(item_url)
+            results.append(item)
+    
+    print(f"🧹 Unique items after deduplication: {len(results)}")
 
-    # Normalize results for fallback scraper
-    items = []
-    for item in raw_items:
+    # Normalize results
+    normalized_items = []
+    for item in results:
         normalized = item.copy()
         # Map fields if they are missing but present in other formats
         if not normalized.get("description") and normalized.get("description_text"):
@@ -107,27 +139,34 @@ def main(test_mode: bool = False):
         if not normalized.get("workType") and normalized.get("workplace_type"):
             normalized["workType"] = normalized["workplace_type"]
 
-        items.append(normalized)
+        # Map seniority to experienceLevel
+        if not normalized.get("experienceLevel") and normalized.get("seniority"):
+            normalized["experienceLevel"] = normalized["seniority"]
 
-    # Save JSON
+        # Preserve category if available
+        if not normalized.get("category_raw") and normalized.get("category"):
+            normalized["category_raw"] = normalized["category"]
+
+        normalized_items.append(normalized)
+
+    # Save complete JSON
     with open(output_json_path, "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
+        json.dump(normalized_items, f, indent=2, ensure_ascii=False)
     print(f"   Saved JSON: {output_json_path}")
 
     # Save CSV
-    if items:
-        # We need a more robust way to flatten/handle different field sets for CSV
-        df = pd.DataFrame(items)
+    if normalized_items:
+        df = pd.DataFrame(normalized_items)
         df.to_csv(output_csv_path, index=False, encoding="utf-8-sig")
         print(f"   Saved CSV:  {output_csv_path}")
 
     # Field coverage report
-    if items:
+    if normalized_items:
         print("\n── Field Coverage Report ──────────────────")
         for field in ["title", "company", "location", "skills", "description",
                       "salary", "workType", "postedDate", "url", "experienceLevel"]:
-            filled = sum(1 for i in items if i.get(field))
-            print(f"  {field:20s}: {filled}/{len(items)} ({filled/len(items):.0%})")
+            filled = sum(1 for i in normalized_items if i.get(field))
+            print(f"  {field:20s}: {filled}/{len(normalized_items)} ({filled/len(normalized_items):.0%})")
 
     # Compute unit / cost estimate from run stats
     run_info = client.run(run["id"]).get()

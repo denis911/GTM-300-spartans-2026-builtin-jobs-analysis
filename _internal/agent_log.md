@@ -19,3 +19,18 @@
 - **Fixes**: Updated `00_run_apify.py` with normalization logic for `description_text`, `date_posted`, and `salary_json_*` fields.
 - **Coverage**: 100% for Core fields (Title, Company, Location, Description, URL, PostedDate).
 - **Cost**: 0.003 CU used for test run. Projected cost for 350 items: ~/usr/bin/bash.02 (Free tier sufficient).
+
+## Checkpoint 1.2a: PDF Review & Scraper Refactoring
+- **Issue**: Test run produced only 20 results (default limit) and "enqueueLinks limit of 0" warning.
+- **Discovery**: User-provided "BuiltIn Jobs Scraper.pdf" revealed correct input keys: `results_wanted`, `startUrl` (singular), and `max_pages`.
+- **Decision**: Refactored `00_run_apify.py` to loop through search URLs one-by-one to support both actors reliably.
+- **Verification**: New test run with 1 URL/10 items succeeded with correct field mapping.
+
+## [CHECKPOINT 1.3] — 2026-03-09 21:15
+**Summary**: Completed full collection using the refactored loop and PDF-verified keys.
+**Results**:
+- Total Items: 829 unique (deduplicated from ~1400 raw across 6 URLs).
+- Coverage: 100% on core job details.
+- Cost: /usr/bin/bash.02 (well within free tier).
+**Decisions**: Used `startUrl`, `results_wanted`, and `max_pages` as per PDF. The role-based URL provided high volume.
+**Next**: Move to Stage 2 - LLM-driven cleaning and YAML export.
