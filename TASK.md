@@ -61,15 +61,15 @@ gtm-job-market/
 
 ---
 
-### PHASE 0 — Environment Setup
+### PHASE 0 — Environment Setup - mostly done manually by user, no need to run - agent provides only instructions and updates README.md while keeping original texts. Agent may create directories if needed.
 
 #### ✅ Checkpoint 0.1 — Project skeleton & dependencies
 
 **Tasks:**
 - Create all directories listed above (including `_internal/charts/`)
-- Create `pyproject.toml` (exact content in INSTRUCTIONS.md §`pyproject.toml`)
-- Create `.python-version` containing `3.13`
-- Create `.gitignore` (content in INSTRUCTIONS.md §`.gitignore`)
+- Create `pyproject.toml` (update content like in INSTRUCTIONS.md §`pyproject.toml`)
+- Create `.python-version` containing `3.13` - done by user
+- Create `.gitignore` (update content like in INSTRUCTIONS.md §`.gitignore`) - done by user
 - Create `_internal/agent_log.md` with header + first entry
 - Run `uv sync` and confirm clean install — capture output
 - Print masked env vars: `APIFY_API_TOKEN` (first 6 chars + `****`) and `OPENAI_API_KEY` (first 6 chars + `****`) — confirm both are set
