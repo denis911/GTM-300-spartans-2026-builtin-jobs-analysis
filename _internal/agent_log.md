@@ -34,3 +34,11 @@
 - Cost: /usr/bin/bash.02 (well within free tier).
 **Decisions**: Used `startUrl`, `results_wanted`, and `max_pages` as per PDF. The role-based URL provided high volume.
 **Next**: Move to Stage 2 - LLM-driven cleaning and YAML export.
+
+## [CHECKPOINT 2.2] — 2026-03-09 23:25
+**Activity**: Started full LLM extraction for 829 items using .
+**Configuration**:
+- Batch Size: 20
+- Key Tools Target: Clay, n8n, Tray.io, Salesforce, HubSpot, dbt, SQL.
+- Focus: "GTM Technical" relevancy filtering.
+- Source: `apify_raw_export.json` (JSON source of truth).
