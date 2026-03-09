@@ -15,6 +15,35 @@ Original idea is taken from repository AI Engineering research: https://github.c
 | `analysis.ipynb` | Full analysis notebook with charts |
 | `_internal/` | Scraping scripts, structuring scripts, charts, dedup report |
 
+## Prerequisites
+
+Before running the pipeline, you need to set up your API keys.
+
+### 1. Get Your Keys
+- **Apify API Token**: Sign up at [Apify](https://apify.com/) and find your token in Settings > Integrations.
+- **OpenAI API Key**: Get your key from the [OpenAI Dashboard](https://platform.openai.com/).
+
+### 2. Setup Environment Variables (Windows 11)
+
+To make these keys available to the scripts, follow these steps:
+
+#### Option A: Persistent (via System UI)
+1. Press `Win + R`, type `sysdm.cpl`, and press Enter.
+2. Go to the **Advanced** tab and click **Environment Variables**.
+3. Under **User variables**, click **New**:
+   - Variable name: `APIFY_API_TOKEN`
+   - Variable value: `your_token_here`
+4. Click **New** again:
+   - Variable name: `OPENAI_API_KEY`
+   - Variable value: `your_key_here`
+5. Click OK on all windows and **restart your terminal**.
+
+#### Option B: Temporary (PowerShell)
+```powershell
+$env:APIFY_API_TOKEN = "your_token_here"
+$env:OPENAI_API_KEY = "your_key_here"
+```
+
 ---
 
 *Code and analysis by Antigravity AI, inspired by the AI Engineering Field Guide.*
