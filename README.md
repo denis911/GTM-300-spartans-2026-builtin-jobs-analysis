@@ -43,6 +43,18 @@ To make these keys available to the scripts, follow these steps:
 $env:APIFY_API_TOKEN = "your_token_here"
 $env:OPENAI_API_KEY = "your_key_here"
 ```
+#### How to check if environment variables are set
+```powershell
+echo $APIFY_API_TOKEN
+echo $OPENAI_API_KEY
+```
+
+or in Win 11 CMD:
+```cmd
+echo %APIFY_API_TOKEN%
+echo %OPENAI_API_KEY%
+```
+
 
 ---
 
