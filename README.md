@@ -1,6 +1,20 @@
-# GTM-300-spartans-2026-builtin-jobs-analysis
-Collect 300 GTM engineer job postings and perform comprehensive analysis for skills required - Antigravity AI
+# GTM Engineer Job Market Analysis
+
+**~300 job descriptions** from Builtin.com · Collected March 2026 · Cities: New York · San Francisco · London · Berlin · Austin TX
+
+Collect ~300 GTM (Go-To-Market) Engineer job descriptions from Builtin.com, structured by city, clean and normalize the data with an LLM extraction step, run a comprehensive Jupyter notebook analysis, and produce GitHub-ready documentation.
 
 Original idea is taken from repository AI Engineering research: https://github.com/alexeygrigorev/ai-engineering-field-guide/tree/main/job-market
 
-Code has been analysed and modified by Claude AI to fit the needs of this project, actual coding is done by Antigravity AI.
+## Contents
+
+| Path | Description |
+|---|---|
+| `data_structured/` | Structured YAML files — title, company, tech_stack, compensation |
+| `data_raw/` | Raw YAML files from Apify export |
+| `analysis.ipynb` | Full analysis notebook with charts |
+| `_internal/` | Scraping scripts, structuring scripts, charts, dedup report |
+
+---
+
+*Code and analysis by Antigravity AI, inspired by the AI Engineering Field Guide.*

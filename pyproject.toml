@@ -1,12 +1,20 @@
 [project]
-name = "gtm-300-spartans-2026-builtin-jobs-analysis"
+name = "gtm-job-market"
 version = "0.1.0"
-description = "Add your description here"
+description = "GTM Engineer job market analysis from Builtin.com"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "matplotlib>=3.10.8",
-    "notebook>=7.5.4",
-    "pandas>=3.0.1",
-    "seaborn>=0.13.2",
+    "apify-client>=1.8",
+    "openai>=1.50",
+    "pyyaml>=6.0",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "tqdm>=4.66",
+    "rapidfuzz>=3.6",
+    "jupyterlab>=4.0",
+    "ipython>=8.0",
+    "nbconvert>=7.0",
 ]
