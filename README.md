@@ -15,6 +15,12 @@ Original idea is taken from repository AI Engineering research: https://github.c
 | `analysis.ipynb` | Full analysis notebook with charts |
 | `_internal/` | Scraping scripts, structuring scripts, charts, dedup report |
 
+## Stage 1: Data Collection (March 2026)
+Successfully collected **829 unique job listings** from Builtin.com across:
+- **Regions**: New York, San Francisco, London, Berlin, Austin, and Global Remote.
+- **Coverage**: 100% for Title, Company, Location, Description, and URL.
+- **Cost**: $0.02 (Apify Free Tier).
+
 ## Prerequisites
 
 Before running the pipeline, you need to set up your API keys.
