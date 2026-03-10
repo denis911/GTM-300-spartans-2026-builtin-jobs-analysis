@@ -12,7 +12,7 @@ Original idea is taken from repository AI Engineering research: https://github.c
 |---|---|
 | `data_structured/` | Structured YAML files — title, company, tech_stack, compensation |
 | `data_raw/` | Raw JSON source from Apify export |
-| `analysis.ipynb` | Full analysis notebook with charts |
+| `analysis.ipynb` | Full analysis notebook with charts & high-density tables |
 | `_internal/` | Scraping scripts, structuring scripts, charts, dedup report |
 
 ## Stage 1: Data Collection (March 2026)
@@ -50,7 +50,7 @@ GTM Engineering is a high-compensation field, with Senior and Staff roles freque
 
 ![Salary by Seniority](_internal/charts/salary_by_seniority.png)
 
-*Data source: Builtin.com (Scraped March 2026). Analysis based on 310 curated technical roles.*
+*Data source: Builtin.com (Scraped March 2026). Analysis based on 310 curated technical roles. High-density table views implemented for Dataset Overview and Job Type Distribution for maximum clarity.*
 
 ---
 

@@ -250,6 +250,22 @@ Output: printed stats, chart list. Human checks if tool categorization looks rea
 
 ---
 
+### PHASE 5.R — Visual Refinements
+
+#### [x] Checkpoint 5.R — Replace charts with tables (Sec 1-2)
+
+**Tasks:**
+- [x] Modify Section 1 to show a table for Top 10 Companies.
+- [x] Modify Section 2 to show a table for Job Type Distribution.
+- [x] Confirm table readability and data accuracy.
+- [x] Update README.md to reflect visual refinements.
+
+**🛑 STOP 5.R**
+Output: Updated Sections 1 & 2 in the notebook.
+Human checks: Are the tables formatted correctly? Is the information density improved?
+
+---
+
 #### ✅ Checkpoint 5.4 — Sections 7, 8, 9, 10 (Experience · Company Size · Temporal · Findings)
 
 **Tasks:**
