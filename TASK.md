@@ -302,8 +302,56 @@ Human reviews for accuracy, tone, and completeness before finalizing.
 - Run the notebook one final time cleanly
 - Print final file counts: `data_raw/` count, `data_structured/` count, `_internal/charts/` count
 
-**🛑 STOP 6.2 — PROJECT COMPLETE**
+**🛑 STOP 6.2 - analysis part done**
 Output: final directory tree, file counts, gitignore contents. Project is ready for human final review and `git push`.
+
+---
+
+### PHASE 7 — GTM Landing Page
+
+#### ✅ Checkpoint 7.1 — Landing Page Design & Content Strategy
+
+**Tasks:**
+- [x] Create `.stitch` directory and initial `SITE.md` with project vision
+- [x] Define `DESIGN.md` for "Premium Dark Pro" aesthetic (HTMX/CSS)
+- [x] Research specific table and chart captions from `analysis.ipynb`
+- [x] Craft the initial baton prompt in `next-prompt.md`
+
+**🛑 STOP 7.1**
+Output: contents of `.stitch/SITE.md` and `.stitch/DESIGN.md`. High-fidelity prompt preview.
+Human checks: Does the "vibe" and content structure match the desired output?
+
+---
+
+#### ✅ Checkpoint 7.2 — Stitch Generation & Iteration
+
+**Tasks:**
+- [ ] Run `mcp_stitch:generate_screen_from_text` with the baton prompt
+- [ ] Download generated HTML and PNG assets to `.stitch/designs/`
+- [ ] Verify the design against the "Premium" requirement
+- [ ] Update `next-prompt.md` for any required tweaks or additional sections
+
+---
+
+#### ✅ Checkpoint 7.3 — Asset Integration & HTMX Plumbing
+
+**Tasks:**
+- [ ] Move HTML to `site/public/index.html`
+- [ ] Replace placeholder images with local charts from `_internal/charts/`
+- [ ] Ingest notebook data tables into the HTML structure
+- [ ] Add HTMX markers for potential dynamic area loads
+
+---
+
+#### ✅ Checkpoint 7.4 — Final Polish & Verification
+
+**Tasks:**
+- [ ] Run a local pulse-check on the page layout
+- [ ] Ensure all local links to charts are functional
+- [ ] Create `walkthrough.md` for the final delivery
+
+**🛑 STOP 7.4 — PROJECT COMPLETE**
+Output: Final index.html linkable assets list. Landing page ready for review.
 
 ---
 
