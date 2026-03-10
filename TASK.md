@@ -326,10 +326,10 @@ Human checks: Does the "vibe" and content structure match the desired output?
 #### ✅ Checkpoint 7.2 — Stitch Generation & Iteration
 
 **Tasks:**
-- [ ] Run `mcp_stitch:generate_screen_from_text` with the baton prompt
-- [ ] Download generated HTML and PNG assets to `.stitch/designs/`
-- [ ] Verify the design against the "Premium" requirement
-- [ ] Update `next-prompt.md` for any required tweaks or additional sections
+- [x] Run `mcp_stitch:generate_screen_from_text` with the baton prompt
+- [x] Download generated HTML and PNG assets to `.stitch/designs/`
+- [x] Verify the design against the "Premium" requirement
+- [x] Update `next-prompt.md` for any required tweaks or additional sections
 
 ---
 
