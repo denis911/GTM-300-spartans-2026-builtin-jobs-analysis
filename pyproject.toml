@@ -17,4 +17,5 @@ dependencies = [
     "jupyterlab>=4.0",
     "ipython>=8.0",
     "nbconvert>=7.0",
+    "notebook>=7.5.4",
 ]
