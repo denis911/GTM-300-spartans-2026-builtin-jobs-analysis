@@ -1,0 +1,219 @@
+title: Lead Engineer, AI-Driven Product Development
+company: Local Vacation Rentals
+category:
+- Real Estate
+- Travel
+- Hospitality
+location: Denver, Colorado, USA
+date_posted: '2026-03-09'
+description_html: '<p><strong>About Local Vacation Rentals</strong></p><p>LocalVR
+  manages over 550 luxury vacation rentals across Breckenridge, Park City, Lake Tahoe,
+  Telluride, and Florida’s 30A. We’ve spent a decade building something different
+  in the vacation rental industry: local expertise, obsessive service standards, and
+  technology that actually works for our teams on the ground. Now we’re doing something
+  bold: we’ve torn out our legacy tech stack and rebuilt it from scratch using AI-first
+  development with Claude Code. Not incrementally. All of it. And we’re mostly done.</p><p>We
+  need an engineer who doesn’t just write code, but thinks like a product owner, ships
+  like a founder, and runs infrastructure like an SRE. Someone who treats AI as their
+  primary development tool, not a novelty.</p><p><strong>The Role</strong></p><p>This
+  is a hands-on technical leadership role. You’ll own the architecture, reliability,
+  and forward momentum of our entire product ecosystem: four production applications
+  serving property owners, guests, and internal operations teams.</p><p><strong>You’ll
+  work within a tight, high-output team:</strong></p><ul><li><strong>1 Senior Backend
+  Engineer </strong>— your counterpart on deep backend and data work</li><li><strong>1
+  Product Owner / Designer </strong>— who drives product development and prioritization
+  alongside deploying their own contributions to the product.</li><li><strong>3 Stakeholder-Builders
+  </strong>— department directors who are in the CI/CD pipeline deploying their own
+  features and internal tools</li><li><strong>CPO </strong>— who sets product direction
+  and works directly with you on technical strategy</li></ul><p>Your job is to be
+  the technical center of gravity: making sure what everyone builds is secure, coherent,
+  performant, and actually ships. You’re the person who architects the system, sets
+  the standards, unblocks the team, and fixes what breaks.</p><p><strong>Product-Minded
+  Engineering</strong>: You don’t wait for a spec, &nbsp;you think in user problems,
+  business outcomes, and first principles. You have opinions about what to build,
+  not just how to build it.</p><ul><li>Translate business problems into technical
+  solutions without waiting for detailed requirements</li><li>Own the feedback loop:
+  ship, measure, learn, iterate</li><li>Think in systems across the full portfolio,
+  not just the feature in front of you</li></ul><p><strong>Rapid Building, Prototyping
+  &amp; Shipping</strong>: We deploy value daily, not quarterly. You’re comfortable
+  going from idea to production in hours, not sprints. Claude Code is your primary
+  development environment.</p><ul><li>Build and ship iteratively, meaningful PRs every
+  day, not big-bang releases</li><li>Prototype fast: validate ideas with working software
+  before investing in polish</li><li>Review and harden code built by non-engineers
+  on the team, make it production-grade without slowing them down</li><li>Use Claude
+  Code (CLI + VS Code) as your primary workflow, AI-assisted development isn’t supplementary,
+  it’s how we work</li></ul><p><strong>DevOps &amp; Platform Ownership: </strong>You
+  own the full deployment pipeline and production health of every application.</p><ul><li>Manage
+  infrastructure across Vercel, Supabase, Cloudflare, and GitHub Actions</li><li>Build
+  and maintain CI/CD pipelines that stakeholder-builders can safely deploy through</li><li>Implement
+  end-to-end testing, error monitoring (Sentry), and alerting that catches issues
+  before users do</li><li>Own security, data integrity, and access control across
+  all environments</li><li>Maintain cost awareness, keep infrastructure lean and efficient
+  as the platform scales</li></ul><p><strong>The Stack</strong>: You’ll own four production
+  applications:</p><ul><li><strong>LocalVR OS</strong> (our custom-built CRM replacing
+  Salesforce)</li><li><strong>Admin Tool</strong> (Django/Python)</li><li>a customer-facing
+  <strong>Booking Engine </strong>for<strong> </strong>direct reservations</li><li>and
+  an <strong>Owner Portal </strong>for our clients to manage their property.&nbsp;</li></ul><p>The
+  primary stack is Next.js, TypeScript, and Tailwind CSS on the frontend, Supabase
+  for database and auth, and Vercel for hosting and deployments. Infrastructure runs
+  through GitHub Actions, Sentry, and Cloudflare. Claude Code (CLI + VS Code) and
+  the Anthropic API are embedded throughout our development and product workflows.</p><p><strong>What
+  This Role Is Not</strong></p><p>This is not a role for someone who needs a large
+  engineering team to be effective. It’s not for someone who’s skeptical of AI tools
+  and planning to quietly work around them. And it’s not for someone who only wants
+  to build greenfield features — a significant part of this job is keeping production
+  systems healthy, secure, and performant while enabling others to ship.</p><p><strong>Why
+  LocalVR</strong></p><p>We’re a profitable, growing company with a clear service
+  that people love. We have a 4.9-star Glassdoor rating and a team that’s genuinely
+  excited about where we’re headed. We’re not a startup burning cash on a hypothesis.
+  We manage real properties in real destinations and we’ve been doing it for over
+  a decade. We’re at an inflection point. The technology we’re building right now
+  will define how this company operates for years. The person who takes this role
+  will have shaped it.</p>'
+description_text: 'About Local Vacation Rentals LocalVR manages over 550 luxury vacation
+  rentals across Breckenridge, Park City, Lake Tahoe, Telluride, and Florida’s 30A.
+  We’ve spent a decade building something different in the vacation rental industry:
+  local expertise, obsessive service standards, and technology that actually works
+  for our teams on the ground. Now we’re doing something bold: we’ve torn out our
+  legacy tech stack and rebuilt it from scratch using AI-first development with Claude
+  Code. Not incrementally. All of it. And we’re mostly done. We need an engineer who
+  doesn’t just write code, but thinks like a product owner, ships like a founder,
+  and runs infrastructure like an SRE. Someone who treats AI as their primary development
+  tool, not a novelty. The Role This is a hands-on technical leadership role. You’ll
+  own the architecture, reliability, and forward momentum of our entire product ecosystem:
+  four production applications serving property owners, guests, and internal operations
+  teams. You’ll work within a tight, high-output team: 1 Senior Backend Engineer —
+  your counterpart on deep backend and data work 1 Product Owner / Designer — who
+  drives product development and prioritization alongside deploying their own contributions
+  to the product. 3 Stakeholder-Builders — department directors who are in the CI/CD
+  pipeline deploying their own features and internal tools CPO — who sets product
+  direction and works directly with you on technical strategy Your job is to be the
+  technical center of gravity: making sure what everyone builds is secure, coherent,
+  performant, and actually ships. You’re the person who architects the system, sets
+  the standards, unblocks the team, and fixes what breaks. Product-Minded Engineering
+  : You don’t wait for a spec, &nbsp;you think in user problems, business outcomes,
+  and first principles. You have opinions about what to build, not just how to build
+  it. Translate business problems into technical solutions without waiting for detailed
+  requirements Own the feedback loop: ship, measure, learn, iterate Think in systems
+  across the full portfolio, not just the feature in front of you Rapid Building,
+  Prototyping &amp; Shipping : We deploy value daily, not quarterly. You’re comfortable
+  going from idea to production in hours, not sprints. Claude Code is your primary
+  development environment. Build and ship iteratively, meaningful PRs every day, not
+  big-bang releases Prototype fast: validate ideas with working software before investing
+  in polish Review and harden code built by non-engineers on the team, make it production-grade
+  without slowing them down Use Claude Code (CLI + VS Code) as your primary workflow,
+  AI-assisted development isn’t supplementary, it’s how we work DevOps &amp; Platform
+  Ownership: You own the full deployment pipeline and production health of every application.
+  Manage infrastructure across Vercel, Supabase, Cloudflare, and GitHub Actions Build
+  and maintain CI/CD pipelines that stakeholder-builders can safely deploy through
+  Implement end-to-end testing, error monitoring (Sentry), and alerting that catches
+  issues before users do Own security, data integrity, and access control across all
+  environments Maintain cost awareness, keep infrastructure lean and efficient as
+  the platform scales The Stack : You’ll own four production applications: LocalVR
+  OS (our custom-built CRM replacing Salesforce) Admin Tool (Django/Python) a customer-facing
+  Booking Engine for direct reservations and an Owner Portal for our clients to manage
+  their property.&nbsp; The primary stack is Next.js, TypeScript, and Tailwind CSS
+  on the frontend, Supabase for database and auth, and Vercel for hosting and deployments.
+  Infrastructure runs through GitHub Actions, Sentry, and Cloudflare. Claude Code
+  (CLI + VS Code) and the Anthropic API are embedded throughout our development and
+  product workflows. What This Role Is Not This is not a role for someone who needs
+  a large engineering team to be effective. It’s not for someone who’s skeptical of
+  AI tools and planning to quietly work around them. And it’s not for someone who
+  only wants to build greenfield features — a significant part of this job is keeping
+  production systems healthy, secure, and performant while enabling others to ship.
+  Why LocalVR We’re a profitable, growing company with a clear service that people
+  love. We have a 4.9-star Glassdoor rating and a team that’s genuinely excited about
+  where we’re headed. We’re not a startup burning cash on a hypothesis. We manage
+  real properties in real destinations and we’ve been doing it for over a decade.
+  We’re at an inflection point. The technology we’re building right now will define
+  how this company operates for years. The person who takes this role will have shaped
+  it.'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Lead
+workplace_type_enum: UNKNOWN
+company_overview: Since 2015, Local Vacation Rentals has invested in a local-driven
+  approach to luxury vacation rental management. With over 450+ properties in Summit
+  County, Park City, and Lake Tahoe we are proud of our industry-leading approach
+  to high performance property management with a local touch. We are a small startup,
+  but growing rapidly, and looking for other talented and motivated individuals to
+  join us in our journey!
+url: https://builtin.com/job/lead-engineer-ai-driven-product-development/8694492
+source: builtin.com
+description: 'About Local Vacation Rentals LocalVR manages over 550 luxury vacation
+  rentals across Breckenridge, Park City, Lake Tahoe, Telluride, and Florida’s 30A.
+  We’ve spent a decade building something different in the vacation rental industry:
+  local expertise, obsessive service standards, and technology that actually works
+  for our teams on the ground. Now we’re doing something bold: we’ve torn out our
+  legacy tech stack and rebuilt it from scratch using AI-first development with Claude
+  Code. Not incrementally. All of it. And we’re mostly done. We need an engineer who
+  doesn’t just write code, but thinks like a product owner, ships like a founder,
+  and runs infrastructure like an SRE. Someone who treats AI as their primary development
+  tool, not a novelty. The Role This is a hands-on technical leadership role. You’ll
+  own the architecture, reliability, and forward momentum of our entire product ecosystem:
+  four production applications serving property owners, guests, and internal operations
+  teams. You’ll work within a tight, high-output team: 1 Senior Backend Engineer —
+  your counterpart on deep backend and data work 1 Product Owner / Designer — who
+  drives product development and prioritization alongside deploying their own contributions
+  to the product. 3 Stakeholder-Builders — department directors who are in the CI/CD
+  pipeline deploying their own features and internal tools CPO — who sets product
+  direction and works directly with you on technical strategy Your job is to be the
+  technical center of gravity: making sure what everyone builds is secure, coherent,
+  performant, and actually ships. You’re the person who architects the system, sets
+  the standards, unblocks the team, and fixes what breaks. Product-Minded Engineering
+  : You don’t wait for a spec, &nbsp;you think in user problems, business outcomes,
+  and first principles. You have opinions about what to build, not just how to build
+  it. Translate business problems into technical solutions without waiting for detailed
+  requirements Own the feedback loop: ship, measure, learn, iterate Think in systems
+  across the full portfolio, not just the feature in front of you Rapid Building,
+  Prototyping &amp; Shipping : We deploy value daily, not quarterly. You’re comfortable
+  going from idea to production in hours, not sprints. Claude Code is your primary
+  development environment. Build and ship iteratively, meaningful PRs every day, not
+  big-bang releases Prototype fast: validate ideas with working software before investing
+  in polish Review and harden code built by non-engineers on the team, make it production-grade
+  without slowing them down Use Claude Code (CLI + VS Code) as your primary workflow,
+  AI-assisted development isn’t supplementary, it’s how we work DevOps &amp; Platform
+  Ownership: You own the full deployment pipeline and production health of every application.
+  Manage infrastructure across Vercel, Supabase, Cloudflare, and GitHub Actions Build
+  and maintain CI/CD pipelines that stakeholder-builders can safely deploy through
+  Implement end-to-end testing, error monitoring (Sentry), and alerting that catches
+  issues before users do Own security, data integrity, and access control across all
+  environments Maintain cost awareness, keep infrastructure lean and efficient as
+  the platform scales The Stack : You’ll own four production applications: LocalVR
+  OS (our custom-built CRM replacing Salesforce) Admin Tool (Django/Python) a customer-facing
+  Booking Engine for direct reservations and an Owner Portal for our clients to manage
+  their property.&nbsp; The primary stack is Next.js, TypeScript, and Tailwind CSS
+  on the frontend, Supabase for database and auth, and Vercel for hosting and deployments.
+  Infrastructure runs through GitHub Actions, Sentry, and Cloudflare. Claude Code
+  (CLI + VS Code) and the Anthropic API are embedded throughout our development and
+  product workflows. What This Role Is Not This is not a role for someone who needs
+  a large engineering team to be effective. It’s not for someone who’s skeptical of
+  AI tools and planning to quietly work around them. And it’s not for someone who
+  only wants to build greenfield features — a significant part of this job is keeping
+  production systems healthy, secure, and performant while enabling others to ship.
+  Why LocalVR We’re a profitable, growing company with a clear service that people
+  love. We have a 4.9-star Glassdoor rating and a team that’s genuinely excited about
+  where we’re headed. We’re not a startup burning cash on a hypothesis. We manage
+  real properties in real destinations and we’ve been doing it for over a decade.
+  We’re at an inflection point. The technology we’re building right now will define
+  how this company operates for years. The person who takes this role will have shaped
+  it.'
+postedDate: '2026-03-09'
+id: '4'
+is_gtm_technical: true
+tech_stack:
+- Claude Code
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Vercel
+- GitHub Actions
+- Sentry
+- Cloudflare
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: The role emphasizes hands-on engineering with a focus on product development,
+  using modern tech tools, thus qualifying as a technical GTM role.

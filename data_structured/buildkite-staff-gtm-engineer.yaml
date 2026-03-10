@@ -1,0 +1,223 @@
+title: Staff GTM Engineer
+company: Buildkite
+category:
+- eCommerce
+- Software
+location: Pacific, Missouri, USA
+date_posted: '2026-02-16'
+description_html: '<p><strong>About Buildkite</strong></p><p>At Buildkite, our mission
+  is to unblock every developer on the planet. We’ve rethought how software delivery
+  should work and have built a platform that is fast, reliable, secure, and able to
+  scale to the needs of the most demanding high-growth tech companies globally including
+  Airbnb, Shopify, Canva, PagerDuty, Lyft, and Pinterest.</p><p><strong>Job Overview</strong></p><p>We’re
+  looking for a Staff Go-To-Market (GTM) Engineer to build the orchestration engine
+  powering our go-to-market strategy; the data foundations, agentic tooling and workflows
+  that supercharge how our Sales and Brand teams operate end-to-end.</p><p>We need
+  someone who is technically hardcore and commercially fluent. Someone who understands
+  how revenue is actually created: how pipeline moves, why deals stall, what signals
+  matter, how lifecycle works, what “good” looks like in outbound/inbound.</p><p><strong>🚀
+  What You’ll Do</strong></p><p><strong>Model a new realm for RevOps</strong></p><ul><li>Map
+  Buildkite’s GTM and brand experience end-to-end</li></ul><ul><li>Build a signal
+  taxonomy across the full customer journey and define what signals are actionable
+  at each stage</li><li>Partner tightly with Sales and Brand to turn ambiguity into
+  clarity</li></ul><p><strong>Spike and implement the GTM foundation</strong></p><ul><li>Establish
+  and protect a clean, enforceable data foundation</li><li>Develop a coherent operating
+  system without tool sprawl</li><li>Build workflows that are safe at volume</li></ul><p><strong>Build
+  hybrid workflows that supercharge execution</strong></p><ul><li>Design agentic workflows
+  that accelerate human work without removing human judgment</li><li>Implement guardrails
+  and quality controls so agentic output stays trustworthy●</li><li>Build systems
+  that respect reality and provide clarity</li></ul><p><strong>Ship “stage plays”
+  moving the funnel</strong></p><ul><li>Devise and ship stage plays across all stages
+  of the customer journey</li><li>Make plays measurable and iterative, learn fast
+  with deep insight, harden what works</li><li>Work side-by-side with Sales and Brand
+  to diagnose funnel friction and ship fixes that stick</li></ul><p><strong>Run an
+  OS that compounds</strong></p><p>You’ll operate with a cadence that scales beyond
+  any single person</p><ul><li>Foundation loop: keep data trustworthy without manual
+  heroics</li><li>Signal loop: capture→normalise→model→route</li><li>Play loop: prototype→ship→measure→iterate</li><li>Quality
+  loop: eval, sampling and review gates that keep orchestration sharp, safe and on-brand</li><li>Adoption
+  loop: clear, transparent enablement and docs so systems become defaults</li></ul><p><strong>Raise
+  the bar for how GTM is deployed</strong></p><ul><li>Document decisions, risks, and
+  tradeoffs like an engineering team, because this is an engineering problem with
+  a commercial impact</li><li>Create standards and reusable components so GTM execution
+  becomes faster and better over time, not more fragile as it scales.</li></ul><p><strong>🎨
+  Skills &amp; Experience We Value</strong></p><ul><li>Engineering background; you’ve
+  shipped and operated production systems, and you have the hunger to define a new
+  system</li><li>GTM engineering experience; you’ve built systems that power revenue
+  teams, can point to failures and also outcomes</li><li>Experience sequencing and
+  scripting AI-led tooling such as Metaflow, Clay, Customer.io, and reo.dev (or adjacent
+  toolchains)</li><li>Sales fluency; you know how sales works in practice, how to
+  identify process gaps, what will be useful to technical Sales team members</li><li>Marketing
+  fluency; you understand how modern marketing works now as opposed to 2024, beyond
+  personas and ICP, into brand consistency, tailored enrichment and demand capture</li><li>Agentic
+  workflow maturity; you’ve built and scaled AI-led workflows</li><li>Systems thinking
+  under constraints: you can take a messy, cross-functional process and design a simple,
+  reliable system that improves it permanently</li><li>Commercial judgment; you think
+  laterally solving funnel issues, care deeply about ROI and avoid vanity metrics</li><li>Clear
+  written communication; you document clearly so the system can be trusted, maintained,
+  and improved by others</li><li>Comfort working async in a high-trust environment
+  where you own problems end-to-end</li></ul><p><strong>Additional Experience That’s
+  a Plus</strong></p><ul><li>Comfort with SQL and lightweight scripting (TypeScript/Python)
+  for integrations, QA harnesses, and workflow glue.</li><li>Experience with CRM/data
+  architecture and the realities of “scale without breaking.”</li><li>Familiarity
+  with intent/ABM systems, plus strong instincts for deliverability and suppression
+  discipline.</li><li>Experience operating in developer tools / technical GTM motions
+  (where credibility and trust are the whole game).</li></ul><p><strong>✨ Why Join
+  Buildkite</strong><strong><br></strong> At Buildkite, we value kindness, autonomy,
+  and collaboration. You’ll be part of a remote-first company where your work can
+  make a meaningful impact – empowering engineers worldwide to build and deliver better
+  software faster.</p><ul><li>Competitive compensation, including salary, equity,
+  and benefits package</li><li>Flexible, remote-first culture</li><li>Opportunities
+  for professional growth and advancement</li><li>Help shape a proactive, world-class
+  support function for enterprise customers</li><li>An inclusive, innovative culture
+  where your ideas make a real impact</li></ul><p><b><strong>🌈 Equal Opportunity Employer</strong></b><p>At
+  Buildkite, we value diversity and celebrate all types of skills, backgrounds, and
+  experiences. We’re dedicated to fostering an inclusive environment and providing
+  reasonable accommodations throughout our recruitment process.</p><p>If you need
+  any accommodations or support during the application or interview process, please
+  reach out to us at accommodations@buildkite.com.</p></p>'
+description_text: 'About Buildkite At Buildkite, our mission is to unblock every developer
+  on the planet. We’ve rethought how software delivery should work and have built
+  a platform that is fast, reliable, secure, and able to scale to the needs of the
+  most demanding high-growth tech companies globally including Airbnb, Shopify, Canva,
+  PagerDuty, Lyft, and Pinterest. Job Overview We’re looking for a Staff Go-To-Market
+  (GTM) Engineer to build the orchestration engine powering our go-to-market strategy;
+  the data foundations, agentic tooling and workflows that supercharge how our Sales
+  and Brand teams operate end-to-end. We need someone who is technically hardcore
+  and commercially fluent. Someone who understands how revenue is actually created:
+  how pipeline moves, why deals stall, what signals matter, how lifecycle works, what
+  “good” looks like in outbound/inbound. 🚀 What You’ll Do Model a new realm for RevOps
+  Map Buildkite’s GTM and brand experience end-to-end Build a signal taxonomy across
+  the full customer journey and define what signals are actionable at each stage Partner
+  tightly with Sales and Brand to turn ambiguity into clarity Spike and implement
+  the GTM foundation Establish and protect a clean, enforceable data foundation Develop
+  a coherent operating system without tool sprawl Build workflows that are safe at
+  volume Build hybrid workflows that supercharge execution Design agentic workflows
+  that accelerate human work without removing human judgment Implement guardrails
+  and quality controls so agentic output stays trustworthy● Build systems that respect
+  reality and provide clarity Ship “stage plays” moving the funnel Devise and ship
+  stage plays across all stages of the customer journey Make plays measurable and
+  iterative, learn fast with deep insight, harden what works Work side-by-side with
+  Sales and Brand to diagnose funnel friction and ship fixes that stick Run an OS
+  that compounds You’ll operate with a cadence that scales beyond any single person
+  Foundation loop: keep data trustworthy without manual heroics Signal loop: capture→normalise→model→route
+  Play loop: prototype→ship→measure→iterate Quality loop: eval, sampling and review
+  gates that keep orchestration sharp, safe and on-brand Adoption loop: clear, transparent
+  enablement and docs so systems become defaults Raise the bar for how GTM is deployed
+  Document decisions, risks, and tradeoffs like an engineering team, because this
+  is an engineering problem with a commercial impact Create standards and reusable
+  components so GTM execution becomes faster and better over time, not more fragile
+  as it scales. 🎨 Skills &amp; Experience We Value Engineering background; you’ve
+  shipped and operated production systems, and you have the hunger to define a new
+  system GTM engineering experience; you’ve built systems that power revenue teams,
+  can point to failures and also outcomes Experience sequencing and scripting AI-led
+  tooling such as Metaflow, Clay, Customer.io, and reo.dev (or adjacent toolchains)
+  Sales fluency; you know how sales works in practice, how to identify process gaps,
+  what will be useful to technical Sales team members Marketing fluency; you understand
+  how modern marketing works now as opposed to 2024, beyond personas and ICP, into
+  brand consistency, tailored enrichment and demand capture Agentic workflow maturity;
+  you’ve built and scaled AI-led workflows Systems thinking under constraints: you
+  can take a messy, cross-functional process and design a simple, reliable system
+  that improves it permanently Commercial judgment; you think laterally solving funnel
+  issues, care deeply about ROI and avoid vanity metrics Clear written communication;
+  you document clearly so the system can be trusted, maintained, and improved by others
+  Comfort working async in a high-trust environment where you own problems end-to-end
+  Additional Experience That’s a Plus Comfort with SQL and lightweight scripting (TypeScript/Python)
+  for integrations, QA harnesses, and workflow glue. Experience with CRM/data architecture
+  and the realities of “scale without breaking.” Familiarity with intent/ABM systems,
+  plus strong instincts for deliverability and suppression discipline. Experience
+  operating in developer tools / technical GTM motions (where credibility and trust
+  are the whole game). ✨ Why Join Buildkite At Buildkite, we value kindness, autonomy,
+  and collaboration. You’ll be part of a remote-first company where your work can
+  make a meaningful impact – empowering engineers worldwide to build and deliver better
+  software faster. Competitive compensation, including salary, equity, and benefits
+  package Flexible, remote-first culture Opportunities for professional growth and
+  advancement Help shape a proactive, world-class support function for enterprise
+  customers An inclusive, innovative culture where your ideas make a real impact 🌈
+  Equal Opportunity Employer At Buildkite, we value diversity and celebrate all types
+  of skills, backgrounds, and experiences. We’re dedicated to fostering an inclusive
+  environment and providing reasonable accommodations throughout our recruitment process.
+  If you need any accommodations or support during the application or interview process,
+  please reach out to us at accommodations@buildkite.com.'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Staff
+workplace_type_enum: UNKNOWN
+company_overview: Your favorite company’s CI/CD tool. Top players in all industries—from
+  deep tech to ecommerce—use Buildkite to quickly and confidently ship quality code.
+url: https://builtin.com/job/gtm-engineer/8507717
+source: builtin.com
+description: 'About Buildkite At Buildkite, our mission is to unblock every developer
+  on the planet. We’ve rethought how software delivery should work and have built
+  a platform that is fast, reliable, secure, and able to scale to the needs of the
+  most demanding high-growth tech companies globally including Airbnb, Shopify, Canva,
+  PagerDuty, Lyft, and Pinterest. Job Overview We’re looking for a Staff Go-To-Market
+  (GTM) Engineer to build the orchestration engine powering our go-to-market strategy;
+  the data foundations, agentic tooling and workflows that supercharge how our Sales
+  and Brand teams operate end-to-end. We need someone who is technically hardcore
+  and commercially fluent. Someone who understands how revenue is actually created:
+  how pipeline moves, why deals stall, what signals matter, how lifecycle works, what
+  “good” looks like in outbound/inbound. 🚀 What You’ll Do Model a new realm for RevOps
+  Map Buildkite’s GTM and brand experience end-to-end Build a signal taxonomy across
+  the full customer journey and define what signals are actionable at each stage Partner
+  tightly with Sales and Brand to turn ambiguity into clarity Spike and implement
+  the GTM foundation Establish and protect a clean, enforceable data foundation Develop
+  a coherent operating system without tool sprawl Build workflows that are safe at
+  volume Build hybrid workflows that supercharge execution Design agentic workflows
+  that accelerate human work without removing human judgment Implement guardrails
+  and quality controls so agentic output stays trustworthy● Build systems that respect
+  reality and provide clarity Ship “stage plays” moving the funnel Devise and ship
+  stage plays across all stages of the customer journey Make plays measurable and
+  iterative, learn fast with deep insight, harden what works Work side-by-side with
+  Sales and Brand to diagnose funnel friction and ship fixes that stick Run an OS
+  that compounds You’ll operate with a cadence that scales beyond any single person
+  Foundation loop: keep data trustworthy without manual heroics Signal loop: capture→normalise→model→route
+  Play loop: prototype→ship→measure→iterate Quality loop: eval, sampling and review
+  gates that keep orchestration sharp, safe and on-brand Adoption loop: clear, transparent
+  enablement and docs so systems become defaults Raise the bar for how GTM is deployed
+  Document decisions, risks, and tradeoffs like an engineering team, because this
+  is an engineering problem with a commercial impact Create standards and reusable
+  components so GTM execution becomes faster and better over time, not more fragile
+  as it scales. 🎨 Skills &amp; Experience We Value Engineering background; you’ve
+  shipped and operated production systems, and you have the hunger to define a new
+  system GTM engineering experience; you’ve built systems that power revenue teams,
+  can point to failures and also outcomes Experience sequencing and scripting AI-led
+  tooling such as Metaflow, Clay, Customer.io, and reo.dev (or adjacent toolchains)
+  Sales fluency; you know how sales works in practice, how to identify process gaps,
+  what will be useful to technical Sales team members Marketing fluency; you understand
+  how modern marketing works now as opposed to 2024, beyond personas and ICP, into
+  brand consistency, tailored enrichment and demand capture Agentic workflow maturity;
+  you’ve built and scaled AI-led workflows Systems thinking under constraints: you
+  can take a messy, cross-functional process and design a simple, reliable system
+  that improves it permanently Commercial judgment; you think laterally solving funnel
+  issues, care deeply about ROI and avoid vanity metrics Clear written communication;
+  you document clearly so the system can be trusted, maintained, and improved by others
+  Comfort working async in a high-trust environment where you own problems end-to-end
+  Additional Experience That’s a Plus Comfort with SQL and lightweight scripting (TypeScript/Python)
+  for integrations, QA harnesses, and workflow glue. Experience with CRM/data architecture
+  and the realities of “scale without breaking.” Familiarity with intent/ABM systems,
+  plus strong instincts for deliverability and suppression discipline. Experience
+  operating in developer tools / technical GTM motions (where credibility and trust
+  are the whole game). ✨ Why Join Buildkite At Buildkite, we value kindness, autonomy,
+  and collaboration. You’ll be part of a remote-first company where your work can
+  make a meaningful impact – empowering engineers worldwide to build and deliver better
+  software faster. Competitive compensation, including salary, equity, and benefits
+  package Flexible, remote-first culture Opportunities for professional growth and
+  advancement Help shape a proactive, world-class support function for enterprise
+  customers An inclusive, innovative culture where your ideas make a real impact 🌈
+  Equal Opportunity Employer At Buildkite, we value diversity and celebrate all types
+  of skills, backgrounds, and experiences. We’re dedicated to fostering an inclusive
+  environment and providing reasonable accommodations throughout our recruitment process.
+  If you need any accommodations or support during the application or interview process,
+  please reach out to us at accommodations@buildkite.com.'
+postedDate: '2026-02-16'
+id: 3
+is_gtm_technical: true
+tech_stack:
+- Metaflow
+- Clay
+- Customer.io
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: Requires technical and commercial fluency with a focus on GTM strategy.

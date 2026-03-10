@@ -1,0 +1,214 @@
+title: Technical GTM Engineer
+company: Jump - Advisor AI
+category:
+- Artificial Intelligence
+- Information Technology
+- Software
+- Financial Services
+location: USA
+date_posted: '2026-02-26'
+description_html: '<b>Technical GTM Engineer</b><p>We’re hiring a GTM Engineer to
+  build and scale the internal systems that power Jump’s go-to-market engine. You’ll
+  design the architecture, automations, and technical workflows that enable Sales,
+  CS, Enablement, and Product to run at top speed — turning our GTM motion into a
+  repeatable, AI-driven machine.</p><p></p><b>Why Jump?</b><p>Jump is transforming
+  how wealth management and financial professionals operate. Our AI platform automates
+  workflows, enhances client communication, and integrates across the complex tool
+  stacks used by RIAs, BDs, and FinServ teams. From tax workflows to investment communications
+  to compliance-ready client summaries, Jump is redefining how advisory teams deliver
+  service at scale.</p><p>We’re expanding rapidly across wealthtech, insurance, and
+  broader financial services, and our GTM organization needs a technical operator
+  who can build the systems, data flows, and automations behind that growth.</p><p>Jump
+  is a small, high-leverage, talent-dense team headquartered in Utah with a distributed
+  workforce. We move fast, solve hard problems, and care deeply about building AI
+  systems that are secure, compliant, and immediately useful. We value clarity, ownership,
+  and execution.</p><p>If you want to work at the intersection of AI, product, GTM
+  systems, and internal tooling, this is a rare opportunity to shape the foundation
+  of a category-defining company.</p><p></p><b>What we’re looking for</b><ul><li><p>Experience
+  building internal tooling for Marketing and Sales in a high-growth SaaS environment</p></li><li><p>Strong
+  fluency in product event instrumentation and routing into GTM systems</p></li><li><p>Hands-on
+  experience integrating product events and customer data into CRMs (HubSpot and/or
+  Salesforce)</p></li><li><p>Strong understanding of data pipelines and sync patterns
+  between a data warehouse and CRM</p></li><li><p>Comfort with APIs, webhooks, and
+  troubleshooting distributed integrations</p></li><li><p>Experience implementing
+  lifecycle automation across acquisition, activation, and retention workflows</p></li><li><p>Ability
+  to own GTM systems end-to-end: architecture, reliability, data quality, and iteration</p></li><li><p>Structured,
+  detail-oriented operator who can build, document, and maintain technical workflows
+  that scale</p></li><li><p>Strong cross-functional collaboration with Product, Engineering,
+  Marketing, Sales, and CS</p></li></ul><p></p><b>What you’ll do</b><ul><li><p>Build
+  and maintain internal tooling that improves Marketing and Sales velocity</p></li><li><p>Own
+  the end-to-end GTM systems stack, ensuring reliability, observability, and clean
+  data flows</p></li><li><p>Integrate product events into HubSpot and/or Salesforce
+  to power segmentation, scoring, and automation</p></li><li><p>Manage ongoing data
+  sync between BigQuery (warehouse) and CRM systems</p></li><li><p>Implement lifecycle
+  automation to support lead/customer journeys and drive conversion and retention</p></li><li><p>Build
+  event- and webhook-driven automations across GTM workflows (routing, enrichment,
+  attribution)</p></li><li><p>Partner with Engineering/Product to define and maintain
+  high-quality product event instrumentation</p></li><li><p>Develop reporting foundations
+  that connect product usage, lifecycle stage, and revenue outcomes</p></li><li><p>Continuously
+  improve GTM infrastructure to reduce manual work and eliminate operational friction</p></li></ul><p></p><b>Tech
+  stack</b><ul><li><p><strong>Backend engineering:</strong> Elixir</p></li><li><p><strong>Frontend:</strong>
+  React</p></li><li><p><strong>APIs / CRM integrations:</strong> HubSpot, Salesforce</p></li><li><p><strong>Data
+  warehouse:</strong> BigQuery</p></li><li><p><strong>Tracking:</strong> Google Tag
+  Manager (GTM)</p></li><li><p><strong>Marketing infrastructure:</strong> marketing
+  automation + lifecycle systems, attribution, routing, and enrichment tooling</p></li></ul><b>About
+  Jump</b><p>Jump’s mission is to empower financial advisors and their clients to
+  thrive in the age of AI. Jump’s primary product is an AI assistant helping financial
+  advisors with their client meeting cycle and other workflows. Jump’s product is
+  expanding to include many other advisor workflows, as well as into other finserv
+  verticals.</p><p>Jump leads its category in market share, customer satisfaction,
+  and analyst rankings, and has grown rapidly. Jump customers include leading independent
+  broker dealers such as LPL, Osaic, Raymond James, and Cetera, and leading RIAs including
+  Focus Financial, Merit, Savant, Allworth, Sanctuary Wealth, Integrated Partners,
+  and more.</p><p>Jump was launched in 2023 by repeat entrepreneurs and is led by
+  a team with backgrounds from Harvard, Stanford, Google, Snowflake, Bill.com, JPMorgan,
+  Fidelity, Bain, Bain Capital Ventures, Auditboard, Nitrogen, and eMoney.</p><p>Jump
+  is a Series A company backed by top venture capital firms and industry strategics
+  including Battery, Sorenson, Pelion, and Citi.</p><p>Jump’s team values are High
+  Velocity, World Class, and Direct + Kind + No Drama.</p><p>Please consider joining
+  us in our work to transform the client and advisor / rep experience in financial
+  services by delivering cutting edge, practical, compliant AI technology to help
+  those who help safeguard the financial future of everyday people everywhere</p><p></p><b>Compensation</b><p>Salary:
+  $125K-$200k (depending on experience)<br>Equity<br>Health benefits</p>'
+description_text: 'Technical GTM Engineer We’re hiring a GTM Engineer to build and
+  scale the internal systems that power Jump’s go-to-market engine. You’ll design
+  the architecture, automations, and technical workflows that enable Sales, CS, Enablement,
+  and Product to run at top speed — turning our GTM motion into a repeatable, AI-driven
+  machine. Why Jump? Jump is transforming how wealth management and financial professionals
+  operate. Our AI platform automates workflows, enhances client communication, and
+  integrates across the complex tool stacks used by RIAs, BDs, and FinServ teams.
+  From tax workflows to investment communications to compliance-ready client summaries,
+  Jump is redefining how advisory teams deliver service at scale. We’re expanding
+  rapidly across wealthtech, insurance, and broader financial services, and our GTM
+  organization needs a technical operator who can build the systems, data flows, and
+  automations behind that growth. Jump is a small, high-leverage, talent-dense team
+  headquartered in Utah with a distributed workforce. We move fast, solve hard problems,
+  and care deeply about building AI systems that are secure, compliant, and immediately
+  useful. We value clarity, ownership, and execution. If you want to work at the intersection
+  of AI, product, GTM systems, and internal tooling, this is a rare opportunity to
+  shape the foundation of a category-defining company. What we’re looking for Experience
+  building internal tooling for Marketing and Sales in a high-growth SaaS environment
+  Strong fluency in product event instrumentation and routing into GTM systems Hands-on
+  experience integrating product events and customer data into CRMs (HubSpot and/or
+  Salesforce) Strong understanding of data pipelines and sync patterns between a data
+  warehouse and CRM Comfort with APIs, webhooks, and troubleshooting distributed integrations
+  Experience implementing lifecycle automation across acquisition, activation, and
+  retention workflows Ability to own GTM systems end-to-end: architecture, reliability,
+  data quality, and iteration Structured, detail-oriented operator who can build,
+  document, and maintain technical workflows that scale Strong cross-functional collaboration
+  with Product, Engineering, Marketing, Sales, and CS What you’ll do Build and maintain
+  internal tooling that improves Marketing and Sales velocity Own the end-to-end GTM
+  systems stack, ensuring reliability, observability, and clean data flows Integrate
+  product events into HubSpot and/or Salesforce to power segmentation, scoring, and
+  automation Manage ongoing data sync between BigQuery (warehouse) and CRM systems
+  Implement lifecycle automation to support lead/customer journeys and drive conversion
+  and retention Build event- and webhook-driven automations across GTM workflows (routing,
+  enrichment, attribution) Partner with Engineering/Product to define and maintain
+  high-quality product event instrumentation Develop reporting foundations that connect
+  product usage, lifecycle stage, and revenue outcomes Continuously improve GTM infrastructure
+  to reduce manual work and eliminate operational friction Tech stack Backend engineering:
+  Elixir Frontend: React APIs / CRM integrations: HubSpot, Salesforce Data warehouse:
+  BigQuery Tracking: Google Tag Manager (GTM) Marketing infrastructure: marketing
+  automation + lifecycle systems, attribution, routing, and enrichment tooling About
+  Jump Jump’s mission is to empower financial advisors and their clients to thrive
+  in the age of AI. Jump’s primary product is an AI assistant helping financial advisors
+  with their client meeting cycle and other workflows. Jump’s product is expanding
+  to include many other advisor workflows, as well as into other finserv verticals.
+  Jump leads its category in market share, customer satisfaction, and analyst rankings,
+  and has grown rapidly. Jump customers include leading independent broker dealers
+  such as LPL, Osaic, Raymond James, and Cetera, and leading RIAs including Focus
+  Financial, Merit, Savant, Allworth, Sanctuary Wealth, Integrated Partners, and more.
+  Jump was launched in 2023 by repeat entrepreneurs and is led by a team with backgrounds
+  from Harvard, Stanford, Google, Snowflake, Bill.com, JPMorgan, Fidelity, Bain, Bain
+  Capital Ventures, Auditboard, Nitrogen, and eMoney. Jump is a Series A company backed
+  by top venture capital firms and industry strategics including Battery, Sorenson,
+  Pelion, and Citi. Jump’s team values are High Velocity, World Class, and Direct
+  + Kind + No Drama. Please consider joining us in our work to transform the client
+  and advisor / rep experience in financial services by delivering cutting edge, practical,
+  compliant AI technology to help those who help safeguard the financial future of
+  everyday people everywhere Compensation Salary: $125K-$200k (depending on experience)
+  Equity Health benefits'
+salary_json_min: 125000
+salary_json_max: 200000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Trusted by enterprise and loved by advisors, Jump is the leading
+  AI tool for wealth managers and financial advisors that automates notetaking, compliance,
+  CRM updates, and much more
+url: https://builtin.com/job/technical-gtm-engineer/8602562
+source: builtin.com
+description: 'Technical GTM Engineer We’re hiring a GTM Engineer to build and scale
+  the internal systems that power Jump’s go-to-market engine. You’ll design the architecture,
+  automations, and technical workflows that enable Sales, CS, Enablement, and Product
+  to run at top speed — turning our GTM motion into a repeatable, AI-driven machine.
+  Why Jump? Jump is transforming how wealth management and financial professionals
+  operate. Our AI platform automates workflows, enhances client communication, and
+  integrates across the complex tool stacks used by RIAs, BDs, and FinServ teams.
+  From tax workflows to investment communications to compliance-ready client summaries,
+  Jump is redefining how advisory teams deliver service at scale. We’re expanding
+  rapidly across wealthtech, insurance, and broader financial services, and our GTM
+  organization needs a technical operator who can build the systems, data flows, and
+  automations behind that growth. Jump is a small, high-leverage, talent-dense team
+  headquartered in Utah with a distributed workforce. We move fast, solve hard problems,
+  and care deeply about building AI systems that are secure, compliant, and immediately
+  useful. We value clarity, ownership, and execution. If you want to work at the intersection
+  of AI, product, GTM systems, and internal tooling, this is a rare opportunity to
+  shape the foundation of a category-defining company. What we’re looking for Experience
+  building internal tooling for Marketing and Sales in a high-growth SaaS environment
+  Strong fluency in product event instrumentation and routing into GTM systems Hands-on
+  experience integrating product events and customer data into CRMs (HubSpot and/or
+  Salesforce) Strong understanding of data pipelines and sync patterns between a data
+  warehouse and CRM Comfort with APIs, webhooks, and troubleshooting distributed integrations
+  Experience implementing lifecycle automation across acquisition, activation, and
+  retention workflows Ability to own GTM systems end-to-end: architecture, reliability,
+  data quality, and iteration Structured, detail-oriented operator who can build,
+  document, and maintain technical workflows that scale Strong cross-functional collaboration
+  with Product, Engineering, Marketing, Sales, and CS What you’ll do Build and maintain
+  internal tooling that improves Marketing and Sales velocity Own the end-to-end GTM
+  systems stack, ensuring reliability, observability, and clean data flows Integrate
+  product events into HubSpot and/or Salesforce to power segmentation, scoring, and
+  automation Manage ongoing data sync between BigQuery (warehouse) and CRM systems
+  Implement lifecycle automation to support lead/customer journeys and drive conversion
+  and retention Build event- and webhook-driven automations across GTM workflows (routing,
+  enrichment, attribution) Partner with Engineering/Product to define and maintain
+  high-quality product event instrumentation Develop reporting foundations that connect
+  product usage, lifecycle stage, and revenue outcomes Continuously improve GTM infrastructure
+  to reduce manual work and eliminate operational friction Tech stack Backend engineering:
+  Elixir Frontend: React APIs / CRM integrations: HubSpot, Salesforce Data warehouse:
+  BigQuery Tracking: Google Tag Manager (GTM) Marketing infrastructure: marketing
+  automation + lifecycle systems, attribution, routing, and enrichment tooling About
+  Jump Jump’s mission is to empower financial advisors and their clients to thrive
+  in the age of AI. Jump’s primary product is an AI assistant helping financial advisors
+  with their client meeting cycle and other workflows. Jump’s product is expanding
+  to include many other advisor workflows, as well as into other finserv verticals.
+  Jump leads its category in market share, customer satisfaction, and analyst rankings,
+  and has grown rapidly. Jump customers include leading independent broker dealers
+  such as LPL, Osaic, Raymond James, and Cetera, and leading RIAs including Focus
+  Financial, Merit, Savant, Allworth, Sanctuary Wealth, Integrated Partners, and more.
+  Jump was launched in 2023 by repeat entrepreneurs and is led by a team with backgrounds
+  from Harvard, Stanford, Google, Snowflake, Bill.com, JPMorgan, Fidelity, Bain, Bain
+  Capital Ventures, Auditboard, Nitrogen, and eMoney. Jump is a Series A company backed
+  by top venture capital firms and industry strategics including Battery, Sorenson,
+  Pelion, and Citi. Jump’s team values are High Velocity, World Class, and Direct
+  + Kind + No Drama. Please consider joining us in our work to transform the client
+  and advisor / rep experience in financial services by delivering cutting edge, practical,
+  compliant AI technology to help those who help safeguard the financial future of
+  everyday people everywhere Compensation Salary: $125K-$200k (depending on experience)
+  Equity Health benefits'
+postedDate: '2026-02-26'
+salary: USD 125,000 - 200,000
+id: '18'
+is_gtm_technical: true
+tech_stack:
+- HubSpot
+- Salesforce
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: The position involves designing GTM systems and automations related to sales
+  and marketing strategies.

@@ -1,0 +1,358 @@
+title: Full-Stack GTM Engineer
+company: August Law
+category:
+- Legal Tech
+- Software
+location: New York, New York, USA
+date_posted: '2026-02-22'
+description_html: '<p>At <strong>August</strong>, we’re building AI designed for one
+  thing: helping law firms practice better. Unlike tools built for the AmLaw 100,
+  our focus is on midsized firms — where efficiency, client service, and competitive
+  advantage matter most.</p><p>Our platform helps lawyers draft, review, and analyze
+  documents at scale, turning what used to take hours into minutes. We’re trusted
+  by forward-thinking firms across the U.S., Australia, and Asia, and backed by leading
+  investors (NEA, Pear VC, Stanford Law) to grow globally.</p><p>We move quickly,
+  learn directly from clients, and believe that AI is transforming the practice of
+  law.</p><b>THE ROLE</b><p>We''re looking for a <strong>software engineer</strong>
+  to build and optimize the technical infrastructure that powers customer acquisition.
+  You''ll design data pipelines, integrate third-party APIs, build experiment frameworks,
+  and systematically improve performance across our outbound, SEO, and automation
+  systems.</p><p>This is <strong>systems engineering applied to go-to-market</strong>.
+  You''ll write code, design architectures, instrument analytics, and run optimization
+  experiments—the same technical work as any backend or infra engineer, just applied
+  to acquisition systems instead of product features.</p><b>WHAT YOU''LL DO</b><b><strong>Outbound
+  Automation Systems</strong></b><ul><li><p>Design and implement multi-channel prospecting
+  pipelines using Clay, Amplemarket, and Apollo APIs</p></li><li><p>Build experiment
+  frameworks to A/B test email sequences, subject lines, send times, and message variants</p></li><li><p>Develop
+  lead enrichment and scoring systems with automated data quality checks</p></li><li><p>Implement
+  webhook-based response detection and automated routing logic</p></li><li><p>Optimize
+  deliverability: SPF/DKIM/DMARC configuration, domain warmup automation, bounce handling</p></li></ul><b><strong>LinkedIn
+  Automation Infrastructure</strong></b><ul><li><p>Build LinkedIn prospecting automation:
+  connection requests, message sequences, engagement tracking</p></li><li><p>Design
+  rate limiting and anti-detection systems to maintain account health at scale</p></li><li><p>Implement
+  targeting optimization: systematic testing of job titles, seniority, industries,
+  company sizes</p></li><li><p>Build analytics pipeline to track connection rates,
+  response rates, meeting bookings by segment</p></li><li><p>Develop session management
+  and proxy rotation infrastructure</p></li></ul><b><strong>SEO Infrastructure &amp;
+  Optimization</strong></b><ul><li><p>Automate technical SEO: schema markup generation,
+  sitemap updates, crawl error monitoring</p></li><li><p>Build content optimization
+  pipelines: keyword research automation, content gap analysis, meta tag generation</p></li><li><p>Integrate
+  Google Search Console API for ranking tracking and organic traffic attribution</p></li><li><p>Design
+  experiment framework for title patterns, URL structures, internal linking strategies</p></li><li><p>Implement
+  performance monitoring: Core Web Vitals tracking, page speed optimization automation</p></li></ul><b><strong>Referral
+  Platform Engineering</strong></b><ul><li><p>Build referral tracking system: unique
+  link generation, attribution logic, conversion tracking</p></li><li><p>Design viral
+  loop mechanics: referral incentive automation, reward distribution, fraud detection</p></li><li><p>Implement
+  analytics dashboard: viral coefficient tracking, referral funnel analysis, cohort
+  performance</p></li><li><p>Integrate with CRM and billing systems for automated
+  reward fulfillment</p></li></ul><b><strong>Analytics &amp; Experimentation Infrastructure</strong></b><ul><li><p>Instrument
+  event tracking across all acquisition channels using PostHog</p></li><li><p>Build
+  data warehouse ETL: aggregate data from Clay, HubSpot, Amplemarket, Google Ads,
+  LinkedIn</p></li><li><p>Design A/B testing framework with Statsig: experiment allocation,
+  variant tracking, statistical analysis</p></li><li><p>Develop real-time dashboards
+  for outbound performance, SEO rankings, referral metrics, conversion funnels</p></li><li><p>Build
+  attribution modeling system: multi-touch attribution, CAC by channel, LTV cohort
+  analysis</p></li></ul><b><strong>Google Ads Optimization</strong></b><ul><li><p>Integrate
+  Google Ads API for programmatic campaign management</p></li><li><p>Build automated
+  bidding systems: budget allocation, CPC optimization, keyword performance monitoring</p></li><li><p>Implement
+  ad variant testing framework: systematic rotation of ad copy, landing pages, targeting
+  parameters</p></li><li><p>Develop conversion tracking and ROI analysis pipelines</p></li></ul><b><strong>CRM
+  &amp; Sales Operations Automation</strong></b><ul><li><p>Build HubSpot API integrations:
+  bidirectional sync with GTM tools, automated lead scoring, workflow triggers</p></li><li><p>Design
+  data quality systems: deduplication logic, enrichment automation, field validation</p></li><li><p>Implement
+  sales analytics: pipeline visibility, lead source attribution, conversion rates,
+  deal velocity tracking</p></li><li><p>Build internal tools for sales ops: custom
+  dashboards, reporting automation, forecast modeling</p></li></ul><b>REQUIREMENTS</b><ul><li><p><strong>2-4+
+  years of software engineering experience</strong> at SDE2 or SDE3 level</p></li><li><p><strong>Strong
+  programming skills</strong>: Python, JavaScript/Node.js, SQL</p></li><li><p><strong>API
+  integration expertise</strong>: REST APIs, webhooks, OAuth, rate limiting, error
+  handling</p></li><li><p><strong>Experience at a top-tier technology company</strong>
+  (e.g., Amazon, Flipkart, Zomato, PhonePe, Razorpay, Setu, Uber, Google, Meta, D.E.
+  Shaw, or similar)</p></li><li><p><strong>Data engineering fundamentals</strong>:
+  ETL pipelines, data transformations, analytics instrumentation</p></li><li><p><strong>Systems
+  thinking</strong>: Design scalable, maintainable infrastructure</p></li><li><p><strong>Experimentation
+  mindset</strong>: A/B testing, statistical analysis, systematic optimization</p></li><li><p><strong>Degree
+  from a top engineering institution</strong> (IIT, BITS Pilani, NIT, IISc, or equivalent)</p></li></ul><b>BONUS
+  POINTS</b><ul><li><p>Experience with GTM automation platforms (Clay, Amplemarket,
+  Apollo, HubSpot APIs)</p></li><li><p>Knowledge of LinkedIn APIs, scraping techniques,
+  or anti-detection systems</p></li><li><p>Familiarity with SEO tools and APIs (Ahrefs,
+  SEMrush, Google Search Console)</p></li><li><p>Hands-on with analytics platforms
+  (PostHog, Mixpanel, Amplitude, Statsig)</p></li><li><p>Experience with Google Ads
+  API or programmatic advertising systems</p></li><li><p>Background in data engineering,
+  analytics infrastructure, or experimentation platforms</p></li><li><p>Prior work
+  on referral systems, viral loops, or growth automation</p></li><li><p>Startup experience
+  (especially pre-Series B)</p></li></ul><b>TECHNICAL CHALLENGES</b><ul><li><p><strong>API
+  integration at scale</strong>: Handle rate limits, retries, error handling, webhook
+  reliability across 5+ third-party platforms</p></li><li><p><strong>Anti-detection
+  systems</strong>: Build session management, behavior randomization, proxy rotation
+  for LinkedIn automation</p></li><li><p><strong>Experiment infrastructure</strong>:
+  Design statistically sound A/B testing framework with proper randomization and significance
+  testing</p></li><li><p><strong>Data pipeline engineering</strong>: Build reliable
+  ETL from GTM tools to analytics warehouse, handle schema changes and data quality</p></li><li><p><strong>Performance
+  optimization</strong>: Systematically improve metrics (open rates, response rates,
+  conversion rates) through automated experimentation</p></li><li><p><strong>Real-time
+  analytics</strong>: Build dashboards with &lt;1min latency for sales and marketing
+  ops visibility</p></li></ul><b>WHAT SUCCESS LOOKS LIKE</b><p><strong>Month 1-2:
+  Infrastructure &amp; instrumentation</strong></p><ul><li><p>Build full analytics
+  pipeline from GTM tools to warehouse</p></li><li><p>Implement experiment framework
+  for outbound and LinkedIn</p></li><li><p>Create dashboards for all key metrics (outbound
+  performance, SEO rankings, referral funnel)</p></li></ul><p><strong>Month 3-4: Optimization
+  velocity</strong></p><ul><li><p>Run 5-10 experiments per week across outbound, LinkedIn,
+  SEO</p></li><li><p>Identify top-performing variants and scale them</p></li><li><p>Reduce
+  manual work by 50% through automation</p></li></ul><p><strong>Month 5-6: Scale &amp;
+  predictive systems</strong></p><ul><li><p>Double outbound capacity through automation
+  improvements</p></li><li><p>Launch referral platform with full tracking infrastructure</p></li><li><p>Build
+  predictive models for lead scoring and channel allocation</p></li><li><p>Automate
+  SEO optimizations based on ranking data</p></li></ul><b>WHY THIS ROLE IS DIFFERENT</b><p>Most
+  engineers build product features. You''ll build <strong>the systems that acquire
+  customers</strong>.</p><p>Same technical work—API integrations, data pipelines,
+  experiment frameworks, performance optimization—but applied to acquisition instead
+  of product. The code you write directly impacts revenue.</p><p>If you''re an engineer
+  who wants to:</p><ul><li><p>See immediate business impact from your code</p></li><li><p>Work
+  on diverse technical challenges (APIs, data pipelines, ML, automation)</p></li><li><p>Own
+  entire systems end-to-end</p></li><li><p>Run experiments and optimize performance
+  systematically</p></li></ul><p>...this role is for you.</p><b><strong>Why Join August</strong></b><ul><li><p><strong>Founding
+  Impact:</strong> Shape not just your role but the company.</p></li><li><p><strong>Uncapped
+  Upside:</strong> Competitive base + commission, early equity ownership.</p></li><li><p><strong>Top-tier
+  Team:</strong> Work alongside people who move fast, think clearly, and care deeply.</p></li><li><p><strong>Category-Defining
+  Work:</strong> Help build the first true AI agents for the legal profession.</p></li><li><p><strong>Fast
+  Growth:</strong> Scale your career as we scale the company.</p></li><li><p><strong>Exceptional
+  Early Traction</strong>: &gt;4x revenue growth in the past four months.</p></li><li><p><strong>Global
+  Reach: Our clients span 4 continents and use August in multiple languages and jurisdictions</strong></p></li><li><p><strong>Frontier
+  of Applied AI: </strong>August has access to proprietary data inaccessible to foundation
+  model providers. We build agents to automate all challenging knowledge work.</p></li><li><p><strong>Strategic
+  investors</strong>: Backed by NEA and exceptional seed investors Pear VC and Afore
+  Capital, August has the capital to execute</p></li></ul>'
+description_text: 'At August , we’re building AI designed for one thing: helping law
+  firms practice better. Unlike tools built for the AmLaw 100, our focus is on midsized
+  firms — where efficiency, client service, and competitive advantage matter most.
+  Our platform helps lawyers draft, review, and analyze documents at scale, turning
+  what used to take hours into minutes. We’re trusted by forward-thinking firms across
+  the U.S., Australia, and Asia, and backed by leading investors (NEA, Pear VC, Stanford
+  Law) to grow globally. We move quickly, learn directly from clients, and believe
+  that AI is transforming the practice of law. THE ROLE We''re looking for a software
+  engineer to build and optimize the technical infrastructure that powers customer
+  acquisition. You''ll design data pipelines, integrate third-party APIs, build experiment
+  frameworks, and systematically improve performance across our outbound, SEO, and
+  automation systems. This is systems engineering applied to go-to-market . You''ll
+  write code, design architectures, instrument analytics, and run optimization experiments—the
+  same technical work as any backend or infra engineer, just applied to acquisition
+  systems instead of product features. WHAT YOU''LL DO Outbound Automation Systems
+  Design and implement multi-channel prospecting pipelines using Clay, Amplemarket,
+  and Apollo APIs Build experiment frameworks to A/B test email sequences, subject
+  lines, send times, and message variants Develop lead enrichment and scoring systems
+  with automated data quality checks Implement webhook-based response detection and
+  automated routing logic Optimize deliverability: SPF/DKIM/DMARC configuration, domain
+  warmup automation, bounce handling LinkedIn Automation Infrastructure Build LinkedIn
+  prospecting automation: connection requests, message sequences, engagement tracking
+  Design rate limiting and anti-detection systems to maintain account health at scale
+  Implement targeting optimization: systematic testing of job titles, seniority, industries,
+  company sizes Build analytics pipeline to track connection rates, response rates,
+  meeting bookings by segment Develop session management and proxy rotation infrastructure
+  SEO Infrastructure &amp; Optimization Automate technical SEO: schema markup generation,
+  sitemap updates, crawl error monitoring Build content optimization pipelines: keyword
+  research automation, content gap analysis, meta tag generation Integrate Google
+  Search Console API for ranking tracking and organic traffic attribution Design experiment
+  framework for title patterns, URL structures, internal linking strategies Implement
+  performance monitoring: Core Web Vitals tracking, page speed optimization automation
+  Referral Platform Engineering Build referral tracking system: unique link generation,
+  attribution logic, conversion tracking Design viral loop mechanics: referral incentive
+  automation, reward distribution, fraud detection Implement analytics dashboard:
+  viral coefficient tracking, referral funnel analysis, cohort performance Integrate
+  with CRM and billing systems for automated reward fulfillment Analytics &amp; Experimentation
+  Infrastructure Instrument event tracking across all acquisition channels using PostHog
+  Build data warehouse ETL: aggregate data from Clay, HubSpot, Amplemarket, Google
+  Ads, LinkedIn Design A/B testing framework with Statsig: experiment allocation,
+  variant tracking, statistical analysis Develop real-time dashboards for outbound
+  performance, SEO rankings, referral metrics, conversion funnels Build attribution
+  modeling system: multi-touch attribution, CAC by channel, LTV cohort analysis Google
+  Ads Optimization Integrate Google Ads API for programmatic campaign management Build
+  automated bidding systems: budget allocation, CPC optimization, keyword performance
+  monitoring Implement ad variant testing framework: systematic rotation of ad copy,
+  landing pages, targeting parameters Develop conversion tracking and ROI analysis
+  pipelines CRM &amp; Sales Operations Automation Build HubSpot API integrations:
+  bidirectional sync with GTM tools, automated lead scoring, workflow triggers Design
+  data quality systems: deduplication logic, enrichment automation, field validation
+  Implement sales analytics: pipeline visibility, lead source attribution, conversion
+  rates, deal velocity tracking Build internal tools for sales ops: custom dashboards,
+  reporting automation, forecast modeling REQUIREMENTS 2-4+ years of software engineering
+  experience at SDE2 or SDE3 level Strong programming skills : Python, JavaScript/Node.js,
+  SQL API integration expertise : REST APIs, webhooks, OAuth, rate limiting, error
+  handling Experience at a top-tier technology company (e.g., Amazon, Flipkart, Zomato,
+  PhonePe, Razorpay, Setu, Uber, Google, Meta, D.E. Shaw, or similar) Data engineering
+  fundamentals : ETL pipelines, data transformations, analytics instrumentation Systems
+  thinking : Design scalable, maintainable infrastructure Experimentation mindset
+  : A/B testing, statistical analysis, systematic optimization Degree from a top engineering
+  institution (IIT, BITS Pilani, NIT, IISc, or equivalent) BONUS POINTS Experience
+  with GTM automation platforms (Clay, Amplemarket, Apollo, HubSpot APIs) Knowledge
+  of LinkedIn APIs, scraping techniques, or anti-detection systems Familiarity with
+  SEO tools and APIs (Ahrefs, SEMrush, Google Search Console) Hands-on with analytics
+  platforms (PostHog, Mixpanel, Amplitude, Statsig) Experience with Google Ads API
+  or programmatic advertising systems Background in data engineering, analytics infrastructure,
+  or experimentation platforms Prior work on referral systems, viral loops, or growth
+  automation Startup experience (especially pre-Series B) TECHNICAL CHALLENGES API
+  integration at scale : Handle rate limits, retries, error handling, webhook reliability
+  across 5+ third-party platforms Anti-detection systems : Build session management,
+  behavior randomization, proxy rotation for LinkedIn automation Experiment infrastructure
+  : Design statistically sound A/B testing framework with proper randomization and
+  significance testing Data pipeline engineering : Build reliable ETL from GTM tools
+  to analytics warehouse, handle schema changes and data quality Performance optimization
+  : Systematically improve metrics (open rates, response rates, conversion rates)
+  through automated experimentation Real-time analytics : Build dashboards with &lt;1min
+  latency for sales and marketing ops visibility WHAT SUCCESS LOOKS LIKE Month 1-2:
+  Infrastructure &amp; instrumentation Build full analytics pipeline from GTM tools
+  to warehouse Implement experiment framework for outbound and LinkedIn Create dashboards
+  for all key metrics (outbound performance, SEO rankings, referral funnel) Month
+  3-4: Optimization velocity Run 5-10 experiments per week across outbound, LinkedIn,
+  SEO Identify top-performing variants and scale them Reduce manual work by 50% through
+  automation Month 5-6: Scale &amp; predictive systems Double outbound capacity through
+  automation improvements Launch referral platform with full tracking infrastructure
+  Build predictive models for lead scoring and channel allocation Automate SEO optimizations
+  based on ranking data WHY THIS ROLE IS DIFFERENT Most engineers build product features.
+  You''ll build the systems that acquire customers . Same technical work—API integrations,
+  data pipelines, experiment frameworks, performance optimization—but applied to acquisition
+  instead of product. The code you write directly impacts revenue. If you''re an engineer
+  who wants to: See immediate business impact from your code Work on diverse technical
+  challenges (APIs, data pipelines, ML, automation) Own entire systems end-to-end
+  Run experiments and optimize performance systematically ...this role is for you.
+  Why Join August Founding Impact: Shape not just your role but the company. Uncapped
+  Upside: Competitive base + commission, early equity ownership. Top-tier Team: Work
+  alongside people who move fast, think clearly, and care deeply. Category-Defining
+  Work: Help build the first true AI agents for the legal profession. Fast Growth:
+  Scale your career as we scale the company. Exceptional Early Traction : &gt;4x revenue
+  growth in the past four months. Global Reach: Our clients span 4 continents and
+  use August in multiple languages and jurisdictions Frontier of Applied AI: August
+  has access to proprietary data inaccessible to foundation model providers. We build
+  agents to automate all challenging knowledge work. Strategic investors : Backed
+  by NEA and exceptional seed investors Pear VC and Afore Capital, August has the
+  capital to execute'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Our purpose is to bring this best-in-class legal AI tool for mid-sized
+  law firms. We're building Legal AI tailored to level the playing field for mid-sized
+  firms, specifically configured to their type of work. Our platform is customized
+  to each firms unique precedents and facts, matching internal style, while offering
+  supporting with onboarding and adoption. We're serving clients across four continents
+  and backed by NEA, Pear VC, Stanford Law School and other incredible partners. To
+  learn more, connect with us and reach out to [email protected]
+url: https://builtin.com/job/full-stack-gtm-engineer/8557647
+source: builtin.com
+description: 'At August , we’re building AI designed for one thing: helping law firms
+  practice better. Unlike tools built for the AmLaw 100, our focus is on midsized
+  firms — where efficiency, client service, and competitive advantage matter most.
+  Our platform helps lawyers draft, review, and analyze documents at scale, turning
+  what used to take hours into minutes. We’re trusted by forward-thinking firms across
+  the U.S., Australia, and Asia, and backed by leading investors (NEA, Pear VC, Stanford
+  Law) to grow globally. We move quickly, learn directly from clients, and believe
+  that AI is transforming the practice of law. THE ROLE We''re looking for a software
+  engineer to build and optimize the technical infrastructure that powers customer
+  acquisition. You''ll design data pipelines, integrate third-party APIs, build experiment
+  frameworks, and systematically improve performance across our outbound, SEO, and
+  automation systems. This is systems engineering applied to go-to-market . You''ll
+  write code, design architectures, instrument analytics, and run optimization experiments—the
+  same technical work as any backend or infra engineer, just applied to acquisition
+  systems instead of product features. WHAT YOU''LL DO Outbound Automation Systems
+  Design and implement multi-channel prospecting pipelines using Clay, Amplemarket,
+  and Apollo APIs Build experiment frameworks to A/B test email sequences, subject
+  lines, send times, and message variants Develop lead enrichment and scoring systems
+  with automated data quality checks Implement webhook-based response detection and
+  automated routing logic Optimize deliverability: SPF/DKIM/DMARC configuration, domain
+  warmup automation, bounce handling LinkedIn Automation Infrastructure Build LinkedIn
+  prospecting automation: connection requests, message sequences, engagement tracking
+  Design rate limiting and anti-detection systems to maintain account health at scale
+  Implement targeting optimization: systematic testing of job titles, seniority, industries,
+  company sizes Build analytics pipeline to track connection rates, response rates,
+  meeting bookings by segment Develop session management and proxy rotation infrastructure
+  SEO Infrastructure &amp; Optimization Automate technical SEO: schema markup generation,
+  sitemap updates, crawl error monitoring Build content optimization pipelines: keyword
+  research automation, content gap analysis, meta tag generation Integrate Google
+  Search Console API for ranking tracking and organic traffic attribution Design experiment
+  framework for title patterns, URL structures, internal linking strategies Implement
+  performance monitoring: Core Web Vitals tracking, page speed optimization automation
+  Referral Platform Engineering Build referral tracking system: unique link generation,
+  attribution logic, conversion tracking Design viral loop mechanics: referral incentive
+  automation, reward distribution, fraud detection Implement analytics dashboard:
+  viral coefficient tracking, referral funnel analysis, cohort performance Integrate
+  with CRM and billing systems for automated reward fulfillment Analytics &amp; Experimentation
+  Infrastructure Instrument event tracking across all acquisition channels using PostHog
+  Build data warehouse ETL: aggregate data from Clay, HubSpot, Amplemarket, Google
+  Ads, LinkedIn Design A/B testing framework with Statsig: experiment allocation,
+  variant tracking, statistical analysis Develop real-time dashboards for outbound
+  performance, SEO rankings, referral metrics, conversion funnels Build attribution
+  modeling system: multi-touch attribution, CAC by channel, LTV cohort analysis Google
+  Ads Optimization Integrate Google Ads API for programmatic campaign management Build
+  automated bidding systems: budget allocation, CPC optimization, keyword performance
+  monitoring Implement ad variant testing framework: systematic rotation of ad copy,
+  landing pages, targeting parameters Develop conversion tracking and ROI analysis
+  pipelines CRM &amp; Sales Operations Automation Build HubSpot API integrations:
+  bidirectional sync with GTM tools, automated lead scoring, workflow triggers Design
+  data quality systems: deduplication logic, enrichment automation, field validation
+  Implement sales analytics: pipeline visibility, lead source attribution, conversion
+  rates, deal velocity tracking Build internal tools for sales ops: custom dashboards,
+  reporting automation, forecast modeling REQUIREMENTS 2-4+ years of software engineering
+  experience at SDE2 or SDE3 level Strong programming skills : Python, JavaScript/Node.js,
+  SQL API integration expertise : REST APIs, webhooks, OAuth, rate limiting, error
+  handling Experience at a top-tier technology company (e.g., Amazon, Flipkart, Zomato,
+  PhonePe, Razorpay, Setu, Uber, Google, Meta, D.E. Shaw, or similar) Data engineering
+  fundamentals : ETL pipelines, data transformations, analytics instrumentation Systems
+  thinking : Design scalable, maintainable infrastructure Experimentation mindset
+  : A/B testing, statistical analysis, systematic optimization Degree from a top engineering
+  institution (IIT, BITS Pilani, NIT, IISc, or equivalent) BONUS POINTS Experience
+  with GTM automation platforms (Clay, Amplemarket, Apollo, HubSpot APIs) Knowledge
+  of LinkedIn APIs, scraping techniques, or anti-detection systems Familiarity with
+  SEO tools and APIs (Ahrefs, SEMrush, Google Search Console) Hands-on with analytics
+  platforms (PostHog, Mixpanel, Amplitude, Statsig) Experience with Google Ads API
+  or programmatic advertising systems Background in data engineering, analytics infrastructure,
+  or experimentation platforms Prior work on referral systems, viral loops, or growth
+  automation Startup experience (especially pre-Series B) TECHNICAL CHALLENGES API
+  integration at scale : Handle rate limits, retries, error handling, webhook reliability
+  across 5+ third-party platforms Anti-detection systems : Build session management,
+  behavior randomization, proxy rotation for LinkedIn automation Experiment infrastructure
+  : Design statistically sound A/B testing framework with proper randomization and
+  significance testing Data pipeline engineering : Build reliable ETL from GTM tools
+  to analytics warehouse, handle schema changes and data quality Performance optimization
+  : Systematically improve metrics (open rates, response rates, conversion rates)
+  through automated experimentation Real-time analytics : Build dashboards with &lt;1min
+  latency for sales and marketing ops visibility WHAT SUCCESS LOOKS LIKE Month 1-2:
+  Infrastructure &amp; instrumentation Build full analytics pipeline from GTM tools
+  to warehouse Implement experiment framework for outbound and LinkedIn Create dashboards
+  for all key metrics (outbound performance, SEO rankings, referral funnel) Month
+  3-4: Optimization velocity Run 5-10 experiments per week across outbound, LinkedIn,
+  SEO Identify top-performing variants and scale them Reduce manual work by 50% through
+  automation Month 5-6: Scale &amp; predictive systems Double outbound capacity through
+  automation improvements Launch referral platform with full tracking infrastructure
+  Build predictive models for lead scoring and channel allocation Automate SEO optimizations
+  based on ranking data WHY THIS ROLE IS DIFFERENT Most engineers build product features.
+  You''ll build the systems that acquire customers . Same technical work—API integrations,
+  data pipelines, experiment frameworks, performance optimization—but applied to acquisition
+  instead of product. The code you write directly impacts revenue. If you''re an engineer
+  who wants to: See immediate business impact from your code Work on diverse technical
+  challenges (APIs, data pipelines, ML, automation) Own entire systems end-to-end
+  Run experiments and optimize performance systematically ...this role is for you.
+  Why Join August Founding Impact: Shape not just your role but the company. Uncapped
+  Upside: Competitive base + commission, early equity ownership. Top-tier Team: Work
+  alongside people who move fast, think clearly, and care deeply. Category-Defining
+  Work: Help build the first true AI agents for the legal profession. Fast Growth:
+  Scale your career as we scale the company. Exceptional Early Traction : &gt;4x revenue
+  growth in the past four months. Global Reach: Our clients span 4 continents and
+  use August in multiple languages and jurisdictions Frontier of Applied AI: August
+  has access to proprietary data inaccessible to foundation model providers. We build
+  agents to automate all challenging knowledge work. Strategic investors : Backed
+  by NEA and exceptional seed investors Pear VC and Afore Capital, August has the
+  capital to execute'
+postedDate: '2026-02-22'
+id: '3'
+is_gtm_technical: true
+tech_stack:
+- Clay
+- Amplemarket
+- Apollo
+- Zapier
+min_years_exp: 2
+salary_min: null
+salary_max: null
+reason: This is a Full-Stack GTM Engineer role that focuses on building systems and
+  automation for customer acquisition, making it highly technical.

@@ -1,0 +1,170 @@
+title: GTM Engineer
+company: Harper (harperinsure.com)
+category:
+- Artificial Intelligence
+- Insurance
+location: San Francisco, California, USA
+date_posted: '2026-02-28'
+description_html: '<b>The Problem</b><p></p><p>36 million businesses in America need
+  insurance—it’s not optional. <strong>77% are underinsured.</strong> 40% have no
+  coverage at all. The distribution system failed them: too slow, too opaque, too
+  confusing.</p><p></p><p>Over 90% of commercial insurance is still human-led. We’re
+  building the inverse: 90%+ AI-led, pushing toward the higher 90s. Not by patching
+  legacy workflows—by building AI that makes humans more effective, improves the customer
+  experience, and eliminates friction at every step.</p><p></p><p>We’re adding ~1,000
+  customers per month. We’ve grown 100x since last year. We’re looking to do even
+  more this year—and that’s why we’re hiring.</p><p></p><p><strong>To grow that fast,
+  we need to understand—with precision—what’s working, what’s not, and why.</strong></p><p></p><b>The
+  Thesis</b><p></p><p>The line between “analytics” and “product” barely exists here.
+  Your models will directly power how our agents prioritize leads, time outreach,
+  and personalize conversations. You’ll build the intelligence that tells us how well
+  it’s working—and ship code that directly moves revenue.</p><p></p><b>The Role</b><p></p><p>You’ll
+  own the metrics, analytics, and experimentation infrastructure that powers growth.
+  This isn’t “build dashboards and wait for questions.” You’ll define the KPIs that
+  matter, instrument systems to track them, and ship code that directly moves revenue.</p><p></p><p>You
+  work across paid acquisition channels—Google Ads, Meta, TikTok—combining it with
+  product analytics and using AI to surface insights that would take others weeks
+  to find.</p><p></p><b>What You’ll Do</b><p></p><ul><li><p><strong>Build metrics
+  and KPI infrastructure</strong> — Define, instrument, and own the metrics that matter
+  in real time</p></li><li><p><strong>Own LTV/CAC systems</strong> — Track unit economics
+  across verticals, channels, and cohorts</p></li><li><p><strong>Build paid channel
+  analytics</strong> — Connect ad spend to actual revenue, not vanity metrics</p></li><li><p><strong>Create
+  attribution that works</strong> — Multi-touch attribution across voice, email, web,
+  and referral</p></li><li><p><strong>Use AI for insight generation</strong> — Pattern
+  detection, anomaly detection, automated analysis</p></li><li><p><strong>Ship experimentation
+  infrastructure</strong> — A/B testing with statistical rigor</p></li></ul><p></p><b>You
+  Might Be a Fit If…</b><p></p><ul><li><p>You ship code—production code, not just
+  notebooks (Python, SQL)</p></li><li><p>You’ve defined KPIs, built instrumentation,
+  and been accountable for moving them</p></li><li><p>You’ve worked with paid acquisition
+  data (Google Ads, Meta, TikTok)</p></li><li><p>You use AI to accelerate analysis
+  (PostHog or similar)</p></li><li><p>You’ve built GTM systems: lead scoring, attribution,
+  LTV/CAC analysis</p></li><li><p>You think in experiments and know correlation vs.
+  causation</p></li><li><p>You’re 2-5 years into your career</p></li></ul><p></p><b>Requirements</b><p></p><ul><li><p>2-5
+  years experience in analytics engineering or growth engineering</p></li><li><p>Strong
+  Python and SQL skills</p></li><li><p>Experience with paid acquisition data and funnel
+  analytics</p></li><li><p>Ability to ship production code, not just analysis</p></li><li><p>Experience
+  with A/B testing and experimentation</p></li><li><p>Based in San Francisco or willing
+  to relocate</p></li></ul><p></p><b>Nice to Have</b><p></p><ul><li><p>Experience
+  with PostHog, Amplitude, or similar product analytics</p></li><li><p>Background
+  in lead scoring or attribution modeling</p></li><li><p>Prior startup or high-growth
+  company experience</p></li></ul><p></p><b>Compensation</b><p></p><ul><li><p><strong>Salary:</strong>
+  $130,000–$190,000 + performance bonuses &amp; equity</p></li><li><p><strong>Location:</strong>
+  San Francisco, in-office</p></li></ul><p></p><b>Benefits</b><p></p><ul><li><p>Health,
+  dental, and vision insurance</p></li><li><p>Commuter benefits</p></li><li><p>Team
+  meals and snacks</p></li></ul><p></p><b>The Process</b><p></p><ol><li><p>15-min
+  founder call — Alignment on mission and pace</p></li><li><p>Technical conversation
+  — Walk us through analysis you’ve done</p></li><li><p>On-site — Meet the team, see
+  the data</p></li></ol><p></p><b>To Apply</b><p></p><p>Data talks. Narratives walk.
+  If you prove things instead of just believing them—send your resume and an example
+  of analysis that drove a business decision.</p>'
+description_text: 'The Problem 36 million businesses in America need insurance—it’s
+  not optional. 77% are underinsured. 40% have no coverage at all. The distribution
+  system failed them: too slow, too opaque, too confusing. Over 90% of commercial
+  insurance is still human-led. We’re building the inverse: 90%+ AI-led, pushing toward
+  the higher 90s. Not by patching legacy workflows—by building AI that makes humans
+  more effective, improves the customer experience, and eliminates friction at every
+  step. We’re adding ~1,000 customers per month. We’ve grown 100x since last year.
+  We’re looking to do even more this year—and that’s why we’re hiring. To grow that
+  fast, we need to understand—with precision—what’s working, what’s not, and why.
+  The Thesis The line between “analytics” and “product” barely exists here. Your models
+  will directly power how our agents prioritize leads, time outreach, and personalize
+  conversations. You’ll build the intelligence that tells us how well it’s working—and
+  ship code that directly moves revenue. The Role You’ll own the metrics, analytics,
+  and experimentation infrastructure that powers growth. This isn’t “build dashboards
+  and wait for questions.” You’ll define the KPIs that matter, instrument systems
+  to track them, and ship code that directly moves revenue. You work across paid acquisition
+  channels—Google Ads, Meta, TikTok—combining it with product analytics and using
+  AI to surface insights that would take others weeks to find. What You’ll Do Build
+  metrics and KPI infrastructure — Define, instrument, and own the metrics that matter
+  in real time Own LTV/CAC systems — Track unit economics across verticals, channels,
+  and cohorts Build paid channel analytics — Connect ad spend to actual revenue, not
+  vanity metrics Create attribution that works — Multi-touch attribution across voice,
+  email, web, and referral Use AI for insight generation — Pattern detection, anomaly
+  detection, automated analysis Ship experimentation infrastructure — A/B testing
+  with statistical rigor You Might Be a Fit If… You ship code—production code, not
+  just notebooks (Python, SQL) You’ve defined KPIs, built instrumentation, and been
+  accountable for moving them You’ve worked with paid acquisition data (Google Ads,
+  Meta, TikTok) You use AI to accelerate analysis (PostHog or similar) You’ve built
+  GTM systems: lead scoring, attribution, LTV/CAC analysis You think in experiments
+  and know correlation vs. causation You’re 2-5 years into your career Requirements
+  2-5 years experience in analytics engineering or growth engineering Strong Python
+  and SQL skills Experience with paid acquisition data and funnel analytics Ability
+  to ship production code, not just analysis Experience with A/B testing and experimentation
+  Based in San Francisco or willing to relocate Nice to Have Experience with PostHog,
+  Amplitude, or similar product analytics Background in lead scoring or attribution
+  modeling Prior startup or high-growth company experience Compensation Salary: $130,000–$190,000
+  + performance bonuses &amp; equity Location: San Francisco, in-office Benefits Health,
+  dental, and vision insurance Commuter benefits Team meals and snacks The Process
+  15-min founder call — Alignment on mission and pace Technical conversation — Walk
+  us through analysis you’ve done On-site — Meet the team, see the data To Apply Data
+  talks. Narratives walk. If you prove things instead of just believing them—send
+  your resume and an example of analysis that drove a business decision.'
+salary_json_min: 130000
+salary_json_max: 190000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Harper is a commercial E&S insurance brokerage. From prospecting
+  and quoting to binding and service, our proprietary AI-native tech stack powers
+  our organization.
+url: https://builtin.com/job/data-scientist-gtm/8120998
+source: builtin.com
+description: 'The Problem 36 million businesses in America need insurance—it’s not
+  optional. 77% are underinsured. 40% have no coverage at all. The distribution system
+  failed them: too slow, too opaque, too confusing. Over 90% of commercial insurance
+  is still human-led. We’re building the inverse: 90%+ AI-led, pushing toward the
+  higher 90s. Not by patching legacy workflows—by building AI that makes humans more
+  effective, improves the customer experience, and eliminates friction at every step.
+  We’re adding ~1,000 customers per month. We’ve grown 100x since last year. We’re
+  looking to do even more this year—and that’s why we’re hiring. To grow that fast,
+  we need to understand—with precision—what’s working, what’s not, and why. The Thesis
+  The line between “analytics” and “product” barely exists here. Your models will
+  directly power how our agents prioritize leads, time outreach, and personalize conversations.
+  You’ll build the intelligence that tells us how well it’s working—and ship code
+  that directly moves revenue. The Role You’ll own the metrics, analytics, and experimentation
+  infrastructure that powers growth. This isn’t “build dashboards and wait for questions.”
+  You’ll define the KPIs that matter, instrument systems to track them, and ship code
+  that directly moves revenue. You work across paid acquisition channels—Google Ads,
+  Meta, TikTok—combining it with product analytics and using AI to surface insights
+  that would take others weeks to find. What You’ll Do Build metrics and KPI infrastructure
+  — Define, instrument, and own the metrics that matter in real time Own LTV/CAC systems
+  — Track unit economics across verticals, channels, and cohorts Build paid channel
+  analytics — Connect ad spend to actual revenue, not vanity metrics Create attribution
+  that works — Multi-touch attribution across voice, email, web, and referral Use
+  AI for insight generation — Pattern detection, anomaly detection, automated analysis
+  Ship experimentation infrastructure — A/B testing with statistical rigor You Might
+  Be a Fit If… You ship code—production code, not just notebooks (Python, SQL) You’ve
+  defined KPIs, built instrumentation, and been accountable for moving them You’ve
+  worked with paid acquisition data (Google Ads, Meta, TikTok) You use AI to accelerate
+  analysis (PostHog or similar) You’ve built GTM systems: lead scoring, attribution,
+  LTV/CAC analysis You think in experiments and know correlation vs. causation You’re
+  2-5 years into your career Requirements 2-5 years experience in analytics engineering
+  or growth engineering Strong Python and SQL skills Experience with paid acquisition
+  data and funnel analytics Ability to ship production code, not just analysis Experience
+  with A/B testing and experimentation Based in San Francisco or willing to relocate
+  Nice to Have Experience with PostHog, Amplitude, or similar product analytics Background
+  in lead scoring or attribution modeling Prior startup or high-growth company experience
+  Compensation Salary: $130,000–$190,000 + performance bonuses &amp; equity Location:
+  San Francisco, in-office Benefits Health, dental, and vision insurance Commuter
+  benefits Team meals and snacks The Process 15-min founder call — Alignment on mission
+  and pace Technical conversation — Walk us through analysis you’ve done On-site —
+  Meet the team, see the data To Apply Data talks. Narratives walk. If you prove things
+  instead of just believing them—send your resume and an example of analysis that
+  drove a business decision.'
+postedDate: '2026-02-28'
+salary: USD 130,000 - 190,000
+id: '5'
+is_gtm_technical: true
+tech_stack:
+- Python
+- SQL
+- Google Ads
+min_years_exp: 2
+salary_min: 130000
+salary_max: 190000
+reason: The role involves building revenue metrics and analytics, which are technical
+  tasks related to GTM.

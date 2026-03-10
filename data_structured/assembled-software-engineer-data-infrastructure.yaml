@@ -1,0 +1,239 @@
+title: Software Engineer - Data Infrastructure
+company: Assembled
+category:
+- Artificial Intelligence
+- Software
+- Automation
+location: New York, New York, USA
+date_posted: '2026-03-09'
+description_html: '<b>About Assembled</b><p>Great customer support requires human
+  agents and AI in perfect balance, and Assembled is the only unified platform that
+  orchestrates both at scale. Companies like Canva, Etsy, and Robinhood use Assembled
+  to coordinate their entire support operation — in-house agents, BPOs, and AI — in
+  a single operating system. With AI Agents that resolve cases end-to-end, AI Copilot
+  for agent assistance, and AI-powered workforce management that optimizes both human
+  and AI capacity, Assembled helps teams deliver faster, better service while making
+  smarter decisions about how to staff and automate. Backed by $70M from NEA, Emergence
+  Capital, and Stripe, we''re building the platform that makes AI and human collaboration
+  actually work.</p><p></p><b><strong>The Role </strong></b><p>We’re looking for an
+  experienced software engineer to help shape the foundation of Assembled’s data systems.
+  You’ll join our Data Infrastructure team, a close partner to both our Core Infrastructure
+  and AI Infrastructure teams, to own how data is modeled, stored, and served across
+  the company. This work powers everything from customer-facing dashboards to internal
+  analytics and AI-driven product features.</p><p>We''re currently rebuilding our
+  metrics infrastructure from the ground up. Our legacy Go-based system made it difficult
+  to scale, maintain, and trust the metrics we expose. We’re building a new analytics
+  stack that enables fast, reliable metric queries and simplifies the development
+  of new reports. You’ll be joining at a pivotal moment—early prototypes are in place,
+  and we’re working toward a full-scale production rollout and long-term migration.</p><p>The
+  team also plays a central role in the development of Assembled’s AI platform, Assist.
+  As we unify our WFM and AI products into a single Human + AI experience, the Data
+  Infrastructure team is responsible for the analytics that help customers understand
+  how Assist is adopted, how it impacts performance, and where to optimize. You’ll
+  collaborate closely with the Assist team to build robust data models and systems
+  that support this functionality.</p><p>One of the more unique challenges in this
+  role is that our data infrastructure doesn''t just support internal analytics—it
+  powers customer-facing product experiences. While some outputs are traditional dashboards,
+  others require near real-time responsiveness. As a result, our stack must support
+  both large-scale analytical queries and low-latency, user-triggered interactions—capabilities
+  that most analytics systems are not architected to handle simultaneously. We''re
+  building a unified system that can do both, without introducing mismatched data
+  or duplicated definitions.</p><p></p><b><strong>In this role you''ll:</strong></b><ul><li><p>Design
+  and build systems that power both the storage and retrieval of analytical data</p></li><li><p>Own
+  the transformation layer that models data for fast, consistent metric queries</p></li><li><p>Define
+  and maintain the metrics layer that supports dashboards, exports, APIs, and internal
+  tools</p></li><li><p>Collaborate with product, infrastructure, and Assist teams
+  to build rich reporting experiences—like helping customers measure ROI on AI adoption</p></li><li><p>Manage
+  scalable pipelines that move and transform production data for analysis</p></li><li><p>Instrument
+  observability into the data platform, including freshness, lineage, and correctness</p></li></ul><p></p><b><strong>You
+  may be a good fit if you:</strong></b><ul><li><p>Have experience working with modern
+  data warehouses (e.g., Snowflake, BigQuery) and understand their performance characteristics</p></li><li><p>Have
+  built or maintained end-to-end ELT pipelines and are comfortable choosing the right
+  level of precomputation</p></li><li><p>Have designed or worked closely with a metrics
+  or semantic layer, and understand how to define metrics that are consistent, queryable,
+  and performant across reporting surfaces</p></li><li><p>Are comfortable reasoning
+  about systems tradeoffs—latency, cost, developer velocity, and reliability</p></li><li><p>Take
+  pride in building systems that are clear, maintainable, and empower others</p></li><li><p>Have
+  strong SQL fluency and are comfortable reading query plans, debugging slow queries,
+  and optimizing for performance</p></li></ul><p></p><b><strong>Nice to have (but
+  not required):</strong></b><ul><li><p>Experience with semantic layer tools like
+  Cube, MetricFlow, or Looker’s LookML</p></li><li><p>Familiarity with analytics-focused
+  software engineering (e.g., event tracking, funnel analysis, experiment platforms)</p></li><li><p>Experience
+  modernizing legacy data systems or planning large-scale migrations</p></li><li><p>Experience
+  collaborating cross-functionally with AI/ML teams or product managers focused on
+  AI systems</p></li></ul><p></p><b><strong>Our U.S. benefits</strong></b><ul><li><p>Generous
+  medical, dental, and vision benefits </p></li><li><p>Paid company holidays, sick
+  time, and unlimited time off</p></li><li><p>Monthly credits to spend on each: professional
+  development, general wellness, Assembled customers, and commuting</p></li><li><p>Paid
+  parental leave </p></li><li><p>Hybrid work model with catered lunches everyday (M-F),
+  snacks, and beverages in our SF &amp; NY offices</p></li><li><p>401(k) plan enrollment</p></li></ul><p></p><p><em>We
+  know great candidates don’t always meet every requirement listed in a job description.
+  If the role excites you and you believe you can make an impact at Assembled, we
+  encourage you to apply. We value diverse perspectives and are committed to building
+  an inclusive workplace where everyone feels like they belong and has the opportunity
+  to do their best work. We look forward to hearing from you!</em></p><p></p><p><em>For
+  United States Applicants:</em><br><em>Assembled participates in E-Verify and will
+  provide the federal government with your Form I-9 information to confirm that you
+  are authorized to work in the United States.</em><br><em>For United Kingdom Applicants:</em><br><em>Assembled
+  is required to verify your right to work in the UK and will conduct a Right to Work
+  check prior to employment in accordance with applicable law.</em></p>'
+description_text: 'About Assembled Great customer support requires human agents and
+  AI in perfect balance, and Assembled is the only unified platform that orchestrates
+  both at scale. Companies like Canva, Etsy, and Robinhood use Assembled to coordinate
+  their entire support operation — in-house agents, BPOs, and AI — in a single operating
+  system. With AI Agents that resolve cases end-to-end, AI Copilot for agent assistance,
+  and AI-powered workforce management that optimizes both human and AI capacity, Assembled
+  helps teams deliver faster, better service while making smarter decisions about
+  how to staff and automate. Backed by $70M from NEA, Emergence Capital, and Stripe,
+  we''re building the platform that makes AI and human collaboration actually work.
+  The Role We’re looking for an experienced software engineer to help shape the foundation
+  of Assembled’s data systems. You’ll join our Data Infrastructure team, a close partner
+  to both our Core Infrastructure and AI Infrastructure teams, to own how data is
+  modeled, stored, and served across the company. This work powers everything from
+  customer-facing dashboards to internal analytics and AI-driven product features.
+  We''re currently rebuilding our metrics infrastructure from the ground up. Our legacy
+  Go-based system made it difficult to scale, maintain, and trust the metrics we expose.
+  We’re building a new analytics stack that enables fast, reliable metric queries
+  and simplifies the development of new reports. You’ll be joining at a pivotal moment—early
+  prototypes are in place, and we’re working toward a full-scale production rollout
+  and long-term migration. The team also plays a central role in the development of
+  Assembled’s AI platform, Assist. As we unify our WFM and AI products into a single
+  Human + AI experience, the Data Infrastructure team is responsible for the analytics
+  that help customers understand how Assist is adopted, how it impacts performance,
+  and where to optimize. You’ll collaborate closely with the Assist team to build
+  robust data models and systems that support this functionality. One of the more
+  unique challenges in this role is that our data infrastructure doesn''t just support
+  internal analytics—it powers customer-facing product experiences. While some outputs
+  are traditional dashboards, others require near real-time responsiveness. As a result,
+  our stack must support both large-scale analytical queries and low-latency, user-triggered
+  interactions—capabilities that most analytics systems are not architected to handle
+  simultaneously. We''re building a unified system that can do both, without introducing
+  mismatched data or duplicated definitions. In this role you''ll: Design and build
+  systems that power both the storage and retrieval of analytical data Own the transformation
+  layer that models data for fast, consistent metric queries Define and maintain the
+  metrics layer that supports dashboards, exports, APIs, and internal tools Collaborate
+  with product, infrastructure, and Assist teams to build rich reporting experiences—like
+  helping customers measure ROI on AI adoption Manage scalable pipelines that move
+  and transform production data for analysis Instrument observability into the data
+  platform, including freshness, lineage, and correctness You may be a good fit if
+  you: Have experience working with modern data warehouses (e.g., Snowflake, BigQuery)
+  and understand their performance characteristics Have built or maintained end-to-end
+  ELT pipelines and are comfortable choosing the right level of precomputation Have
+  designed or worked closely with a metrics or semantic layer, and understand how
+  to define metrics that are consistent, queryable, and performant across reporting
+  surfaces Are comfortable reasoning about systems tradeoffs—latency, cost, developer
+  velocity, and reliability Take pride in building systems that are clear, maintainable,
+  and empower others Have strong SQL fluency and are comfortable reading query plans,
+  debugging slow queries, and optimizing for performance Nice to have (but not required):
+  Experience with semantic layer tools like Cube, MetricFlow, or Looker’s LookML Familiarity
+  with analytics-focused software engineering (e.g., event tracking, funnel analysis,
+  experiment platforms) Experience modernizing legacy data systems or planning large-scale
+  migrations Experience collaborating cross-functionally with AI/ML teams or product
+  managers focused on AI systems Our U.S. benefits Generous medical, dental, and vision
+  benefits Paid company holidays, sick time, and unlimited time off Monthly credits
+  to spend on each: professional development, general wellness, Assembled customers,
+  and commuting Paid parental leave Hybrid work model with catered lunches everyday
+  (M-F), snacks, and beverages in our SF &amp; NY offices 401(k) plan enrollment We
+  know great candidates don’t always meet every requirement listed in a job description.
+  If the role excites you and you believe you can make an impact at Assembled, we
+  encourage you to apply. We value diverse perspectives and are committed to building
+  an inclusive workplace where everyone feels like they belong and has the opportunity
+  to do their best work. We look forward to hearing from you! For United States Applicants:
+  Assembled participates in E-Verify and will provide the federal government with
+  your Form I-9 information to confirm that you are authorized to work in the United
+  States. For United Kingdom Applicants: Assembled is required to verify your right
+  to work in the UK and will conduct a Right to Work check prior to employment in
+  accordance with applicable law.'
+salary_json_min: 135000
+salary_json_max: 280000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Industry leaders like Etsy, Robinhood, and Stripe trust Assembled
+  to provide customer-facing AI agents and workforce planning at scale. We automatically
+  resolve millions of interactions through chat, email, and phone while optimizing
+  staffing for hundreds of thousands of support professionals. Our mission is to elevate
+  customer support through AI-powered software that makes life easier for customers
+  and employees.
+url: https://builtin.com/job/software-engineer-data-infrastructure/7800979
+source: builtin.com
+description: 'About Assembled Great customer support requires human agents and AI
+  in perfect balance, and Assembled is the only unified platform that orchestrates
+  both at scale. Companies like Canva, Etsy, and Robinhood use Assembled to coordinate
+  their entire support operation — in-house agents, BPOs, and AI — in a single operating
+  system. With AI Agents that resolve cases end-to-end, AI Copilot for agent assistance,
+  and AI-powered workforce management that optimizes both human and AI capacity, Assembled
+  helps teams deliver faster, better service while making smarter decisions about
+  how to staff and automate. Backed by $70M from NEA, Emergence Capital, and Stripe,
+  we''re building the platform that makes AI and human collaboration actually work.
+  The Role We’re looking for an experienced software engineer to help shape the foundation
+  of Assembled’s data systems. You’ll join our Data Infrastructure team, a close partner
+  to both our Core Infrastructure and AI Infrastructure teams, to own how data is
+  modeled, stored, and served across the company. This work powers everything from
+  customer-facing dashboards to internal analytics and AI-driven product features.
+  We''re currently rebuilding our metrics infrastructure from the ground up. Our legacy
+  Go-based system made it difficult to scale, maintain, and trust the metrics we expose.
+  We’re building a new analytics stack that enables fast, reliable metric queries
+  and simplifies the development of new reports. You’ll be joining at a pivotal moment—early
+  prototypes are in place, and we’re working toward a full-scale production rollout
+  and long-term migration. The team also plays a central role in the development of
+  Assembled’s AI platform, Assist. As we unify our WFM and AI products into a single
+  Human + AI experience, the Data Infrastructure team is responsible for the analytics
+  that help customers understand how Assist is adopted, how it impacts performance,
+  and where to optimize. You’ll collaborate closely with the Assist team to build
+  robust data models and systems that support this functionality. One of the more
+  unique challenges in this role is that our data infrastructure doesn''t just support
+  internal analytics—it powers customer-facing product experiences. While some outputs
+  are traditional dashboards, others require near real-time responsiveness. As a result,
+  our stack must support both large-scale analytical queries and low-latency, user-triggered
+  interactions—capabilities that most analytics systems are not architected to handle
+  simultaneously. We''re building a unified system that can do both, without introducing
+  mismatched data or duplicated definitions. In this role you''ll: Design and build
+  systems that power both the storage and retrieval of analytical data Own the transformation
+  layer that models data for fast, consistent metric queries Define and maintain the
+  metrics layer that supports dashboards, exports, APIs, and internal tools Collaborate
+  with product, infrastructure, and Assist teams to build rich reporting experiences—like
+  helping customers measure ROI on AI adoption Manage scalable pipelines that move
+  and transform production data for analysis Instrument observability into the data
+  platform, including freshness, lineage, and correctness You may be a good fit if
+  you: Have experience working with modern data warehouses (e.g., Snowflake, BigQuery)
+  and understand their performance characteristics Have built or maintained end-to-end
+  ELT pipelines and are comfortable choosing the right level of precomputation Have
+  designed or worked closely with a metrics or semantic layer, and understand how
+  to define metrics that are consistent, queryable, and performant across reporting
+  surfaces Are comfortable reasoning about systems tradeoffs—latency, cost, developer
+  velocity, and reliability Take pride in building systems that are clear, maintainable,
+  and empower others Have strong SQL fluency and are comfortable reading query plans,
+  debugging slow queries, and optimizing for performance Nice to have (but not required):
+  Experience with semantic layer tools like Cube, MetricFlow, or Looker’s LookML Familiarity
+  with analytics-focused software engineering (e.g., event tracking, funnel analysis,
+  experiment platforms) Experience modernizing legacy data systems or planning large-scale
+  migrations Experience collaborating cross-functionally with AI/ML teams or product
+  managers focused on AI systems Our U.S. benefits Generous medical, dental, and vision
+  benefits Paid company holidays, sick time, and unlimited time off Monthly credits
+  to spend on each: professional development, general wellness, Assembled customers,
+  and commuting Paid parental leave Hybrid work model with catered lunches everyday
+  (M-F), snacks, and beverages in our SF &amp; NY offices 401(k) plan enrollment We
+  know great candidates don’t always meet every requirement listed in a job description.
+  If the role excites you and you believe you can make an impact at Assembled, we
+  encourage you to apply. We value diverse perspectives and are committed to building
+  an inclusive workplace where everyone feels like they belong and has the opportunity
+  to do their best work. We look forward to hearing from you! For United States Applicants:
+  Assembled participates in E-Verify and will provide the federal government with
+  your Form I-9 information to confirm that you are authorized to work in the United
+  States. For United Kingdom Applicants: Assembled is required to verify your right
+  to work in the UK and will conduct a Right to Work check prior to employment in
+  accordance with applicable law.'
+postedDate: '2026-03-09'
+salary: USD 135,000 - 280,000
+id: 13
+is_gtm_technical: true
+tech_stack: []
+min_years_exp: null
+salary_min: null
+salary_max: null
+reason: The role emphasizes data infrastructure, essential for data-driven GTM operations.

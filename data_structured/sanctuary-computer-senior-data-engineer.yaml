@@ -1,0 +1,271 @@
+title: Senior Data Engineer
+company: Sanctuary Computer
+category:
+- Agency
+- Information Technology
+- Internet of Things
+- Design
+- App development
+location: New York, New York, USA
+date_posted: '2026-03-07'
+description_html: '<p>We are recruiting a <strong>Sr. Data Engineer</strong> for a
+  client in the AI / health &amp; wellness space</p><p><span style="color: rgba(240,
+  63, 63, 1) !important"><strong>Original Job Post link</strong></span><br><span style="color:
+  rgba(240, 63, 63, 1) !important"><strong>https://www.notion.so/garden3d/Senior-Data-Engineer-2e7131fea2c7800094e4d9340a5df499?source=copy_link</strong></span></p><h3>About
+  garden3d</h3><p>We are worker owned creative collective, innovating on everything
+  from brands and IRL communities to IoT devices and cross platform apps. We share
+  profit, open source everything, spin out new businesses, and invest in exciting
+  ideas through financial and/or in-kind contributions.</p><p>Our client roster includes
+  Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons,
+  Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosian. We’re the software team
+  behind innovative products like The Light Phone &amp; Mill, and a global, decentralized
+  community space collective called Index Space.</p><p>We think of our garden3d as
+  collective for creative people, prioritizing a happy, talented, and diverse studio
+  culture. We work on projects that bring value to our world, and we balance deep
+  care for the work we do with a genuine curiosity about life outside of our jobs.</p><h3><strong>About
+  the client</strong></h3><p><strong>Our client is an early-stage AI startup based
+  in NYC</strong> (but open to remote team members). The founders have experience
+  building and scaling successful ventures including a 9-figure exit.</p><h3><strong>Who
+  we’re looking for:</strong></h3><p>We’re looking for a <strong>Senior Data Engineer</strong>
+  with deep expertise in designing and owning data pipelines, workflow orchestration,
+  and complex data integrations. You’ll play a key role in evolving our data ingestion
+  architecture, from an existing in-house, code-defined workflow system backed by
+  queues, to a more scalable and observable orchestration layer using <strong>Prefect</strong>.</p><p>In
+  this role, you’ll lead the development and optimization of pipelines handling both
+  structured and unstructured data from a wide range of sources, including web crawls
+  and scrapers. You’ll be expected to make architectural decisions, ensure reliability
+  and scalability, and establish best practices for workflow design, monitoring, and
+  performance as our data platform grows.</p><p>In this role, you’ll work across a
+  variety of initiatives to find cost-effective, high-quality, pragmatic solutions
+  to complex problems. Responsibilities will include:</p><ul><li>Monitoring and maintaining
+  data pipelines, troubleshooting new errors, and addressing format drift</li><li>Extracting
+  and enriching additional data elements from diverse sources</li><li>Reprocessing
+  and validating large datasets in batch workflows</li><li>Designing and integrating
+  new data sources into existing pipelines</li><li>Aligning and integrating extracted
+  data with the core application data model to ensure consistency and usability</li><li>Participating
+  in code reviews, providing constructive feedback to teammates and ensuring adherence
+  to best practices</li><li>Contributing to project success by keeping a close eye
+  on team velocity, project scope, budget, and timeline</li><li>Negotiating with clients
+  to align project scope with budget and timeline, if needed</li></ul><h3>Who you
+  are</h3><p>The person we’re looking for is happy, relaxed and easy to get along
+  with. They’re flexible on anything except conceits that will lower their usually
+  outstanding work quality. They work “smart”, by carefully managing their workflow
+  and staggering features that have dependencies intelligently — they prefer deep
+  work but are OK coming up to the surface now and then for top level / strategic
+  conversations.</p><p>We believe people with backgrounds or interests in design,
+  art, music, food or fashion tend to have a well rounded sense of design &amp; quality
+  — so a variety of hobbies or side projects is a big nice to have!</p><p><strong>Must
+  Have Competencies:</strong></p><ul><li>Senior-level <strong>Python expertise</strong></li><li>Experience
+  with <strong>data/workflow orchestration tools</strong> (e.g., Prefect, Airflow,
+  Dagster)</li><li>A thorough understanding ETL &amp; data transformation for the
+  ingestion of industry standard LLMs (OpenAI, Claude, etc)</li><li>Familiarity with
+  <strong>Large Language Models (LLMs)</strong></li><li>Skilled in <strong>interfacing
+  with APIs</strong> (OpenAI, Google Gemini/Vertex, etc.) using wrapper libraries
+  such as Instructor, LiteLLM, etc.</li><li>Practical experience in <strong>prompt
+  engineering</strong></li><li>Ability to work with <strong>structured outputs</strong>
+  and potentially tool calling</li><li>5+ years general experience in backend (Ruby
+  on Rails, Elixir Phoenix, Python Django, or Node Express) and/or native app development
+  (React Native, Flutter, Android, AOSP, Kotlin/Java).</li></ul><p><strong>Nice to
+  Have Competencies:</strong></p><p>We’re always pitching for new and exciting technology
+  niches. Some of the areas below are relevant to us!</p><ul><li>Experience with <strong>Google
+  Cloud Platform (GCP)</strong>, particularly Cloud Run and Cloud Tasks</li><li>Knowledge
+  of <strong>search technologies</strong>, including embeddings and vector databases
+  for semantic search, as well as keyword-based search (BM25)</li><li>Familiarity
+  with <strong>PySpark</strong> for batch data processing</li><li><strong>Experience
+  working with LLMs, Vector Databases, and other generalist AI-enabled application
+  patterns</strong></li><li><strong>Client-facing experience</strong>: working directly
+  with customers to gather requirements and provide technical solutions</li><li><strong>Product
+  management experience</strong>: defining product roadmaps and collaborating closely
+  with stakeholders</li><li><strong>Engineering management experience</strong>: leading
+  teams, setting technical direction, and mentoring developers</li><li>Recent experience
+  working in a startup environment</li><li><strong>NYC-based preferred for collaboration</strong>,
+  but not a strict requirement.</li></ul><h3><strong>Compensation</strong></h3><p>The
+  pay scale ranges from <strong>$125 p/hr</strong> to <strong>$175 p/hr, $150-200k/year
+  </strong>based on experience.</p><p>In addition to cash compensation, <strong>equity
+  may be offered</strong> for candidates with the right level of experience, commitment,
+  and long-term alignment.</p><h3><strong>How we interview:</strong></h3><p>Our interview
+  process starts with a call where you get to meet a few members of our team. From
+  there we’ll ask appropriate candidates to take part in a technical exercise which
+  helps illustrate skill level and comfort.</p><p><i><strong>Direct application link
+  here:</strong></i><br>https://garden3d.notion.site/1f1131fea2c78095922ec7e09bd96101<br><i><strong>(</strong></i><strong>Tell
+  us a bit about your interest in the role and share your information by filling out
+  the questions.</strong><i><strong>)</strong></i></p><p>Quick tip! Adding a <strong>Loom
+  recording</strong> to your profile in our form to showcase your skillset can really
+  make your application stand out!</p>'
+description_text: 'We are recruiting a Sr. Data Engineer for a client in the AI /
+  health &amp; wellness space Original Job Post link https://www.notion.so/garden3d/Senior-Data-Engineer-2e7131fea2c7800094e4d9340a5df499?source=copy_link
+  About garden3d We are worker owned creative collective, innovating on everything
+  from brands and IRL communities to IoT devices and cross platform apps. We share
+  profit, open source everything, spin out new businesses, and invest in exciting
+  ideas through financial and/or in-kind contributions. Our client roster includes
+  Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons,
+  Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosian. We’re the software team
+  behind innovative products like The Light Phone &amp; Mill, and a global, decentralized
+  community space collective called Index Space. We think of our garden3d as collective
+  for creative people, prioritizing a happy, talented, and diverse studio culture.
+  We work on projects that bring value to our world, and we balance deep care for
+  the work we do with a genuine curiosity about life outside of our jobs. About the
+  client Our client is an early-stage AI startup based in NYC (but open to remote
+  team members). The founders have experience building and scaling successful ventures
+  including a 9-figure exit. Who we’re looking for: We’re looking for a Senior Data
+  Engineer with deep expertise in designing and owning data pipelines, workflow orchestration,
+  and complex data integrations. You’ll play a key role in evolving our data ingestion
+  architecture, from an existing in-house, code-defined workflow system backed by
+  queues, to a more scalable and observable orchestration layer using Prefect . In
+  this role, you’ll lead the development and optimization of pipelines handling both
+  structured and unstructured data from a wide range of sources, including web crawls
+  and scrapers. You’ll be expected to make architectural decisions, ensure reliability
+  and scalability, and establish best practices for workflow design, monitoring, and
+  performance as our data platform grows. In this role, you’ll work across a variety
+  of initiatives to find cost-effective, high-quality, pragmatic solutions to complex
+  problems. Responsibilities will include: Monitoring and maintaining data pipelines,
+  troubleshooting new errors, and addressing format drift Extracting and enriching
+  additional data elements from diverse sources Reprocessing and validating large
+  datasets in batch workflows Designing and integrating new data sources into existing
+  pipelines Aligning and integrating extracted data with the core application data
+  model to ensure consistency and usability Participating in code reviews, providing
+  constructive feedback to teammates and ensuring adherence to best practices Contributing
+  to project success by keeping a close eye on team velocity, project scope, budget,
+  and timeline Negotiating with clients to align project scope with budget and timeline,
+  if needed Who you are The person we’re looking for is happy, relaxed and easy to
+  get along with. They’re flexible on anything except conceits that will lower their
+  usually outstanding work quality. They work “smart”, by carefully managing their
+  workflow and staggering features that have dependencies intelligently — they prefer
+  deep work but are OK coming up to the surface now and then for top level / strategic
+  conversations. We believe people with backgrounds or interests in design, art, music,
+  food or fashion tend to have a well rounded sense of design &amp; quality — so a
+  variety of hobbies or side projects is a big nice to have! Must Have Competencies:
+  Senior-level Python expertise Experience with data/workflow orchestration tools
+  (e.g., Prefect, Airflow, Dagster) A thorough understanding ETL &amp; data transformation
+  for the ingestion of industry standard LLMs (OpenAI, Claude, etc) Familiarity with
+  Large Language Models (LLMs) Skilled in interfacing with APIs (OpenAI, Google Gemini/Vertex,
+  etc.) using wrapper libraries such as Instructor, LiteLLM, etc. Practical experience
+  in prompt engineering Ability to work with structured outputs and potentially tool
+  calling 5+ years general experience in backend (Ruby on Rails, Elixir Phoenix, Python
+  Django, or Node Express) and/or native app development (React Native, Flutter, Android,
+  AOSP, Kotlin/Java). Nice to Have Competencies: We’re always pitching for new and
+  exciting technology niches. Some of the areas below are relevant to us! Experience
+  with Google Cloud Platform (GCP) , particularly Cloud Run and Cloud Tasks Knowledge
+  of search technologies , including embeddings and vector databases for semantic
+  search, as well as keyword-based search (BM25) Familiarity with PySpark for batch
+  data processing Experience working with LLMs, Vector Databases, and other generalist
+  AI-enabled application patterns Client-facing experience : working directly with
+  customers to gather requirements and provide technical solutions Product management
+  experience : defining product roadmaps and collaborating closely with stakeholders
+  Engineering management experience : leading teams, setting technical direction,
+  and mentoring developers Recent experience working in a startup environment NYC-based
+  preferred for collaboration , but not a strict requirement. Compensation The pay
+  scale ranges from $125 p/hr to $175 p/hr, $150-200k/year based on experience. In
+  addition to cash compensation, equity may be offered for candidates with the right
+  level of experience, commitment, and long-term alignment. How we interview: Our
+  interview process starts with a call where you get to meet a few members of our
+  team. From there we’ll ask appropriate candidates to take part in a technical exercise
+  which helps illustrate skill level and comfort. Direct application link here: https://garden3d.notion.site/1f1131fea2c78095922ec7e09bd96101
+  ( Tell us a bit about your interest in the role and share your information by filling
+  out the questions. ) Quick tip! Adding a Loom recording to your profile in our form
+  to showcase your skillset can really make your application stand out!'
+salary_json_min: 150000
+salary_json_max: 200000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: We’re a small team of design-oriented software developers, with
+  a strong understanding of user experience and product.We work in design, branding
+  and engineering roles, with clients like Nike, General Electric, The Nobel Prize,
+  Herman Miller, Adobe, Dig Inn and many others. That same thoughtfulness is applied
+  inward, too. We understand that technologists & engineers have a strong sense of
+  art and integrity, and are happier being a part of a team that promotes those values.We
+  partner with our design team (XXIX) to build compelling digital products for industry
+  leaders, early-to-mid stage startups, hardware companies, healthcare services, restaurant
+  groups, and lifestyle brands.
+url: https://builtin.com/job/senior-data-engineer/8215968
+source: builtin.com
+description: 'We are recruiting a Sr. Data Engineer for a client in the AI / health
+  &amp; wellness space Original Job Post link https://www.notion.so/garden3d/Senior-Data-Engineer-2e7131fea2c7800094e4d9340a5df499?source=copy_link
+  About garden3d We are worker owned creative collective, innovating on everything
+  from brands and IRL communities to IoT devices and cross platform apps. We share
+  profit, open source everything, spin out new businesses, and invest in exciting
+  ideas through financial and/or in-kind contributions. Our client roster includes
+  Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons,
+  Mozilla, The Nobel Prize, MIT, Gnosis, Etsy &amp; Gagosian. We’re the software team
+  behind innovative products like The Light Phone &amp; Mill, and a global, decentralized
+  community space collective called Index Space. We think of our garden3d as collective
+  for creative people, prioritizing a happy, talented, and diverse studio culture.
+  We work on projects that bring value to our world, and we balance deep care for
+  the work we do with a genuine curiosity about life outside of our jobs. About the
+  client Our client is an early-stage AI startup based in NYC (but open to remote
+  team members). The founders have experience building and scaling successful ventures
+  including a 9-figure exit. Who we’re looking for: We’re looking for a Senior Data
+  Engineer with deep expertise in designing and owning data pipelines, workflow orchestration,
+  and complex data integrations. You’ll play a key role in evolving our data ingestion
+  architecture, from an existing in-house, code-defined workflow system backed by
+  queues, to a more scalable and observable orchestration layer using Prefect . In
+  this role, you’ll lead the development and optimization of pipelines handling both
+  structured and unstructured data from a wide range of sources, including web crawls
+  and scrapers. You’ll be expected to make architectural decisions, ensure reliability
+  and scalability, and establish best practices for workflow design, monitoring, and
+  performance as our data platform grows. In this role, you’ll work across a variety
+  of initiatives to find cost-effective, high-quality, pragmatic solutions to complex
+  problems. Responsibilities will include: Monitoring and maintaining data pipelines,
+  troubleshooting new errors, and addressing format drift Extracting and enriching
+  additional data elements from diverse sources Reprocessing and validating large
+  datasets in batch workflows Designing and integrating new data sources into existing
+  pipelines Aligning and integrating extracted data with the core application data
+  model to ensure consistency and usability Participating in code reviews, providing
+  constructive feedback to teammates and ensuring adherence to best practices Contributing
+  to project success by keeping a close eye on team velocity, project scope, budget,
+  and timeline Negotiating with clients to align project scope with budget and timeline,
+  if needed Who you are The person we’re looking for is happy, relaxed and easy to
+  get along with. They’re flexible on anything except conceits that will lower their
+  usually outstanding work quality. They work “smart”, by carefully managing their
+  workflow and staggering features that have dependencies intelligently — they prefer
+  deep work but are OK coming up to the surface now and then for top level / strategic
+  conversations. We believe people with backgrounds or interests in design, art, music,
+  food or fashion tend to have a well rounded sense of design &amp; quality — so a
+  variety of hobbies or side projects is a big nice to have! Must Have Competencies:
+  Senior-level Python expertise Experience with data/workflow orchestration tools
+  (e.g., Prefect, Airflow, Dagster) A thorough understanding ETL &amp; data transformation
+  for the ingestion of industry standard LLMs (OpenAI, Claude, etc) Familiarity with
+  Large Language Models (LLMs) Skilled in interfacing with APIs (OpenAI, Google Gemini/Vertex,
+  etc.) using wrapper libraries such as Instructor, LiteLLM, etc. Practical experience
+  in prompt engineering Ability to work with structured outputs and potentially tool
+  calling 5+ years general experience in backend (Ruby on Rails, Elixir Phoenix, Python
+  Django, or Node Express) and/or native app development (React Native, Flutter, Android,
+  AOSP, Kotlin/Java). Nice to Have Competencies: We’re always pitching for new and
+  exciting technology niches. Some of the areas below are relevant to us! Experience
+  with Google Cloud Platform (GCP) , particularly Cloud Run and Cloud Tasks Knowledge
+  of search technologies , including embeddings and vector databases for semantic
+  search, as well as keyword-based search (BM25) Familiarity with PySpark for batch
+  data processing Experience working with LLMs, Vector Databases, and other generalist
+  AI-enabled application patterns Client-facing experience : working directly with
+  customers to gather requirements and provide technical solutions Product management
+  experience : defining product roadmaps and collaborating closely with stakeholders
+  Engineering management experience : leading teams, setting technical direction,
+  and mentoring developers Recent experience working in a startup environment NYC-based
+  preferred for collaboration , but not a strict requirement. Compensation The pay
+  scale ranges from $125 p/hr to $175 p/hr, $150-200k/year based on experience. In
+  addition to cash compensation, equity may be offered for candidates with the right
+  level of experience, commitment, and long-term alignment. How we interview: Our
+  interview process starts with a call where you get to meet a few members of our
+  team. From there we’ll ask appropriate candidates to take part in a technical exercise
+  which helps illustrate skill level and comfort. Direct application link here: https://garden3d.notion.site/1f1131fea2c78095922ec7e09bd96101
+  ( Tell us a bit about your interest in the role and share your information by filling
+  out the questions. ) Quick tip! Adding a Loom recording to your profile in our form
+  to showcase your skillset can really make your application stand out!'
+postedDate: '2026-03-07'
+salary: USD 150,000 - 200,000
+id: '2'
+is_gtm_technical: true
+tech_stack:
+- Python
+- Prefect
+- Airflow
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: The role requires deep technical skills in data engineering and integration,
+  directly impacting GTM efforts.

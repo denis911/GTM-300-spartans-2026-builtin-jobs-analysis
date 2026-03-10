@@ -1,0 +1,346 @@
+title: Reliability Engineer – Automation Engineer
+company: BlackRock
+category:
+- Fintech
+- Information Technology
+- Financial Services
+location: Wilmington, Delaware, USA
+date_posted: '2026-03-09'
+description_html: '<p><b>About this role</b></p><p></p><p></p><p>Company Overview:
+  We are looking for a highly skilled and dynamic individual to join our Production
+  Engineering team within the Aladdin Engineering. This role is perfect for someone
+  passionate about technical troubleshooting, optimizing system performance, and developing
+  innovative automation solutions. In addition to strong expertise in secrets management
+  and automation, this role increasingly focuses on applied AI, including AI-assisted
+  operations and Retrieval-Augmented Generation (RAG)–based assistants, to improve
+  reliability, operability, and developer productivity</p><p>Role Overview: As a Reliability
+  Engineer, you will be responsible for ensuring the performance, scalability, and
+  stability of our platforms through automation, intelligent tooling, and AI-assisted
+  workflows. You will build and operate automation and AI-driven solutions that enhance
+  system reliability, optimize operational efficiency, and improve how engineers interact
+  with platforms—particularly around Vault infrastructure and secrets management.
+  This includes leveraging Python, AI frameworks, and data-driven approaches to analyze
+  system behavior, automate diagnostics, and enable self-service capabilities via
+  AI assistants.</p><p>Key Responsibilities:</p><p>· Design, build, and operate reliable,
+  scalable platforms using automation, Infrastructure as Code (Terraform, Ansible),
+  CI/CD, and GitOps practices across cloud and containerized environments.</p><p>·
+  Automate operational workflows using Python and scripting, including secure configuration
+  and enterprise secrets management lifecycle (provisioning, rotation, access, and
+  recovery).</p><p>· Develop and integrate AI-assisted operational tooling, including
+  RAG-based assistants, to support incident response, troubleshooting, diagnostics,
+  and engineer self-service.</p><p>· Build and maintain knowledge ingestion and retrieval
+  pipelines (logs, metrics, runbooks, configuration data) to power AI assistants and
+  intelligent automation.</p><p>· Monitor and analyze system health, performance,
+  and capacity using observability tools (e.g., logs, metrics, dashboards), and perform
+  root cause analysis for platform incidents.</p><p>· Participate in on-call rotations,
+  supporting production systems and driving continuous improvement through automation
+  and AI-driven reduction of operational toil.</p><p>· Support disaster recovery planning
+  and execution, application onboarding, upgrades, and change management for platforms
+  relying on centralized secrets and secure configuration services.</p><p>· Ensure
+  all automation and AI solutions are secure, explainable, and production-ready, meeting
+  enterprise and regulated-environment requirements.</p><p>Required Skills and Qualifications:</p><p>·
+  Bachelor’s degree (or equivalent) in Computer Science, Engineering, Mathematics,
+  or a related field.</p><p>· Strong Python development skills for automation, systems
+  analysis, and integration with AI tooling.</p><p>· Experience with cloud platforms
+  such as AWS and Azure.</p><p>· Hands-on experience with Ansible, Terraform, and
+  configuration-as-code practices.</p><p>· Experience using monitoring and observability
+  tools to track and optimize resource utilization.</p><p>· Foundational understanding
+  of AI/ML concepts, particularly as applied to automation, observability, or developer
+  tooling.</p><p>Preferred Skills:</p><p>· Experience with Linux-based server environments.</p><p>·
+  Familiarity with Kubernetes and containerized platforms.</p><p>· Exposure to RAG
+  architectures, vector databases, or AI assistant frameworks in production or platform
+  contexts.</p><p>· Prior experience in financial services or large-scale technology
+  environments.</p><p>· Experience designing systems for high availability, scalability,
+  and fault tolerance.</p><p>Good to have:</p><p>· Azure certification.</p><p>· Certification
+  or hands-on experience with enterprise secrets management platforms.</p><p>· Experience
+  building or operating AI-powered internal developer platforms or assistants.</p><p>Ideal
+  Candidate: You are a proactive, analytical engineer with a strong foundation in
+  secrets management, automation, and platform reliability, and a growing passion
+  for AI-driven operations. You enjoy applying AI pragmatically—building assistants,
+  automations, and intelligent workflows that reduce toil, improve reliability, and
+  empower engineers at scale. If you are excited about combining automation, AI, and
+  secure platform services to shape the future of production engineering, we would
+  love to speak with you.</p>
+
+  For Wilmington, DE Only the salary range for this position is USD$110,000.00 - USD$138,000.00
+  . Additionally, employees are eligible for an annual discretionary bonus, and benefits
+  including healthcare, leave benefits, and retirement benefits. BlackRock operates
+  a pay-for-performance compensation philosophy and your total compensation may vary
+  based on role, location, and firm, department and individual performance.<p></p><p><b><span>Our
+  benefits</span></b><br><span>To help you stay energized, engaged and inspired, we
+  offer a wide range of benefits including a strong retirement plan, tuition reimbursement,
+  comprehensive healthcare, support for working parents and Flexible Time Off (FTO)
+  so you can relax, recharge and be there for the people you care about.</span></p><p></p><p></p><p><b>Our
+  hybrid work model</b></p><p></p><p>BlackRock’s hybrid work model is designed to
+  enable a culture of collaboration and apprenticeship that enriches the experience
+  of our employees, while supporting flexibility for all. Employees are currently
+  required to work at least 4 days in the office per week, with the flexibility to
+  work from home 1 day a week. Some business groups may require more time in the office
+  due to their roles and responsibilities. We remain focused on increasing the impactful
+  moments that arise when we work together in person – aligned with our commitment
+  to performance and innovation. As a new joiner, you can count on this hybrid model
+  to accelerate your learning and onboarding experience here at BlackRock.</p><p></p><p></p><p><b>About
+  BlackRock</b></p><p></p><p>At BlackRock, we are all connected by one mission: to
+  help more and more people experience financial well-being.&nbsp; Our clients, and
+  the people they serve, are saving for retirement, paying for their children’s educations,
+  buying homes and starting businesses. Their investments also help to strengthen
+  the global economy: support businesses small and large; finance infrastructure projects
+  that connect and power cities; and facilitate innovations that drive progress.</p><p></p><p>This
+  mission would not be possible without our smartest investment – the one we make
+  in our employees. It’s why we’re dedicated to creating an environment where our
+  colleagues feel welcomed, valued and supported with networks, benefits and development
+  opportunities to help them thrive.</p><p></p><p>For additional information on BlackRock,
+  please visit <span><span>@blackrock</span></span> | Twitter: @blackrock&nbsp;| LinkedIn:&nbsp;<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>www.linkedin.com/company/blackrock</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p><p><p></p></p><p><p></p></p><p></p><p><span>BlackRock
+  is proud to be an equal opportunity workplace. We are committed to equal employment
+  opportunity to all applicants and existing employees, and we evaluate qualified
+  applicants without regard to race, creed, color, national origin, sex (including
+  pregnancy and gender <span><span><span><span><span>identity/expression),</span></span></span></span></span>
+  sexual orientation, age, ancestry, physical or mental disability, marital status,
+  political affiliation, religion, citizenship status, genetic information, veteran
+  status, or any other basis protected under applicable federal, state, or local law.&nbsp;<b>View
+  the&nbsp;</b></span><b>EEOC’s Know Your Rights poster and its supplement</b><span><b>&nbsp;and
+  the&nbsp;</b></span><b>pay transparency statement<span>.</span></b></p><p><span>&nbsp;</span></p><p><span>BlackRock
+  is committed to full inclusion of all qualified individuals and to providing reasonable
+  accommodations or job modifications for individuals with disabilities. If reasonable
+  <span><span><span><span><span>accommodation/adjustments</span></span></span></span></span>
+  are needed throughout the employment process, please email <span><span><span><span><span>Disability.Assistance@blackrock.com</span></span></span></span></span>.
+  All requests are treated in line with our&nbsp;<b>privacy policy</b>.</span></p><p></p>BlackRock
+  will consider for employment qualified applicants with arrest or conviction records
+  in a manner consistent with the requirements of the law, including any applicable
+  fair chance law.'
+description_text: 'About this role Company Overview: We are looking for a highly skilled
+  and dynamic individual to join our Production Engineering team within the Aladdin
+  Engineering. This role is perfect for someone passionate about technical troubleshooting,
+  optimizing system performance, and developing innovative automation solutions. In
+  addition to strong expertise in secrets management and automation, this role increasingly
+  focuses on applied AI, including AI-assisted operations and Retrieval-Augmented
+  Generation (RAG)–based assistants, to improve reliability, operability, and developer
+  productivity Role Overview: As a Reliability Engineer, you will be responsible for
+  ensuring the performance, scalability, and stability of our platforms through automation,
+  intelligent tooling, and AI-assisted workflows. You will build and operate automation
+  and AI-driven solutions that enhance system reliability, optimize operational efficiency,
+  and improve how engineers interact with platforms—particularly around Vault infrastructure
+  and secrets management. This includes leveraging Python, AI frameworks, and data-driven
+  approaches to analyze system behavior, automate diagnostics, and enable self-service
+  capabilities via AI assistants. Key Responsibilities: · Design, build, and operate
+  reliable, scalable platforms using automation, Infrastructure as Code (Terraform,
+  Ansible), CI/CD, and GitOps practices across cloud and containerized environments.
+  · Automate operational workflows using Python and scripting, including secure configuration
+  and enterprise secrets management lifecycle (provisioning, rotation, access, and
+  recovery). · Develop and integrate AI-assisted operational tooling, including RAG-based
+  assistants, to support incident response, troubleshooting, diagnostics, and engineer
+  self-service. · Build and maintain knowledge ingestion and retrieval pipelines (logs,
+  metrics, runbooks, configuration data) to power AI assistants and intelligent automation.
+  · Monitor and analyze system health, performance, and capacity using observability
+  tools (e.g., logs, metrics, dashboards), and perform root cause analysis for platform
+  incidents. · Participate in on-call rotations, supporting production systems and
+  driving continuous improvement through automation and AI-driven reduction of operational
+  toil. · Support disaster recovery planning and execution, application onboarding,
+  upgrades, and change management for platforms relying on centralized secrets and
+  secure configuration services. · Ensure all automation and AI solutions are secure,
+  explainable, and production-ready, meeting enterprise and regulated-environment
+  requirements. Required Skills and Qualifications: · Bachelor’s degree (or equivalent)
+  in Computer Science, Engineering, Mathematics, or a related field. · Strong Python
+  development skills for automation, systems analysis, and integration with AI tooling.
+  · Experience with cloud platforms such as AWS and Azure. · Hands-on experience with
+  Ansible, Terraform, and configuration-as-code practices. · Experience using monitoring
+  and observability tools to track and optimize resource utilization. · Foundational
+  understanding of AI/ML concepts, particularly as applied to automation, observability,
+  or developer tooling. Preferred Skills: · Experience with Linux-based server environments.
+  · Familiarity with Kubernetes and containerized platforms. · Exposure to RAG architectures,
+  vector databases, or AI assistant frameworks in production or platform contexts.
+  · Prior experience in financial services or large-scale technology environments.
+  · Experience designing systems for high availability, scalability, and fault tolerance.
+  Good to have: · Azure certification. · Certification or hands-on experience with
+  enterprise secrets management platforms. · Experience building or operating AI-powered
+  internal developer platforms or assistants. Ideal Candidate: You are a proactive,
+  analytical engineer with a strong foundation in secrets management, automation,
+  and platform reliability, and a growing passion for AI-driven operations. You enjoy
+  applying AI pragmatically—building assistants, automations, and intelligent workflows
+  that reduce toil, improve reliability, and empower engineers at scale. If you are
+  excited about combining automation, AI, and secure platform services to shape the
+  future of production engineering, we would love to speak with you. For Wilmington,
+  DE Only the salary range for this position is USD$110,000.00 - USD$138,000.00 .
+  Additionally, employees are eligible for an annual discretionary bonus, and benefits
+  including healthcare, leave benefits, and retirement benefits. BlackRock operates
+  a pay-for-performance compensation philosophy and your total compensation may vary
+  based on role, location, and firm, department and individual performance. Our benefits
+  To help you stay energized, engaged and inspired, we offer a wide range of benefits
+  including a strong retirement plan, tuition reimbursement, comprehensive healthcare,
+  support for working parents and Flexible Time Off (FTO) so you can relax, recharge
+  and be there for the people you care about. Our hybrid work model BlackRock’s hybrid
+  work model is designed to enable a culture of collaboration and apprenticeship that
+  enriches the experience of our employees, while supporting flexibility for all.
+  Employees are currently required to work at least 4 days in the office per week,
+  with the flexibility to work from home 1 day a week. Some business groups may require
+  more time in the office due to their roles and responsibilities. We remain focused
+  on increasing the impactful moments that arise when we work together in person –
+  aligned with our commitment to performance and innovation. As a new joiner, you
+  can count on this hybrid model to accelerate your learning and onboarding experience
+  here at BlackRock. About BlackRock At BlackRock, we are all connected by one mission:
+  to help more and more people experience financial well-being.&nbsp; Our clients,
+  and the people they serve, are saving for retirement, paying for their children’s
+  educations, buying homes and starting businesses. Their investments also help to
+  strengthen the global economy: support businesses small and large; finance infrastructure
+  projects that connect and power cities; and facilitate innovations that drive progress.
+  This mission would not be possible without our smartest investment – the one we
+  make in our employees. It’s why we’re dedicated to creating an environment where
+  our colleagues feel welcomed, valued and supported with networks, benefits and development
+  opportunities to help them thrive. For additional information on BlackRock, please
+  visit @blackrock | Twitter: @blackrock&nbsp;| LinkedIn:&nbsp; www.linkedin.com/company/blackrock
+  BlackRock is proud to be an equal opportunity workplace. We are committed to equal
+  employment opportunity to all applicants and existing employees, and we evaluate
+  qualified applicants without regard to race, creed, color, national origin, sex
+  (including pregnancy and gender identity/expression), sexual orientation, age, ancestry,
+  physical or mental disability, marital status, political affiliation, religion,
+  citizenship status, genetic information, veteran status, or any other basis protected
+  under applicable federal, state, or local law.&nbsp; View the&nbsp; EEOC’s Know
+  Your Rights poster and its supplement &nbsp;and the&nbsp; pay transparency statement
+  . &nbsp; BlackRock is committed to full inclusion of all qualified individuals and
+  to providing reasonable accommodations or job modifications for individuals with
+  disabilities. If reasonable accommodation/adjustments are needed throughout the
+  employment process, please email Disability.Assistance@blackrock.com . All requests
+  are treated in line with our&nbsp; privacy policy . BlackRock will consider for
+  employment qualified applicants with arrest or conviction records in a manner consistent
+  with the requirements of the law, including any applicable fair chance law.'
+salary_json_min: 110000
+salary_json_max: 138000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: 'As the world’s largest asset manager, BlackRock partners with investors
+  around the globe to help them (and those on whose behalf they invest) plan for life’s
+  most important goals – like retirement, home ownership and their children’s education.
+  Our clients range from governments, foundations and other large institutions to
+  those investing on behalf of individuals, including firefighters, nurses, teachers
+  and factory workers. BlackRock was founded with the idea of creating a better asset
+  management firm — one that was purpose-driven, focused on clients and risk management,
+  and propelled by data and technology. Our breakthrough Aladdin® platform is BlackRock’s
+  technological backbone, helping investors see and manage their whole portfolios
+  in one place – from constructing investments to monitoring risk and executing trades.
+  Used by hundreds of external institutions around the world, Aladdin combines powerful
+  analytics and a common language to help investment teams make faster, more informed
+  decisions across public and private markets. It’s a key part of our business and
+  one of the reasons we’re trusted to manage more assets than any other investment
+  manager today.At BlackRock, we challenge conventions and raise the bar for what’s
+  possible. We harness technology to unlock new solutions, simplify complexity, and
+  deliver investment strategies that meet people where they are. Whether it’s retirement
+  planning, wealth building or navigating market shifts, we’re here to help clients
+  invest more easily, more affordably and with more choice as we chart a path toward
+  financial well-being together. Learn more: Careers.BlackRock.com'
+url: https://builtin.com/job/devops-enterprise-secrets-management-system-engineer-associate/8430694
+source: builtin.com
+description: 'About this role Company Overview: We are looking for a highly skilled
+  and dynamic individual to join our Production Engineering team within the Aladdin
+  Engineering. This role is perfect for someone passionate about technical troubleshooting,
+  optimizing system performance, and developing innovative automation solutions. In
+  addition to strong expertise in secrets management and automation, this role increasingly
+  focuses on applied AI, including AI-assisted operations and Retrieval-Augmented
+  Generation (RAG)–based assistants, to improve reliability, operability, and developer
+  productivity Role Overview: As a Reliability Engineer, you will be responsible for
+  ensuring the performance, scalability, and stability of our platforms through automation,
+  intelligent tooling, and AI-assisted workflows. You will build and operate automation
+  and AI-driven solutions that enhance system reliability, optimize operational efficiency,
+  and improve how engineers interact with platforms—particularly around Vault infrastructure
+  and secrets management. This includes leveraging Python, AI frameworks, and data-driven
+  approaches to analyze system behavior, automate diagnostics, and enable self-service
+  capabilities via AI assistants. Key Responsibilities: · Design, build, and operate
+  reliable, scalable platforms using automation, Infrastructure as Code (Terraform,
+  Ansible), CI/CD, and GitOps practices across cloud and containerized environments.
+  · Automate operational workflows using Python and scripting, including secure configuration
+  and enterprise secrets management lifecycle (provisioning, rotation, access, and
+  recovery). · Develop and integrate AI-assisted operational tooling, including RAG-based
+  assistants, to support incident response, troubleshooting, diagnostics, and engineer
+  self-service. · Build and maintain knowledge ingestion and retrieval pipelines (logs,
+  metrics, runbooks, configuration data) to power AI assistants and intelligent automation.
+  · Monitor and analyze system health, performance, and capacity using observability
+  tools (e.g., logs, metrics, dashboards), and perform root cause analysis for platform
+  incidents. · Participate in on-call rotations, supporting production systems and
+  driving continuous improvement through automation and AI-driven reduction of operational
+  toil. · Support disaster recovery planning and execution, application onboarding,
+  upgrades, and change management for platforms relying on centralized secrets and
+  secure configuration services. · Ensure all automation and AI solutions are secure,
+  explainable, and production-ready, meeting enterprise and regulated-environment
+  requirements. Required Skills and Qualifications: · Bachelor’s degree (or equivalent)
+  in Computer Science, Engineering, Mathematics, or a related field. · Strong Python
+  development skills for automation, systems analysis, and integration with AI tooling.
+  · Experience with cloud platforms such as AWS and Azure. · Hands-on experience with
+  Ansible, Terraform, and configuration-as-code practices. · Experience using monitoring
+  and observability tools to track and optimize resource utilization. · Foundational
+  understanding of AI/ML concepts, particularly as applied to automation, observability,
+  or developer tooling. Preferred Skills: · Experience with Linux-based server environments.
+  · Familiarity with Kubernetes and containerized platforms. · Exposure to RAG architectures,
+  vector databases, or AI assistant frameworks in production or platform contexts.
+  · Prior experience in financial services or large-scale technology environments.
+  · Experience designing systems for high availability, scalability, and fault tolerance.
+  Good to have: · Azure certification. · Certification or hands-on experience with
+  enterprise secrets management platforms. · Experience building or operating AI-powered
+  internal developer platforms or assistants. Ideal Candidate: You are a proactive,
+  analytical engineer with a strong foundation in secrets management, automation,
+  and platform reliability, and a growing passion for AI-driven operations. You enjoy
+  applying AI pragmatically—building assistants, automations, and intelligent workflows
+  that reduce toil, improve reliability, and empower engineers at scale. If you are
+  excited about combining automation, AI, and secure platform services to shape the
+  future of production engineering, we would love to speak with you. For Wilmington,
+  DE Only the salary range for this position is USD$110,000.00 - USD$138,000.00 .
+  Additionally, employees are eligible for an annual discretionary bonus, and benefits
+  including healthcare, leave benefits, and retirement benefits. BlackRock operates
+  a pay-for-performance compensation philosophy and your total compensation may vary
+  based on role, location, and firm, department and individual performance. Our benefits
+  To help you stay energized, engaged and inspired, we offer a wide range of benefits
+  including a strong retirement plan, tuition reimbursement, comprehensive healthcare,
+  support for working parents and Flexible Time Off (FTO) so you can relax, recharge
+  and be there for the people you care about. Our hybrid work model BlackRock’s hybrid
+  work model is designed to enable a culture of collaboration and apprenticeship that
+  enriches the experience of our employees, while supporting flexibility for all.
+  Employees are currently required to work at least 4 days in the office per week,
+  with the flexibility to work from home 1 day a week. Some business groups may require
+  more time in the office due to their roles and responsibilities. We remain focused
+  on increasing the impactful moments that arise when we work together in person –
+  aligned with our commitment to performance and innovation. As a new joiner, you
+  can count on this hybrid model to accelerate your learning and onboarding experience
+  here at BlackRock. About BlackRock At BlackRock, we are all connected by one mission:
+  to help more and more people experience financial well-being.&nbsp; Our clients,
+  and the people they serve, are saving for retirement, paying for their children’s
+  educations, buying homes and starting businesses. Their investments also help to
+  strengthen the global economy: support businesses small and large; finance infrastructure
+  projects that connect and power cities; and facilitate innovations that drive progress.
+  This mission would not be possible without our smartest investment – the one we
+  make in our employees. It’s why we’re dedicated to creating an environment where
+  our colleagues feel welcomed, valued and supported with networks, benefits and development
+  opportunities to help them thrive. For additional information on BlackRock, please
+  visit @blackrock | Twitter: @blackrock&nbsp;| LinkedIn:&nbsp; www.linkedin.com/company/blackrock
+  BlackRock is proud to be an equal opportunity workplace. We are committed to equal
+  employment opportunity to all applicants and existing employees, and we evaluate
+  qualified applicants without regard to race, creed, color, national origin, sex
+  (including pregnancy and gender identity/expression), sexual orientation, age, ancestry,
+  physical or mental disability, marital status, political affiliation, religion,
+  citizenship status, genetic information, veteran status, or any other basis protected
+  under applicable federal, state, or local law.&nbsp; View the&nbsp; EEOC’s Know
+  Your Rights poster and its supplement &nbsp;and the&nbsp; pay transparency statement
+  . &nbsp; BlackRock is committed to full inclusion of all qualified individuals and
+  to providing reasonable accommodations or job modifications for individuals with
+  disabilities. If reasonable accommodation/adjustments are needed throughout the
+  employment process, please email Disability.Assistance@blackrock.com . All requests
+  are treated in line with our&nbsp; privacy policy . BlackRock will consider for
+  employment qualified applicants with arrest or conviction records in a manner consistent
+  with the requirements of the law, including any applicable fair chance law.'
+postedDate: '2026-03-09'
+salary: USD 110,000 - 138,000
+id: '0'
+is_gtm_technical: true
+tech_stack:
+- Python
+- AWS
+- Azure
+- Terraform
+- Ansible
+min_years_exp: 4
+salary_min: null
+salary_max: null
+reason: The role involves automation, AI-assisted operational tooling, and cloud platforms,
+  indicating a technical focus relevant to GTM.

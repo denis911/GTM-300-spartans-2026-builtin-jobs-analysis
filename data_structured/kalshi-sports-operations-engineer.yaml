@@ -1,0 +1,379 @@
+title: Sports Operations Engineer
+company: Kalshi
+category:
+- Fintech
+- Payments
+- Financial Services
+location: New York, New York, USA
+date_posted: '2026-03-08'
+description_html: '<b><strong>Sports Operations Engineer - Kalshi</strong></b><b><strong>Kalshi
+  is defining a new category</strong></b><p>Kalshi has defined a new category: prediction
+  markets. Kalshi allows people to trade on the outcome of any events and turn any
+  question about the future into a financial asset. Kalshi fought for years and legalized
+  prediction markets in the US for the first time in history. Kalshi is currently
+  the fastest growing financial market in America, and has thousands of markets across
+  politics, economics, financials, weather, tech, AI, culture and more.</p><p>We believe
+  prediction markets have the potential to be the largest financial market because
+  they turn anything into a financial position.</p><p><strong>Our vision:</strong>
+  well… build the largest financial market on the planet.</p><p><strong>Our mission:</strong>
+  bring more truth to the world through the power of markets.</p><p>Building a new
+  category is hard… like really hard. But it''s beautiful and deeply fulfilling. Our
+  culture is simple: we hire really talented people, work really hard, and enjoy the
+  climb. We are looking for ambitious and exceptional people to join our (relatively
+  small) team to help us build the next generation of financial markets.</p><b><strong>Role
+  Roadmap</strong></b><p>As a Sports Operations Engineer at Kalshi, you''ll be the
+  technical force behind our sports markets infrastructure. You''ll build and maintain
+  the automation systems that power thousands of sports markets across all major leagues.
+  This role combines deep sports knowledge with strong engineering skills to create
+  scalable solutions for market listing, monitoring, and settlement. We''re scaling
+  rapidly, which means your role will evolve and grow with the company; your initial
+  responsibilities will include:</p><p><strong>Automation Development:</strong> Design
+  and build Python automation scripts that list, update, and determine sports markets
+  at scale. Create intelligent systems that handle pre-game, in-play, and futures
+  markets across NFL, NBA, MLB, NHL, MLS, NCAA, and international competitions without
+  manual intervention.</p><p><strong>Data Pipeline Architecture:</strong> Build robust
+  data pipelines that ingest, process, and structure large volumes of sports data
+  from multiple feeds. Design systems that handle real-time game data, player statistics,
+  injury reports, weather updates, and official league sources while maintaining data
+  integrity and low latency.</p><p><strong>DAG &amp; Workflow Orchestration:</strong>
+  Implement and maintain complex DAGs for orchestrating market operations workflows.
+  Design fault-tolerant systems that handle dependencies between data ingestion, market
+  creation, live updates, and settlement processes across thousands of concurrent
+  sporting events.</p><p><strong>Scheduled Job Management:</strong> Develop and maintain
+  cron jobs and scheduled tasks that automatically list markets at optimal times,
+  update odds based on market conditions, and settle markets immediately after game
+  completion. Ensure reliable execution during high-volume periods like NFL Sundays.</p><p><strong>Internal
+  Tooling Ownership:</strong> Own and evolve internal tools used by the Market Operations
+  team. Build intuitive interfaces for market management, settlement verification,
+  and operational monitoring. Gather requirements from operators and continuously
+  improve tooling to increase efficiency and reduce errors.</p><p><strong>Sports Logic
+  Implementation:</strong> Translate complex sports rules and edge cases into code.
+  Build systems that understand overtime rules, tiebreakers, playoff scenarios, and
+  sport-specific nuances. Implement logic for handling postponements, suspensions,
+  protests, and stat corrections across different leagues.</p><p><strong>Real-time
+  Processing Systems:</strong> Create systems that process live game feeds and trigger
+  appropriate market actions in real-time. Build monitoring and alerting systems that
+  detect anomalies, data discrepancies, or unusual game situations requiring intervention.</p><p><strong>Settlement
+  Automation:</strong> Develop automated settlement systems that accurately determine
+  market outcomes based on official results. Implement verification layers that cross-reference
+  multiple data sources and flag potential discrepancies for review.</p><p><strong>Performance
+  Optimization:</strong> Continuously improve system performance to handle increasing
+  market volumes. Optimize database queries, implement caching strategies, and ensure
+  our infrastructure scales smoothly during peak trading periods.</p><p><strong>Cross-functional
+  Engineering:</strong> Collaborate with Product, Contracts, and broader Engineering
+  teams to integrate sports operations systems with Kalshi''s core platform. Design
+  APIs and services that enable seamless market operations.</p><b><strong>Qualifications</strong></b><p>To
+  excel in this role, you should possess the following qualifications and skills:</p><p><strong>Bachelor''s
+  degree in Computer Science, Data Science, or related technical field.</strong></p><ul><li><strong>1-3
+  years of experience as a software engineer</strong> with a proven track record of
+  building production systems.</li><li><strong>Strong proficiency in Python and JavaScript</strong>
+  with experience building automation scripts, data processing systems, and web applications.</li><li><strong>Experience
+  with DAG frameworks</strong> (Airflow, Prefect, Dagster) for orchestrating complex
+  workflows and data pipelines.</li><li><strong>Expertise with cron jobs and scheduled
+  task management</strong> in production environments, including monitoring and error
+  handling.</li><li><strong>Experience pulling, processing, and structuring large
+  datasets</strong> from APIs, webhooks, and real-time data feeds. Familiarity with
+  data formats common in sports data (JSON, XML, WebSocket streams).</li><li><strong>Proven
+  ability to build automation and data pipelines</strong> that handle high-volume,
+  time-sensitive operations with strong error handling and recovery mechanisms.</li><li><strong>Track
+  record of making continuous tooling improvements</strong> and building internal
+  products that scale with team needs.</li><li><strong>Product ownership mentality</strong>
+  with experience gathering requirements, prioritizing features, and delivering tools
+  that solve real operational problems.</li><li><strong>Strong knowledge of sports
+  and sports trading operations</strong> including understanding of different market
+  types, settlement rules, and common edge cases across major sports leagues.</li><li><strong>Experience
+  with sports data providers</strong> is strongly preferred.</li><li><strong>Database
+  expertise</strong> with both SQL and NoSQL systems for storing and querying sports
+  data efficiently.</li><li><strong>Experience with real-time systems</strong> including
+  WebSockets, event streaming, and message queues.</li><li><strong>Strong debugging
+  and troubleshooting skills</strong> with ability to quickly diagnose and fix issues
+  in production systems.</li><li><strong>Excellent communication skills</strong> to
+  work effectively with non-technical operations team members and translate requirements
+  into technical solutions.</li><li><strong>Ability to work flexible hours</strong>
+  including on-call rotations to support live sporting events across different time
+  zones.</li><li><strong>Passion for sports</strong> combined with technical excellence
+  and a commitment to building world-class market infrastructure.</li></ul><b><strong>NYC
+  Pay Transparency Disclosure</strong></b><p>Salary Range: $100,000 to $150,000 annually
+  plus equity and benefits. This salary range is based on the current available market
+  data, and represents the expected salary range for this role. Kalshi has minimal
+  hierarchy and few titles, but has broad ranges of experience represented within
+  roles. Should you have compensation expectations that exceed these bands, we''d
+  love to hear from you and would welcome you to reach out to further discuss.</p><b><strong>Our
+  Culture</strong></b><p>Meritocracy is at our core, and we value people who take
+  ownership and figure (usually hard) things out. We dream big. We love our craft
+  deeply and are proud of what we put out in the world. We are committed to our vision
+  of building something big… but also useful: a product that brings more truth through
+  the power of markets.</p><p>Kalshians are Kalshi''s most important asset: we pick
+  Kalshians carefully, so we trust them fully on day 1.</p><b><strong>Commitment to
+  Equal Opportunity</strong></b><p>Kalshi is committed to creating a culture of inclusion
+  and belonging, and we are proud to be an equal opportunity employer. We believe
+  it is our collective responsibility to uphold these values and encourage candidates
+  from all backgrounds to join us in our mission. All qualified applicants will be
+  treated with respect and receive equal consideration for employment without regard
+  to race, color, creed, religion, sex, gender identity, sexual orientation, national
+  origin, disability, uniform service, veteran status, age, or any other protected
+  characteristic per federal, state, or local law. If you are passionate about what
+  you do and want to use your talents to support our mission and values, we''d love
+  to hear from you.</p><p><b>Commitment to Equal Opportunity</b><p>Kalshi is committed
+  to creating a culture of inclusion and belonging, and we are proud to be an equal
+  opportunity employer. We believe it is our collective responsibility to uphold these
+  values and encourage candidates from all backgrounds to join us in our mission.
+  All qualified applicants will be treated with respect and receive equal consideration
+  for employment without regard to race, color, creed, religion, sex, gender identity,
+  sexual orientation, national origin, disability, uniform service, veteran status,
+  age, or any other protected characteristic per federal, state, or local law. If
+  you are passionate about what you do and want to use your talents to support our
+  mission and values, we’d love to hear from you.</p></p>'
+description_text: 'Sports Operations Engineer - Kalshi Kalshi is defining a new category
+  Kalshi has defined a new category: prediction markets. Kalshi allows people to trade
+  on the outcome of any events and turn any question about the future into a financial
+  asset. Kalshi fought for years and legalized prediction markets in the US for the
+  first time in history. Kalshi is currently the fastest growing financial market
+  in America, and has thousands of markets across politics, economics, financials,
+  weather, tech, AI, culture and more. We believe prediction markets have the potential
+  to be the largest financial market because they turn anything into a financial position.
+  Our vision: well… build the largest financial market on the planet. Our mission:
+  bring more truth to the world through the power of markets. Building a new category
+  is hard… like really hard. But it''s beautiful and deeply fulfilling. Our culture
+  is simple: we hire really talented people, work really hard, and enjoy the climb.
+  We are looking for ambitious and exceptional people to join our (relatively small)
+  team to help us build the next generation of financial markets. Role Roadmap As
+  a Sports Operations Engineer at Kalshi, you''ll be the technical force behind our
+  sports markets infrastructure. You''ll build and maintain the automation systems
+  that power thousands of sports markets across all major leagues. This role combines
+  deep sports knowledge with strong engineering skills to create scalable solutions
+  for market listing, monitoring, and settlement. We''re scaling rapidly, which means
+  your role will evolve and grow with the company; your initial responsibilities will
+  include: Automation Development: Design and build Python automation scripts that
+  list, update, and determine sports markets at scale. Create intelligent systems
+  that handle pre-game, in-play, and futures markets across NFL, NBA, MLB, NHL, MLS,
+  NCAA, and international competitions without manual intervention. Data Pipeline
+  Architecture: Build robust data pipelines that ingest, process, and structure large
+  volumes of sports data from multiple feeds. Design systems that handle real-time
+  game data, player statistics, injury reports, weather updates, and official league
+  sources while maintaining data integrity and low latency. DAG &amp; Workflow Orchestration:
+  Implement and maintain complex DAGs for orchestrating market operations workflows.
+  Design fault-tolerant systems that handle dependencies between data ingestion, market
+  creation, live updates, and settlement processes across thousands of concurrent
+  sporting events. Scheduled Job Management: Develop and maintain cron jobs and scheduled
+  tasks that automatically list markets at optimal times, update odds based on market
+  conditions, and settle markets immediately after game completion. Ensure reliable
+  execution during high-volume periods like NFL Sundays. Internal Tooling Ownership:
+  Own and evolve internal tools used by the Market Operations team. Build intuitive
+  interfaces for market management, settlement verification, and operational monitoring.
+  Gather requirements from operators and continuously improve tooling to increase
+  efficiency and reduce errors. Sports Logic Implementation: Translate complex sports
+  rules and edge cases into code. Build systems that understand overtime rules, tiebreakers,
+  playoff scenarios, and sport-specific nuances. Implement logic for handling postponements,
+  suspensions, protests, and stat corrections across different leagues. Real-time
+  Processing Systems: Create systems that process live game feeds and trigger appropriate
+  market actions in real-time. Build monitoring and alerting systems that detect anomalies,
+  data discrepancies, or unusual game situations requiring intervention. Settlement
+  Automation: Develop automated settlement systems that accurately determine market
+  outcomes based on official results. Implement verification layers that cross-reference
+  multiple data sources and flag potential discrepancies for review. Performance Optimization:
+  Continuously improve system performance to handle increasing market volumes. Optimize
+  database queries, implement caching strategies, and ensure our infrastructure scales
+  smoothly during peak trading periods. Cross-functional Engineering: Collaborate
+  with Product, Contracts, and broader Engineering teams to integrate sports operations
+  systems with Kalshi''s core platform. Design APIs and services that enable seamless
+  market operations. Qualifications To excel in this role, you should possess the
+  following qualifications and skills: Bachelor''s degree in Computer Science, Data
+  Science, or related technical field. 1-3 years of experience as a software engineer
+  with a proven track record of building production systems. Strong proficiency in
+  Python and JavaScript with experience building automation scripts, data processing
+  systems, and web applications. Experience with DAG frameworks (Airflow, Prefect,
+  Dagster) for orchestrating complex workflows and data pipelines. Expertise with
+  cron jobs and scheduled task management in production environments, including monitoring
+  and error handling. Experience pulling, processing, and structuring large datasets
+  from APIs, webhooks, and real-time data feeds. Familiarity with data formats common
+  in sports data (JSON, XML, WebSocket streams). Proven ability to build automation
+  and data pipelines that handle high-volume, time-sensitive operations with strong
+  error handling and recovery mechanisms. Track record of making continuous tooling
+  improvements and building internal products that scale with team needs. Product
+  ownership mentality with experience gathering requirements, prioritizing features,
+  and delivering tools that solve real operational problems. Strong knowledge of sports
+  and sports trading operations including understanding of different market types,
+  settlement rules, and common edge cases across major sports leagues. Experience
+  with sports data providers is strongly preferred. Database expertise with both SQL
+  and NoSQL systems for storing and querying sports data efficiently. Experience with
+  real-time systems including WebSockets, event streaming, and message queues. Strong
+  debugging and troubleshooting skills with ability to quickly diagnose and fix issues
+  in production systems. Excellent communication skills to work effectively with non-technical
+  operations team members and translate requirements into technical solutions. Ability
+  to work flexible hours including on-call rotations to support live sporting events
+  across different time zones. Passion for sports combined with technical excellence
+  and a commitment to building world-class market infrastructure. NYC Pay Transparency
+  Disclosure Salary Range: $100,000 to $150,000 annually plus equity and benefits.
+  This salary range is based on the current available market data, and represents
+  the expected salary range for this role. Kalshi has minimal hierarchy and few titles,
+  but has broad ranges of experience represented within roles. Should you have compensation
+  expectations that exceed these bands, we''d love to hear from you and would welcome
+  you to reach out to further discuss. Our Culture Meritocracy is at our core, and
+  we value people who take ownership and figure (usually hard) things out. We dream
+  big. We love our craft deeply and are proud of what we put out in the world. We
+  are committed to our vision of building something big… but also useful: a product
+  that brings more truth through the power of markets. Kalshians are Kalshi''s most
+  important asset: we pick Kalshians carefully, so we trust them fully on day 1. Commitment
+  to Equal Opportunity Kalshi is committed to creating a culture of inclusion and
+  belonging, and we are proud to be an equal opportunity employer. We believe it is
+  our collective responsibility to uphold these values and encourage candidates from
+  all backgrounds to join us in our mission. All qualified applicants will be treated
+  with respect and receive equal consideration for employment without regard to race,
+  color, creed, religion, sex, gender identity, sexual orientation, national origin,
+  disability, uniform service, veteran status, age, or any other protected characteristic
+  per federal, state, or local law. If you are passionate about what you do and want
+  to use your talents to support our mission and values, we''d love to hear from you.
+  Commitment to Equal Opportunity Kalshi is committed to creating a culture of inclusion
+  and belonging, and we are proud to be an equal opportunity employer. We believe
+  it is our collective responsibility to uphold these values and encourage candidates
+  from all backgrounds to join us in our mission. All qualified applicants will be
+  treated with respect and receive equal consideration for employment without regard
+  to race, color, creed, religion, sex, gender identity, sexual orientation, national
+  origin, disability, uniform service, veteran status, age, or any other protected
+  characteristic per federal, state, or local law. If you are passionate about what
+  you do and want to use your talents to support our mission and values, we’d love
+  to hear from you.'
+salary_json_min: 100000
+salary_json_max: 150000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Kalshi is the largest legal prediction market in the U.S., enabling
+  traders to buy and sell contracts on the outcome of real-world events- from interest
+  rate decisions and inflation numbers to whether a bill passes Congress or a major
+  company CEO steps down. Approved by the CFTC, Kalshi created a new asset class called
+  event contracts, which allow market participants to hedge against uncertainty or
+  capitalize on upcoming events with economic impact. It's the first platform to bring
+  this level of legitimacy and accessibility to the prediction market space.Backed
+  by Sequoia, Y Combinator, Charles Schwab, and Henry Kravis, Kalshi is bridging the
+  gap between traditional finance and real-world speculation.Kalshi markets are now
+  available on Robinhood and Webull, making event trading more accessible than ever.
+url: https://builtin.com/job/sports-operations-engineer/7072401
+source: builtin.com
+description: 'Sports Operations Engineer - Kalshi Kalshi is defining a new category
+  Kalshi has defined a new category: prediction markets. Kalshi allows people to trade
+  on the outcome of any events and turn any question about the future into a financial
+  asset. Kalshi fought for years and legalized prediction markets in the US for the
+  first time in history. Kalshi is currently the fastest growing financial market
+  in America, and has thousands of markets across politics, economics, financials,
+  weather, tech, AI, culture and more. We believe prediction markets have the potential
+  to be the largest financial market because they turn anything into a financial position.
+  Our vision: well… build the largest financial market on the planet. Our mission:
+  bring more truth to the world through the power of markets. Building a new category
+  is hard… like really hard. But it''s beautiful and deeply fulfilling. Our culture
+  is simple: we hire really talented people, work really hard, and enjoy the climb.
+  We are looking for ambitious and exceptional people to join our (relatively small)
+  team to help us build the next generation of financial markets. Role Roadmap As
+  a Sports Operations Engineer at Kalshi, you''ll be the technical force behind our
+  sports markets infrastructure. You''ll build and maintain the automation systems
+  that power thousands of sports markets across all major leagues. This role combines
+  deep sports knowledge with strong engineering skills to create scalable solutions
+  for market listing, monitoring, and settlement. We''re scaling rapidly, which means
+  your role will evolve and grow with the company; your initial responsibilities will
+  include: Automation Development: Design and build Python automation scripts that
+  list, update, and determine sports markets at scale. Create intelligent systems
+  that handle pre-game, in-play, and futures markets across NFL, NBA, MLB, NHL, MLS,
+  NCAA, and international competitions without manual intervention. Data Pipeline
+  Architecture: Build robust data pipelines that ingest, process, and structure large
+  volumes of sports data from multiple feeds. Design systems that handle real-time
+  game data, player statistics, injury reports, weather updates, and official league
+  sources while maintaining data integrity and low latency. DAG &amp; Workflow Orchestration:
+  Implement and maintain complex DAGs for orchestrating market operations workflows.
+  Design fault-tolerant systems that handle dependencies between data ingestion, market
+  creation, live updates, and settlement processes across thousands of concurrent
+  sporting events. Scheduled Job Management: Develop and maintain cron jobs and scheduled
+  tasks that automatically list markets at optimal times, update odds based on market
+  conditions, and settle markets immediately after game completion. Ensure reliable
+  execution during high-volume periods like NFL Sundays. Internal Tooling Ownership:
+  Own and evolve internal tools used by the Market Operations team. Build intuitive
+  interfaces for market management, settlement verification, and operational monitoring.
+  Gather requirements from operators and continuously improve tooling to increase
+  efficiency and reduce errors. Sports Logic Implementation: Translate complex sports
+  rules and edge cases into code. Build systems that understand overtime rules, tiebreakers,
+  playoff scenarios, and sport-specific nuances. Implement logic for handling postponements,
+  suspensions, protests, and stat corrections across different leagues. Real-time
+  Processing Systems: Create systems that process live game feeds and trigger appropriate
+  market actions in real-time. Build monitoring and alerting systems that detect anomalies,
+  data discrepancies, or unusual game situations requiring intervention. Settlement
+  Automation: Develop automated settlement systems that accurately determine market
+  outcomes based on official results. Implement verification layers that cross-reference
+  multiple data sources and flag potential discrepancies for review. Performance Optimization:
+  Continuously improve system performance to handle increasing market volumes. Optimize
+  database queries, implement caching strategies, and ensure our infrastructure scales
+  smoothly during peak trading periods. Cross-functional Engineering: Collaborate
+  with Product, Contracts, and broader Engineering teams to integrate sports operations
+  systems with Kalshi''s core platform. Design APIs and services that enable seamless
+  market operations. Qualifications To excel in this role, you should possess the
+  following qualifications and skills: Bachelor''s degree in Computer Science, Data
+  Science, or related technical field. 1-3 years of experience as a software engineer
+  with a proven track record of building production systems. Strong proficiency in
+  Python and JavaScript with experience building automation scripts, data processing
+  systems, and web applications. Experience with DAG frameworks (Airflow, Prefect,
+  Dagster) for orchestrating complex workflows and data pipelines. Expertise with
+  cron jobs and scheduled task management in production environments, including monitoring
+  and error handling. Experience pulling, processing, and structuring large datasets
+  from APIs, webhooks, and real-time data feeds. Familiarity with data formats common
+  in sports data (JSON, XML, WebSocket streams). Proven ability to build automation
+  and data pipelines that handle high-volume, time-sensitive operations with strong
+  error handling and recovery mechanisms. Track record of making continuous tooling
+  improvements and building internal products that scale with team needs. Product
+  ownership mentality with experience gathering requirements, prioritizing features,
+  and delivering tools that solve real operational problems. Strong knowledge of sports
+  and sports trading operations including understanding of different market types,
+  settlement rules, and common edge cases across major sports leagues. Experience
+  with sports data providers is strongly preferred. Database expertise with both SQL
+  and NoSQL systems for storing and querying sports data efficiently. Experience with
+  real-time systems including WebSockets, event streaming, and message queues. Strong
+  debugging and troubleshooting skills with ability to quickly diagnose and fix issues
+  in production systems. Excellent communication skills to work effectively with non-technical
+  operations team members and translate requirements into technical solutions. Ability
+  to work flexible hours including on-call rotations to support live sporting events
+  across different time zones. Passion for sports combined with technical excellence
+  and a commitment to building world-class market infrastructure. NYC Pay Transparency
+  Disclosure Salary Range: $100,000 to $150,000 annually plus equity and benefits.
+  This salary range is based on the current available market data, and represents
+  the expected salary range for this role. Kalshi has minimal hierarchy and few titles,
+  but has broad ranges of experience represented within roles. Should you have compensation
+  expectations that exceed these bands, we''d love to hear from you and would welcome
+  you to reach out to further discuss. Our Culture Meritocracy is at our core, and
+  we value people who take ownership and figure (usually hard) things out. We dream
+  big. We love our craft deeply and are proud of what we put out in the world. We
+  are committed to our vision of building something big… but also useful: a product
+  that brings more truth through the power of markets. Kalshians are Kalshi''s most
+  important asset: we pick Kalshians carefully, so we trust them fully on day 1. Commitment
+  to Equal Opportunity Kalshi is committed to creating a culture of inclusion and
+  belonging, and we are proud to be an equal opportunity employer. We believe it is
+  our collective responsibility to uphold these values and encourage candidates from
+  all backgrounds to join us in our mission. All qualified applicants will be treated
+  with respect and receive equal consideration for employment without regard to race,
+  color, creed, religion, sex, gender identity, sexual orientation, national origin,
+  disability, uniform service, veteran status, age, or any other protected characteristic
+  per federal, state, or local law. If you are passionate about what you do and want
+  to use your talents to support our mission and values, we''d love to hear from you.
+  Commitment to Equal Opportunity Kalshi is committed to creating a culture of inclusion
+  and belonging, and we are proud to be an equal opportunity employer. We believe
+  it is our collective responsibility to uphold these values and encourage candidates
+  from all backgrounds to join us in our mission. All qualified applicants will be
+  treated with respect and receive equal consideration for employment without regard
+  to race, color, creed, religion, sex, gender identity, sexual orientation, national
+  origin, disability, uniform service, veteran status, age, or any other protected
+  characteristic per federal, state, or local law. If you are passionate about what
+  you do and want to use your talents to support our mission and values, we’d love
+  to hear from you.'
+postedDate: '2026-03-08'
+salary: USD 100,000 - 150,000
+id: '6'
+is_gtm_technical: true
+tech_stack:
+- Python
+- AI
+min_years_exp: 3
+salary_min: null
+salary_max: null
+reason: Role focuses on developing market automation systems and handling data pipelines,
+  which aligns with GTM efforts.

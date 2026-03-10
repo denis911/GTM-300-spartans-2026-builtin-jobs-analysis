@@ -1,0 +1,223 @@
+title: GTM Engineer
+company: SolarWinds
+category:
+- Information Technology
+- Security
+- Software
+location: Austin, Texas, USA
+date_posted: '2026-03-03'
+description_html: '<p><p>At SolarWinds, we’re a people-first company. Our purpose
+  is to enrich the lives of the people we serve—including our employees, customers,
+  shareholders, partners, and communities. Join us in our mission to help customers
+  accelerate business transformation with simple, powerful, and secure solutions.</p><p>The
+  ideal candidate thrives in an innovative, fast-paced environment and is collaborative,
+  accountable, ready, and empathetic. We’re looking for individuals who believe they
+  can accomplish more as a team and create lasting growth for themselves and others.
+  We hire based on attitude, competency, and commitment. Solarians are ready to advance
+  our world-class solutions in a fast-paced environment and accept the challenge to
+  lead with purpose. If you’re looking to build your career with an exceptional team,
+  you’ve come to the right place. Join SolarWinds and grow with us!</p></p><p><strong>Overview</strong></p><p>SolarWinds
+  is undergoing a significant transformation toward our cloud future. This pivotal
+  moment requires a new team of expert technology strategists to deliver against our
+  strategic vision. This role focuses on scaling AI-powered agents and automation
+  tools to support the demand generation campaigns for our Observability, Service
+  Management, and Database subscription portfolio.</p><p>Team &amp; Reporting: This
+  position is a key part of the GTM Technology team within Marketing Strategy &amp;
+  Operations. The GTM Tech team supports both Marketing and Sales by providing tools,
+  enablement, and insights to manage the overall lead flow across inbound and outbound
+  activities.</p><p><strong>Core Responsibilities</strong></p><ul><li>The GTM Engineer
+  will be responsible for the full lifecycle of AI and automation solutions, from
+  design to governance.</li><li>AI Engineering &amp; Automation</li><li>Design, develop,
+  and deploy AI agents and machine learning orchestration patterns (e.g., prompts,
+  chains, context packs) for GTM functions.</li><li>Build and maintain complex Zapier
+  Canvas automations and high-impact GTM integrations.</li><li>Develop retrieval integrations
+  (e.g., Glean/Genie, transcripts, product telemetry) to ensure agents are grounded
+  with accurate, real-time business context.</li><li>Implement and manage Human-in-the-Loop
+  (HITL) approval workflows for critical processes.</li><li>Build reusable automation
+  modules, templates, and workflow standards for enterprise-wide adoption.</li></ul><p><strong>Operations,
+  Governance, and Reliability</strong></p><ul><li>Establish scalable governance frameworks
+  and processes for AI agent deployment, behavior management, and compliance with
+  ethical and security guidelines.</li><li>Monitor system health, error rates, and
+  uptime, ensuring integration reliability across the GTM stack (Salesforce, Marketo,
+  Outreach, Qualified, 6sense, Slack, Google).</li><li>Define, track, and continuously
+  optimize key performance indicators (KPIs) for agent task accuracy, resolution speed,
+  and measurable business impact (ROI).</li></ul><p><strong>GTM Strategy &amp; Enablement</strong></p><ul><li>Translate
+  sophisticated marketing and sales programs into technical specifications, with a
+  strong emphasis on programmatic execution and evergreen email nurture design.</li><li>Serve
+  as the internal AI evangelist, developing documentation, knowledge bases, and training
+  playbooks to empower cross-functional teams in adopting agentic solutions.</li><li>Work
+  closely with stakeholders in Demand Generation, IT, Security, and Sales to align
+  AI deployments with broader business priorities.</li></ul><p><strong>Required Technical
+  Qualifications</strong></p><ul><li>Experience: 3–5 years in B2B marketing, Revenue
+  Operations, or Sales Strategy, with a deep understanding of lead funnels, ABM principles,
+  and demand generation metrics.</li><li>AI/LLM Proficiency: Proven experience with
+  AI prompt engineering, understanding of agent alignment, and failure mode management
+  in AI systems.</li><li>Data &amp; Systems Literacy: Comfort with structured and
+  unstructured datasets, strong preference for SQL proficiency, and the ability to
+  independently analyze agent performance data.</li><li>Platform Expertise: Proficiency
+  in a range of GTM and automation tools, including:</li><li>CRM (Salesforce/SFDC)</li><li>Marketing
+  Automation Platforms</li><li>Automation Platforms (Zapier, Make, Retool, Relevance
+  AI)</li><li>Familiarity with agent platforms like Glean Agents, Google Agentspace,
+  or similar ecosystems.</li></ul><p><strong>Preferred but Not Required</strong></p><ul><li>Foundational
+  knowledge in Python or JavaScript, or "vibe-coding" aptitude, for managing tool
+  interactions and API-first platforms.</li><li>Experience with LLMs, agent architectures,
+  or agent orchestration frameworks (like LangChain or CrewAI).</li><li>Familiarity
+  with REST APIs and integrating third-party systems.</li><li>Background in no-code/low-code
+  platforms.</li><li><span>Experience implementing MCP frameworks between GTM tools.</span></li></ul><br><p><p>SolarWinds
+  is an Equal Employment Opportunity Employer. SolarWinds will consider all qualified
+  applicants for employment without regard to race, color, religion, sex, age, national
+  origin, sexual orientation, gender identity, marital status, disability, veteran
+  status or any other characteristic protected by law.</p><p>All applications are
+  treated in accordance with the SolarWinds Privacy Notice: https://www.solarwinds.com/applicant-privacy-notice</p></p>'
+description_text: 'At SolarWinds, we’re a people-first company. Our purpose is to
+  enrich the lives of the people we serve—including our employees, customers, shareholders,
+  partners, and communities. Join us in our mission to help customers accelerate business
+  transformation with simple, powerful, and secure solutions. The ideal candidate
+  thrives in an innovative, fast-paced environment and is collaborative, accountable,
+  ready, and empathetic. We’re looking for individuals who believe they can accomplish
+  more as a team and create lasting growth for themselves and others. We hire based
+  on attitude, competency, and commitment. Solarians are ready to advance our world-class
+  solutions in a fast-paced environment and accept the challenge to lead with purpose.
+  If you’re looking to build your career with an exceptional team, you’ve come to
+  the right place. Join SolarWinds and grow with us! Overview SolarWinds is undergoing
+  a significant transformation toward our cloud future. This pivotal moment requires
+  a new team of expert technology strategists to deliver against our strategic vision.
+  This role focuses on scaling AI-powered agents and automation tools to support the
+  demand generation campaigns for our Observability, Service Management, and Database
+  subscription portfolio. Team &amp; Reporting: This position is a key part of the
+  GTM Technology team within Marketing Strategy &amp; Operations. The GTM Tech team
+  supports both Marketing and Sales by providing tools, enablement, and insights to
+  manage the overall lead flow across inbound and outbound activities. Core Responsibilities
+  The GTM Engineer will be responsible for the full lifecycle of AI and automation
+  solutions, from design to governance. AI Engineering &amp; Automation Design, develop,
+  and deploy AI agents and machine learning orchestration patterns (e.g., prompts,
+  chains, context packs) for GTM functions. Build and maintain complex Zapier Canvas
+  automations and high-impact GTM integrations. Develop retrieval integrations (e.g.,
+  Glean/Genie, transcripts, product telemetry) to ensure agents are grounded with
+  accurate, real-time business context. Implement and manage Human-in-the-Loop (HITL)
+  approval workflows for critical processes. Build reusable automation modules, templates,
+  and workflow standards for enterprise-wide adoption. Operations, Governance, and
+  Reliability Establish scalable governance frameworks and processes for AI agent
+  deployment, behavior management, and compliance with ethical and security guidelines.
+  Monitor system health, error rates, and uptime, ensuring integration reliability
+  across the GTM stack (Salesforce, Marketo, Outreach, Qualified, 6sense, Slack, Google).
+  Define, track, and continuously optimize key performance indicators (KPIs) for agent
+  task accuracy, resolution speed, and measurable business impact (ROI). GTM Strategy
+  &amp; Enablement Translate sophisticated marketing and sales programs into technical
+  specifications, with a strong emphasis on programmatic execution and evergreen email
+  nurture design. Serve as the internal AI evangelist, developing documentation, knowledge
+  bases, and training playbooks to empower cross-functional teams in adopting agentic
+  solutions. Work closely with stakeholders in Demand Generation, IT, Security, and
+  Sales to align AI deployments with broader business priorities. Required Technical
+  Qualifications Experience: 3–5 years in B2B marketing, Revenue Operations, or Sales
+  Strategy, with a deep understanding of lead funnels, ABM principles, and demand
+  generation metrics. AI/LLM Proficiency: Proven experience with AI prompt engineering,
+  understanding of agent alignment, and failure mode management in AI systems. Data
+  &amp; Systems Literacy: Comfort with structured and unstructured datasets, strong
+  preference for SQL proficiency, and the ability to independently analyze agent performance
+  data. Platform Expertise: Proficiency in a range of GTM and automation tools, including:
+  CRM (Salesforce/SFDC) Marketing Automation Platforms Automation Platforms (Zapier,
+  Make, Retool, Relevance AI) Familiarity with agent platforms like Glean Agents,
+  Google Agentspace, or similar ecosystems. Preferred but Not Required Foundational
+  knowledge in Python or JavaScript, or "vibe-coding" aptitude, for managing tool
+  interactions and API-first platforms. Experience with LLMs, agent architectures,
+  or agent orchestration frameworks (like LangChain or CrewAI). Familiarity with REST
+  APIs and integrating third-party systems. Background in no-code/low-code platforms.
+  Experience implementing MCP frameworks between GTM tools. SolarWinds is an Equal
+  Employment Opportunity Employer. SolarWinds will consider all qualified applicants
+  for employment without regard to race, color, religion, sex, age, national origin,
+  sexual orientation, gender identity, marital status, disability, veteran status
+  or any other characteristic protected by law. All applications are treated in accordance
+  with the SolarWinds Privacy Notice: https://www.solarwinds.com/applicant-privacy-notice'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: SolarWinds is a leading provider of powerful and affordable IT management
+  software. Our products give organizations worldwide—regardless of type, size, or
+  complexity—the power to monitor and manage their IT services, infrastructures, and
+  applications; whether on-premises, in the cloud, or via hybrid models. We continuously
+  engage with technology professionals—IT service and operations professionals, DevOps
+  professionals, and managed services providers (MSPs)—to understand the challenges
+  they face in maintaining high-performing and highly available IT infrastructures
+  and applications. The insights we gain from them, in places like our THWACK® community,
+  allow us to solve well-understood IT management challenges in the ways technology
+  professionals want them solved. Our focus on the user and commitment to excellence
+  in end-to-end hybrid IT management has established SolarWinds as a worldwide leader
+  in solutions for network and IT service management, application performance, and
+  managed services.
+url: https://builtin.com/job/gtm-engineer/8643440
+source: builtin.com
+description: 'At SolarWinds, we’re a people-first company. Our purpose is to enrich
+  the lives of the people we serve—including our employees, customers, shareholders,
+  partners, and communities. Join us in our mission to help customers accelerate business
+  transformation with simple, powerful, and secure solutions. The ideal candidate
+  thrives in an innovative, fast-paced environment and is collaborative, accountable,
+  ready, and empathetic. We’re looking for individuals who believe they can accomplish
+  more as a team and create lasting growth for themselves and others. We hire based
+  on attitude, competency, and commitment. Solarians are ready to advance our world-class
+  solutions in a fast-paced environment and accept the challenge to lead with purpose.
+  If you’re looking to build your career with an exceptional team, you’ve come to
+  the right place. Join SolarWinds and grow with us! Overview SolarWinds is undergoing
+  a significant transformation toward our cloud future. This pivotal moment requires
+  a new team of expert technology strategists to deliver against our strategic vision.
+  This role focuses on scaling AI-powered agents and automation tools to support the
+  demand generation campaigns for our Observability, Service Management, and Database
+  subscription portfolio. Team &amp; Reporting: This position is a key part of the
+  GTM Technology team within Marketing Strategy &amp; Operations. The GTM Tech team
+  supports both Marketing and Sales by providing tools, enablement, and insights to
+  manage the overall lead flow across inbound and outbound activities. Core Responsibilities
+  The GTM Engineer will be responsible for the full lifecycle of AI and automation
+  solutions, from design to governance. AI Engineering &amp; Automation Design, develop,
+  and deploy AI agents and machine learning orchestration patterns (e.g., prompts,
+  chains, context packs) for GTM functions. Build and maintain complex Zapier Canvas
+  automations and high-impact GTM integrations. Develop retrieval integrations (e.g.,
+  Glean/Genie, transcripts, product telemetry) to ensure agents are grounded with
+  accurate, real-time business context. Implement and manage Human-in-the-Loop (HITL)
+  approval workflows for critical processes. Build reusable automation modules, templates,
+  and workflow standards for enterprise-wide adoption. Operations, Governance, and
+  Reliability Establish scalable governance frameworks and processes for AI agent
+  deployment, behavior management, and compliance with ethical and security guidelines.
+  Monitor system health, error rates, and uptime, ensuring integration reliability
+  across the GTM stack (Salesforce, Marketo, Outreach, Qualified, 6sense, Slack, Google).
+  Define, track, and continuously optimize key performance indicators (KPIs) for agent
+  task accuracy, resolution speed, and measurable business impact (ROI). GTM Strategy
+  &amp; Enablement Translate sophisticated marketing and sales programs into technical
+  specifications, with a strong emphasis on programmatic execution and evergreen email
+  nurture design. Serve as the internal AI evangelist, developing documentation, knowledge
+  bases, and training playbooks to empower cross-functional teams in adopting agentic
+  solutions. Work closely with stakeholders in Demand Generation, IT, Security, and
+  Sales to align AI deployments with broader business priorities. Required Technical
+  Qualifications Experience: 3–5 years in B2B marketing, Revenue Operations, or Sales
+  Strategy, with a deep understanding of lead funnels, ABM principles, and demand
+  generation metrics. AI/LLM Proficiency: Proven experience with AI prompt engineering,
+  understanding of agent alignment, and failure mode management in AI systems. Data
+  &amp; Systems Literacy: Comfort with structured and unstructured datasets, strong
+  preference for SQL proficiency, and the ability to independently analyze agent performance
+  data. Platform Expertise: Proficiency in a range of GTM and automation tools, including:
+  CRM (Salesforce/SFDC) Marketing Automation Platforms Automation Platforms (Zapier,
+  Make, Retool, Relevance AI) Familiarity with agent platforms like Glean Agents,
+  Google Agentspace, or similar ecosystems. Preferred but Not Required Foundational
+  knowledge in Python or JavaScript, or "vibe-coding" aptitude, for managing tool
+  interactions and API-first platforms. Experience with LLMs, agent architectures,
+  or agent orchestration frameworks (like LangChain or CrewAI). Familiarity with REST
+  APIs and integrating third-party systems. Background in no-code/low-code platforms.
+  Experience implementing MCP frameworks between GTM tools. SolarWinds is an Equal
+  Employment Opportunity Employer. SolarWinds will consider all qualified applicants
+  for employment without regard to race, color, religion, sex, age, national origin,
+  sexual orientation, gender identity, marital status, disability, veteran status
+  or any other characteristic protected by law. All applications are treated in accordance
+  with the SolarWinds Privacy Notice: https://www.solarwinds.com/applicant-privacy-notice'
+postedDate: '2026-03-03'
+id: '14'
+is_gtm_technical: true
+tech_stack:
+- Salesforce
+- Marketo
+- Outreach
+min_years_exp: 3
+salary_min: null
+salary_max: null
+reason: Involves managing AI integrations and automations for GTM, indicating a technical
+  engineering role.

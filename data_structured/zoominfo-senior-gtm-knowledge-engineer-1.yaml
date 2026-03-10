@@ -1,0 +1,343 @@
+title: Senior GTM Knowledge Engineer
+company: ZoomInfo
+category:
+- Big Data
+- Information Technology
+- Machine Learning
+- Sales
+- Software
+- Database
+- Generative AI
+location: Bethesda, Maryland, USA
+date_posted: '2026-03-07'
+description_html: '<p><p>ZoomInfo is where careers accelerate. We move fast, think
+  boldly, and empower you to do the best work of your life. You’ll be surrounded by
+  teammates who care deeply, challenge each other, and celebrate wins. With tools
+  that amplify your impact and a culture that backs your ambition, you won’t just
+  contribute. You’ll make things happen–fast.</p></p><br><b>Sr. GTM Knowledge Engineer</b><p>At
+  ZoomInfo, we power business growth through the world’s most comprehensive Go-to-Market
+  Intelligence Platform. With 1,800+ sellers and customer-facing teams engaging prospects
+  and customers every day, instant access to trusted knowledge, learning, and answers
+  is mission-critical.</p><p>As our Sr. GTM Knowledge Engineer, you will design and
+  build the technical infrastructure that enables knowledge delivery across our GTM
+  ecosystem. Sitting at the intersection of Revenue Enablement and Engineering, you
+  will integrate platforms, automate workflows, and develop solutions that enhance
+  search, retrieval, and content delivery,&nbsp; including AI-powered capabilities.</p><p>You’ll
+  partner with AI engineers and cross-functional stakeholders to ensure systems are
+  connected, data is reliable, and knowledge is accessible at the moment of need.
+  This role is ideal for someone who enjoys building, debugging, and improving technical
+  systems while enabling real business impact.</p><b><strong>What You''ll Do:</strong></b><b><strong>Technical
+  Development &amp; Implementation (50%)</strong></b><ul><li>Build and maintain integrations
+  between learning platforms, content management systems, and enablement tools using
+  APIs with webhooks, and modern data tooling (Fivetran, Hightouch).</li><li>Develop
+  front-end interfaces and back-end workflows for content delivery and knowledge retrieval
+  using React, JavaScript, and TypeScript.</li><li>Write scripts (Python, JavaScript,
+  or similar) that integrate with LLMs to automate content workflows and data processes</li><li>Implement
+  AI-powered features for search, tagging, and content recommendations, with experience
+  using AI coding assistants, i.e. Cline, Cursor, Claude Code</li><li>Build and maintain
+  database schemas, queries, and data models for knowledge systems, with experience
+  with Snowflake (preferable but not required to have exposure to dbt modeling and
+  Airflow-based orchestration).</li><li>Develop custom solutions to enhance platform
+  functionality and user experience</li></ul><b><strong>Information Ecosystem Audits
+  &amp; QA (35%)</strong></b><ul><li>Facilitate regular audits of content accuracy,
+  versioning, and metadata quality across all platforms</li><li>Conduct QA testing
+  on integrations, workflows, and automated processes</li><li>Monitor data integrity
+  and identify gaps or inconsistencies in knowledge repositories</li><li>Test and
+  validate AI-enhanced search and retrieval functionality</li><li>Document technical
+  issues and coordinate resolution with appropriate teams</li><li>Establish and maintain
+  QA protocols for content governance and system health</li></ul><b><strong>System
+  Maintenance &amp; Optimization (15%)</strong></b><ul><li>Monitor performance of
+  integrations and automated workflows, preferably using Datadog, Montecarlo, or Pager
+  Duty</li><li>Troubleshoot technical issues and implement fixes</li><li>Maintain
+  documentation for technical implementations and processes</li><li>Support testing
+  and rollout of new technical features</li><li>Track system analytics and identify
+  optimization opportunities</li></ul><b><strong>Working Relationships &amp; Collaboration
+  Model</strong></b><p>This role operates at the intersection of Revenue Enablement
+  strategy and technical execution:</p><p><strong>Primary Accountability:</strong>
+  Revenue Enablement - Learning Experience &amp; Technology team</p><ul><li>Receives
+  strategic direction and priorities from Revenue Enablement leadership</li><li>Translates
+  enablement requirements into technical specifications</li><li>Ensures solutions
+  align with revenue team needs and learning objectives</li></ul><p><strong>Key Technical
+  Partnership:</strong> Enterprise AI Engineering &amp; Technology Teams</p><ul><li>Partners
+  closely with Enterprise AI''s expert engineers and technologists for technical implementation</li><li>Collaborates
+  on architecture, integration patterns, and best practices</li><li>Serves as the
+  enablement liaison to technical teams, bridging business requirements with technical
+  solutions</li><li>Participates in technical planning and sprint activities with
+  engineering partners</li></ul><p><strong>Collaboration Style:</strong></p><ul><li>Acts
+  as a <strong>technical translator</strong> between enablement stakeholders and engineering
+  teams</li><li>Implements solutions based on strategic direction while leveraging
+  engineering expertise</li><li>Maintains strong working relationships across both
+  business and technical functions</li><li>Comfortable working in a collaborative,
+  cross-functional environment</li></ul><b><strong>What You Bring:</strong></b><b><strong>Must-Have
+  Prerequisites</strong></b><p><strong>Education:</strong> Bachelor''s degree in Computer
+  Science, Information Systems, Software Engineering, or related technical field (or
+  equivalent practical experience)</p><p><strong>Experience:</strong> 2-5+ years in
+  a technical development role with hands-on coding experience</p><p><strong>Technical
+  Skills (Required):</strong></p><ul><li><strong>Front-end development:</strong> HTML,
+  CSS, JavaScript (React, Vue, or similar framework experience a plus)</li><li><strong>Back-end
+  development:</strong> Python, Node.js, or similar server-side language</li><li><strong>API
+  development and integration:</strong> RESTful APIs, webhooks, authentication protocols</li><li><strong>Database
+  skills:</strong> SQL, data modeling, query optimization</li><li><strong>Version
+  control:</strong> Git/GitHub</li><li><strong>Scripting and automation:</strong>
+  Python, JavaScript, or Bash</li><li><strong>Data structures and algorithms:</strong>
+  Strong foundational knowledge</li></ul><p><strong>Platform Experience:</strong></p><ul><li>Experience
+  integrating with third-party platforms via APIs</li><li>Familiarity with workflow
+  automation tools (Zapier, Make, n8n, or similar)</li><li>Basic understanding of
+  enterprise software systems</li></ul><b><strong>Preferred Qualifications</strong></b><ul><li><strong>Experience
+  working with CMS, LMS, or CRM systems</strong> (Salesforce, HubSpot, WordPress,
+  Contentful, Moodle, Canvas, etc.)</li><li>Experience with AI/ML APIs (OpenAI, Anthropic,
+  or enterprise AI platforms)</li><li>Familiarity with enablement or learning platforms
+  (Allego, Seismic, Highspot, etc.)</li><li>Experience with content databases (Notion
+  API, Airtable, Google Drive API)</li><li>Knowledge of search technologies (Elasticsearch,
+  Algolia, vector databases)</li><li>Background in SaaS or B2B technology companies</li></ul><p>#LI-AP3<br>#LI-Hybrid</p><br><p><p><p><p>Actual
+  compensation offered will be based on factors such as the candidate’s work location,
+  qualifications, skills, experience and/or training. Your recruiter can share more
+  information about the specific salary range for your desired work location during
+  the hiring process. We want our employees and their families to thrive.</p><p>In
+  addition to comprehensive benefits we offer holistic mind, body and lifestyle programs
+  designed for overall well-being. Learn more about ZoomInfo benefits here.</p></p><p>Below
+  is the US base salary for this position. Additional compensation such as Bonus,
+  Commission, Equity and other benefits may also apply.</p><p><span>$103,320</span><span>—</span><span>$162,360
+  USD</span></p></p></p><p><p><strong>About us:</strong>&nbsp;</p><p>ZoomInfo (NASDAQ:
+  GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow
+  faster with AI-ready insights, trusted data, and advanced automation. Its solutions
+  provide more than 35,000 companies worldwide with a complete view of their customers,
+  making every seller their best seller.</p><p>ZoomInfo is committed to protecting
+  your privacy when you apply for jobs with us. Please review our Job Applicant Privacy
+  Notice for more details on how we handle your personal information.</p><p>ZoomInfo
+  may use a software-based assessment as part of the recruitment process. More information
+  about this tool, including the results of the most recent bias audit, is available
+  here.</p><p>ZoomInfo is proud to be an equal opportunity employer, hiring based
+  on qualifications, merit, and business needs, and does not discriminate based on
+  protected status. We welcome all applicants and are committed to providing equal
+  employment opportunities regardless of sex, race, age, color, national origin, sexual
+  orientation, gender identity, marital status, disability status, religion, protected
+  military or veteran status, medical condition, or any other characteristic protected
+  by applicable law. We also consider qualified candidates with criminal histories
+  in accordance with legal requirements.</p><p>For Massachusetts Applicants: It is
+  unlawful in Massachusetts to require or administer a lie detector test as a condition
+  of employment or continued employment. An employer who violates this law shall be
+  subject to criminal penalties and civil liability. ZoomInfo does not administer
+  lie detector tests to applicants in any location.</p></p>'
+description_text: 'ZoomInfo is where careers accelerate. We move fast, think boldly,
+  and empower you to do the best work of your life. You’ll be surrounded by teammates
+  who care deeply, challenge each other, and celebrate wins. With tools that amplify
+  your impact and a culture that backs your ambition, you won’t just contribute. You’ll
+  make things happen–fast. Sr. GTM Knowledge Engineer At ZoomInfo, we power business
+  growth through the world’s most comprehensive Go-to-Market Intelligence Platform.
+  With 1,800+ sellers and customer-facing teams engaging prospects and customers every
+  day, instant access to trusted knowledge, learning, and answers is mission-critical.
+  As our Sr. GTM Knowledge Engineer, you will design and build the technical infrastructure
+  that enables knowledge delivery across our GTM ecosystem. Sitting at the intersection
+  of Revenue Enablement and Engineering, you will integrate platforms, automate workflows,
+  and develop solutions that enhance search, retrieval, and content delivery,&nbsp;
+  including AI-powered capabilities. You’ll partner with AI engineers and cross-functional
+  stakeholders to ensure systems are connected, data is reliable, and knowledge is
+  accessible at the moment of need. This role is ideal for someone who enjoys building,
+  debugging, and improving technical systems while enabling real business impact.
+  What You''ll Do: Technical Development &amp; Implementation (50%) Build and maintain
+  integrations between learning platforms, content management systems, and enablement
+  tools using APIs with webhooks, and modern data tooling (Fivetran, Hightouch). Develop
+  front-end interfaces and back-end workflows for content delivery and knowledge retrieval
+  using React, JavaScript, and TypeScript. Write scripts (Python, JavaScript, or similar)
+  that integrate with LLMs to automate content workflows and data processes Implement
+  AI-powered features for search, tagging, and content recommendations, with experience
+  using AI coding assistants, i.e. Cline, Cursor, Claude Code Build and maintain database
+  schemas, queries, and data models for knowledge systems, with experience with Snowflake
+  (preferable but not required to have exposure to dbt modeling and Airflow-based
+  orchestration). Develop custom solutions to enhance platform functionality and user
+  experience Information Ecosystem Audits &amp; QA (35%) Facilitate regular audits
+  of content accuracy, versioning, and metadata quality across all platforms Conduct
+  QA testing on integrations, workflows, and automated processes Monitor data integrity
+  and identify gaps or inconsistencies in knowledge repositories Test and validate
+  AI-enhanced search and retrieval functionality Document technical issues and coordinate
+  resolution with appropriate teams Establish and maintain QA protocols for content
+  governance and system health System Maintenance &amp; Optimization (15%) Monitor
+  performance of integrations and automated workflows, preferably using Datadog, Montecarlo,
+  or Pager Duty Troubleshoot technical issues and implement fixes Maintain documentation
+  for technical implementations and processes Support testing and rollout of new technical
+  features Track system analytics and identify optimization opportunities Working
+  Relationships &amp; Collaboration Model This role operates at the intersection of
+  Revenue Enablement strategy and technical execution: Primary Accountability: Revenue
+  Enablement - Learning Experience &amp; Technology team Receives strategic direction
+  and priorities from Revenue Enablement leadership Translates enablement requirements
+  into technical specifications Ensures solutions align with revenue team needs and
+  learning objectives Key Technical Partnership: Enterprise AI Engineering &amp; Technology
+  Teams Partners closely with Enterprise AI''s expert engineers and technologists
+  for technical implementation Collaborates on architecture, integration patterns,
+  and best practices Serves as the enablement liaison to technical teams, bridging
+  business requirements with technical solutions Participates in technical planning
+  and sprint activities with engineering partners Collaboration Style: Acts as a technical
+  translator between enablement stakeholders and engineering teams Implements solutions
+  based on strategic direction while leveraging engineering expertise Maintains strong
+  working relationships across both business and technical functions Comfortable working
+  in a collaborative, cross-functional environment What You Bring: Must-Have Prerequisites
+  Education: Bachelor''s degree in Computer Science, Information Systems, Software
+  Engineering, or related technical field (or equivalent practical experience) Experience:
+  2-5+ years in a technical development role with hands-on coding experience Technical
+  Skills (Required): Front-end development: HTML, CSS, JavaScript (React, Vue, or
+  similar framework experience a plus) Back-end development: Python, Node.js, or similar
+  server-side language API development and integration: RESTful APIs, webhooks, authentication
+  protocols Database skills: SQL, data modeling, query optimization Version control:
+  Git/GitHub Scripting and automation: Python, JavaScript, or Bash Data structures
+  and algorithms: Strong foundational knowledge Platform Experience: Experience integrating
+  with third-party platforms via APIs Familiarity with workflow automation tools (Zapier,
+  Make, n8n, or similar) Basic understanding of enterprise software systems Preferred
+  Qualifications Experience working with CMS, LMS, or CRM systems (Salesforce, HubSpot,
+  WordPress, Contentful, Moodle, Canvas, etc.) Experience with AI/ML APIs (OpenAI,
+  Anthropic, or enterprise AI platforms) Familiarity with enablement or learning platforms
+  (Allego, Seismic, Highspot, etc.) Experience with content databases (Notion API,
+  Airtable, Google Drive API) Knowledge of search technologies (Elasticsearch, Algolia,
+  vector databases) Background in SaaS or B2B technology companies #LI-AP3 #LI-Hybrid
+  Actual compensation offered will be based on factors such as the candidate’s work
+  location, qualifications, skills, experience and/or training. Your recruiter can
+  share more information about the specific salary range for your desired work location
+  during the hiring process. We want our employees and their families to thrive. In
+  addition to comprehensive benefits we offer holistic mind, body and lifestyle programs
+  designed for overall well-being. Learn more about ZoomInfo benefits here. Below
+  is the US base salary for this position. Additional compensation such as Bonus,
+  Commission, Equity and other benefits may also apply. $103,320 — $162,360 USD About
+  us: &nbsp; ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that
+  empowers businesses to grow faster with AI-ready insights, trusted data, and advanced
+  automation. Its solutions provide more than 35,000 companies worldwide with a complete
+  view of their customers, making every seller their best seller. ZoomInfo is committed
+  to protecting your privacy when you apply for jobs with us. Please review our Job
+  Applicant Privacy Notice for more details on how we handle your personal information.
+  ZoomInfo may use a software-based assessment as part of the recruitment process.
+  More information about this tool, including the results of the most recent bias
+  audit, is available here. ZoomInfo is proud to be an equal opportunity employer,
+  hiring based on qualifications, merit, and business needs, and does not discriminate
+  based on protected status. We welcome all applicants and are committed to providing
+  equal employment opportunities regardless of sex, race, age, color, national origin,
+  sexual orientation, gender identity, marital status, disability status, religion,
+  protected military or veteran status, medical condition, or any other characteristic
+  protected by applicable law. We also consider qualified candidates with criminal
+  histories in accordance with legal requirements. For Massachusetts Applicants: It
+  is unlawful in Massachusetts to require or administer a lie detector test as a condition
+  of employment or continued employment. An employer who violates this law shall be
+  subject to criminal penalties and civil liability. ZoomInfo does not administer
+  lie detector tests to applicants in any location.'
+salary_json_min: 103320
+salary_json_max: 162360
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: ZoomInfo is the go-to-market (GTM) platform for businesses development
+  and revenue growth. Powered by real-time data and insights, our unified engagement
+  platform helps sales and marketing teams find, acquire, and grow customers.
+url: https://builtin.com/job/senior-gtm-knowledge-engineer/8441306
+source: builtin.com
+description: 'ZoomInfo is where careers accelerate. We move fast, think boldly, and
+  empower you to do the best work of your life. You’ll be surrounded by teammates
+  who care deeply, challenge each other, and celebrate wins. With tools that amplify
+  your impact and a culture that backs your ambition, you won’t just contribute. You’ll
+  make things happen–fast. Sr. GTM Knowledge Engineer At ZoomInfo, we power business
+  growth through the world’s most comprehensive Go-to-Market Intelligence Platform.
+  With 1,800+ sellers and customer-facing teams engaging prospects and customers every
+  day, instant access to trusted knowledge, learning, and answers is mission-critical.
+  As our Sr. GTM Knowledge Engineer, you will design and build the technical infrastructure
+  that enables knowledge delivery across our GTM ecosystem. Sitting at the intersection
+  of Revenue Enablement and Engineering, you will integrate platforms, automate workflows,
+  and develop solutions that enhance search, retrieval, and content delivery,&nbsp;
+  including AI-powered capabilities. You’ll partner with AI engineers and cross-functional
+  stakeholders to ensure systems are connected, data is reliable, and knowledge is
+  accessible at the moment of need. This role is ideal for someone who enjoys building,
+  debugging, and improving technical systems while enabling real business impact.
+  What You''ll Do: Technical Development &amp; Implementation (50%) Build and maintain
+  integrations between learning platforms, content management systems, and enablement
+  tools using APIs with webhooks, and modern data tooling (Fivetran, Hightouch). Develop
+  front-end interfaces and back-end workflows for content delivery and knowledge retrieval
+  using React, JavaScript, and TypeScript. Write scripts (Python, JavaScript, or similar)
+  that integrate with LLMs to automate content workflows and data processes Implement
+  AI-powered features for search, tagging, and content recommendations, with experience
+  using AI coding assistants, i.e. Cline, Cursor, Claude Code Build and maintain database
+  schemas, queries, and data models for knowledge systems, with experience with Snowflake
+  (preferable but not required to have exposure to dbt modeling and Airflow-based
+  orchestration). Develop custom solutions to enhance platform functionality and user
+  experience Information Ecosystem Audits &amp; QA (35%) Facilitate regular audits
+  of content accuracy, versioning, and metadata quality across all platforms Conduct
+  QA testing on integrations, workflows, and automated processes Monitor data integrity
+  and identify gaps or inconsistencies in knowledge repositories Test and validate
+  AI-enhanced search and retrieval functionality Document technical issues and coordinate
+  resolution with appropriate teams Establish and maintain QA protocols for content
+  governance and system health System Maintenance &amp; Optimization (15%) Monitor
+  performance of integrations and automated workflows, preferably using Datadog, Montecarlo,
+  or Pager Duty Troubleshoot technical issues and implement fixes Maintain documentation
+  for technical implementations and processes Support testing and rollout of new technical
+  features Track system analytics and identify optimization opportunities Working
+  Relationships &amp; Collaboration Model This role operates at the intersection of
+  Revenue Enablement strategy and technical execution: Primary Accountability: Revenue
+  Enablement - Learning Experience &amp; Technology team Receives strategic direction
+  and priorities from Revenue Enablement leadership Translates enablement requirements
+  into technical specifications Ensures solutions align with revenue team needs and
+  learning objectives Key Technical Partnership: Enterprise AI Engineering &amp; Technology
+  Teams Partners closely with Enterprise AI''s expert engineers and technologists
+  for technical implementation Collaborates on architecture, integration patterns,
+  and best practices Serves as the enablement liaison to technical teams, bridging
+  business requirements with technical solutions Participates in technical planning
+  and sprint activities with engineering partners Collaboration Style: Acts as a technical
+  translator between enablement stakeholders and engineering teams Implements solutions
+  based on strategic direction while leveraging engineering expertise Maintains strong
+  working relationships across both business and technical functions Comfortable working
+  in a collaborative, cross-functional environment What You Bring: Must-Have Prerequisites
+  Education: Bachelor''s degree in Computer Science, Information Systems, Software
+  Engineering, or related technical field (or equivalent practical experience) Experience:
+  2-5+ years in a technical development role with hands-on coding experience Technical
+  Skills (Required): Front-end development: HTML, CSS, JavaScript (React, Vue, or
+  similar framework experience a plus) Back-end development: Python, Node.js, or similar
+  server-side language API development and integration: RESTful APIs, webhooks, authentication
+  protocols Database skills: SQL, data modeling, query optimization Version control:
+  Git/GitHub Scripting and automation: Python, JavaScript, or Bash Data structures
+  and algorithms: Strong foundational knowledge Platform Experience: Experience integrating
+  with third-party platforms via APIs Familiarity with workflow automation tools (Zapier,
+  Make, n8n, or similar) Basic understanding of enterprise software systems Preferred
+  Qualifications Experience working with CMS, LMS, or CRM systems (Salesforce, HubSpot,
+  WordPress, Contentful, Moodle, Canvas, etc.) Experience with AI/ML APIs (OpenAI,
+  Anthropic, or enterprise AI platforms) Familiarity with enablement or learning platforms
+  (Allego, Seismic, Highspot, etc.) Experience with content databases (Notion API,
+  Airtable, Google Drive API) Knowledge of search technologies (Elasticsearch, Algolia,
+  vector databases) Background in SaaS or B2B technology companies #LI-AP3 #LI-Hybrid
+  Actual compensation offered will be based on factors such as the candidate’s work
+  location, qualifications, skills, experience and/or training. Your recruiter can
+  share more information about the specific salary range for your desired work location
+  during the hiring process. We want our employees and their families to thrive. In
+  addition to comprehensive benefits we offer holistic mind, body and lifestyle programs
+  designed for overall well-being. Learn more about ZoomInfo benefits here. Below
+  is the US base salary for this position. Additional compensation such as Bonus,
+  Commission, Equity and other benefits may also apply. $103,320 — $162,360 USD About
+  us: &nbsp; ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that
+  empowers businesses to grow faster with AI-ready insights, trusted data, and advanced
+  automation. Its solutions provide more than 35,000 companies worldwide with a complete
+  view of their customers, making every seller their best seller. ZoomInfo is committed
+  to protecting your privacy when you apply for jobs with us. Please review our Job
+  Applicant Privacy Notice for more details on how we handle your personal information.
+  ZoomInfo may use a software-based assessment as part of the recruitment process.
+  More information about this tool, including the results of the most recent bias
+  audit, is available here. ZoomInfo is proud to be an equal opportunity employer,
+  hiring based on qualifications, merit, and business needs, and does not discriminate
+  based on protected status. We welcome all applicants and are committed to providing
+  equal employment opportunities regardless of sex, race, age, color, national origin,
+  sexual orientation, gender identity, marital status, disability status, religion,
+  protected military or veteran status, medical condition, or any other characteristic
+  protected by applicable law. We also consider qualified candidates with criminal
+  histories in accordance with legal requirements. For Massachusetts Applicants: It
+  is unlawful in Massachusetts to require or administer a lie detector test as a condition
+  of employment or continued employment. An employer who violates this law shall be
+  subject to criminal penalties and civil liability. ZoomInfo does not administer
+  lie detector tests to applicants in any location.'
+postedDate: '2026-03-07'
+salary: USD 103,320 - 162,360
+id: '13'
+is_gtm_technical: true
+tech_stack:
+- Fivetran
+- Hightouch
+min_years_exp: null
+salary_min: null
+salary_max: null
+reason: Role involves building integrations and supporting knowledge delivery in a
+  technical context within GTM.

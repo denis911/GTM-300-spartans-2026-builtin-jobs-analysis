@@ -1,0 +1,408 @@
+title: GTM Engineer
+company: Shipbob
+category:
+- Big Data
+- Logistics
+- Analytics
+location: USA
+date_posted: '2026-02-13'
+description_html: '<p><p><span><span><span>As a member of the </span><span>ShipBob</span><span>
+  Team, </span></span><span><span>you will...</span></span><span>&nbsp;</span></span></p><ul><li><span><strong>Grow
+  with an Ownership Mindset</strong>: We champion continuous learning and proactive
+  innovation. Team members are encouraged to identify challenges and take ownership
+  of initiatives that drive merchant, company and personal growth. By tackling complex
+  problems and exploring creative solutions, you won’t just follow a playbook, you’ll
+  be actively building the future of ShipBob.</span></li><li><span><strong>Collaborate
+  with Peers and Leaders Alike: </strong>ShipBob values collaboration and support,
+  where team members and leaders alike are committed to helping each other succeed.
+  We all set<strong> </strong>high standards and understand the importance of<strong>
+  </strong>transparency at all levels. We’ve created an environment where trust, open
+  communication, and mutual respect motivate our teams to reach new heights.</span></li><li><span><strong>Experience
+  a High-Performance Culture and Clear Purpose: </strong>Our commitment to delivering
+  results creates a goal-driven, high-performance culture where everyone is empowered
+  to contribute to our mission with a clear understanding of their direct impact and
+  accountability. We measure success in tangible ways, allowing each team member to
+  see the positive outcomes of their work and celebrate shared victories.</span></li></ul></p><p><span><span><span><strong>Location:</strong>&nbsp;</span></span><span><span>Remote
+  in these states: AL, AZ, CA, CO, FL, GA, KS, KY, IA, ID, IL, IN, LA, MA, ME, MI,
+  MN, MO, NC, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI</span></span><span>&nbsp;</span></span></p><p><span><strong><span>Role
+  Description:</span></strong><span>&nbsp;</span></span></p><p><span><span>ShipBob&nbsp;is
+  hiring a Go-To-Market Engineer (GTM Engineer) to build and operationalize the technical
+  systems that power our go-to-market&nbsp;execution. This role is a hybrid of project
+  manager + hands-on builder: you will own GTM Engineering initiatives end-to-end,
+  from conception through delivery and iteration.</span><span>&nbsp;</span></span></p><p><span><span>You’ll&nbsp;use
+  Clay as the primary engine to build and&nbsp;operationalize&nbsp;GTM initiatives,
+  and&nbsp;you’ll&nbsp;work deeply across Salesforce, Gong, Vector, 6sense, and other
+  GTM data and execution systems.&nbsp;You’ll&nbsp;also stay updated on market trends
+  and best practices, serving as a thought leader for AI optimization internally.&nbsp;This
+  role reports to the&nbsp;Director, Revenue Strategy &amp; Operations.</span><span>&nbsp;</span></span></p><p><span><strong><span>What&nbsp;You’ll&nbsp;Do:</span></strong><span>&nbsp;</span></span></p><p><span><span>Own
+  GTM Engineering initiatives from conception to delivery</span><span>&nbsp;</span></span></p><ul><li><span><span>Identify,
+  scope, and prioritize GTM Engineering opportunities with Sales, Marketing, and&nbsp;RevOps&nbsp;leadership.</span><span>&nbsp;</span></span></li><li><span><span>Translate
+  business needs into clear technical requirements and delivery plans.</span><span>&nbsp;</span></span></li><li><span><span>Run
+  GTM&nbsp;Engineering like&nbsp;product releases: design,&nbsp;build,&nbsp;QA,&nbsp;launch,
+  measure,&nbsp;iterate.</span><span>&nbsp;</span></span></li></ul><p><span><span>Build
+  scalable&nbsp;automations&nbsp;and workflows across the GTM stack</span><span>&nbsp;</span></span></p><ul><li><span><span>Build
+  and&nbsp;maintain&nbsp;Clay workflows for enrichment, routing, segmentation, scoring,
+  and trigger-based actions.</span><span>&nbsp;</span></span></li><li><span><span>Automate
+  manual tasks that slow down revenue teams (research, list building, enrichment,
+  lead management, CRM hygiene).</span><span>&nbsp;</span></span></li><li><span><span>Implement
+  workflow orchestration across systems (Salesforce + intent tools + conversation
+  intelligence + engagement tools).</span><span>&nbsp;</span></span></li></ul><p><span><span>Create
+  and operationalize an intent/signals engine</span><span>&nbsp;</span></span></p><ul><li><span><span>Combine
+  multiple signal sources into composite scoring models and actionable triggers (fit
+  + intent + engagement + timing).</span><span>&nbsp;</span></span></li><li><span><span>Design
+  automation logic that avoids “single-signal spam” and instead prioritizes high-quality,
+  high-confidence actions.</span><span>&nbsp;</span></span></li><li><span><span>Improve
+  speed-to-lead and account prioritization through reliable signal-based orchestration.</span><span>&nbsp;</span></span></li></ul><p><span><span>Oversee&nbsp;cross-functional
+  execution (and potentially people/vendors)</span><span>&nbsp;</span></span></p><ul><li><span><span>Coordinate
+  stakeholders across Sales, Marketing,&nbsp;RevOps, Enablement, and Data/Engineering.</span><span>&nbsp;</span></span></li><li><span><span>Manage
+  project timelines, risks, dependencies, and stakeholder communication.</span><span>&nbsp;</span></span></li><li><span><span>Potentially
+  manage junior GTM Engineers and/or third-party partners with clear delivery standards.</span><span>&nbsp;</span></span></li></ul><p><span><span>Example
+  Projects&nbsp;You’ll&nbsp;Own</span><span>&nbsp;</span></span></p><ul><li><span><span>Inbound
+  lead automation: lead capture → enrichment → routing → scoring → SLA-based follow-up
+  triggers.</span><span>&nbsp;</span></span></li><li><span><span>Intent signals&nbsp;engine:&nbsp;combining
+  6sense, Vector, web activity, and engagement signals into a composite “heat score”
+  and workflow triggers.</span><span>&nbsp;</span></span></li><li><span><span>Workflow-based
+  enablement: auto-generating account context, call prep insights, and task prompts
+  for sellers.</span><span>&nbsp;</span></span></li><li><span><span>Insight automation
+  and orchestration: use Gong insights to auto-fill Salesforce fields, orchestrate
+  distribution of key insights via triggers/alerts, score sales process.&nbsp;excellence,
+  and generate actionable insights at scale.</span><span>&nbsp;</span></span></li></ul><p><span><span>What
+  Success Looks Like:</span><span>&nbsp;</span></span></p><ul><li><span><span>Meaningful
+  reduction in manual research/admin time for BDRs/AEs through automation.</span><span>&nbsp;</span></span></li><li><span><span>Improved
+  speed-to-lead and higher conversion rates driven&nbsp;by better routing, scoring,
+  and enrichment.</span><span>&nbsp;</span></span></li><li><span><span>Higher-quality
+  CRM data (completeness, accuracy) and more trustworthy reporting</span><span>&nbsp;</span></span></li><li><span><span>A
+  repeatable system for shipping GTM workflows with measurable impact and iteration
+  cadence.</span><span>&nbsp;</span></span></li></ul><p><span><strong><span>What&nbsp;you’ll&nbsp;bring
+  to the table:</span></strong><span>&nbsp;</span></span></p><ul><li><span><span>4–8+
+  years of experience in GTM systems,&nbsp;RevOps/Sales Ops/Marketing Ops, growth
+  operations, automation engineering, or similar.</span><span>&nbsp;</span></span></li><li><span><span>Demonstrated&nbsp;ability
+  to build automations and integrations across a GTM tech stack (CRM + enrichment
+  + intent + engagement + analytics).</span><span>&nbsp;</span></span></li><li><span><span>Solid&nbsp;hands-on
+  experience with Salesforce (data model awareness, workflow automation patterns,
+  QA, hygiene practices).</span><span>&nbsp;</span></span></li><li><span><span>Experience
+  building and operationalizing Clay workflows (or equivalent enrichment/orchestration
+  tools).</span><span>&nbsp;</span></span></li><li><span><span>Excellent&nbsp;technical
+  fluency: APIs/webhooks, data flows, automation logic, troubleshooting, and systems
+  thinking.</span><span>&nbsp;</span></span></li><li><span><span>Sound&nbsp;project
+  management skills: planning, prioritization, stakeholder alignment, and execution.</span><span>&nbsp;</span></span></li><li><span><span>Ability
+  to communicate technical topics clearly to non-technical audiences.</span><span>&nbsp;</span></span></li></ul><p><span><strong><span>Preferred:</span></strong><span>&nbsp;</span></span></p><ul><li><span><span>Experience
+  with Gong, 6sense, Vector, and modern intent/data tooling ecosystems.</span><span>&nbsp;</span></span></li><li><span><span>Experience
+  building scoring models, signal engines, and lifecycle automation across lead/account
+  objects.</span><span>&nbsp;</span></span></li><li><span><span>Familiarity with data
+  warehouse/analytics concepts and how GTM data is modeled for reporting and decision-making.</span><span>&nbsp;</span></span></li><li><span><span>Prior
+  experience managing junior team members and/or vendors/consultancies.</span><span>&nbsp;</span></span></li></ul><p><span><strong><span>Perks
+  &amp; Benefits:</span></strong><span>&nbsp;</span></span></p><ul><li><span><span>Medical,
+  Dental, Vision &amp; Basic Life Insurance</span><span>&nbsp;</span></span></li><li><span><span>Paid
+  Maternity/Parental Leave Program</span><span>&nbsp;</span></span></li><li><span><span>Paid
+  Holidays &amp; Flexible Time Off Program</span><span>&nbsp;</span></span></li><li><span><span>Paid
+  Sick Leave&nbsp;</span><span>&nbsp;</span></span></li><li><span><span>Wellness Days
+  (1 day/quarter)</span><span>&nbsp;</span></span></li><li><span><span>401K Match&nbsp;</span><span>&nbsp;</span></span></li><li><span><span>Comprehensive
+  Benefits Package &gt;&gt;&gt;&nbsp;</span><span><span>https://www.shipbob.com/careers/</span></span><span>&nbsp;</span></span></li><li><span><span>See
+  Our High-Performing Culture &gt;&gt;&gt;</span><span><span>&nbsp;</span></span><span><span>Check
+  us out on Instagram</span></span><span>&nbsp;(@lifeatshipbob)</span></span></li></ul><p><span><span><em><strong><span><span>ShipBob</span><span>&nbsp;believes
+  in transparency while providing a competitive total compensation package with a&nbsp;</span><span>pay
+  for</span><span>&nbsp;performance approac</span><span>h.&nbsp;</span><span>The&nbsp;</span><span>salary
+  range</span><span>&nbsp;is&nbsp;</span><span>$</span><span>109,065</span><span>&nbsp;-
+  $</span><span>145,420</span><span>&nbsp;for this role. In addition to base sal</span><span>ary,
+  this role includes the opportunity to be eligible for participation in the Company''s
+  discretionary bonus plan based on Company''s plans and&nbsp;</span><span>in accordance
+  with</span><span>&nbsp;Company’s policies.</span></span><span>&nbsp;</span></strong></em></span></span></p><p><p><span><span><span>We
+  recognize that people come with a wealth of experience and talent beyond just the
+  technical requirements of a job. If your experience is close to what you see listed
+  here, please still consider applying. Diversity of experience and skills combined
+  with passion is a key to innovation and excellence; therefore, we encourage people
+  from all backgrounds to apply to our positions.</span></span><span><span>&nbsp;</span></span></span></p><p><span><strong><span>About
+  You:</span></strong><span>&nbsp;</span></span></p><p><span><span>The work we do
+  at ShipBob is both challenging and rigorous, which means our environment isn’t the
+  right fit for everyone, and that’s okay.&nbsp;We welcome energetic high performers
+  who thrive in a dynamic, collaborative, results-driven environment. We value individuals
+  who embrace accountability and humility, push boundaries, and are motivated by challenging
+  work. Every team member, no matter their role or tenure, is expected to roll up
+  their sleeves and tackle the complex problems we face in today’s global supply chain.</span><span>&nbsp;</span></span></p><p><span>Learn
+  more about our core values and how we perform at a high level in our day-to-day
+  work on our Culture page (https://www.shipbob.com/careers/culture/).</span></p><p><span><span><strong><span><span>About
+  Us: </span></span>&nbsp;</strong><br></span></span></p><p><span><span><span><span>ShipBob
+  is a leading global supply chain and fulfillment technology platform designed for
+  SMB and Mid-Market ecommerce merchants to provide them access to best-in-class capabilities
+  and to deliver a delightful shopper experience. Merchants can outsource their entire
+  fulfillment operations, utilize </span><span>ShipBob’s</span><span> proprietary
+  warehouse management system for in-house fulfillment, or take advantage of a hybrid
+  solution across </span><span>ShipBob’s</span><span> dozens of fulfillment center
+  network in the United States, Canada, United Kingdom, Europe, and Australia. </span><span>ShipBob</span><span>
+  is backed by leading investors like Menlo Ventures, Bain Capital Ventures, Hyde
+  Park Venture Partners, and SoftBank Vision Fund 2, and is one of the fastest-growing
+  tech companies headquartered in Chicago.</span></span>&nbsp;<br></span></span></p><p><span><span><em><span><span>ShipBob
+  provides equal employment opportunities to all employees and applicants for employment
+  and prohibits discrimination and harassment of any type without regard to race,
+  color, religion, age, sex, national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.</span></span><span><span>&nbsp;</span><br></span><span><span>&nbsp;</span><br></span><span><span>This
+  policy applies to all terms and conditions of employment, including recruiting,
+  hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence,
+  </span><span>c</span><span>ompensation</span> <span>and training.</span></span><span>&nbsp;</span></em></span></span></p><p><span><span><em><span><span><strong>There
+  is no deadline to apply for this position, as ShipBob accepts applications on an
+  ongoing basis</strong>.&nbsp;</span></span></em></span></span></p></p>'
+description_text: 'As a member of the ShipBob Team, you will... &nbsp; Grow with an
+  Ownership Mindset : We champion continuous learning and proactive innovation. Team
+  members are encouraged to identify challenges and take ownership of initiatives
+  that drive merchant, company and personal growth. By tackling complex problems and
+  exploring creative solutions, you won’t just follow a playbook, you’ll be actively
+  building the future of ShipBob. Collaborate with Peers and Leaders Alike: ShipBob
+  values collaboration and support, where team members and leaders alike are committed
+  to helping each other succeed. We all set high standards and understand the importance
+  of transparency at all levels. We’ve created an environment where trust, open communication,
+  and mutual respect motivate our teams to reach new heights. Experience a High-Performance
+  Culture and Clear Purpose: Our commitment to delivering results creates a goal-driven,
+  high-performance culture where everyone is empowered to contribute to our mission
+  with a clear understanding of their direct impact and accountability. We measure
+  success in tangible ways, allowing each team member to see the positive outcomes
+  of their work and celebrate shared victories. Location: &nbsp; Remote in these states:
+  AL, AZ, CA, CO, FL, GA, KS, KY, IA, ID, IL, IN, LA, MA, ME, MI, MN, MO, NC, NH,
+  NJ, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI &nbsp; Role Description:
+  &nbsp; ShipBob&nbsp;is hiring a Go-To-Market Engineer (GTM Engineer) to build and
+  operationalize the technical systems that power our go-to-market&nbsp;execution.
+  This role is a hybrid of project manager + hands-on builder: you will own GTM Engineering
+  initiatives end-to-end, from conception through delivery and iteration. &nbsp; You’ll&nbsp;use
+  Clay as the primary engine to build and&nbsp;operationalize&nbsp;GTM initiatives,
+  and&nbsp;you’ll&nbsp;work deeply across Salesforce, Gong, Vector, 6sense, and other
+  GTM data and execution systems.&nbsp;You’ll&nbsp;also stay updated on market trends
+  and best practices, serving as a thought leader for AI optimization internally.&nbsp;This
+  role reports to the&nbsp;Director, Revenue Strategy &amp; Operations. &nbsp; What&nbsp;You’ll&nbsp;Do:
+  &nbsp; Own GTM Engineering initiatives from conception to delivery &nbsp; Identify,
+  scope, and prioritize GTM Engineering opportunities with Sales, Marketing, and&nbsp;RevOps&nbsp;leadership.
+  &nbsp; Translate business needs into clear technical requirements and delivery plans.
+  &nbsp; Run GTM&nbsp;Engineering like&nbsp;product releases: design,&nbsp;build,&nbsp;QA,&nbsp;launch,
+  measure,&nbsp;iterate. &nbsp; Build scalable&nbsp;automations&nbsp;and workflows
+  across the GTM stack &nbsp; Build and&nbsp;maintain&nbsp;Clay workflows for enrichment,
+  routing, segmentation, scoring, and trigger-based actions. &nbsp; Automate manual
+  tasks that slow down revenue teams (research, list building, enrichment, lead management,
+  CRM hygiene). &nbsp; Implement workflow orchestration across systems (Salesforce
+  + intent tools + conversation intelligence + engagement tools). &nbsp; Create and
+  operationalize an intent/signals engine &nbsp; Combine multiple signal sources into
+  composite scoring models and actionable triggers (fit + intent + engagement + timing).
+  &nbsp; Design automation logic that avoids “single-signal spam” and instead prioritizes
+  high-quality, high-confidence actions. &nbsp; Improve speed-to-lead and account
+  prioritization through reliable signal-based orchestration. &nbsp; Oversee&nbsp;cross-functional
+  execution (and potentially people/vendors) &nbsp; Coordinate stakeholders across
+  Sales, Marketing,&nbsp;RevOps, Enablement, and Data/Engineering. &nbsp; Manage project
+  timelines, risks, dependencies, and stakeholder communication. &nbsp; Potentially
+  manage junior GTM Engineers and/or third-party partners with clear delivery standards.
+  &nbsp; Example Projects&nbsp;You’ll&nbsp;Own &nbsp; Inbound lead automation: lead
+  capture → enrichment → routing → scoring → SLA-based follow-up triggers. &nbsp;
+  Intent signals&nbsp;engine:&nbsp;combining 6sense, Vector, web activity, and engagement
+  signals into a composite “heat score” and workflow triggers. &nbsp; Workflow-based
+  enablement: auto-generating account context, call prep insights, and task prompts
+  for sellers. &nbsp; Insight automation and orchestration: use Gong insights to auto-fill
+  Salesforce fields, orchestrate distribution of key insights via triggers/alerts,
+  score sales process.&nbsp;excellence, and generate actionable insights at scale.
+  &nbsp; What Success Looks Like: &nbsp; Meaningful reduction in manual research/admin
+  time for BDRs/AEs through automation. &nbsp; Improved speed-to-lead and higher conversion
+  rates driven&nbsp;by better routing, scoring, and enrichment. &nbsp; Higher-quality
+  CRM data (completeness, accuracy) and more trustworthy reporting &nbsp; A repeatable
+  system for shipping GTM workflows with measurable impact and iteration cadence.
+  &nbsp; What&nbsp;you’ll&nbsp;bring to the table: &nbsp; 4–8+ years of experience
+  in GTM systems,&nbsp;RevOps/Sales Ops/Marketing Ops, growth operations, automation
+  engineering, or similar. &nbsp; Demonstrated&nbsp;ability to build automations and
+  integrations across a GTM tech stack (CRM + enrichment + intent + engagement + analytics).
+  &nbsp; Solid&nbsp;hands-on experience with Salesforce (data model awareness, workflow
+  automation patterns, QA, hygiene practices). &nbsp; Experience building and operationalizing
+  Clay workflows (or equivalent enrichment/orchestration tools). &nbsp; Excellent&nbsp;technical
+  fluency: APIs/webhooks, data flows, automation logic, troubleshooting, and systems
+  thinking. &nbsp; Sound&nbsp;project management skills: planning, prioritization,
+  stakeholder alignment, and execution. &nbsp; Ability to communicate technical topics
+  clearly to non-technical audiences. &nbsp; Preferred: &nbsp; Experience with Gong,
+  6sense, Vector, and modern intent/data tooling ecosystems. &nbsp; Experience building
+  scoring models, signal engines, and lifecycle automation across lead/account objects.
+  &nbsp; Familiarity with data warehouse/analytics concepts and how GTM data is modeled
+  for reporting and decision-making. &nbsp; Prior experience managing junior team
+  members and/or vendors/consultancies. &nbsp; Perks &amp; Benefits: &nbsp; Medical,
+  Dental, Vision &amp; Basic Life Insurance &nbsp; Paid Maternity/Parental Leave Program
+  &nbsp; Paid Holidays &amp; Flexible Time Off Program &nbsp; Paid Sick Leave&nbsp;
+  &nbsp; Wellness Days (1 day/quarter) &nbsp; 401K Match&nbsp; &nbsp; Comprehensive
+  Benefits Package &gt;&gt;&gt;&nbsp; https://www.shipbob.com/careers/ &nbsp; See
+  Our High-Performing Culture &gt;&gt;&gt; &nbsp; Check us out on Instagram &nbsp;(@lifeatshipbob)
+  ShipBob &nbsp;believes in transparency while providing a competitive total compensation
+  package with a&nbsp; pay for &nbsp;performance approac h.&nbsp; The&nbsp; salary
+  range &nbsp;is&nbsp; $ 109,065 &nbsp;- $ 145,420 &nbsp;for this role. In addition
+  to base sal ary, this role includes the opportunity to be eligible for participation
+  in the Company''s discretionary bonus plan based on Company''s plans and&nbsp; in
+  accordance with &nbsp;Company’s policies. &nbsp; We recognize that people come with
+  a wealth of experience and talent beyond just the technical requirements of a job.
+  If your experience is close to what you see listed here, please still consider applying.
+  Diversity of experience and skills combined with passion is a key to innovation
+  and excellence; therefore, we encourage people from all backgrounds to apply to
+  our positions. &nbsp; About You: &nbsp; The work we do at ShipBob is both challenging
+  and rigorous, which means our environment isn’t the right fit for everyone, and
+  that’s okay.&nbsp;We welcome energetic high performers who thrive in a dynamic,
+  collaborative, results-driven environment. We value individuals who embrace accountability
+  and humility, push boundaries, and are motivated by challenging work. Every team
+  member, no matter their role or tenure, is expected to roll up their sleeves and
+  tackle the complex problems we face in today’s global supply chain. &nbsp; Learn
+  more about our core values and how we perform at a high level in our day-to-day
+  work on our Culture page (https://www.shipbob.com/careers/culture/). About Us: &nbsp;
+  ShipBob is a leading global supply chain and fulfillment technology platform designed
+  for SMB and Mid-Market ecommerce merchants to provide them access to best-in-class
+  capabilities and to deliver a delightful shopper experience. Merchants can outsource
+  their entire fulfillment operations, utilize ShipBob’s proprietary warehouse management
+  system for in-house fulfillment, or take advantage of a hybrid solution across ShipBob’s
+  dozens of fulfillment center network in the United States, Canada, United Kingdom,
+  Europe, and Australia. ShipBob is backed by leading investors like Menlo Ventures,
+  Bain Capital Ventures, Hyde Park Venture Partners, and SoftBank Vision Fund 2, and
+  is one of the fastest-growing tech companies headquartered in Chicago. &nbsp; ShipBob
+  provides equal employment opportunities to all employees and applicants for employment
+  and prohibits discrimination and harassment of any type without regard to race,
+  color, religion, age, sex, national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws. &nbsp; &nbsp; This policy
+  applies to all terms and conditions of employment, including recruiting, hiring,
+  placement, promotion, termination, layoff, recall, transfer, leaves of absence,
+  c ompensation and training. &nbsp; There is no deadline to apply for this position,
+  as ShipBob accepts applications on an ongoing basis .&nbsp;'
+salary_json_min: 109065
+salary_json_max: 145420
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Founded in 2014, ShipBob is a tech-enabled 3PL that offers simple,
+  fast and affordable fulfillment for thousands of brands with an international fulfillment
+  network across the US, Canada, Europe, and Australia. ShipBob's proprietary technology
+  combines order and inventory management, warehouse management, predictive data and
+  analytics, as well as optimized shipping for ecommerce companies.
+url: https://builtin.com/job/gtm-engineer/8486945
+source: builtin.com
+description: 'As a member of the ShipBob Team, you will... &nbsp; Grow with an Ownership
+  Mindset : We champion continuous learning and proactive innovation. Team members
+  are encouraged to identify challenges and take ownership of initiatives that drive
+  merchant, company and personal growth. By tackling complex problems and exploring
+  creative solutions, you won’t just follow a playbook, you’ll be actively building
+  the future of ShipBob. Collaborate with Peers and Leaders Alike: ShipBob values
+  collaboration and support, where team members and leaders alike are committed to
+  helping each other succeed. We all set high standards and understand the importance
+  of transparency at all levels. We’ve created an environment where trust, open communication,
+  and mutual respect motivate our teams to reach new heights. Experience a High-Performance
+  Culture and Clear Purpose: Our commitment to delivering results creates a goal-driven,
+  high-performance culture where everyone is empowered to contribute to our mission
+  with a clear understanding of their direct impact and accountability. We measure
+  success in tangible ways, allowing each team member to see the positive outcomes
+  of their work and celebrate shared victories. Location: &nbsp; Remote in these states:
+  AL, AZ, CA, CO, FL, GA, KS, KY, IA, ID, IL, IN, LA, MA, ME, MI, MN, MO, NC, NH,
+  NJ, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI &nbsp; Role Description:
+  &nbsp; ShipBob&nbsp;is hiring a Go-To-Market Engineer (GTM Engineer) to build and
+  operationalize the technical systems that power our go-to-market&nbsp;execution.
+  This role is a hybrid of project manager + hands-on builder: you will own GTM Engineering
+  initiatives end-to-end, from conception through delivery and iteration. &nbsp; You’ll&nbsp;use
+  Clay as the primary engine to build and&nbsp;operationalize&nbsp;GTM initiatives,
+  and&nbsp;you’ll&nbsp;work deeply across Salesforce, Gong, Vector, 6sense, and other
+  GTM data and execution systems.&nbsp;You’ll&nbsp;also stay updated on market trends
+  and best practices, serving as a thought leader for AI optimization internally.&nbsp;This
+  role reports to the&nbsp;Director, Revenue Strategy &amp; Operations. &nbsp; What&nbsp;You’ll&nbsp;Do:
+  &nbsp; Own GTM Engineering initiatives from conception to delivery &nbsp; Identify,
+  scope, and prioritize GTM Engineering opportunities with Sales, Marketing, and&nbsp;RevOps&nbsp;leadership.
+  &nbsp; Translate business needs into clear technical requirements and delivery plans.
+  &nbsp; Run GTM&nbsp;Engineering like&nbsp;product releases: design,&nbsp;build,&nbsp;QA,&nbsp;launch,
+  measure,&nbsp;iterate. &nbsp; Build scalable&nbsp;automations&nbsp;and workflows
+  across the GTM stack &nbsp; Build and&nbsp;maintain&nbsp;Clay workflows for enrichment,
+  routing, segmentation, scoring, and trigger-based actions. &nbsp; Automate manual
+  tasks that slow down revenue teams (research, list building, enrichment, lead management,
+  CRM hygiene). &nbsp; Implement workflow orchestration across systems (Salesforce
+  + intent tools + conversation intelligence + engagement tools). &nbsp; Create and
+  operationalize an intent/signals engine &nbsp; Combine multiple signal sources into
+  composite scoring models and actionable triggers (fit + intent + engagement + timing).
+  &nbsp; Design automation logic that avoids “single-signal spam” and instead prioritizes
+  high-quality, high-confidence actions. &nbsp; Improve speed-to-lead and account
+  prioritization through reliable signal-based orchestration. &nbsp; Oversee&nbsp;cross-functional
+  execution (and potentially people/vendors) &nbsp; Coordinate stakeholders across
+  Sales, Marketing,&nbsp;RevOps, Enablement, and Data/Engineering. &nbsp; Manage project
+  timelines, risks, dependencies, and stakeholder communication. &nbsp; Potentially
+  manage junior GTM Engineers and/or third-party partners with clear delivery standards.
+  &nbsp; Example Projects&nbsp;You’ll&nbsp;Own &nbsp; Inbound lead automation: lead
+  capture → enrichment → routing → scoring → SLA-based follow-up triggers. &nbsp;
+  Intent signals&nbsp;engine:&nbsp;combining 6sense, Vector, web activity, and engagement
+  signals into a composite “heat score” and workflow triggers. &nbsp; Workflow-based
+  enablement: auto-generating account context, call prep insights, and task prompts
+  for sellers. &nbsp; Insight automation and orchestration: use Gong insights to auto-fill
+  Salesforce fields, orchestrate distribution of key insights via triggers/alerts,
+  score sales process.&nbsp;excellence, and generate actionable insights at scale.
+  &nbsp; What Success Looks Like: &nbsp; Meaningful reduction in manual research/admin
+  time for BDRs/AEs through automation. &nbsp; Improved speed-to-lead and higher conversion
+  rates driven&nbsp;by better routing, scoring, and enrichment. &nbsp; Higher-quality
+  CRM data (completeness, accuracy) and more trustworthy reporting &nbsp; A repeatable
+  system for shipping GTM workflows with measurable impact and iteration cadence.
+  &nbsp; What&nbsp;you’ll&nbsp;bring to the table: &nbsp; 4–8+ years of experience
+  in GTM systems,&nbsp;RevOps/Sales Ops/Marketing Ops, growth operations, automation
+  engineering, or similar. &nbsp; Demonstrated&nbsp;ability to build automations and
+  integrations across a GTM tech stack (CRM + enrichment + intent + engagement + analytics).
+  &nbsp; Solid&nbsp;hands-on experience with Salesforce (data model awareness, workflow
+  automation patterns, QA, hygiene practices). &nbsp; Experience building and operationalizing
+  Clay workflows (or equivalent enrichment/orchestration tools). &nbsp; Excellent&nbsp;technical
+  fluency: APIs/webhooks, data flows, automation logic, troubleshooting, and systems
+  thinking. &nbsp; Sound&nbsp;project management skills: planning, prioritization,
+  stakeholder alignment, and execution. &nbsp; Ability to communicate technical topics
+  clearly to non-technical audiences. &nbsp; Preferred: &nbsp; Experience with Gong,
+  6sense, Vector, and modern intent/data tooling ecosystems. &nbsp; Experience building
+  scoring models, signal engines, and lifecycle automation across lead/account objects.
+  &nbsp; Familiarity with data warehouse/analytics concepts and how GTM data is modeled
+  for reporting and decision-making. &nbsp; Prior experience managing junior team
+  members and/or vendors/consultancies. &nbsp; Perks &amp; Benefits: &nbsp; Medical,
+  Dental, Vision &amp; Basic Life Insurance &nbsp; Paid Maternity/Parental Leave Program
+  &nbsp; Paid Holidays &amp; Flexible Time Off Program &nbsp; Paid Sick Leave&nbsp;
+  &nbsp; Wellness Days (1 day/quarter) &nbsp; 401K Match&nbsp; &nbsp; Comprehensive
+  Benefits Package &gt;&gt;&gt;&nbsp; https://www.shipbob.com/careers/ &nbsp; See
+  Our High-Performing Culture &gt;&gt;&gt; &nbsp; Check us out on Instagram &nbsp;(@lifeatshipbob)
+  ShipBob &nbsp;believes in transparency while providing a competitive total compensation
+  package with a&nbsp; pay for &nbsp;performance approac h.&nbsp; The&nbsp; salary
+  range &nbsp;is&nbsp; $ 109,065 &nbsp;- $ 145,420 &nbsp;for this role. In addition
+  to base sal ary, this role includes the opportunity to be eligible for participation
+  in the Company''s discretionary bonus plan based on Company''s plans and&nbsp; in
+  accordance with &nbsp;Company’s policies. &nbsp; We recognize that people come with
+  a wealth of experience and talent beyond just the technical requirements of a job.
+  If your experience is close to what you see listed here, please still consider applying.
+  Diversity of experience and skills combined with passion is a key to innovation
+  and excellence; therefore, we encourage people from all backgrounds to apply to
+  our positions. &nbsp; About You: &nbsp; The work we do at ShipBob is both challenging
+  and rigorous, which means our environment isn’t the right fit for everyone, and
+  that’s okay.&nbsp;We welcome energetic high performers who thrive in a dynamic,
+  collaborative, results-driven environment. We value individuals who embrace accountability
+  and humility, push boundaries, and are motivated by challenging work. Every team
+  member, no matter their role or tenure, is expected to roll up their sleeves and
+  tackle the complex problems we face in today’s global supply chain. &nbsp; Learn
+  more about our core values and how we perform at a high level in our day-to-day
+  work on our Culture page (https://www.shipbob.com/careers/culture/). About Us: &nbsp;
+  ShipBob is a leading global supply chain and fulfillment technology platform designed
+  for SMB and Mid-Market ecommerce merchants to provide them access to best-in-class
+  capabilities and to deliver a delightful shopper experience. Merchants can outsource
+  their entire fulfillment operations, utilize ShipBob’s proprietary warehouse management
+  system for in-house fulfillment, or take advantage of a hybrid solution across ShipBob’s
+  dozens of fulfillment center network in the United States, Canada, United Kingdom,
+  Europe, and Australia. ShipBob is backed by leading investors like Menlo Ventures,
+  Bain Capital Ventures, Hyde Park Venture Partners, and SoftBank Vision Fund 2, and
+  is one of the fastest-growing tech companies headquartered in Chicago. &nbsp; ShipBob
+  provides equal employment opportunities to all employees and applicants for employment
+  and prohibits discrimination and harassment of any type without regard to race,
+  color, religion, age, sex, national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws. &nbsp; &nbsp; This policy
+  applies to all terms and conditions of employment, including recruiting, hiring,
+  placement, promotion, termination, layoff, recall, transfer, leaves of absence,
+  c ompensation and training. &nbsp; There is no deadline to apply for this position,
+  as ShipBob accepts applications on an ongoing basis .&nbsp;'
+postedDate: '2026-02-13'
+salary: USD 109,065 - 145,420
+id: 1
+is_gtm_technical: true
+tech_stack:
+- Clay
+- Salesforce
+- Gong
+- Vector
+- 6sense
+min_years_exp: null
+salary_min: null
+salary_max: null
+reason: This position requires building GTM systems and tools and mentions working
+  with various technical systems and processes.

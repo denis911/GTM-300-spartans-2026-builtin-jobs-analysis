@@ -1,0 +1,314 @@
+title: Tech Lead Manager - React Native
+company: Sage
+category:
+- Hardware
+- Healthtech
+- Software
+- Analytics
+location: New York, New York, USA
+date_posted: '2026-03-07'
+description_html: '<p>Sage is on a mission to improve care and quality of life for
+  older adults, starting with those residing in senior living facilities. Falls are
+  the leading cause of injury-related death among adults over 65. And yet, fall prevention
+  and emergency response systems for older adults are archaic and ineffective. At
+  Sage we''ve built a more modern way of understanding when older adults need help,
+  including methods for residents to alert caregivers when in need of help, and corresponding
+  software for caregivers to triage response. Our company mission is to create a product
+  that our client counterparts love, and this role is a key part of that objective.</p><p>Sage
+  is a small, tight team of ambitious, multi-disciplinary entrepreneurs. We are a
+  software-enabled, mission-driven company, and are focused only on the problems that
+  are central to achieving that mission. At Sage, we work hard and fast but also know
+  that to build a truly important company, we need to treat our work as a marathon,
+  and not a sprint. The journey matters.</p><p><strong>About this Role</strong></p><p>We
+  are looking for a hands-on Tech Lead Manager to lead the engineering efforts for
+  building cross-platform experiences as we realize the vision of a fully connected
+  care platform. You will partner closely with Product, Design, Hardware, and business
+  leaders to iterate and deliver on context-rich workflows that improve the caregiver
+  experience so they can focus on providing quality care to their residents.</p><p>As
+  an engineering leader on the Product Engineering team, you will set the foundation
+  of our native strategy and collaborate with other engineers to build hardware +
+  software solutions. Success in this role requires close attention to details, creative
+  problem solving, and a strong bias toward action and experimentation.</p><p><strong>Responsibilities</strong></p><ul><li><strong>Define</strong>
+  the native application strategy, evaluating candidate hybrid architectures through
+  hands-on proof-of-concept work and delivering a clear, written recommendation with
+  tradeoffs the team can act on.</li><li><strong>Develop</strong> the first iteration
+  of our mobile native app, both prototyping and building a production-ready version
+  of our core platform.</li><li><strong>Establish</strong> the integration boundary
+  between our existing web application and the native layer, ensuring web engineers
+  can continue to ship features without being blocked by native build complexity.</li><li><strong>Own</strong>
+  the end-to-end native build, release, and over-the-air update pipeline, from local
+  development through app store submission and production delivery.</li><li><strong>Drive</strong>
+  the implementation of native device capabilities — including device identification,
+  configurable push notifications, and Bluetooth Low Energy interactions with IoT
+  hardware — that are out of reach from the browser today.</li><li><strong>Partner</strong>
+  with Platform Engineering to ensure the backend infrastructure supports reliable,
+  at-scale delivery of push notifications to Sage-managed devices.</li><li><strong>Build
+  and grow</strong> a small, high-performing native engineering team, including hiring,
+  mentoring, and developing engineers while defining the practices and tooling that
+  keep the team moving quickly.</li><li><strong>Collaborate</strong> closely with
+  Product, Design, Hardware, and business leaders to translate user and hardware needs
+  into a coherent native product experience.</li><li><strong>Contribute hands-on</strong>
+  to architecture decisions and early-stage implementation, setting technical standards
+  and serving as the go-to resource when the team hits hard native platform problems.</li></ul><p><strong>Minimum
+  Qualifications</strong></p><ul><li>8+ years of software engineering experience,
+  with at least 3 years leading engineering teams or projects.</li><li>Experience
+  shipping a production native Android application to Google Play — you have personally
+  navigated the full release pipeline, not just the code.</li><li>Hands-on experience
+  with at least one hybrid native framework (React Native, Ionic + CapacitorJS, Flutter
+  + Dart, etc.) and a clear point of view on when hybrid is the right call versus
+  full native.</li><li>Experience integrating device APIs from a hybrid runtime —
+  such as device identity, push notification delivery, or Bluetooth Low Energy peripheral
+  interaction — not just reading documentation about them.</li><li>Experience managing
+  or mentoring engineers, including setting technical direction and conducting code
+  review at an architectural level.</li><li>Experience partnering closely with Product
+  and Design leaders to shape product strategy and user-centered solutions.</li><li>Track
+  record of building experimentation-driven development processes and rapid MVP iteration
+  cycles.</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Comfortable
+  working across the full stack; able to collaborate with backend engineers on notification
+  infrastructure and device management APIs without needing hand-holding on the contracts.</li><li>Experience
+  managing native application deployment pipelines end-to-end: versioning strategies,
+  build automation, code signing, app store submission, and over-the-air update delivery.</li><li>Experience
+  building or operating a high-reliability push notification pipeline — device token
+  lifecycle, delivery guarantees, and handling of silent vs. visible notifications.</li><li>Experience
+  with Bluetooth Low Energy — scanning, pairing, service/characteristic discovery,
+  connection state management — in a production application on real hardware.</li><li>Experience
+  deploying and managing native applications through a mobile device management (MDM)
+  platform, including app provisioning, configuration policy enforcement, and managing
+  OS and app updates on enrolled device fleets.</li><li>Experience with programmatic
+  audio control on mobile: routing audio output, managing platform audio sessions,
+  and handling system-level interruptions.</li><li>Prior experience in a startup,
+  incubation, or 0-to-1 environment where architectural decisions had long-lasting
+  consequences.</li></ul><p><strong>Benefits and Pay</strong></p><p>Our headquarters
+  are located in New York City''s Union Square. We believe in cross team collaboration.
+  We think good ideas can come from anyone, and we''ve designed our processes to encourage
+  participation from all. While we take our mission seriously, we don''t take ourselves
+  too seriously. We like to host offsites, outings, and team meals where we can connect
+  as people, not just as colleagues. We offer office lunch and a fully stocked snack
+  bar. While we are an in office culture, we allow up to 2 remote days per week.</p><p>Our
+  benefits package for employees includes competitive base compensation along with
+  stock options. The expected annual salary range for this role is $190,000-245,000
+  USD, depending on your level of expertise, your experience, and your performance
+  in the interview process. We also provide fully-paid health and dental insurance
+  coverage for all of our employees, along with other health benefits including vision
+  insurance, membership to premium primary and urgent care, and online medical health
+  providers. We also have a take as you need time off policy, in addition to 7 paid
+  holidays and a company wide winter break during the holidays.</p><p><strong>EEO
+  Statement</strong></p><p>Sage is an equal opportunity employer that is committed
+  to diversity and inclusion in the workplace. We prohibit discrimination and harassment
+  of any kind based on race, color, sex, religion, sexual orientation, national origin,
+  disability, genetic information, pregnancy, or any other protected characteristic
+  as outlined by federal, state, or local laws.</p><p>This policy applies to all employment
+  practices within our organization, including hiring, recruiting, promotion, termination,
+  layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship.
+  Sage makes hiring decisions based solely on qualifications, merit, and business
+  needs at the time.</p><br>'
+description_text: 'Sage is on a mission to improve care and quality of life for older
+  adults, starting with those residing in senior living facilities. Falls are the
+  leading cause of injury-related death among adults over 65. And yet, fall prevention
+  and emergency response systems for older adults are archaic and ineffective. At
+  Sage we''ve built a more modern way of understanding when older adults need help,
+  including methods for residents to alert caregivers when in need of help, and corresponding
+  software for caregivers to triage response. Our company mission is to create a product
+  that our client counterparts love, and this role is a key part of that objective.
+  Sage is a small, tight team of ambitious, multi-disciplinary entrepreneurs. We are
+  a software-enabled, mission-driven company, and are focused only on the problems
+  that are central to achieving that mission. At Sage, we work hard and fast but also
+  know that to build a truly important company, we need to treat our work as a marathon,
+  and not a sprint. The journey matters. About this Role We are looking for a hands-on
+  Tech Lead Manager to lead the engineering efforts for building cross-platform experiences
+  as we realize the vision of a fully connected care platform. You will partner closely
+  with Product, Design, Hardware, and business leaders to iterate and deliver on context-rich
+  workflows that improve the caregiver experience so they can focus on providing quality
+  care to their residents. As an engineering leader on the Product Engineering team,
+  you will set the foundation of our native strategy and collaborate with other engineers
+  to build hardware + software solutions. Success in this role requires close attention
+  to details, creative problem solving, and a strong bias toward action and experimentation.
+  Responsibilities Define the native application strategy, evaluating candidate hybrid
+  architectures through hands-on proof-of-concept work and delivering a clear, written
+  recommendation with tradeoffs the team can act on. Develop the first iteration of
+  our mobile native app, both prototyping and building a production-ready version
+  of our core platform. Establish the integration boundary between our existing web
+  application and the native layer, ensuring web engineers can continue to ship features
+  without being blocked by native build complexity. Own the end-to-end native build,
+  release, and over-the-air update pipeline, from local development through app store
+  submission and production delivery. Drive the implementation of native device capabilities
+  — including device identification, configurable push notifications, and Bluetooth
+  Low Energy interactions with IoT hardware — that are out of reach from the browser
+  today. Partner with Platform Engineering to ensure the backend infrastructure supports
+  reliable, at-scale delivery of push notifications to Sage-managed devices. Build
+  and grow a small, high-performing native engineering team, including hiring, mentoring,
+  and developing engineers while defining the practices and tooling that keep the
+  team moving quickly. Collaborate closely with Product, Design, Hardware, and business
+  leaders to translate user and hardware needs into a coherent native product experience.
+  Contribute hands-on to architecture decisions and early-stage implementation, setting
+  technical standards and serving as the go-to resource when the team hits hard native
+  platform problems. Minimum Qualifications 8+ years of software engineering experience,
+  with at least 3 years leading engineering teams or projects. Experience shipping
+  a production native Android application to Google Play — you have personally navigated
+  the full release pipeline, not just the code. Hands-on experience with at least
+  one hybrid native framework (React Native, Ionic + CapacitorJS, Flutter + Dart,
+  etc.) and a clear point of view on when hybrid is the right call versus full native.
+  Experience integrating device APIs from a hybrid runtime — such as device identity,
+  push notification delivery, or Bluetooth Low Energy peripheral interaction — not
+  just reading documentation about them. Experience managing or mentoring engineers,
+  including setting technical direction and conducting code review at an architectural
+  level. Experience partnering closely with Product and Design leaders to shape product
+  strategy and user-centered solutions. Track record of building experimentation-driven
+  development processes and rapid MVP iteration cycles. Preferred Qualifications Comfortable
+  working across the full stack; able to collaborate with backend engineers on notification
+  infrastructure and device management APIs without needing hand-holding on the contracts.
+  Experience managing native application deployment pipelines end-to-end: versioning
+  strategies, build automation, code signing, app store submission, and over-the-air
+  update delivery. Experience building or operating a high-reliability push notification
+  pipeline — device token lifecycle, delivery guarantees, and handling of silent vs.
+  visible notifications. Experience with Bluetooth Low Energy — scanning, pairing,
+  service/characteristic discovery, connection state management — in a production
+  application on real hardware. Experience deploying and managing native applications
+  through a mobile device management (MDM) platform, including app provisioning, configuration
+  policy enforcement, and managing OS and app updates on enrolled device fleets. Experience
+  with programmatic audio control on mobile: routing audio output, managing platform
+  audio sessions, and handling system-level interruptions. Prior experience in a startup,
+  incubation, or 0-to-1 environment where architectural decisions had long-lasting
+  consequences. Benefits and Pay Our headquarters are located in New York City''s
+  Union Square. We believe in cross team collaboration. We think good ideas can come
+  from anyone, and we''ve designed our processes to encourage participation from all.
+  While we take our mission seriously, we don''t take ourselves too seriously. We
+  like to host offsites, outings, and team meals where we can connect as people, not
+  just as colleagues. We offer office lunch and a fully stocked snack bar. While we
+  are an in office culture, we allow up to 2 remote days per week. Our benefits package
+  for employees includes competitive base compensation along with stock options. The
+  expected annual salary range for this role is $190,000-245,000 USD, depending on
+  your level of expertise, your experience, and your performance in the interview
+  process. We also provide fully-paid health and dental insurance coverage for all
+  of our employees, along with other health benefits including vision insurance, membership
+  to premium primary and urgent care, and online medical health providers. We also
+  have a take as you need time off policy, in addition to 7 paid holidays and a company
+  wide winter break during the holidays. EEO Statement Sage is an equal opportunity
+  employer that is committed to diversity and inclusion in the workplace. We prohibit
+  discrimination and harassment of any kind based on race, color, sex, religion, sexual
+  orientation, national origin, disability, genetic information, pregnancy, or any
+  other protected characteristic as outlined by federal, state, or local laws. This
+  policy applies to all employment practices within our organization, including hiring,
+  recruiting, promotion, termination, layoff, recall, leave of absence, compensation,
+  benefits, training, and apprenticeship. Sage makes hiring decisions based solely
+  on qualifications, merit, and business needs at the time.'
+salary_json_min: 190000
+salary_json_max: 245000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Lead
+workplace_type_enum: UNKNOWN
+company_overview: Sage is an innovative, one-of-a-kind operations management system
+  that transforms how senior living communities deliver care. Unlike traditional nurse
+  call systems, Sage offers a comprehensive platform that provides real-time insights
+  into care delivery and operational efficiency. Our technology empowers caregivers
+  with the tools and data they need to provide personalized care while boosting productivity.
+  By leveraging real-time staffing data and customizable insights, Sage helps communities
+  optimize staffing models and make informed decisions, resulting in enhanced resident
+  satisfaction and staff engagement. Sage is the solution the Senior Living industry
+  has been waiting for, revolutionizing care management and operational excellence.
+url: https://builtin.com/job/tech-lead-manager-react-native/8681600
+source: builtin.com
+description: 'Sage is on a mission to improve care and quality of life for older adults,
+  starting with those residing in senior living facilities. Falls are the leading
+  cause of injury-related death among adults over 65. And yet, fall prevention and
+  emergency response systems for older adults are archaic and ineffective. At Sage
+  we''ve built a more modern way of understanding when older adults need help, including
+  methods for residents to alert caregivers when in need of help, and corresponding
+  software for caregivers to triage response. Our company mission is to create a product
+  that our client counterparts love, and this role is a key part of that objective.
+  Sage is a small, tight team of ambitious, multi-disciplinary entrepreneurs. We are
+  a software-enabled, mission-driven company, and are focused only on the problems
+  that are central to achieving that mission. At Sage, we work hard and fast but also
+  know that to build a truly important company, we need to treat our work as a marathon,
+  and not a sprint. The journey matters. About this Role We are looking for a hands-on
+  Tech Lead Manager to lead the engineering efforts for building cross-platform experiences
+  as we realize the vision of a fully connected care platform. You will partner closely
+  with Product, Design, Hardware, and business leaders to iterate and deliver on context-rich
+  workflows that improve the caregiver experience so they can focus on providing quality
+  care to their residents. As an engineering leader on the Product Engineering team,
+  you will set the foundation of our native strategy and collaborate with other engineers
+  to build hardware + software solutions. Success in this role requires close attention
+  to details, creative problem solving, and a strong bias toward action and experimentation.
+  Responsibilities Define the native application strategy, evaluating candidate hybrid
+  architectures through hands-on proof-of-concept work and delivering a clear, written
+  recommendation with tradeoffs the team can act on. Develop the first iteration of
+  our mobile native app, both prototyping and building a production-ready version
+  of our core platform. Establish the integration boundary between our existing web
+  application and the native layer, ensuring web engineers can continue to ship features
+  without being blocked by native build complexity. Own the end-to-end native build,
+  release, and over-the-air update pipeline, from local development through app store
+  submission and production delivery. Drive the implementation of native device capabilities
+  — including device identification, configurable push notifications, and Bluetooth
+  Low Energy interactions with IoT hardware — that are out of reach from the browser
+  today. Partner with Platform Engineering to ensure the backend infrastructure supports
+  reliable, at-scale delivery of push notifications to Sage-managed devices. Build
+  and grow a small, high-performing native engineering team, including hiring, mentoring,
+  and developing engineers while defining the practices and tooling that keep the
+  team moving quickly. Collaborate closely with Product, Design, Hardware, and business
+  leaders to translate user and hardware needs into a coherent native product experience.
+  Contribute hands-on to architecture decisions and early-stage implementation, setting
+  technical standards and serving as the go-to resource when the team hits hard native
+  platform problems. Minimum Qualifications 8+ years of software engineering experience,
+  with at least 3 years leading engineering teams or projects. Experience shipping
+  a production native Android application to Google Play — you have personally navigated
+  the full release pipeline, not just the code. Hands-on experience with at least
+  one hybrid native framework (React Native, Ionic + CapacitorJS, Flutter + Dart,
+  etc.) and a clear point of view on when hybrid is the right call versus full native.
+  Experience integrating device APIs from a hybrid runtime — such as device identity,
+  push notification delivery, or Bluetooth Low Energy peripheral interaction — not
+  just reading documentation about them. Experience managing or mentoring engineers,
+  including setting technical direction and conducting code review at an architectural
+  level. Experience partnering closely with Product and Design leaders to shape product
+  strategy and user-centered solutions. Track record of building experimentation-driven
+  development processes and rapid MVP iteration cycles. Preferred Qualifications Comfortable
+  working across the full stack; able to collaborate with backend engineers on notification
+  infrastructure and device management APIs without needing hand-holding on the contracts.
+  Experience managing native application deployment pipelines end-to-end: versioning
+  strategies, build automation, code signing, app store submission, and over-the-air
+  update delivery. Experience building or operating a high-reliability push notification
+  pipeline — device token lifecycle, delivery guarantees, and handling of silent vs.
+  visible notifications. Experience with Bluetooth Low Energy — scanning, pairing,
+  service/characteristic discovery, connection state management — in a production
+  application on real hardware. Experience deploying and managing native applications
+  through a mobile device management (MDM) platform, including app provisioning, configuration
+  policy enforcement, and managing OS and app updates on enrolled device fleets. Experience
+  with programmatic audio control on mobile: routing audio output, managing platform
+  audio sessions, and handling system-level interruptions. Prior experience in a startup,
+  incubation, or 0-to-1 environment where architectural decisions had long-lasting
+  consequences. Benefits and Pay Our headquarters are located in New York City''s
+  Union Square. We believe in cross team collaboration. We think good ideas can come
+  from anyone, and we''ve designed our processes to encourage participation from all.
+  While we take our mission seriously, we don''t take ourselves too seriously. We
+  like to host offsites, outings, and team meals where we can connect as people, not
+  just as colleagues. We offer office lunch and a fully stocked snack bar. While we
+  are an in office culture, we allow up to 2 remote days per week. Our benefits package
+  for employees includes competitive base compensation along with stock options. The
+  expected annual salary range for this role is $190,000-245,000 USD, depending on
+  your level of expertise, your experience, and your performance in the interview
+  process. We also provide fully-paid health and dental insurance coverage for all
+  of our employees, along with other health benefits including vision insurance, membership
+  to premium primary and urgent care, and online medical health providers. We also
+  have a take as you need time off policy, in addition to 7 paid holidays and a company
+  wide winter break during the holidays. EEO Statement Sage is an equal opportunity
+  employer that is committed to diversity and inclusion in the workplace. We prohibit
+  discrimination and harassment of any kind based on race, color, sex, religion, sexual
+  orientation, national origin, disability, genetic information, pregnancy, or any
+  other protected characteristic as outlined by federal, state, or local laws. This
+  policy applies to all employment practices within our organization, including hiring,
+  recruiting, promotion, termination, layoff, recall, leave of absence, compensation,
+  benefits, training, and apprenticeship. Sage makes hiring decisions based solely
+  on qualifications, merit, and business needs at the time.'
+postedDate: '2026-03-07'
+salary: USD 190,000 - 245,000
+id: 18
+is_gtm_technical: true
+tech_stack:
+- React Native
+min_years_exp: 8
+salary_min: 150000
+salary_max: 200000
+reason: Tech lead for mobile applications, aligning with technical GTM roles.

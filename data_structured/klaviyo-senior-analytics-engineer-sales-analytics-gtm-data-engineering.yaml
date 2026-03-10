@@ -1,0 +1,373 @@
+title: Senior Analytics Engineer, Sales Analytics (GTM Data Engineering)
+company: Klaviyo
+category:
+- Consumer Web
+- eCommerce
+- Marketing Tech
+- Retail
+- Software
+- Analytics
+- Generative AI
+location: Boston, Massachusetts, USA
+date_posted: '2026-02-24'
+description_html: '<p><p><em>At Klaviyo, we value the unique backgrounds, experiences
+  and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace
+  each and every day. We believe everyone deserves a fair shot at success and appreciate
+  the experiences each person brings beyond the traditional job requirements. If you’re
+  a close but not exact match with the description, we hope you’ll still consider
+  applying. Want to learn more about life at Klaviyo? Visit klaviyo.com/careers&nbsp;to
+  see how we empower creators to own their own destiny.</em></p></p><b><strong>About
+  the team and role</strong></b><p>Data is at the heart of every decision made at
+  Klaviyo, and we’re looking for a Business Intelligence Data Engineer to join our
+  Go To Market (GTM) team supporting Sales Analytics. This domain of data aims to
+  improve the experience of Sales Operations and Analytics. Secondary to this, the
+  role will support ancillary functions of the Partnerships Organization and collaborate
+  with the CS&amp;S organization. This role sits in Data Engineering as part of the
+  GTM team, which is part of a hub and spoke model of analytics engineering at Klaviyo.</p><p>You’ll
+  build and steward the source of truth for Sales Operational data so People leaders
+  and analysts can answer questions quickly and confidently and turn those insights
+  into a more incentivized, higher-performing organization. You will directly support
+  the sales analytics teams at Klaviyo, working cross functionally with Systems, Deal
+  Ops,, Audits, Planning, and Business Intelligence.</p><p>You will be an independent
+  self-serving, embedded partner to all of GTM leadership where Sales subject matter
+  expertise is required, capable of translating ambiguous requirements into stable
+  data products. You’ll be supported by the broader Data Engineering organization’s
+  standards, tooling, and review practices.</p><b><strong>How you’ll make a difference</strong></b><ul><li>Deliver
+  Sales specific data modeling that drives better operational experience, is SOX compliant,
+  and provides detailed insight into the day to day of operation as well as forecasting.
+  Maintain and stand up curated, documented marts that make it easy for analytics
+  to operate within a structured governance mandate that enables the Sales operations
+  team to work fast and focus on their organizations with the safety of production
+  ready data.</li><li>Own the pipelines &amp; models end‑to‑end. Build and maintain
+  reliable integrations from core sales systems (e.g., CRMs/ROP/ERPs), model them
+  in dbt, and publish governed marts and reverse‑ETLs to operational destinations
+  where they create value.</li><li>Create attainment views with Compensation and People
+  Analytics. Partner with analysts to build holistic views of the Sales lifecycle.
+  Examples of focus are quicker cadences to booking and dynamic reconciliation processes</li><li>Raise
+  the bar on data reliability and governance. Instrument monitoring and alerting,
+  tests (freshness/volume/constraints), and documentation so the sales data ecosystem
+  is discoverable, auditable, and self-serveable.</li><li>Operate as a trusted partner
+  to leadership. Work directly with Operations and Sales leadership to scope problems,
+  clarify trade‑offs, and communicate technical concepts in exec‑ready language.</li></ul><b><strong>What
+  you’ll do (responsibilities)</strong></b><ul><li>Integrations &amp; ingestion: Own
+  secure ingestion from ROP/ERP/performance systems into Snowflake; define SLAs/SLOs;
+  implement monitoring &amp; alerting for each feed.</li><li>Modeling &amp; marts:
+  Design dimensional/entity models (dbt) for employees, positions, org structure,
+  performance history, forecasting, and pipeline movement; publish curated marts with
+  strong contracts and lineage.</li><li>Reverse ETL: Operationalize high‑value models
+  to downstream tools and workflows using reverse‑ETL patterns to close the loop between
+  insight and action.</li><li>Quality &amp; governance: Implement tests (unit/integration,
+  schema/freshness), multi-layered validation frameworks that routinely validate data
+  integrity, data policies (masking, purpose‑based access), and documentation that
+  enable safe self‑service across the analytics community.</li><li>Repository stewardship:
+  Maintain the analytics codebase (dbt repo), perform code reviews, and ensure modular,
+  reusable patterns the broader team can adopt.</li><li>Stakeholder partnership: Run
+  an intake &amp; engagement model with Revenue and Sales Operations/ Analytics (primary),
+  HRIS/People Tech (security/integration), Finance (plan/comp interfaces),&nbsp; and
+  BI/Platform teams (shared standards).</li></ul><b><strong>Who you are (qualifications)</strong></b><ul><li>3–5+
+  years in analytics/data engineering with production ELT in Snowflake + dbt + SQL;
+  Python for orchestration/utilities.</li><li>Strong demonstration of Sales Operations</li><li>Demonstrated
+  independence partnering with senior, non‑technical leaders; able to translate open‑ended
+  needs into scalable data products.</li><li>Proven experience implementing tests,
+  monitoring, and documentation that keep pipelines healthy and reporting trustworthy.</li><li>Experience
+  building data integrations and reverse‑ETL pipelines that support business operations.</li><li>Airflow
+  (orchestration) and Fivetran/Workato (ELT/integration).</li><li>Familiarity with
+  data privacy controls (masking/RLS) in people data.</li><li>AWS experience (S3/EC2/Lambda)
+  and IaC/Terraform.</li></ul><b><strong>The tools you’ll use</strong></b><p>Snowflake,
+  dbt, Airflow, Fivetran, Workato, Python, AWS, Tableau/Looker/ThoughtSpot; publishing
+  via reverse‑ETL where appropriate.</p><br><p>We use Covey as part of our hiring
+  and / or promotional process. For jobs or candidates in NYC, certain features may
+  qualify it as an AEDT. As part of the evaluation process we provide Covey with job
+  requirements and candidate submitted applications. We began using Covey Scout for
+  Inbound on April 3, 2025.</p><p>Please see the independent bias audit report covering
+  our use of Covey here</p><p><p><p><p><strong>Massachusetts Applicants:<br></strong>It
+  is unlawful in Massachusetts to require or administer a lie detector test as a condition
+  of employment or continued employment. An employer who violates this law shall be
+  subject to criminal penalties and civil liability.</p><p>Our salary range reflects
+  the cost of labor across various U.S. geographic markets. The range displayed below
+  reflects the minimum and maximum target salaries for the position across all our
+  US locations. The base salary offered for this position is determined by several
+  factors, including the applicant’s job-related skills, relevant experience, education
+  or training, and work location.</p><p>In addition to base salary, our total compensation
+  package may include participation in the company’s annual cash bonus plan, variable
+  compensation (OTE) for sales and customer success roles, equity, sign-on payments,
+  and a comprehensive range of health, welfare, and wellbeing benefits based on eligibility.&nbsp;</p><p>Your
+  recruiter can provide more details about the specific salary/OTE range for your
+  preferred location during the hiring process.</p></p><p>Base Pay Range For US Locations:</p><p><span>$120,000</span><span>—</span><span>$180,000
+  USD</span></p></p></p><p><p><strong>Get to Know Klaviyo</strong></p><p>We’re Klaviyo
+  (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party
+  data accessible and actionable like never before. We see limitless potential for
+  the technology we’re developing to nurture personalized experiences in ecommerce
+  and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious
+  and collaborative teammates who stay focused on our north star: delighting our customers.
+  If you’re ready to do the best work of your career, where you’ll be welcomed as
+  your whole self from day one and supported with generous benefits, we hope you’ll
+  join us.</p><p><em>AI fluency at Klaviyo includes responsible use of AI (including
+  privacy, security, bias awareness, and human-in-the-loop). We provide accommodations
+  as needed.&nbsp;</em></p><p><em>By participating in Klaviyo’s interview process,
+  you acknowledge that you have read, understood, and will adhere to our&nbsp;Guidelines
+  for using AI in the Klaviyo interview Process. For more information about how we
+  process your personal data, see our&nbsp;Job Applicant Privacy Notice.<br></em></p><p><em>Klaviyo
+  is committed to a policy of equal opportunity and non-discrimination. We do not
+  discriminate on the basis of race, ethnicity, citizenship, national origin, color,
+  religion or religious creed, age, sex (including pregnancy), gender identity, sexual
+  orientation, physical or mental disability, veteran or active military status, marital
+  status, criminal record, genetics, retaliation, sexual harassment or any other characteristic
+  protected by applicable law.</em></p><p><p><p><p><p><p><p><p><p><p><p><p><em>IMPORTANT
+  NOTICE: Our company takes the security and privacy of job applicants very seriously.
+  We will never ask for payment, bank details, or personal financial information as
+  part of the application process. All our legitimate job postings can be found on
+  our official career site. Please be cautious of job offers that come from non-company
+  email addresses (@klaviyo.com), instant messaging platforms, or unsolicited calls.</em></p><p>&nbsp;</p><p><strong>By
+  clicking "Submit Application" you consent to Klaviyo processing your Personal Data
+  in accordance with our Job Applicant Privacy Notice.&nbsp; If you do not wish for
+  Klaviyo to process your Personal Data, please do not submit an application.<em>&nbsp;
+  </em></strong><em>You can find our Job Applicant Privacy Notice&nbsp;</em><em>here</em><em>&nbsp;and
+  here (FR).</em></p></p></p></p></p></p></p></p></p></p></p></p><p><p><p><p><p><p>&nbsp;</p></p></p></p></p></p></p>'
+description_text: 'At Klaviyo, we value the unique backgrounds, experiences and perspectives
+  each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every
+  day. We believe everyone deserves a fair shot at success and appreciate the experiences
+  each person brings beyond the traditional job requirements. If you’re a close but
+  not exact match with the description, we hope you’ll still consider applying. Want
+  to learn more about life at Klaviyo? Visit klaviyo.com/careers&nbsp;to see how we
+  empower creators to own their own destiny. About the team and role Data is at the
+  heart of every decision made at Klaviyo, and we’re looking for a Business Intelligence
+  Data Engineer to join our Go To Market (GTM) team supporting Sales Analytics. This
+  domain of data aims to improve the experience of Sales Operations and Analytics.
+  Secondary to this, the role will support ancillary functions of the Partnerships
+  Organization and collaborate with the CS&amp;S organization. This role sits in Data
+  Engineering as part of the GTM team, which is part of a hub and spoke model of analytics
+  engineering at Klaviyo. You’ll build and steward the source of truth for Sales Operational
+  data so People leaders and analysts can answer questions quickly and confidently
+  and turn those insights into a more incentivized, higher-performing organization.
+  You will directly support the sales analytics teams at Klaviyo, working cross functionally
+  with Systems, Deal Ops,, Audits, Planning, and Business Intelligence. You will be
+  an independent self-serving, embedded partner to all of GTM leadership where Sales
+  subject matter expertise is required, capable of translating ambiguous requirements
+  into stable data products. You’ll be supported by the broader Data Engineering organization’s
+  standards, tooling, and review practices. How you’ll make a difference Deliver Sales
+  specific data modeling that drives better operational experience, is SOX compliant,
+  and provides detailed insight into the day to day of operation as well as forecasting.
+  Maintain and stand up curated, documented marts that make it easy for analytics
+  to operate within a structured governance mandate that enables the Sales operations
+  team to work fast and focus on their organizations with the safety of production
+  ready data. Own the pipelines &amp; models end‑to‑end. Build and maintain reliable
+  integrations from core sales systems (e.g., CRMs/ROP/ERPs), model them in dbt, and
+  publish governed marts and reverse‑ETLs to operational destinations where they create
+  value. Create attainment views with Compensation and People Analytics. Partner with
+  analysts to build holistic views of the Sales lifecycle. Examples of focus are quicker
+  cadences to booking and dynamic reconciliation processes Raise the bar on data reliability
+  and governance. Instrument monitoring and alerting, tests (freshness/volume/constraints),
+  and documentation so the sales data ecosystem is discoverable, auditable, and self-serveable.
+  Operate as a trusted partner to leadership. Work directly with Operations and Sales
+  leadership to scope problems, clarify trade‑offs, and communicate technical concepts
+  in exec‑ready language. What you’ll do (responsibilities) Integrations &amp; ingestion:
+  Own secure ingestion from ROP/ERP/performance systems into Snowflake; define SLAs/SLOs;
+  implement monitoring &amp; alerting for each feed. Modeling &amp; marts: Design
+  dimensional/entity models (dbt) for employees, positions, org structure, performance
+  history, forecasting, and pipeline movement; publish curated marts with strong contracts
+  and lineage. Reverse ETL: Operationalize high‑value models to downstream tools and
+  workflows using reverse‑ETL patterns to close the loop between insight and action.
+  Quality &amp; governance: Implement tests (unit/integration, schema/freshness),
+  multi-layered validation frameworks that routinely validate data integrity, data
+  policies (masking, purpose‑based access), and documentation that enable safe self‑service
+  across the analytics community. Repository stewardship: Maintain the analytics codebase
+  (dbt repo), perform code reviews, and ensure modular, reusable patterns the broader
+  team can adopt. Stakeholder partnership: Run an intake &amp; engagement model with
+  Revenue and Sales Operations/ Analytics (primary), HRIS/People Tech (security/integration),
+  Finance (plan/comp interfaces),&nbsp; and BI/Platform teams (shared standards).
+  Who you are (qualifications) 3–5+ years in analytics/data engineering with production
+  ELT in Snowflake + dbt + SQL; Python for orchestration/utilities. Strong demonstration
+  of Sales Operations Demonstrated independence partnering with senior, non‑technical
+  leaders; able to translate open‑ended needs into scalable data products. Proven
+  experience implementing tests, monitoring, and documentation that keep pipelines
+  healthy and reporting trustworthy. Experience building data integrations and reverse‑ETL
+  pipelines that support business operations. Airflow (orchestration) and Fivetran/Workato
+  (ELT/integration). Familiarity with data privacy controls (masking/RLS) in people
+  data. AWS experience (S3/EC2/Lambda) and IaC/Terraform. The tools you’ll use Snowflake,
+  dbt, Airflow, Fivetran, Workato, Python, AWS, Tableau/Looker/ThoughtSpot; publishing
+  via reverse‑ETL where appropriate. We use Covey as part of our hiring and / or promotional
+  process. For jobs or candidates in NYC, certain features may qualify it as an AEDT.
+  As part of the evaluation process we provide Covey with job requirements and candidate
+  submitted applications. We began using Covey Scout for Inbound on April 3, 2025.
+  Please see the independent bias audit report covering our use of Covey here Massachusetts
+  Applicants: It is unlawful in Massachusetts to require or administer a lie detector
+  test as a condition of employment or continued employment. An employer who violates
+  this law shall be subject to criminal penalties and civil liability. Our salary
+  range reflects the cost of labor across various U.S. geographic markets. The range
+  displayed below reflects the minimum and maximum target salaries for the position
+  across all our US locations. The base salary offered for this position is determined
+  by several factors, including the applicant’s job-related skills, relevant experience,
+  education or training, and work location. In addition to base salary, our total
+  compensation package may include participation in the company’s annual cash bonus
+  plan, variable compensation (OTE) for sales and customer success roles, equity,
+  sign-on payments, and a comprehensive range of health, welfare, and wellbeing benefits
+  based on eligibility.&nbsp; Your recruiter can provide more details about the specific
+  salary/OTE range for your preferred location during the hiring process. Base Pay
+  Range For US Locations: $120,000 — $180,000 USD Get to Know Klaviyo We’re Klaviyo
+  (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party
+  data accessible and actionable like never before. We see limitless potential for
+  the technology we’re developing to nurture personalized experiences in ecommerce
+  and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious
+  and collaborative teammates who stay focused on our north star: delighting our customers.
+  If you’re ready to do the best work of your career, where you’ll be welcomed as
+  your whole self from day one and supported with generous benefits, we hope you’ll
+  join us. AI fluency at Klaviyo includes responsible use of AI (including privacy,
+  security, bias awareness, and human-in-the-loop). We provide accommodations as needed.&nbsp;
+  By participating in Klaviyo’s interview process, you acknowledge that you have read,
+  understood, and will adhere to our&nbsp;Guidelines for using AI in the Klaviyo interview
+  Process. For more information about how we process your personal data, see our&nbsp;Job
+  Applicant Privacy Notice. Klaviyo is committed to a policy of equal opportunity
+  and non-discrimination. We do not discriminate on the basis of race, ethnicity,
+  citizenship, national origin, color, religion or religious creed, age, sex (including
+  pregnancy), gender identity, sexual orientation, physical or mental disability,
+  veteran or active military status, marital status, criminal record, genetics, retaliation,
+  sexual harassment or any other characteristic protected by applicable law. IMPORTANT
+  NOTICE: Our company takes the security and privacy of job applicants very seriously.
+  We will never ask for payment, bank details, or personal financial information as
+  part of the application process. All our legitimate job postings can be found on
+  our official career site. Please be cautious of job offers that come from non-company
+  email addresses (@klaviyo.com), instant messaging platforms, or unsolicited calls.
+  &nbsp; By clicking "Submit Application" you consent to Klaviyo processing your Personal
+  Data in accordance with our Job Applicant Privacy Notice.&nbsp; If you do not wish
+  for Klaviyo to process your Personal Data, please do not submit an application.
+  &nbsp; You can find our Job Applicant Privacy Notice&nbsp; here &nbsp;and here (FR).
+  &nbsp;'
+salary_json_min: 120000
+salary_json_max: 180000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: 'Klaviyo (NYSE: KVYO) is the B2C CRM. Powered by its built-in data
+  platform and AI, Klaviyo combines marketing automation, analytics, and customer
+  service into one unified solution, making it easy for businesses to know their customers
+  and grow faster. Klaviyo (CLAY-vee-oh) helps over 183,000 brands like Mattel, Glossier,
+  Daily Harvest, and Liquid Death deliver 1:1 experiences at scale, improve efficiency,
+  and drive revenue.'
+url: https://builtin.com/job/senior-analytics-engineer-sales-analytics-gtm-data-engineering/8577563
+source: builtin.com
+description: 'At Klaviyo, we value the unique backgrounds, experiences and perspectives
+  each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every
+  day. We believe everyone deserves a fair shot at success and appreciate the experiences
+  each person brings beyond the traditional job requirements. If you’re a close but
+  not exact match with the description, we hope you’ll still consider applying. Want
+  to learn more about life at Klaviyo? Visit klaviyo.com/careers&nbsp;to see how we
+  empower creators to own their own destiny. About the team and role Data is at the
+  heart of every decision made at Klaviyo, and we’re looking for a Business Intelligence
+  Data Engineer to join our Go To Market (GTM) team supporting Sales Analytics. This
+  domain of data aims to improve the experience of Sales Operations and Analytics.
+  Secondary to this, the role will support ancillary functions of the Partnerships
+  Organization and collaborate with the CS&amp;S organization. This role sits in Data
+  Engineering as part of the GTM team, which is part of a hub and spoke model of analytics
+  engineering at Klaviyo. You’ll build and steward the source of truth for Sales Operational
+  data so People leaders and analysts can answer questions quickly and confidently
+  and turn those insights into a more incentivized, higher-performing organization.
+  You will directly support the sales analytics teams at Klaviyo, working cross functionally
+  with Systems, Deal Ops,, Audits, Planning, and Business Intelligence. You will be
+  an independent self-serving, embedded partner to all of GTM leadership where Sales
+  subject matter expertise is required, capable of translating ambiguous requirements
+  into stable data products. You’ll be supported by the broader Data Engineering organization’s
+  standards, tooling, and review practices. How you’ll make a difference Deliver Sales
+  specific data modeling that drives better operational experience, is SOX compliant,
+  and provides detailed insight into the day to day of operation as well as forecasting.
+  Maintain and stand up curated, documented marts that make it easy for analytics
+  to operate within a structured governance mandate that enables the Sales operations
+  team to work fast and focus on their organizations with the safety of production
+  ready data. Own the pipelines &amp; models end‑to‑end. Build and maintain reliable
+  integrations from core sales systems (e.g., CRMs/ROP/ERPs), model them in dbt, and
+  publish governed marts and reverse‑ETLs to operational destinations where they create
+  value. Create attainment views with Compensation and People Analytics. Partner with
+  analysts to build holistic views of the Sales lifecycle. Examples of focus are quicker
+  cadences to booking and dynamic reconciliation processes Raise the bar on data reliability
+  and governance. Instrument monitoring and alerting, tests (freshness/volume/constraints),
+  and documentation so the sales data ecosystem is discoverable, auditable, and self-serveable.
+  Operate as a trusted partner to leadership. Work directly with Operations and Sales
+  leadership to scope problems, clarify trade‑offs, and communicate technical concepts
+  in exec‑ready language. What you’ll do (responsibilities) Integrations &amp; ingestion:
+  Own secure ingestion from ROP/ERP/performance systems into Snowflake; define SLAs/SLOs;
+  implement monitoring &amp; alerting for each feed. Modeling &amp; marts: Design
+  dimensional/entity models (dbt) for employees, positions, org structure, performance
+  history, forecasting, and pipeline movement; publish curated marts with strong contracts
+  and lineage. Reverse ETL: Operationalize high‑value models to downstream tools and
+  workflows using reverse‑ETL patterns to close the loop between insight and action.
+  Quality &amp; governance: Implement tests (unit/integration, schema/freshness),
+  multi-layered validation frameworks that routinely validate data integrity, data
+  policies (masking, purpose‑based access), and documentation that enable safe self‑service
+  across the analytics community. Repository stewardship: Maintain the analytics codebase
+  (dbt repo), perform code reviews, and ensure modular, reusable patterns the broader
+  team can adopt. Stakeholder partnership: Run an intake &amp; engagement model with
+  Revenue and Sales Operations/ Analytics (primary), HRIS/People Tech (security/integration),
+  Finance (plan/comp interfaces),&nbsp; and BI/Platform teams (shared standards).
+  Who you are (qualifications) 3–5+ years in analytics/data engineering with production
+  ELT in Snowflake + dbt + SQL; Python for orchestration/utilities. Strong demonstration
+  of Sales Operations Demonstrated independence partnering with senior, non‑technical
+  leaders; able to translate open‑ended needs into scalable data products. Proven
+  experience implementing tests, monitoring, and documentation that keep pipelines
+  healthy and reporting trustworthy. Experience building data integrations and reverse‑ETL
+  pipelines that support business operations. Airflow (orchestration) and Fivetran/Workato
+  (ELT/integration). Familiarity with data privacy controls (masking/RLS) in people
+  data. AWS experience (S3/EC2/Lambda) and IaC/Terraform. The tools you’ll use Snowflake,
+  dbt, Airflow, Fivetran, Workato, Python, AWS, Tableau/Looker/ThoughtSpot; publishing
+  via reverse‑ETL where appropriate. We use Covey as part of our hiring and / or promotional
+  process. For jobs or candidates in NYC, certain features may qualify it as an AEDT.
+  As part of the evaluation process we provide Covey with job requirements and candidate
+  submitted applications. We began using Covey Scout for Inbound on April 3, 2025.
+  Please see the independent bias audit report covering our use of Covey here Massachusetts
+  Applicants: It is unlawful in Massachusetts to require or administer a lie detector
+  test as a condition of employment or continued employment. An employer who violates
+  this law shall be subject to criminal penalties and civil liability. Our salary
+  range reflects the cost of labor across various U.S. geographic markets. The range
+  displayed below reflects the minimum and maximum target salaries for the position
+  across all our US locations. The base salary offered for this position is determined
+  by several factors, including the applicant’s job-related skills, relevant experience,
+  education or training, and work location. In addition to base salary, our total
+  compensation package may include participation in the company’s annual cash bonus
+  plan, variable compensation (OTE) for sales and customer success roles, equity,
+  sign-on payments, and a comprehensive range of health, welfare, and wellbeing benefits
+  based on eligibility.&nbsp; Your recruiter can provide more details about the specific
+  salary/OTE range for your preferred location during the hiring process. Base Pay
+  Range For US Locations: $120,000 — $180,000 USD Get to Know Klaviyo We’re Klaviyo
+  (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party
+  data accessible and actionable like never before. We see limitless potential for
+  the technology we’re developing to nurture personalized experiences in ecommerce
+  and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious
+  and collaborative teammates who stay focused on our north star: delighting our customers.
+  If you’re ready to do the best work of your career, where you’ll be welcomed as
+  your whole self from day one and supported with generous benefits, we hope you’ll
+  join us. AI fluency at Klaviyo includes responsible use of AI (including privacy,
+  security, bias awareness, and human-in-the-loop). We provide accommodations as needed.&nbsp;
+  By participating in Klaviyo’s interview process, you acknowledge that you have read,
+  understood, and will adhere to our&nbsp;Guidelines for using AI in the Klaviyo interview
+  Process. For more information about how we process your personal data, see our&nbsp;Job
+  Applicant Privacy Notice. Klaviyo is committed to a policy of equal opportunity
+  and non-discrimination. We do not discriminate on the basis of race, ethnicity,
+  citizenship, national origin, color, religion or religious creed, age, sex (including
+  pregnancy), gender identity, sexual orientation, physical or mental disability,
+  veteran or active military status, marital status, criminal record, genetics, retaliation,
+  sexual harassment or any other characteristic protected by applicable law. IMPORTANT
+  NOTICE: Our company takes the security and privacy of job applicants very seriously.
+  We will never ask for payment, bank details, or personal financial information as
+  part of the application process. All our legitimate job postings can be found on
+  our official career site. Please be cautious of job offers that come from non-company
+  email addresses (@klaviyo.com), instant messaging platforms, or unsolicited calls.
+  &nbsp; By clicking "Submit Application" you consent to Klaviyo processing your Personal
+  Data in accordance with our Job Applicant Privacy Notice.&nbsp; If you do not wish
+  for Klaviyo to process your Personal Data, please do not submit an application.
+  &nbsp; You can find our Job Applicant Privacy Notice&nbsp; here &nbsp;and here (FR).
+  &nbsp;'
+postedDate: '2026-02-24'
+salary: USD 120,000 - 180,000
+id: '7'
+is_gtm_technical: true
+tech_stack:
+- Snowflake
+- dbt
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: Role supports sales analytics through data integration and modeling specific
+  to GTM, confirming technical GTM focus.

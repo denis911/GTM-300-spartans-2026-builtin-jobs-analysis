@@ -1,0 +1,374 @@
+title: AI Fraud and Risk Automation Analyst (Remote)
+company: CrowdStrike
+category:
+- Cloud
+- Computer Vision
+- Information Technology
+- Sales
+- Security
+- Cybersecurity
+location: USA
+date_posted: '2026-03-09'
+description_html: '<p>As a global leader in cybersecurity, CrowdStrike protects the
+  people, processes and technologies that drive modern organizations. Since 2011,
+  our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform. Our customers span all
+  industries, and they count on CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We’re also a mission-driven company.
+  We cultivate a culture that gives every CrowdStriker both the flexibility and autonomy
+  to own their careers. We’re always looking to add talented CrowdStrikers to the
+  team who have limitless passion, a relentless focus on innovation and a fanatical
+  commitment to our customers, our community and each other. Ready to join a mission
+  that matters? The future of cybersecurity starts with you.</p><p></p><p><b><b>About
+  the Role:</b></b></p><p><span>As an AI Fraud and Risk Automation Analyst working
+  with the eCommerce team, you will be on the front lines of protecting CrowdStrike''s
+  intellectual property and preventing our cutting-edge security products from falling
+  into adversarial hands. You''ll join a world-class team of risk experts where you
+  will develop the tools, leverage AI-powered analytics, and build the investigative
+  expertise needed to stay ahead of some of the most sophisticated threat actors in
+  the world.</span></p><p><span>This role combines data science, threat intelligence,
+  and cybersecurity expertise to create a dynamic risk detection system. You''ll work
+  with large-scale datasets in Snowflake, develop AI-assisted detection models, and
+  build automated workflows that identify fraudulent activity before it impacts the
+  business.&nbsp;</span></p><p><b><b>What You’ll Do:</b></b></p><p><span>Risk Detection
+  &amp; Analysis:</span></p><ul><li><p><span>Parse and analyze large volumes of transactional
+  and behavioral data to identify indicators of fraud and risk</span></p></li><li><p><span>Develop
+  and maintain a rules-based risk engine that adapts to emerging threat patterns</span></p></li><li><p><span>Conduct
+  ad hoc investigations on suspicious activity and emerging risk scenarios</span></p></li><li><p><span>Serve
+  as the subject matter expert on fraud patterns, adversarial tactics, and risk mitigation
+  strategies</span></p></li></ul><p><span>Data Engineering &amp; Analytics:</span></p><ul><li><p><span>Design,
+  build, and maintain Snowflake tables, views, and data pipelines to support risk
+  detection workflows</span></p></li><li><p><span>Write SQL queries to extract, transform,
+  and analyze risk-related data at scale</span></p></li><li><p><span>Create and optimize
+  data models that enable real-time and batch risk scoring</span></p></li><li><p><span>Develop
+  Python scripts to automate data collection, analysis, and reporting processes</span></p></li></ul><p><span>AI
+  &amp; Machine Learning Integration:</span></p><ul><li><p><span>Leverage AI tools
+  (including LLMs) to enhance fraud detection capabilities and generate risk insights</span></p></li><li><p><span>Collaborate
+  with data science teams to implement machine learning models for anomaly detection</span></p></li><li><p><span>Use
+  AI-assisted analysis to identify patterns in unstructured data (emails, user behavior,
+  device fingerprints)</span></p></li><li><p><span>Continuously refine AI-powered
+  detection rules based on feedback and emerging threats</span></p></li></ul><p><span>Stakeholder
+  Collaboration &amp; Communication:</span></p><ul><li><p><span>Effectively communicate
+  risk findings to technical and non-technical audiences across the organization</span></p></li><li><p><span>Document
+  risk assessments, investigation findings, and rule changes in a clear, actionable
+  manner</span></p></li><li><p><span>Work collaboratively with eCommerce, Sales, Legal,
+  and Security teams to improve CrowdStrike''s overall risk posture</span></p></li><li><p><span>Serve
+  as the risk liaison for the eCommerce team, providing expertise and guidance on
+  fraud prevention</span></p></li></ul><p><span>Incident Response &amp; Monitoring:</span></p><ul><li><p><span>Monitor
+  the risk engine and Slack channels for real-time alerts and triage incidents as
+  they unfold</span></p></li><li><p><span>Diagnose and respond to risk engine failures,
+  false positives, and system anomalies</span></p></li><li><p><span>Review daily risk
+  metrics and dashboards to identify trends and areas for improvement</span></p></li><li><p><span>Proactively
+  identify vulnerabilities in the customer onboarding process and recommend mitigations</span><br>&nbsp;</p></li></ul><p><b><b>What
+  You’ll Need:</b></b></p><ul><li><p><span>6+ months of experience managing a risk
+  engine or fraud detection system in an eCommerce or SaaS environment with a demonstrable
+  track record of using rules-based approaches to prevent unauthorized access</span></p></li><li><p><span>Strong
+  SQL skills with experience querying and managing data in Snowflake or similar cloud
+  data warehouses</span></p></li><li><p><span>Proficiency in Python for data analysis,
+  automation, and scripting</span></p></li><li><p><span>Cybersecurity knowledge: Strong
+  understanding of adversarial tactics, fraud vectors, and threat intelligence</span></p></li><li><p><span>Analytical
+  mindset: Ability to think like an adversary, identify patterns in complex datasets,
+  and make data-driven decisions under pressure</span></p></li><li><p><span>Communication
+  skills: Excellent written and verbal communication skills with the ability to translate
+  technical findings into business recommendations</span></p></li><li><p><span>Self-starter
+  mentality: Proven ability to work independently, prioritize tasks, and meet deadlines
+  in a fast-paced environment</span></p></li></ul><p><b>Bonus points:</b></p><ul><li><p><span>Experience
+  with AI/LLM tools (e.g., ChatGPT, Claude, or similar) for data analysis, threat
+  intelligence, or automation</span></p></li><li><p><span>Familiarity with machine
+  learning concepts and anomaly detection techniques</span></p></li><li><p><span>Experience
+  building and maintaining Snowflake data models, including tables, views, and stored
+  procedures</span></p></li><li><p><span>Knowledge of eCommerce fraud vectors such
+  as account takeover, payment fraud, trial abuse, and bot attacks</span></p></li><li><p><span>Understanding
+  of the SaaS business model and cloud-based platform sales</span></p></li><li><p><span>Experience
+  with data visualization tools (e.g., Tableau, Looker, or similar)</span></p></li><li><p><span>Familiarity
+  with IPQS, Stripe, or other fraud detection APIs</span></p></li><li><p><span>Background
+  in threat intelligence, incident response, or SOC operations</span></p></li></ul><p><span>A
+  Typical Day:</span></p><ul><li><p><span>Morning: Review overnight risk metrics,
+  investigate flagged accounts, and triage alerts from the risk engine</span></p></li><li><p><span>Midday:
+  Write and refine SQL queries to analyze emerging fraud patterns; update Snowflake
+  views to support new detection rules</span></p></li><li><p><span>Afternoon: Collaborate
+  with stakeholders on ad hoc risk analyses; use AI tools to summarize findings and
+  generate reports</span></p></li><li><p><span>Ongoing: Monitor Slack channels for
+  real-time risk events; respond to incidents and adjust rules as needed</span></p></li><li><p><span>End
+  of Day: Document findings, update risk dashboards, and prepare recommendations for
+  rule improvements</span></p></li></ul><p>#LI-Remote<br>#LI-RC1</p><p>#LI-CS1</p><p><b>Benefits
+  of Working at CrowdStrike:</b></p><ul><li><p>Market leader in compensation and equity
+  awards</p></li><li><p>Comprehensive physical and mental wellness programs&nbsp;</p></li><li><p>Competitive
+  vacation and holidays for recharge &nbsp;</p></li><li><p>Paid parental and adoption
+  leaves</p></li><li><p>Professional development opportunities for all employees regardless
+  of level or role</p></li><li><p>Employee Networks, geographic neighborhood groups,
+  and volunteer opportunities to build connections</p></li><li><p>Vibrant office culture
+  with world class amenities</p></li><li><p>Great Place to Work Certified™ across
+  the globe</p></li></ul><p>CrowdStrike is proud to be an equal opportunity employer.
+  We are committed to fostering a culture of belonging where everyone is valued for
+  who they are and empowered to succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.</p><p>CrowdStrike is committed
+  to providing equal employment opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment opportunities or practices on the
+  basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related
+  medical conditions), sexual orientation, gender identity, marital or family status,
+  veteran status, age, national origin, ancestry, physical disability (including HIV
+  and AIDS), mental disability, medical condition, genetic information, membership
+  or activity in a local human rights commission, status with regard to public assistance,
+  or any other characteristic protected by law. We base all employment decisions--including
+  recruitment, selection, training, compensation, benefits, discipline, promotions,
+  transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on
+  valid job requirements.</p><p>If you need assistance accessing or reviewing the
+  information on this website or need help submitting an application for employment
+  or requesting an accommodation, please contact us at recruiting@crowdstrike.com
+  for further assistance.</p><p>Find out more about your rights as an applicant.</p><p>CrowdStrike
+  participates in the E-Verify program.</p><p>Notice of E-Verify Participation</p><p>Right
+  to Work</p>CrowdStrike, Inc. is committed to fair and equitable compensation practices.
+  Placement within the pay range is dependent on a variety of factors including, but
+  not limited to, relevant work experience, skills, certifications, job level, supervisory
+  status, and location. The base salary range for this position for all U.S. candidates
+  is $100.000 - $155.000 per year, with eligibility for bonuses, equity grants and
+  a comprehensive benefits package that includes health insurance, 401k and paid time
+  off.<p><span>For detailed information about the U.S. benefits package, please </span>click
+  here<span>.&nbsp;</span></p><p></p><p></p>Expected Close Date of Job Posting is:04-25-2026'
+description_text: 'As a global leader in cybersecurity, CrowdStrike protects the people,
+  processes and technologies that drive modern organizations. Since 2011, our mission
+  hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security
+  with the world’s most advanced AI-native platform. Our customers span all industries,
+  and they count on CrowdStrike to keep their businesses running, their communities
+  safe and their lives moving forward. We’re also a mission-driven company. We cultivate
+  a culture that gives every CrowdStriker both the flexibility and autonomy to own
+  their careers. We’re always looking to add talented CrowdStrikers to the team who
+  have limitless passion, a relentless focus on innovation and a fanatical commitment
+  to our customers, our community and each other. Ready to join a mission that matters?
+  The future of cybersecurity starts with you. About the Role: As an AI Fraud and
+  Risk Automation Analyst working with the eCommerce team, you will be on the front
+  lines of protecting CrowdStrike''s intellectual property and preventing our cutting-edge
+  security products from falling into adversarial hands. You''ll join a world-class
+  team of risk experts where you will develop the tools, leverage AI-powered analytics,
+  and build the investigative expertise needed to stay ahead of some of the most sophisticated
+  threat actors in the world. This role combines data science, threat intelligence,
+  and cybersecurity expertise to create a dynamic risk detection system. You''ll work
+  with large-scale datasets in Snowflake, develop AI-assisted detection models, and
+  build automated workflows that identify fraudulent activity before it impacts the
+  business.&nbsp; What You’ll Do: Risk Detection &amp; Analysis: Parse and analyze
+  large volumes of transactional and behavioral data to identify indicators of fraud
+  and risk Develop and maintain a rules-based risk engine that adapts to emerging
+  threat patterns Conduct ad hoc investigations on suspicious activity and emerging
+  risk scenarios Serve as the subject matter expert on fraud patterns, adversarial
+  tactics, and risk mitigation strategies Data Engineering &amp; Analytics: Design,
+  build, and maintain Snowflake tables, views, and data pipelines to support risk
+  detection workflows Write SQL queries to extract, transform, and analyze risk-related
+  data at scale Create and optimize data models that enable real-time and batch risk
+  scoring Develop Python scripts to automate data collection, analysis, and reporting
+  processes AI &amp; Machine Learning Integration: Leverage AI tools (including LLMs)
+  to enhance fraud detection capabilities and generate risk insights Collaborate with
+  data science teams to implement machine learning models for anomaly detection Use
+  AI-assisted analysis to identify patterns in unstructured data (emails, user behavior,
+  device fingerprints) Continuously refine AI-powered detection rules based on feedback
+  and emerging threats Stakeholder Collaboration &amp; Communication: Effectively
+  communicate risk findings to technical and non-technical audiences across the organization
+  Document risk assessments, investigation findings, and rule changes in a clear,
+  actionable manner Work collaboratively with eCommerce, Sales, Legal, and Security
+  teams to improve CrowdStrike''s overall risk posture Serve as the risk liaison for
+  the eCommerce team, providing expertise and guidance on fraud prevention Incident
+  Response &amp; Monitoring: Monitor the risk engine and Slack channels for real-time
+  alerts and triage incidents as they unfold Diagnose and respond to risk engine failures,
+  false positives, and system anomalies Review daily risk metrics and dashboards to
+  identify trends and areas for improvement Proactively identify vulnerabilities in
+  the customer onboarding process and recommend mitigations &nbsp; What You’ll Need:
+  6+ months of experience managing a risk engine or fraud detection system in an eCommerce
+  or SaaS environment with a demonstrable track record of using rules-based approaches
+  to prevent unauthorized access Strong SQL skills with experience querying and managing
+  data in Snowflake or similar cloud data warehouses Proficiency in Python for data
+  analysis, automation, and scripting Cybersecurity knowledge: Strong understanding
+  of adversarial tactics, fraud vectors, and threat intelligence Analytical mindset:
+  Ability to think like an adversary, identify patterns in complex datasets, and make
+  data-driven decisions under pressure Communication skills: Excellent written and
+  verbal communication skills with the ability to translate technical findings into
+  business recommendations Self-starter mentality: Proven ability to work independently,
+  prioritize tasks, and meet deadlines in a fast-paced environment Bonus points: Experience
+  with AI/LLM tools (e.g., ChatGPT, Claude, or similar) for data analysis, threat
+  intelligence, or automation Familiarity with machine learning concepts and anomaly
+  detection techniques Experience building and maintaining Snowflake data models,
+  including tables, views, and stored procedures Knowledge of eCommerce fraud vectors
+  such as account takeover, payment fraud, trial abuse, and bot attacks Understanding
+  of the SaaS business model and cloud-based platform sales Experience with data visualization
+  tools (e.g., Tableau, Looker, or similar) Familiarity with IPQS, Stripe, or other
+  fraud detection APIs Background in threat intelligence, incident response, or SOC
+  operations A Typical Day: Morning: Review overnight risk metrics, investigate flagged
+  accounts, and triage alerts from the risk engine Midday: Write and refine SQL queries
+  to analyze emerging fraud patterns; update Snowflake views to support new detection
+  rules Afternoon: Collaborate with stakeholders on ad hoc risk analyses; use AI tools
+  to summarize findings and generate reports Ongoing: Monitor Slack channels for real-time
+  risk events; respond to incidents and adjust rules as needed End of Day: Document
+  findings, update risk dashboards, and prepare recommendations for rule improvements
+  #LI-Remote #LI-RC1 #LI-CS1 Benefits of Working at CrowdStrike: Market leader in
+  compensation and equity awards Comprehensive physical and mental wellness programs&nbsp;
+  Competitive vacation and holidays for recharge &nbsp; Paid parental and adoption
+  leaves Professional development opportunities for all employees regardless of level
+  or role Employee Networks, geographic neighborhood groups, and volunteer opportunities
+  to build connections Vibrant office culture with world class amenities Great Place
+  to Work Certified™ across the globe CrowdStrike is proud to be an equal opportunity
+  employer. We are committed to fostering a culture of belonging where everyone is
+  valued for who they are and empowered to succeed. We support veterans and individuals
+  with disabilities through our affirmative action program. CrowdStrike is committed
+  to providing equal employment opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment opportunities or practices on the
+  basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related
+  medical conditions), sexual orientation, gender identity, marital or family status,
+  veteran status, age, national origin, ancestry, physical disability (including HIV
+  and AIDS), mental disability, medical condition, genetic information, membership
+  or activity in a local human rights commission, status with regard to public assistance,
+  or any other characteristic protected by law. We base all employment decisions--including
+  recruitment, selection, training, compensation, benefits, discipline, promotions,
+  transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on
+  valid job requirements. If you need assistance accessing or reviewing the information
+  on this website or need help submitting an application for employment or requesting
+  an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.
+  Find out more about your rights as an applicant. CrowdStrike participates in the
+  E-Verify program. Notice of E-Verify Participation Right to Work CrowdStrike, Inc.
+  is committed to fair and equitable compensation practices. Placement within the
+  pay range is dependent on a variety of factors including, but not limited to, relevant
+  work experience, skills, certifications, job level, supervisory status, and location.
+  The base salary range for this position for all U.S. candidates is $100.000 - $155.000
+  per year, with eligibility for bonuses, equity grants and a comprehensive benefits
+  package that includes health insurance, 401k and paid time off. For detailed information
+  about the U.S. benefits package, please click here .&nbsp; Expected Close Date of
+  Job Posting is:04-25-2026'
+salary_json_min: 100000
+salary_json_max: 155000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Junior
+workplace_type_enum: UNKNOWN
+company_overview: CrowdStrike has redefined security with the world’s most advanced
+  cloud-native platform that protects and enables the people, processes and technologies
+  that drive modern enterprise. Tested and proven, the world's largest organizations
+  trust CrowdStrike to stop breaches with unparalleled protection against the most
+  sophisticated cyberattacks. The CrowdStrike culture has been built upon our Core
+  Values since the day we began. We are Fanatical About the Customer, Relentlessly
+  Focused on Innovation and believe that our Limitless Passion drives Unlimited Potential
+  for every CrowdStriker. As a purpose-built remote-first company, we believe cultivating
+  a connected culture for every employee, no matter where they are in the world, is
+  a key ingredient in building a high-performing, diverse team. We don’t have a mission
+  statement. We’re on a mission—to stop breaches. Ready to join a mission that matters?
+url: https://builtin.com/job/ai-fraud-and-risk-automation-analyst-remote/8589579
+source: builtin.com
+description: 'As a global leader in cybersecurity, CrowdStrike protects the people,
+  processes and technologies that drive modern organizations. Since 2011, our mission
+  hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security
+  with the world’s most advanced AI-native platform. Our customers span all industries,
+  and they count on CrowdStrike to keep their businesses running, their communities
+  safe and their lives moving forward. We’re also a mission-driven company. We cultivate
+  a culture that gives every CrowdStriker both the flexibility and autonomy to own
+  their careers. We’re always looking to add talented CrowdStrikers to the team who
+  have limitless passion, a relentless focus on innovation and a fanatical commitment
+  to our customers, our community and each other. Ready to join a mission that matters?
+  The future of cybersecurity starts with you. About the Role: As an AI Fraud and
+  Risk Automation Analyst working with the eCommerce team, you will be on the front
+  lines of protecting CrowdStrike''s intellectual property and preventing our cutting-edge
+  security products from falling into adversarial hands. You''ll join a world-class
+  team of risk experts where you will develop the tools, leverage AI-powered analytics,
+  and build the investigative expertise needed to stay ahead of some of the most sophisticated
+  threat actors in the world. This role combines data science, threat intelligence,
+  and cybersecurity expertise to create a dynamic risk detection system. You''ll work
+  with large-scale datasets in Snowflake, develop AI-assisted detection models, and
+  build automated workflows that identify fraudulent activity before it impacts the
+  business.&nbsp; What You’ll Do: Risk Detection &amp; Analysis: Parse and analyze
+  large volumes of transactional and behavioral data to identify indicators of fraud
+  and risk Develop and maintain a rules-based risk engine that adapts to emerging
+  threat patterns Conduct ad hoc investigations on suspicious activity and emerging
+  risk scenarios Serve as the subject matter expert on fraud patterns, adversarial
+  tactics, and risk mitigation strategies Data Engineering &amp; Analytics: Design,
+  build, and maintain Snowflake tables, views, and data pipelines to support risk
+  detection workflows Write SQL queries to extract, transform, and analyze risk-related
+  data at scale Create and optimize data models that enable real-time and batch risk
+  scoring Develop Python scripts to automate data collection, analysis, and reporting
+  processes AI &amp; Machine Learning Integration: Leverage AI tools (including LLMs)
+  to enhance fraud detection capabilities and generate risk insights Collaborate with
+  data science teams to implement machine learning models for anomaly detection Use
+  AI-assisted analysis to identify patterns in unstructured data (emails, user behavior,
+  device fingerprints) Continuously refine AI-powered detection rules based on feedback
+  and emerging threats Stakeholder Collaboration &amp; Communication: Effectively
+  communicate risk findings to technical and non-technical audiences across the organization
+  Document risk assessments, investigation findings, and rule changes in a clear,
+  actionable manner Work collaboratively with eCommerce, Sales, Legal, and Security
+  teams to improve CrowdStrike''s overall risk posture Serve as the risk liaison for
+  the eCommerce team, providing expertise and guidance on fraud prevention Incident
+  Response &amp; Monitoring: Monitor the risk engine and Slack channels for real-time
+  alerts and triage incidents as they unfold Diagnose and respond to risk engine failures,
+  false positives, and system anomalies Review daily risk metrics and dashboards to
+  identify trends and areas for improvement Proactively identify vulnerabilities in
+  the customer onboarding process and recommend mitigations &nbsp; What You’ll Need:
+  6+ months of experience managing a risk engine or fraud detection system in an eCommerce
+  or SaaS environment with a demonstrable track record of using rules-based approaches
+  to prevent unauthorized access Strong SQL skills with experience querying and managing
+  data in Snowflake or similar cloud data warehouses Proficiency in Python for data
+  analysis, automation, and scripting Cybersecurity knowledge: Strong understanding
+  of adversarial tactics, fraud vectors, and threat intelligence Analytical mindset:
+  Ability to think like an adversary, identify patterns in complex datasets, and make
+  data-driven decisions under pressure Communication skills: Excellent written and
+  verbal communication skills with the ability to translate technical findings into
+  business recommendations Self-starter mentality: Proven ability to work independently,
+  prioritize tasks, and meet deadlines in a fast-paced environment Bonus points: Experience
+  with AI/LLM tools (e.g., ChatGPT, Claude, or similar) for data analysis, threat
+  intelligence, or automation Familiarity with machine learning concepts and anomaly
+  detection techniques Experience building and maintaining Snowflake data models,
+  including tables, views, and stored procedures Knowledge of eCommerce fraud vectors
+  such as account takeover, payment fraud, trial abuse, and bot attacks Understanding
+  of the SaaS business model and cloud-based platform sales Experience with data visualization
+  tools (e.g., Tableau, Looker, or similar) Familiarity with IPQS, Stripe, or other
+  fraud detection APIs Background in threat intelligence, incident response, or SOC
+  operations A Typical Day: Morning: Review overnight risk metrics, investigate flagged
+  accounts, and triage alerts from the risk engine Midday: Write and refine SQL queries
+  to analyze emerging fraud patterns; update Snowflake views to support new detection
+  rules Afternoon: Collaborate with stakeholders on ad hoc risk analyses; use AI tools
+  to summarize findings and generate reports Ongoing: Monitor Slack channels for real-time
+  risk events; respond to incidents and adjust rules as needed End of Day: Document
+  findings, update risk dashboards, and prepare recommendations for rule improvements
+  #LI-Remote #LI-RC1 #LI-CS1 Benefits of Working at CrowdStrike: Market leader in
+  compensation and equity awards Comprehensive physical and mental wellness programs&nbsp;
+  Competitive vacation and holidays for recharge &nbsp; Paid parental and adoption
+  leaves Professional development opportunities for all employees regardless of level
+  or role Employee Networks, geographic neighborhood groups, and volunteer opportunities
+  to build connections Vibrant office culture with world class amenities Great Place
+  to Work Certified™ across the globe CrowdStrike is proud to be an equal opportunity
+  employer. We are committed to fostering a culture of belonging where everyone is
+  valued for who they are and empowered to succeed. We support veterans and individuals
+  with disabilities through our affirmative action program. CrowdStrike is committed
+  to providing equal employment opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment opportunities or practices on the
+  basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related
+  medical conditions), sexual orientation, gender identity, marital or family status,
+  veteran status, age, national origin, ancestry, physical disability (including HIV
+  and AIDS), mental disability, medical condition, genetic information, membership
+  or activity in a local human rights commission, status with regard to public assistance,
+  or any other characteristic protected by law. We base all employment decisions--including
+  recruitment, selection, training, compensation, benefits, discipline, promotions,
+  transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on
+  valid job requirements. If you need assistance accessing or reviewing the information
+  on this website or need help submitting an application for employment or requesting
+  an accommodation, please contact us at recruiting@crowdstrike.com for further assistance.
+  Find out more about your rights as an applicant. CrowdStrike participates in the
+  E-Verify program. Notice of E-Verify Participation Right to Work CrowdStrike, Inc.
+  is committed to fair and equitable compensation practices. Placement within the
+  pay range is dependent on a variety of factors including, but not limited to, relevant
+  work experience, skills, certifications, job level, supervisory status, and location.
+  The base salary range for this position for all U.S. candidates is $100.000 - $155.000
+  per year, with eligibility for bonuses, equity grants and a comprehensive benefits
+  package that includes health insurance, 401k and paid time off. For detailed information
+  about the U.S. benefits package, please click here .&nbsp; Expected Close Date of
+  Job Posting is:04-25-2026'
+postedDate: '2026-03-09'
+salary: USD 100,000 - 155,000
+id: 16
+is_gtm_technical: true
+tech_stack:
+- SQL
+- Snowflake
+- Python
+- AI
+min_years_exp: 0
+salary_min: null
+salary_max: null
+reason: The role focuses on developing tools and systems for risk detection, which
+  is technical and relevant to GTM.

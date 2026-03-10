@@ -1,0 +1,261 @@
+title: Software Engineer
+company: Optum
+category:
+- Artificial Intelligence
+- Big Data
+- Healthtech
+- Information Technology
+- Machine Learning
+- Software
+- Analytics
+location: Minnetonka, Minnesota, USA
+date_posted: '2026-03-09'
+description_html: '<b>Requisition Number: 2349290</b><br>Optum is a global organization
+  that delivers care, aided by technology to help millions of people live healthier
+  lives. The work you do with our team will directly improve health outcomes by connecting
+  people with the care, pharmacy benefits, data and resources they need to feel their
+  best.  Here, you will find a culture guided by inclusion, talented peers, comprehensive
+  benefits and career development opportunities. Come make an impact on the communities
+  we serve as you help us advance health optimization on a global scale.  Join us
+  to start <strong>Caring. Connecting. Growing together.</strong> <br>The Software
+  Engineer is responsible for supporting and enhancing a high volume, cloud native
+  claims platform built on Azure, Kubernetes, and Kafka. This role focuses on building
+  reliable, secure, and scalable systems through solid CI/CD automation, infrastructure
+  as code, and modern observability practices. The engineer manages cloud infrastructure,
+  certificates, and secrets, implements monitoring and performance visibility, and
+  develops runbooks and disaster recovery procedures to ensure system resiliency.
+  Partnering closely with Java engineering teams, the role drives production readiness,
+  incident resolution, root cause analysis, and continuous improvements to application
+  reliability and operational excellence. <br>For all hires in the Minneapolis or
+  Washington, D.C. area, you will be required to work in the office a minimum of four
+  days per week. <br>You will enjoy the flexibility to telecommute* from anywhere
+  within the U.S. as you take on some tough challenges. <br><strong>Primary Responsibilities:</strong>
+  <br><ul><li> Support high volume claims platform across Azure, Kubernetes, and Kafka
+  </li><li> Builds and maintains CI/CD pipelines, automates deployments, and enforces
+  security scans and rollback safety </li><li> Manages Terraform based infrastructure,
+  certificates, and secrets </li><li> Implements observability using Prometheus, Grafana,
+  and Splunk for system health and performance </li><li> Creates resilient runbooks,
+  DR procedures, and reliability improvement </li><li> Act as a hands-on engineer,
+  leading by example and working independently </li><li> Collaborates with Java engineers
+  to ensure production ready services and operational excellence </li><li> Drives
+  incident resolution, root cause analysis, and continuous improvement across the
+  application ecosystem </li></ul><br>You''ll be rewarded and recognized for your
+  performance in an environment that will challenge you and give you clear direction
+  on what it takes to succeed in your role as well as provide development for other
+  roles you may be interested in. <br><strong>Required Qualifications:</strong> <br><ul><li>
+  High School Diploma/GED (or higher) </li><li> 5+ years of experience in Java engineering
+  background (Maven/Gradle, Spring Boot, REST APIs) </li><li> 3+ years of experience
+  in Python </li><li> 3+ years of experience with hands on experience with Azure cloud
+  services (storage, networking, failover groups, resiliency patterns) </li><li> 3+
+  years of experience with Kafka (topics, partitions, ACLs, schema registry) </li><li>
+  3+ years of experience with kubernetes (AKS) including workloads, probes, scaling,
+  logging, and security </li><li> 3+ years of experience in CI/CD expertise-GitHub
+  Actions or Jenkins-for automated builds, tests, scanning, and deployments </li><li>
+  3+ years of experience with infrastructure such as Code (Terraform), containerization
+  (Docker), Helm charts </li><li> 3+ years of experience with observability tools:
+  Prometheus/Grafana, Splunk, etc </li><li> 3+ years of experience with SonarQube,
+  and quality gating practices </li></ul><br>*All Telecommuters will be required to
+  adhere to UnitedHealth Group''s Telecommuter Policy. <br>Pay is based on several
+  factors including but not limited to local labor markets, education, work experience,
+  certifications, etc. In addition to your salary, we offer benefits such as, a comprehensive
+  benefits package, incentive and recognition programs, equity stock purchase and
+  401k contribution (all benefits are subject to eligibility requirements). No matter
+  where or when you begin a career with us, you''ll find a far-reaching choice of
+  benefits and incentives. The salary for this role will range from $72,800 to $130,000
+  annually based on full-time employment. We comply with all minimum wage laws as
+  applicable. <br>Pursuant to the San Francisco Fair Chance Ordinance, we will consider
+  for employment qualified applicants with arrest and conviction records. <br><strong>Application
+  Deadline: </strong> This will be posted for a minimum of 2 business days or until
+  a sufficient candidate pool has been collected. Job posting may come down early
+  due to volume of applicants. <br>At UnitedHealth Group, our mission is to help people
+  live healthier lives and make the health system work better for everyone. We believe
+  everyone-of every race, gender, sexuality, age, location, and income-deserves the
+  opportunity to live their healthiest life. Today, however, there are still far too
+  many barriers to good health which are disproportionately experienced by people
+  of color, historically marginalized groups, and those with lower incomes. We are
+  committed to mitigating our impact on the environment and enabling and delivering
+  equitable care that addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission. <br>UnitedHealth Group is an Equal
+  Employment Opportunity employer under applicable law and qualified applicants will
+  receive consideration for employment without regard to race, national origin, religion,
+  age, color, sex, sexual orientation, gender identity, disability, or protected veteran
+  status, or any other characteristic protected by local, state, or federal laws,
+  rules, or regulations. <br>UnitedHealth Group is a drug - free workplace. Candidates
+  are required to pass a drug test before beginning employment. <br>#RPO #GREEN'
+description_text: 'Requisition Number: 2349290 Optum is a global organization that
+  delivers care, aided by technology to help millions of people live healthier lives.
+  The work you do with our team will directly improve health outcomes by connecting
+  people with the care, pharmacy benefits, data and resources they need to feel their
+  best. Here, you will find a culture guided by inclusion, talented peers, comprehensive
+  benefits and career development opportunities. Come make an impact on the communities
+  we serve as you help us advance health optimization on a global scale. Join us to
+  start Caring. Connecting. Growing together. The Software Engineer is responsible
+  for supporting and enhancing a high volume, cloud native claims platform built on
+  Azure, Kubernetes, and Kafka. This role focuses on building reliable, secure, and
+  scalable systems through solid CI/CD automation, infrastructure as code, and modern
+  observability practices. The engineer manages cloud infrastructure, certificates,
+  and secrets, implements monitoring and performance visibility, and develops runbooks
+  and disaster recovery procedures to ensure system resiliency. Partnering closely
+  with Java engineering teams, the role drives production readiness, incident resolution,
+  root cause analysis, and continuous improvements to application reliability and
+  operational excellence. For all hires in the Minneapolis or Washington, D.C. area,
+  you will be required to work in the office a minimum of four days per week. You
+  will enjoy the flexibility to telecommute* from anywhere within the U.S. as you
+  take on some tough challenges. Primary Responsibilities: Support high volume claims
+  platform across Azure, Kubernetes, and Kafka Builds and maintains CI/CD pipelines,
+  automates deployments, and enforces security scans and rollback safety Manages Terraform
+  based infrastructure, certificates, and secrets Implements observability using Prometheus,
+  Grafana, and Splunk for system health and performance Creates resilient runbooks,
+  DR procedures, and reliability improvement Act as a hands-on engineer, leading by
+  example and working independently Collaborates with Java engineers to ensure production
+  ready services and operational excellence Drives incident resolution, root cause
+  analysis, and continuous improvement across the application ecosystem You''ll be
+  rewarded and recognized for your performance in an environment that will challenge
+  you and give you clear direction on what it takes to succeed in your role as well
+  as provide development for other roles you may be interested in. Required Qualifications:
+  High School Diploma/GED (or higher) 5+ years of experience in Java engineering background
+  (Maven/Gradle, Spring Boot, REST APIs) 3+ years of experience in Python 3+ years
+  of experience with hands on experience with Azure cloud services (storage, networking,
+  failover groups, resiliency patterns) 3+ years of experience with Kafka (topics,
+  partitions, ACLs, schema registry) 3+ years of experience with kubernetes (AKS)
+  including workloads, probes, scaling, logging, and security 3+ years of experience
+  in CI/CD expertise-GitHub Actions or Jenkins-for automated builds, tests, scanning,
+  and deployments 3+ years of experience with infrastructure such as Code (Terraform),
+  containerization (Docker), Helm charts 3+ years of experience with observability
+  tools: Prometheus/Grafana, Splunk, etc 3+ years of experience with SonarQube, and
+  quality gating practices *All Telecommuters will be required to adhere to UnitedHealth
+  Group''s Telecommuter Policy. Pay is based on several factors including but not
+  limited to local labor markets, education, work experience, certifications, etc.
+  In addition to your salary, we offer benefits such as, a comprehensive benefits
+  package, incentive and recognition programs, equity stock purchase and 401k contribution
+  (all benefits are subject to eligibility requirements). No matter where or when
+  you begin a career with us, you''ll find a far-reaching choice of benefits and incentives.
+  The salary for this role will range from $72,800 to $130,000 annually based on full-time
+  employment. We comply with all minimum wage laws as applicable. Pursuant to the
+  San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants
+  with arrest and conviction records. Application Deadline: This will be posted for
+  a minimum of 2 business days or until a sufficient candidate pool has been collected.
+  Job posting may come down early due to volume of applicants. At UnitedHealth Group,
+  our mission is to help people live healthier lives and make the health system work
+  better for everyone. We believe everyone-of every race, gender, sexuality, age,
+  location, and income-deserves the opportunity to live their healthiest life. Today,
+  however, there are still far too many barriers to good health which are disproportionately
+  experienced by people of color, historically marginalized groups, and those with
+  lower incomes. We are committed to mitigating our impact on the environment and
+  enabling and delivering equitable care that addresses health disparities and improves
+  health outcomes - an enterprise priority reflected in our mission. UnitedHealth
+  Group is an Equal Employment Opportunity employer under applicable law and qualified
+  applicants will receive consideration for employment without regard to race, national
+  origin, religion, age, color, sex, sexual orientation, gender identity, disability,
+  or protected veteran status, or any other characteristic protected by local, state,
+  or federal laws, rules, or regulations. UnitedHealth Group is a drug - free workplace.
+  Candidates are required to pass a drug test before beginning employment. #RPO #GREEN'
+salary_json_min: 72800
+salary_json_max: 130000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Optum, part of the UnitedHealth Group family of businesses, is a
+  global organization that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team will directly improve
+  health outcomes by connecting people with the care, pharmacy benefits, data and
+  resources they need to feel their best. Here, you will find a culture guided by
+  inclusion, talented peers, comprehensive benefits and career development opportunities.
+  Come make an impact on the communities we serve as you help us advance health optimization
+  on a global scale. Join us to start Caring. Connecting. Growing together. At Optum,
+  we support your well-being with an understanding team, extensive benefits and rewarding
+  opportunities. By joining us, you’ll have the resources to drive system transformation
+  while we help you take care of your future. We recognize the power of connection
+  to drive change, improve efficiency and make a difference in health care. Join a
+  team where your skills and ideas can make an impact and where collaboration is key
+  to creating technology that produces healthier outcomes.
+url: https://builtin.com/job/software-engineer/8694669
+source: builtin.com
+description: 'Requisition Number: 2349290 Optum is a global organization that delivers
+  care, aided by technology to help millions of people live healthier lives. The work
+  you do with our team will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they need to feel their best.
+  Here, you will find a culture guided by inclusion, talented peers, comprehensive
+  benefits and career development opportunities. Come make an impact on the communities
+  we serve as you help us advance health optimization on a global scale. Join us to
+  start Caring. Connecting. Growing together. The Software Engineer is responsible
+  for supporting and enhancing a high volume, cloud native claims platform built on
+  Azure, Kubernetes, and Kafka. This role focuses on building reliable, secure, and
+  scalable systems through solid CI/CD automation, infrastructure as code, and modern
+  observability practices. The engineer manages cloud infrastructure, certificates,
+  and secrets, implements monitoring and performance visibility, and develops runbooks
+  and disaster recovery procedures to ensure system resiliency. Partnering closely
+  with Java engineering teams, the role drives production readiness, incident resolution,
+  root cause analysis, and continuous improvements to application reliability and
+  operational excellence. For all hires in the Minneapolis or Washington, D.C. area,
+  you will be required to work in the office a minimum of four days per week. You
+  will enjoy the flexibility to telecommute* from anywhere within the U.S. as you
+  take on some tough challenges. Primary Responsibilities: Support high volume claims
+  platform across Azure, Kubernetes, and Kafka Builds and maintains CI/CD pipelines,
+  automates deployments, and enforces security scans and rollback safety Manages Terraform
+  based infrastructure, certificates, and secrets Implements observability using Prometheus,
+  Grafana, and Splunk for system health and performance Creates resilient runbooks,
+  DR procedures, and reliability improvement Act as a hands-on engineer, leading by
+  example and working independently Collaborates with Java engineers to ensure production
+  ready services and operational excellence Drives incident resolution, root cause
+  analysis, and continuous improvement across the application ecosystem You''ll be
+  rewarded and recognized for your performance in an environment that will challenge
+  you and give you clear direction on what it takes to succeed in your role as well
+  as provide development for other roles you may be interested in. Required Qualifications:
+  High School Diploma/GED (or higher) 5+ years of experience in Java engineering background
+  (Maven/Gradle, Spring Boot, REST APIs) 3+ years of experience in Python 3+ years
+  of experience with hands on experience with Azure cloud services (storage, networking,
+  failover groups, resiliency patterns) 3+ years of experience with Kafka (topics,
+  partitions, ACLs, schema registry) 3+ years of experience with kubernetes (AKS)
+  including workloads, probes, scaling, logging, and security 3+ years of experience
+  in CI/CD expertise-GitHub Actions or Jenkins-for automated builds, tests, scanning,
+  and deployments 3+ years of experience with infrastructure such as Code (Terraform),
+  containerization (Docker), Helm charts 3+ years of experience with observability
+  tools: Prometheus/Grafana, Splunk, etc 3+ years of experience with SonarQube, and
+  quality gating practices *All Telecommuters will be required to adhere to UnitedHealth
+  Group''s Telecommuter Policy. Pay is based on several factors including but not
+  limited to local labor markets, education, work experience, certifications, etc.
+  In addition to your salary, we offer benefits such as, a comprehensive benefits
+  package, incentive and recognition programs, equity stock purchase and 401k contribution
+  (all benefits are subject to eligibility requirements). No matter where or when
+  you begin a career with us, you''ll find a far-reaching choice of benefits and incentives.
+  The salary for this role will range from $72,800 to $130,000 annually based on full-time
+  employment. We comply with all minimum wage laws as applicable. Pursuant to the
+  San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants
+  with arrest and conviction records. Application Deadline: This will be posted for
+  a minimum of 2 business days or until a sufficient candidate pool has been collected.
+  Job posting may come down early due to volume of applicants. At UnitedHealth Group,
+  our mission is to help people live healthier lives and make the health system work
+  better for everyone. We believe everyone-of every race, gender, sexuality, age,
+  location, and income-deserves the opportunity to live their healthiest life. Today,
+  however, there are still far too many barriers to good health which are disproportionately
+  experienced by people of color, historically marginalized groups, and those with
+  lower incomes. We are committed to mitigating our impact on the environment and
+  enabling and delivering equitable care that addresses health disparities and improves
+  health outcomes - an enterprise priority reflected in our mission. UnitedHealth
+  Group is an Equal Employment Opportunity employer under applicable law and qualified
+  applicants will receive consideration for employment without regard to race, national
+  origin, religion, age, color, sex, sexual orientation, gender identity, disability,
+  or protected veteran status, or any other characteristic protected by local, state,
+  or federal laws, rules, or regulations. UnitedHealth Group is a drug - free workplace.
+  Candidates are required to pass a drug test before beginning employment. #RPO #GREEN'
+postedDate: '2026-03-09'
+salary: USD 72,800 - 130,000
+id: '5'
+is_gtm_technical: true
+tech_stack:
+- Azure
+- Kubernetes
+- Kafka
+- Terraform
+- Prometheus
+- Grafana
+min_years_exp: 5
+salary_min: 0
+salary_max: 0
+reason: Role involves cloud infrastructure and CI/CD, with technical responsibilities
+  relevant to GTM processes.

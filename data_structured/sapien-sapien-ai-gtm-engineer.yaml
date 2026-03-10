@@ -1,0 +1,215 @@
+title: GTM Engineer
+company: Sapien (sapien.ai)
+category:
+- Artificial Intelligence
+- Fintech
+- Software
+- Financial Services
+location: New York, New York, USA
+date_posted: '2026-03-02'
+description_html: '<b><strong>Who we are</strong></b><p>Sapien is rethinking how finance
+  teams operate in the age of AI. We’re building toward an <strong>autonomous CFO</strong>—systems
+  that run company financials end-to-end. Our platform analyzes complex financial
+  data in real time to increase decision cadence, prevent costly mistakes, and surface
+  value. Sapien has caught multi-million-dollar errors, saved thousands of jobs, and
+  returned significant dollars to customers’ bottom lines.</p><p>We partner with traditional
+  businesses—manufacturing, healthcare, restaurants, and large enterprises—to deeply
+  understand and automate their financial workflows. We’re HQ’d by Madison Square
+  Park in NYC and backed by <strong>General Catalyst, Neo</strong>, and top operators
+  from Google, OpenAI, Microsoft, Ramp, and Stripe (over <strong>$9M</strong> raised).</p><p></p><b><strong>The
+  role</strong></b><p>You''ll be the engineering owner of customer success. This means
+  building the internal tools that help our sales team close deals, setting up customer
+  modules and data pipelines, and being directly responsible for whether prospects
+  convert and customers expand. You''re the technical DRI for making customers successful
+  with Sapien.</p><p>This is a customer-facing engineering role where you''ll split
+  time between building internal GTM tooling and hands-on customer work. You''ll have
+  full-stack skills but use them in service of customer outcomes, not just product
+  features.</p><p></p><b><strong>What you''ll do</strong></b><ul><li><p>Build internal
+  tools that accelerate our sales motion. Create tools for generating customer demos,
+  automated systems for onboarding new customers, and interfaces that help the sales
+  team understand technical blockers.</p></li><li><p>Own customer module setup from
+  technical sale through production. Upload and validate customer data, configure
+  workflows for their specific business processes, build custom integrations when
+  needed, and ensure the platform works correctly for their use case.</p></li></ul><ul><li><p>Build
+  and maintain integrations with customer systems. Connect to ERPs, CRMs, accounting
+  software, and proprietary internal tools. Handle authentication, data syncing, schema
+  mapping, and edge cases that come from integrating with messy real-world systems.</p></li><li><p>Be
+  the DRI for customer performance. Monitor accuracy and reliability for each customer,
+  debug issues when they arise, optimize slow queries or workflows, and ensure customers
+  are seeing measurable value from the platform.</p></li><li><p>Design product features
+  that turn pilots into successful deployments. You''ll see firsthand what''s blocking
+  customer success and work with the product team to prioritize features that unlock
+  expansion, prevent churn, and make the platform work for more use cases.</p></li><li><p>Identify
+  patterns across customers that should become platform capabilities. Turn one-off
+  integrations into reusable connectors, custom scripts into product features, and
+  manual setup work into automated onboarding flows. Make customer operations scalable.</p></li><li><p>Build
+  tooling that reduces friction in the customer journey. Create systems for data validation,
+  integration testing, module templates, knowledge management, and monitoring so we
+  can serve more customers.</p><p></p></li></ul><b><strong>What we''re looking for</strong></b><ul><li><p>Full-stack
+  engineering experience with React, TypeScript, Python, and SQL. You can build  tools
+  quickly and translate customer problems into production solutions. </p></li><li><p>Customer-facing
+  experience or strong interest in working directly with customers. You''re comfortable
+  on calls, can explain technical concepts to non-technical people, and enjoy problem-solving
+  with users.</p></li><li><p>Bias toward pragmatic solutions over perfect architecture.
+  Shipping something that works beats over-engineering.</p></li></ul><ul><li><p>Ownership
+  mentality for customer outcomes. You care whether customers succeed, not just whether
+  your code works. </p></li></ul><ul><li><p>Ability to operate with ambiguity. Customer
+  problems are messy and unique. You can assess what''s needed, figure out the right
+  solution, and execute without detailed specs.</p></li></ul><p></p><b><strong>How
+  you work (values we care about)</strong></b><ul><li><p><strong>Adaptability</strong>:
+  You switch contexts constantly. One hour you''re on a customer call, the next you''re
+  building foundational tooling for customer onboarding. You handle the variety well
+  and bring the same technical rigor whether you''re building customer-facing tools
+  or solving one-off data issues.</p></li></ul><ul><li><p><strong>Ownership</strong>:
+  You''re responsible for customer success. If a customer isn''t getting value, you
+  don''t wait for someone else to fix it. You dig in, figure out what''s wrong, and
+  make it right.</p></li></ul><ul><li><p><strong>Opinionated</strong>: You develop
+  strong views on what customers actually need versus what they ask for. You push
+  back on requests that won''t drive value and propose better solutions based on what
+  you''ve seen work.</p></li></ul><ul><li><p><strong>Mission-driven</strong>: You''re
+  energized by making customers successful with AI. You connect your technical work
+  directly to whether customers renew and expand, and you care about their business
+  outcomes.</p></li></ul><ul><li><p><strong>Collaborative excellence</strong>: You''re
+  the bridge between customers and the product team. You share insights about customer
+  needs, help prioritize features that matter, and make the whole company better at
+  serving customers.</p></li></ul>'
+description_text: 'Who we are Sapien is rethinking how finance teams operate in the
+  age of AI. We’re building toward an autonomous CFO —systems that run company financials
+  end-to-end. Our platform analyzes complex financial data in real time to increase
+  decision cadence, prevent costly mistakes, and surface value. Sapien has caught
+  multi-million-dollar errors, saved thousands of jobs, and returned significant dollars
+  to customers’ bottom lines. We partner with traditional businesses—manufacturing,
+  healthcare, restaurants, and large enterprises—to deeply understand and automate
+  their financial workflows. We’re HQ’d by Madison Square Park in NYC and backed by
+  General Catalyst, Neo , and top operators from Google, OpenAI, Microsoft, Ramp,
+  and Stripe (over $9M raised). The role You''ll be the engineering owner of customer
+  success. This means building the internal tools that help our sales team close deals,
+  setting up customer modules and data pipelines, and being directly responsible for
+  whether prospects convert and customers expand. You''re the technical DRI for making
+  customers successful with Sapien. This is a customer-facing engineering role where
+  you''ll split time between building internal GTM tooling and hands-on customer work.
+  You''ll have full-stack skills but use them in service of customer outcomes, not
+  just product features. What you''ll do Build internal tools that accelerate our
+  sales motion. Create tools for generating customer demos, automated systems for
+  onboarding new customers, and interfaces that help the sales team understand technical
+  blockers. Own customer module setup from technical sale through production. Upload
+  and validate customer data, configure workflows for their specific business processes,
+  build custom integrations when needed, and ensure the platform works correctly for
+  their use case. Build and maintain integrations with customer systems. Connect to
+  ERPs, CRMs, accounting software, and proprietary internal tools. Handle authentication,
+  data syncing, schema mapping, and edge cases that come from integrating with messy
+  real-world systems. Be the DRI for customer performance. Monitor accuracy and reliability
+  for each customer, debug issues when they arise, optimize slow queries or workflows,
+  and ensure customers are seeing measurable value from the platform. Design product
+  features that turn pilots into successful deployments. You''ll see firsthand what''s
+  blocking customer success and work with the product team to prioritize features
+  that unlock expansion, prevent churn, and make the platform work for more use cases.
+  Identify patterns across customers that should become platform capabilities. Turn
+  one-off integrations into reusable connectors, custom scripts into product features,
+  and manual setup work into automated onboarding flows. Make customer operations
+  scalable. Build tooling that reduces friction in the customer journey. Create systems
+  for data validation, integration testing, module templates, knowledge management,
+  and monitoring so we can serve more customers. What we''re looking for Full-stack
+  engineering experience with React, TypeScript, Python, and SQL. You can build tools
+  quickly and translate customer problems into production solutions. Customer-facing
+  experience or strong interest in working directly with customers. You''re comfortable
+  on calls, can explain technical concepts to non-technical people, and enjoy problem-solving
+  with users. Bias toward pragmatic solutions over perfect architecture. Shipping
+  something that works beats over-engineering. Ownership mentality for customer outcomes.
+  You care whether customers succeed, not just whether your code works. Ability to
+  operate with ambiguity. Customer problems are messy and unique. You can assess what''s
+  needed, figure out the right solution, and execute without detailed specs. How you
+  work (values we care about) Adaptability : You switch contexts constantly. One hour
+  you''re on a customer call, the next you''re building foundational tooling for customer
+  onboarding. You handle the variety well and bring the same technical rigor whether
+  you''re building customer-facing tools or solving one-off data issues. Ownership
+  : You''re responsible for customer success. If a customer isn''t getting value,
+  you don''t wait for someone else to fix it. You dig in, figure out what''s wrong,
+  and make it right. Opinionated : You develop strong views on what customers actually
+  need versus what they ask for. You push back on requests that won''t drive value
+  and propose better solutions based on what you''ve seen work. Mission-driven : You''re
+  energized by making customers successful with AI. You connect your technical work
+  directly to whether customers renew and expand, and you care about their business
+  outcomes. Collaborative excellence : You''re the bridge between customers and the
+  product team. You share insights about customer needs, help prioritize features
+  that matter, and make the whole company better at serving customers.'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: The AI-native intelligence platform for FP&A, strategic finance,
+  and BI. Building the AI that runs companies, better.
+url: https://builtin.com/job/gtm-engineer/8407493
+source: builtin.com
+description: 'Who we are Sapien is rethinking how finance teams operate in the age
+  of AI. We’re building toward an autonomous CFO —systems that run company financials
+  end-to-end. Our platform analyzes complex financial data in real time to increase
+  decision cadence, prevent costly mistakes, and surface value. Sapien has caught
+  multi-million-dollar errors, saved thousands of jobs, and returned significant dollars
+  to customers’ bottom lines. We partner with traditional businesses—manufacturing,
+  healthcare, restaurants, and large enterprises—to deeply understand and automate
+  their financial workflows. We’re HQ’d by Madison Square Park in NYC and backed by
+  General Catalyst, Neo , and top operators from Google, OpenAI, Microsoft, Ramp,
+  and Stripe (over $9M raised). The role You''ll be the engineering owner of customer
+  success. This means building the internal tools that help our sales team close deals,
+  setting up customer modules and data pipelines, and being directly responsible for
+  whether prospects convert and customers expand. You''re the technical DRI for making
+  customers successful with Sapien. This is a customer-facing engineering role where
+  you''ll split time between building internal GTM tooling and hands-on customer work.
+  You''ll have full-stack skills but use them in service of customer outcomes, not
+  just product features. What you''ll do Build internal tools that accelerate our
+  sales motion. Create tools for generating customer demos, automated systems for
+  onboarding new customers, and interfaces that help the sales team understand technical
+  blockers. Own customer module setup from technical sale through production. Upload
+  and validate customer data, configure workflows for their specific business processes,
+  build custom integrations when needed, and ensure the platform works correctly for
+  their use case. Build and maintain integrations with customer systems. Connect to
+  ERPs, CRMs, accounting software, and proprietary internal tools. Handle authentication,
+  data syncing, schema mapping, and edge cases that come from integrating with messy
+  real-world systems. Be the DRI for customer performance. Monitor accuracy and reliability
+  for each customer, debug issues when they arise, optimize slow queries or workflows,
+  and ensure customers are seeing measurable value from the platform. Design product
+  features that turn pilots into successful deployments. You''ll see firsthand what''s
+  blocking customer success and work with the product team to prioritize features
+  that unlock expansion, prevent churn, and make the platform work for more use cases.
+  Identify patterns across customers that should become platform capabilities. Turn
+  one-off integrations into reusable connectors, custom scripts into product features,
+  and manual setup work into automated onboarding flows. Make customer operations
+  scalable. Build tooling that reduces friction in the customer journey. Create systems
+  for data validation, integration testing, module templates, knowledge management,
+  and monitoring so we can serve more customers. What we''re looking for Full-stack
+  engineering experience with React, TypeScript, Python, and SQL. You can build tools
+  quickly and translate customer problems into production solutions. Customer-facing
+  experience or strong interest in working directly with customers. You''re comfortable
+  on calls, can explain technical concepts to non-technical people, and enjoy problem-solving
+  with users. Bias toward pragmatic solutions over perfect architecture. Shipping
+  something that works beats over-engineering. Ownership mentality for customer outcomes.
+  You care whether customers succeed, not just whether your code works. Ability to
+  operate with ambiguity. Customer problems are messy and unique. You can assess what''s
+  needed, figure out the right solution, and execute without detailed specs. How you
+  work (values we care about) Adaptability : You switch contexts constantly. One hour
+  you''re on a customer call, the next you''re building foundational tooling for customer
+  onboarding. You handle the variety well and bring the same technical rigor whether
+  you''re building customer-facing tools or solving one-off data issues. Ownership
+  : You''re responsible for customer success. If a customer isn''t getting value,
+  you don''t wait for someone else to fix it. You dig in, figure out what''s wrong,
+  and make it right. Opinionated : You develop strong views on what customers actually
+  need versus what they ask for. You push back on requests that won''t drive value
+  and propose better solutions based on what you''ve seen work. Mission-driven : You''re
+  energized by making customers successful with AI. You connect your technical work
+  directly to whether customers renew and expand, and you care about their business
+  outcomes. Collaborative excellence : You''re the bridge between customers and the
+  product team. You share insights about customer needs, help prioritize features
+  that matter, and make the whole company better at serving customers.'
+postedDate: '2026-03-02'
+id: '9'
+is_gtm_technical: true
+tech_stack:
+- Python
+- SQL
+min_years_exp: 3
+salary_min: null
+salary_max: null
+reason: The role focuses on building internal tooling for customer success in a technical
+  GTM context.

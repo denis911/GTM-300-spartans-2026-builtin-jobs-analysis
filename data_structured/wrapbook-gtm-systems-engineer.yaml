@@ -1,0 +1,347 @@
+title: GTM Systems Engineer
+company: Wrapbook
+category: Software
+location: USA
+date_posted: '2026-03-07'
+description_html: '<p><strong>About Us:</strong></p><p>Wrapbook is a smart, intuitive
+  platform that makes production payroll and accounting easier, faster, and more secure.
+  We provide a unified payroll platform that seamlessly connects your entire team—production,
+  accounting, cast, and crew—all in one place. Wrapbook empowers production teams
+  to manage projects, pay cast and crew, track expenses, and generate data-driven
+  insights, while enabling workers to manage timecards, track pay, and onboard to
+  new projects from any device. Wrapbook brings clarity and dependability to production
+  payroll, while increasing the productivity of your whole team.</p><p>Trusted by
+  companies of all sizes, Wrapbook powers payroll for some of the industry’s top production
+  companies, including SMUGGLER, Tuff, and GhostRobot. Our growing team of 250+ people
+  across the USA and Canada, including entertainment and technology experts from SAG-AFTRA,
+  DGA, IATSE, Teamsters, Amazon, Microsoft, Facebook, and more. Wrapbook is backed
+  by top-tier investors, including Jeffrey Katzenberg’s WndrCo, Andreessen Horowitz,
+  and A* Capital. We have raised $130M and are in a strong financial position.<br></p><p><strong>The
+  Opportunity - GTM Systems Engineer (Remote - USA / Canada) </strong></p><p>We''re
+  looking for a GTM Systems Engineer to join Revenue Operations as a technical builder
+  and Salesforce developer. You''ll work directly with our GTM Architect and SFDC
+  Admin/BSA to design, build, and maintain the systems that power Wrapbook''s go-to-market
+  motion—across pre- and post-sale.</p><p>The work is hands-on and technically deep.
+  You''ll write Apex triggers, build complex Flows, architect cross-object data models,
+  and integrate Salesforce with a growing stack of AI-assisted tools—embedded in a
+  small, high-impact team that prizes clean architecture, measurable outcomes, and
+  building for the long term.</p><p>The right person moves fast, asks good questions,
+  owns their work end-to-end, and knows how to turn messy business requirements into
+  durable technical solutions.</p><p></p><p><strong>What You''ll Do: </strong></p><p></p><p><strong>Build
+  &amp; Develop</strong></p><ul><li><p>Design, build, and maintain Salesforce automations
+  including Flows, Apex triggers, batch jobs, and Lightning Web Components</p></li><li><p>Develop
+  scalable data models and object architectures across pre-sale and post-sale GTM
+  workflows</p></li><li><p>Build and integrate APIs connecting Salesforce to tools
+  across our stack (e.g., marketing automation, CS platforms, telephony, data enrichment)</p></li><li><p>Implement
+  AI-assisted workflows with appropriate guardrails, human-in-the-loop controls, and
+  auditability</p></li><li><p>Build modular, reusable components that can flex as
+  business processes evolve</p></li></ul><p></p><p><strong>Own the Development Lifecycle</strong></p><ul><li><p>Translate
+  business requirements into technical specifications, ensuring clarity before a single
+  line of code is written</p></li><li><p>Design and execute structured UAT processes—writing
+  test cases, coordinating stakeholder testing, and resolving issues before deployment</p></li><li><p>Manage
+  your own backlog: prioritize work, communicate status proactively, and flag blockers
+  before they become problems</p></li><li><p>Document what you build so the team can
+  maintain it, not just you</p></li></ul><p></p><p><strong>Instrument &amp; Improve</strong></p><ul><li><p>Instrument
+  SLAs, funnel metrics, and operational KPIs directly in Salesforce, enabling leading-indicator
+  visibility for the GTM team</p></li><li><p>Identify and fix data quality issues—duplicate
+  records, 15 vs. 18-digit ID mismatches, stale field values—that erode reporting
+  reliability</p></li><li><p>Build and maintain dashboards and reports that surface
+  the right information for WBRs, MBRs, and QBRs</p></li><li><p>Proactively identify
+  where process breaks down in the data and bring solutions to the table</p></li></ul><p></p><p><strong>Partner
+  Cross-Functionally</strong></p><ul><li><p>Build from a clear spec — before you start,
+  make sure you have one. If requirements are incomplete or shifting, surface it early
+  rather than build through the ambiguity</p></li><li><p>Push back on scope creep
+  proactively: flag changes in writing, before they affect the build, and help the
+  team understand the tradeoff</p></li><li><p>Partner with our GTM Architect on solution
+  design and with our SFDC Admin/BSA on delivery, UAT coordination, and post-launch
+  stability</p></li></ul><p></p><b></b><p><strong>What You''ll Have: </strong></p><p></p><p><strong>Salesforce
+  Development</strong></p><ul><li><p>5+ years of hands-on Salesforce development experience,
+  including Apex, SOQL, and declarative tools</p></li><li><p>Deep proficiency in Salesforce
+  Flows for complex automation across objects and entry points</p></li><li><p>Minimum
+  two Salesforce certifications required (e.g., Platform Developer I + II, or Platform
+  Developer I + Administrator)</p></li><li><p>Experience with data modeling, complex
+  object relationships, and managing schema changes in production orgs</p></li><li><p>Familiarity
+  with Salesforce Service Cloud, Sales Cloud, and Experience Cloud</p></li></ul><p></p><p><strong>Builder
+  Mindset</strong></p><ul><li><p>Default to building modular, reusable systems—not
+  one-off solutions that only work for today''s requirements.</p></li><li><p>Write
+  clean, maintainable code and documentation without being asked.</p></li><li><p>Understand
+  the difference between a quick fix and a durable solution, and know when each is
+  appropriate.</p></li><li><p>Experience designing integrations with third-party platforms
+  via REST APIs and reasoning about schema mapping, error handling, and data fidelity.</p></li></ul><p></p><p><strong>Requirements
+  &amp; Process</strong></p><ul><li><p>Skilled at extracting clear requirements from
+  vague requests and messy conversations.</p></li><li><p>Proactively push back on
+  scope creep before it happens—in writing, on the record—and do so diplomatically.</p></li><li><p>Experience
+  running UAT processes: writing test scripts, coordinating business testers, logging,
+  and triaging defects.</p></li><li><p>Manage work in a structured way (Linear, Jira,
+  or similar) and communicate status proactively.</p></li></ul><p></p><p><strong>GTM
+  Fluency</strong></p><ul><li><p>Understand the end-to-end B2B GTM funnel: how leads
+  become opportunities, how opportunities become customers, and how customers renew.</p></li><li><p>Familiarity
+  with the core workflows that drive revenue: lead routing, lifecycle stage management,
+  opportunity management, and CS handoffs.</p></li><li><p>Experience with GTM tools
+  like HubSpot, Outreach, ZoomInfo, Salesloft, or similar.</p></li><li><p>Ability
+  to connect business metrics (pipeline, conversion rates, ARR) to the technical systems
+  that produce them.</p></li></ul><p></p><p><strong>AI &amp; Automation</strong></p><ul><li><p>Know
+  when to build, when to buy, and when to automate — and understand that the right
+  answer is often a combination of all three</p></li><li><p>Apply AI where it genuinely
+  improves decision quality or reduces manual work; apply traditional automation where
+  it''s more reliable, auditable, or maintainable; and recognize when the fix is process
+  or people, not technology</p></li><li><p>When you do reach for AI, design it properly
+  — think through the data model, the edge cases, and the guardrails, not just the
+  feature</p></li></ul><p></p><b><strong>Bonus Points</strong></b><ul><li><p>Experience
+  in entertainment, media production, or a similarly project-based industry</p></li><li><p>Salesforce
+  Platform Developer II or Salesforce Architect certification</p></li><li><p>Experience
+  with LWC (Lightning Web Components) or Visualforce</p></li><li><p>Familiarity with
+  Wrapbook, film/TV payroll, or production accounting workflows</p></li><li><p>Experience
+  implementing or integrating telephony systems (e.g., TalkDesk, Dialpad)</p></li><li><p>Proficiency
+  with UI/UX wireframing tools (e.g., Figma) for communicating design intent</p></li><li><p>Prior
+  experience in a startup or high-growth environment where requirements change and
+  speed matters</p></li></ul><p><br><strong>Why Join Us</strong></p><p>At Wrapbook,
+  creativity meets technology — and not just in the product.</p><p>In addition to
+  a competitive salary and all the benefits you can expect from a fast-growing technology
+  company, you’ll get access to a team of creative problem solvers and the chance
+  to see your contributions make large impacts. Benefits include:</p><ul><li><p>Unlimited
+  Paid Time Off</p></li><li><p>Work from anywhere in Canada and USA</p></li><li><p>Health
+  and Dental benefits</p></li><li><p>Up to $1,500 USD/ $2,025 CAD towards IT set up
+  for your home</p></li><li><p>Up to 2% matching RRSP / 401K</p></li><li><p>Learning
+  and Development opportunities</p></li><li><p>Up to $50 USD/ $67.50 CAD towards Internet/Cell
+  phone service</p></li></ul><p><strong>Our Pledge to Fostering an Inclusive and Safe
+  Workplace:</strong></p><p>Wrapbook pledges to be a harassment- and discrimination-free
+  space for everyone, regardless of age, disability, ethnicity, gender identity or
+  expression, nationality, neurotype, personal appearance, political affiliation,
+  professional background, race, religion, or sexual identity or orientation.</p><p><strong>Apply
+  Now</strong></p><p>Have we got your attention? Submit your application today and
+  a member of our Talent team will be in touch with you shortly!</p><p>#LI-Remote</p>'
+description_text: 'About Us: Wrapbook is a smart, intuitive platform that makes production
+  payroll and accounting easier, faster, and more secure. We provide a unified payroll
+  platform that seamlessly connects your entire team—production, accounting, cast,
+  and crew—all in one place. Wrapbook empowers production teams to manage projects,
+  pay cast and crew, track expenses, and generate data-driven insights, while enabling
+  workers to manage timecards, track pay, and onboard to new projects from any device.
+  Wrapbook brings clarity and dependability to production payroll, while increasing
+  the productivity of your whole team. Trusted by companies of all sizes, Wrapbook
+  powers payroll for some of the industry’s top production companies, including SMUGGLER,
+  Tuff, and GhostRobot. Our growing team of 250+ people across the USA and Canada,
+  including entertainment and technology experts from SAG-AFTRA, DGA, IATSE, Teamsters,
+  Amazon, Microsoft, Facebook, and more. Wrapbook is backed by top-tier investors,
+  including Jeffrey Katzenberg’s WndrCo, Andreessen Horowitz, and A* Capital. We have
+  raised $130M and are in a strong financial position. The Opportunity - GTM Systems
+  Engineer (Remote - USA / Canada) We''re looking for a GTM Systems Engineer to join
+  Revenue Operations as a technical builder and Salesforce developer. You''ll work
+  directly with our GTM Architect and SFDC Admin/BSA to design, build, and maintain
+  the systems that power Wrapbook''s go-to-market motion—across pre- and post-sale.
+  The work is hands-on and technically deep. You''ll write Apex triggers, build complex
+  Flows, architect cross-object data models, and integrate Salesforce with a growing
+  stack of AI-assisted tools—embedded in a small, high-impact team that prizes clean
+  architecture, measurable outcomes, and building for the long term. The right person
+  moves fast, asks good questions, owns their work end-to-end, and knows how to turn
+  messy business requirements into durable technical solutions. What You''ll Do: Build
+  &amp; Develop Design, build, and maintain Salesforce automations including Flows,
+  Apex triggers, batch jobs, and Lightning Web Components Develop scalable data models
+  and object architectures across pre-sale and post-sale GTM workflows Build and integrate
+  APIs connecting Salesforce to tools across our stack (e.g., marketing automation,
+  CS platforms, telephony, data enrichment) Implement AI-assisted workflows with appropriate
+  guardrails, human-in-the-loop controls, and auditability Build modular, reusable
+  components that can flex as business processes evolve Own the Development Lifecycle
+  Translate business requirements into technical specifications, ensuring clarity
+  before a single line of code is written Design and execute structured UAT processes—writing
+  test cases, coordinating stakeholder testing, and resolving issues before deployment
+  Manage your own backlog: prioritize work, communicate status proactively, and flag
+  blockers before they become problems Document what you build so the team can maintain
+  it, not just you Instrument &amp; Improve Instrument SLAs, funnel metrics, and operational
+  KPIs directly in Salesforce, enabling leading-indicator visibility for the GTM team
+  Identify and fix data quality issues—duplicate records, 15 vs. 18-digit ID mismatches,
+  stale field values—that erode reporting reliability Build and maintain dashboards
+  and reports that surface the right information for WBRs, MBRs, and QBRs Proactively
+  identify where process breaks down in the data and bring solutions to the table
+  Partner Cross-Functionally Build from a clear spec — before you start, make sure
+  you have one. If requirements are incomplete or shifting, surface it early rather
+  than build through the ambiguity Push back on scope creep proactively: flag changes
+  in writing, before they affect the build, and help the team understand the tradeoff
+  Partner with our GTM Architect on solution design and with our SFDC Admin/BSA on
+  delivery, UAT coordination, and post-launch stability What You''ll Have: Salesforce
+  Development 5+ years of hands-on Salesforce development experience, including Apex,
+  SOQL, and declarative tools Deep proficiency in Salesforce Flows for complex automation
+  across objects and entry points Minimum two Salesforce certifications required (e.g.,
+  Platform Developer I + II, or Platform Developer I + Administrator) Experience with
+  data modeling, complex object relationships, and managing schema changes in production
+  orgs Familiarity with Salesforce Service Cloud, Sales Cloud, and Experience Cloud
+  Builder Mindset Default to building modular, reusable systems—not one-off solutions
+  that only work for today''s requirements. Write clean, maintainable code and documentation
+  without being asked. Understand the difference between a quick fix and a durable
+  solution, and know when each is appropriate. Experience designing integrations with
+  third-party platforms via REST APIs and reasoning about schema mapping, error handling,
+  and data fidelity. Requirements &amp; Process Skilled at extracting clear requirements
+  from vague requests and messy conversations. Proactively push back on scope creep
+  before it happens—in writing, on the record—and do so diplomatically. Experience
+  running UAT processes: writing test scripts, coordinating business testers, logging,
+  and triaging defects. Manage work in a structured way (Linear, Jira, or similar)
+  and communicate status proactively. GTM Fluency Understand the end-to-end B2B GTM
+  funnel: how leads become opportunities, how opportunities become customers, and
+  how customers renew. Familiarity with the core workflows that drive revenue: lead
+  routing, lifecycle stage management, opportunity management, and CS handoffs. Experience
+  with GTM tools like HubSpot, Outreach, ZoomInfo, Salesloft, or similar. Ability
+  to connect business metrics (pipeline, conversion rates, ARR) to the technical systems
+  that produce them. AI &amp; Automation Know when to build, when to buy, and when
+  to automate — and understand that the right answer is often a combination of all
+  three Apply AI where it genuinely improves decision quality or reduces manual work;
+  apply traditional automation where it''s more reliable, auditable, or maintainable;
+  and recognize when the fix is process or people, not technology When you do reach
+  for AI, design it properly — think through the data model, the edge cases, and the
+  guardrails, not just the feature Bonus Points Experience in entertainment, media
+  production, or a similarly project-based industry Salesforce Platform Developer
+  II or Salesforce Architect certification Experience with LWC (Lightning Web Components)
+  or Visualforce Familiarity with Wrapbook, film/TV payroll, or production accounting
+  workflows Experience implementing or integrating telephony systems (e.g., TalkDesk,
+  Dialpad) Proficiency with UI/UX wireframing tools (e.g., Figma) for communicating
+  design intent Prior experience in a startup or high-growth environment where requirements
+  change and speed matters Why Join Us At Wrapbook, creativity meets technology —
+  and not just in the product. In addition to a competitive salary and all the benefits
+  you can expect from a fast-growing technology company, you’ll get access to a team
+  of creative problem solvers and the chance to see your contributions make large
+  impacts. Benefits include: Unlimited Paid Time Off Work from anywhere in Canada
+  and USA Health and Dental benefits Up to $1,500 USD/ $2,025 CAD towards IT set up
+  for your home Up to 2% matching RRSP / 401K Learning and Development opportunities
+  Up to $50 USD/ $67.50 CAD towards Internet/Cell phone service Our Pledge to Fostering
+  an Inclusive and Safe Workplace: Wrapbook pledges to be a harassment- and discrimination-free
+  space for everyone, regardless of age, disability, ethnicity, gender identity or
+  expression, nationality, neurotype, personal appearance, political affiliation,
+  professional background, race, religion, or sexual identity or orientation. Apply
+  Now Have we got your attention? Submit your application today and a member of our
+  Talent team will be in touch with you shortly! #LI-Remote'
+salary_json_min: 130000
+salary_json_max: 211500
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Employers in media production and the entertainment industry are
+  constantly hiring. Freelance employees move between projects and could get onboarded
+  30 or more times in a single year. And yet, much of the industry uses physical paperwork
+  with no easy way to track payments, often struggling with compliance (due to ever-changing
+  laws and union rules), and has few automation processes in place when it comes time
+  to send payroll reports to their accountants. Wrapbook is an intuitive payroll and
+  insurance solution for those balancing multiple projects. With digital solutions,
+  simplified compliance, and comprehensive reporting, we take the stress away so employers
+  and project-based workers can focus on the big picture. Commercial producers, filmmakers,
+  and anyone creating media deserve robust solutions to meet their unique demands.
+  With Wrapbook, you only have to ask for documents from cast and crew once. Our platform
+  lets you move all the onboarding forms associated with any crew from a project to
+  any future ones, giving you back hours. By swapping out paper timecards with digital
+  ones, approving payroll is now a piece of cake. Crew can log into Wrapbook from
+  any device to enter their hours and expenses. Providing producers with the right
+  tools to onboard crew and process payments helps them put routine work on auto-pilot.
+  That way, they can focus on more compelling tasks. Let us tackle paperwork, payroll,
+  and insurance, so you can continue creating the work that matters.
+url: https://builtin.com/job/gtm-systems-engineer/8680896
+source: builtin.com
+description: 'About Us: Wrapbook is a smart, intuitive platform that makes production
+  payroll and accounting easier, faster, and more secure. We provide a unified payroll
+  platform that seamlessly connects your entire team—production, accounting, cast,
+  and crew—all in one place. Wrapbook empowers production teams to manage projects,
+  pay cast and crew, track expenses, and generate data-driven insights, while enabling
+  workers to manage timecards, track pay, and onboard to new projects from any device.
+  Wrapbook brings clarity and dependability to production payroll, while increasing
+  the productivity of your whole team. Trusted by companies of all sizes, Wrapbook
+  powers payroll for some of the industry’s top production companies, including SMUGGLER,
+  Tuff, and GhostRobot. Our growing team of 250+ people across the USA and Canada,
+  including entertainment and technology experts from SAG-AFTRA, DGA, IATSE, Teamsters,
+  Amazon, Microsoft, Facebook, and more. Wrapbook is backed by top-tier investors,
+  including Jeffrey Katzenberg’s WndrCo, Andreessen Horowitz, and A* Capital. We have
+  raised $130M and are in a strong financial position. The Opportunity - GTM Systems
+  Engineer (Remote - USA / Canada) We''re looking for a GTM Systems Engineer to join
+  Revenue Operations as a technical builder and Salesforce developer. You''ll work
+  directly with our GTM Architect and SFDC Admin/BSA to design, build, and maintain
+  the systems that power Wrapbook''s go-to-market motion—across pre- and post-sale.
+  The work is hands-on and technically deep. You''ll write Apex triggers, build complex
+  Flows, architect cross-object data models, and integrate Salesforce with a growing
+  stack of AI-assisted tools—embedded in a small, high-impact team that prizes clean
+  architecture, measurable outcomes, and building for the long term. The right person
+  moves fast, asks good questions, owns their work end-to-end, and knows how to turn
+  messy business requirements into durable technical solutions. What You''ll Do: Build
+  &amp; Develop Design, build, and maintain Salesforce automations including Flows,
+  Apex triggers, batch jobs, and Lightning Web Components Develop scalable data models
+  and object architectures across pre-sale and post-sale GTM workflows Build and integrate
+  APIs connecting Salesforce to tools across our stack (e.g., marketing automation,
+  CS platforms, telephony, data enrichment) Implement AI-assisted workflows with appropriate
+  guardrails, human-in-the-loop controls, and auditability Build modular, reusable
+  components that can flex as business processes evolve Own the Development Lifecycle
+  Translate business requirements into technical specifications, ensuring clarity
+  before a single line of code is written Design and execute structured UAT processes—writing
+  test cases, coordinating stakeholder testing, and resolving issues before deployment
+  Manage your own backlog: prioritize work, communicate status proactively, and flag
+  blockers before they become problems Document what you build so the team can maintain
+  it, not just you Instrument &amp; Improve Instrument SLAs, funnel metrics, and operational
+  KPIs directly in Salesforce, enabling leading-indicator visibility for the GTM team
+  Identify and fix data quality issues—duplicate records, 15 vs. 18-digit ID mismatches,
+  stale field values—that erode reporting reliability Build and maintain dashboards
+  and reports that surface the right information for WBRs, MBRs, and QBRs Proactively
+  identify where process breaks down in the data and bring solutions to the table
+  Partner Cross-Functionally Build from a clear spec — before you start, make sure
+  you have one. If requirements are incomplete or shifting, surface it early rather
+  than build through the ambiguity Push back on scope creep proactively: flag changes
+  in writing, before they affect the build, and help the team understand the tradeoff
+  Partner with our GTM Architect on solution design and with our SFDC Admin/BSA on
+  delivery, UAT coordination, and post-launch stability What You''ll Have: Salesforce
+  Development 5+ years of hands-on Salesforce development experience, including Apex,
+  SOQL, and declarative tools Deep proficiency in Salesforce Flows for complex automation
+  across objects and entry points Minimum two Salesforce certifications required (e.g.,
+  Platform Developer I + II, or Platform Developer I + Administrator) Experience with
+  data modeling, complex object relationships, and managing schema changes in production
+  orgs Familiarity with Salesforce Service Cloud, Sales Cloud, and Experience Cloud
+  Builder Mindset Default to building modular, reusable systems—not one-off solutions
+  that only work for today''s requirements. Write clean, maintainable code and documentation
+  without being asked. Understand the difference between a quick fix and a durable
+  solution, and know when each is appropriate. Experience designing integrations with
+  third-party platforms via REST APIs and reasoning about schema mapping, error handling,
+  and data fidelity. Requirements &amp; Process Skilled at extracting clear requirements
+  from vague requests and messy conversations. Proactively push back on scope creep
+  before it happens—in writing, on the record—and do so diplomatically. Experience
+  running UAT processes: writing test scripts, coordinating business testers, logging,
+  and triaging defects. Manage work in a structured way (Linear, Jira, or similar)
+  and communicate status proactively. GTM Fluency Understand the end-to-end B2B GTM
+  funnel: how leads become opportunities, how opportunities become customers, and
+  how customers renew. Familiarity with the core workflows that drive revenue: lead
+  routing, lifecycle stage management, opportunity management, and CS handoffs. Experience
+  with GTM tools like HubSpot, Outreach, ZoomInfo, Salesloft, or similar. Ability
+  to connect business metrics (pipeline, conversion rates, ARR) to the technical systems
+  that produce them. AI &amp; Automation Know when to build, when to buy, and when
+  to automate — and understand that the right answer is often a combination of all
+  three Apply AI where it genuinely improves decision quality or reduces manual work;
+  apply traditional automation where it''s more reliable, auditable, or maintainable;
+  and recognize when the fix is process or people, not technology When you do reach
+  for AI, design it properly — think through the data model, the edge cases, and the
+  guardrails, not just the feature Bonus Points Experience in entertainment, media
+  production, or a similarly project-based industry Salesforce Platform Developer
+  II or Salesforce Architect certification Experience with LWC (Lightning Web Components)
+  or Visualforce Familiarity with Wrapbook, film/TV payroll, or production accounting
+  workflows Experience implementing or integrating telephony systems (e.g., TalkDesk,
+  Dialpad) Proficiency with UI/UX wireframing tools (e.g., Figma) for communicating
+  design intent Prior experience in a startup or high-growth environment where requirements
+  change and speed matters Why Join Us At Wrapbook, creativity meets technology —
+  and not just in the product. In addition to a competitive salary and all the benefits
+  you can expect from a fast-growing technology company, you’ll get access to a team
+  of creative problem solvers and the chance to see your contributions make large
+  impacts. Benefits include: Unlimited Paid Time Off Work from anywhere in Canada
+  and USA Health and Dental benefits Up to $1,500 USD/ $2,025 CAD towards IT set up
+  for your home Up to 2% matching RRSP / 401K Learning and Development opportunities
+  Up to $50 USD/ $67.50 CAD towards Internet/Cell phone service Our Pledge to Fostering
+  an Inclusive and Safe Workplace: Wrapbook pledges to be a harassment- and discrimination-free
+  space for everyone, regardless of age, disability, ethnicity, gender identity or
+  expression, nationality, neurotype, personal appearance, political affiliation,
+  professional background, race, religion, or sexual identity or orientation. Apply
+  Now Have we got your attention? Submit your application today and a member of our
+  Talent team will be in touch with you shortly! #LI-Remote'
+postedDate: '2026-03-07'
+salary: USD 130,000 - 211,500
+id: '1'
+is_gtm_technical: true
+tech_stack:
+- Salesforce
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: This position requires technical skills in Salesforce and involves building
+  systems that power the GTM motion.

@@ -1,0 +1,290 @@
+title: Business Intelligence Tech Lead
+company: ClassWallet
+category:
+- Edtech
+- Fintech
+- Payments
+- Social Impact
+- Financial Services
+- Big Data Analytics
+location: USA
+date_posted: '2026-03-09'
+description_html: '<p>ClassWallet, a leading financial technology company in the United
+  States, is seeking to hire a Business Intelligence Tech Lead to join our team. </p><p>ClassWallet
+  is a financial technology company serving agencies delegated responsibility to manage
+  public funds. Agencies use ClassWallet to get public funds to the right people,
+  and ensure the funds are used for the right purpose. ClassWallet’s suite of products
+  and services empowers agency administrators to dramatically increase efficiency
+  of funds distribution and spend compliance, reduce programmatic costs, maximize
+  the full potential impact of the program, and satisfy the needs and expectations
+  of policymakers, constituents and public reporting. ClassWallet has processed over
+  $3.5 Billion to date and serves public agencies across 33 states. </p><p>The Company
+  has developed an industry-defining digital wallet solution which has gained rapid
+  traction among state and local agencies and school districts across America. ClassWallet
+  ranks as the 61st fastest growing software company on the prestigious Inc. 5000
+  list of fastest-growing private companies and the 21st fastest growing financial
+  technology company on the Deloitte Technology Fast 500 in 2023.</p><p>While the
+  Company delivers immense business value, the social impact of ClassWallet is a fabric
+  that runs through its mission and corporate culture. As a result of ClassWallet’s
+  innovation, public programs run with exponentially more efficiency and the impact
+  and breadth of the programs for the individuals they serve is dramatically higher.
+  This mission compliments the Company mission-based culture with focus on gratitude
+  and work-life balance.</p><p><strong>About the Role</strong></p><p>At ClassWallet,
+  we are redefining how public funds reach the people who need them. We are seeking
+  a Business Intelligence (BI) Tech Lead to serve as the primary architect and visionary
+  of our data platform. This is a role for a proactive technical leader who views
+  data as a foundational strategic asset, not just a series of reports.&nbsp;</p><p>Reporting
+  to the Director of Architecture, you will own the critical intersection of data
+  engineering and business insight, driving the continuous modernization and hardening
+  of our data systems at every layer. Your work will ensure that our platform remains
+  a source of truth, maintaining the highest levels of reliability and governance
+  for our government partners. You will work as a high-impact leader to our engineering
+  teams and collaborate closely with business stakeholders to align our overarching
+  data strategy with deep, architectural implementation.</p><br><b>Requirements</b><p>The
+  ideal candidate has deep experience with data and is someone who thrives in high-stakes
+  environments, possessing a deeply proactive "engineer" mindset.</p><ul><li><strong>Leadership
+  &amp; Collaboration</strong>: Exceptional people leadership and communication skills,
+  with the proven ability to influence engineering teams and partner with DevOps,
+  Product and Architects to plan and execute complex replatforming activities. Candidates
+  with a proven track record of architecting systems to meet rigorous compliance standards,
+  specifically SOC2 Type 2 and GovRAMP are highly preferred.</li><li><strong>Data
+  Modeling &amp; Governance</strong>: Deep understanding of data modeling, data governance,
+  data reliability, and process hardening.</li><li><strong>Cloud &amp; Infrastructure</strong>:
+  Expert-level proficiency in AWS environments and GitHub for version control and
+  CI/CD integration.</li><li><strong>Data Stack &amp; BI Platform Mastery</strong>:</li><ul><li><strong>Warehousing</strong>:
+  Deep expertise in data warehouse technologies like Snowflake and relational databases
+  like MySQL.</li><li><strong>NoSQL</strong>: Knowledge of MongoDB or similar document-style
+  databases.</li><li><strong>Orchestration</strong>: Hands-on experience with Airflow,
+  Airbyte/Fivetran (or similar) for workflow management.</li><li><strong>Data Cloud</strong>:
+  experience with onboarding and maintaining Snowflake and core modules.&nbsp;</li><li><strong>BI
+  Platforms</strong>: AWS Quicksight, Sigma, Tableau&nbsp;</li></ul><li><strong>Ingestion
+  &amp; Sync</strong>: Proficiency with data synchronization tools and real-time data
+  ingestion patterns to ensure constant data visibility.</li><li><strong>Visualization</strong>:
+  Advanced expertise in Sigma, Tableau and QuickSight to deliver actionable business
+  insights.</li><li><strong>Documentation</strong>: Proven ability to create and maintain
+  stringent, audit-ready documentation and produce non-complex, scalable technical
+  solutions.</li><li><strong>CDP Management &amp; Architectu</strong>re: Own the technical
+  implementation and maintenance of the CDP (e.g., Segment, MParticle, or a Composable
+  CDP via Snowflake).</li><li><strong>Dashboarding &amp; Visualization</strong>: Create
+  self-service reporting in tools like Tableau, Sigma, AWS Quicksight to help stakeholders
+  and Product teams track the customer journey.</li><li><strong>Data Pipeline Engineering</strong>:
+  Design and maintain ETL/ELT pipelines that ingest first-party data from clients
+  and third-party data from CRMs (Salesforce/HubSpot) and advertising platforms (Google/Meta
+  Ads).</li></ul><ul><li><strong>Create and Maintain Data &amp; BI Environments</strong>:
+  Own the end-to-end creation and ongoing maintenance of development, staging, QA
+  and production migration environments.&nbsp; </li></ul><b>Strategic Goals</b><p>Your
+  success in this role will be defined by three key pillars:</p><ul><li><strong>Platform
+  Modernization &amp; Scalability</strong>: Transform the BI stack into a modern platform
+  that prioritizes governance and security. You will implement non-complex solutions
+  that scale, ensuring our infrastructure is robust from the ground up to anticipate
+  emerging business needs.</li><li><strong>Democratization &amp; Business Partnership</strong>:
+  Transform BI from a service provider into a continuous, architectural partner. You
+  will work closely with business stakeholders to become the resident expert on our
+  data, enabling the platform to be the primary driver of informed business decisions
+  and democratizing data across the organization.</li></ul><ul><li><strong>Data Reliability
+  as a Gold Standard</strong>: Position ClassWallet’s data integrity as a market differentiator.
+  By maintaining an impeccable, hardened data environment, you enable the business
+  to confidently pursue the most sensitive government contracts, knowing our data
+  platform is the gold standard for transparency and control.</li></ul><br><b>Benefits</b><p>ClassWallet
+  is a positive, family-oriented team environment. Our focus is on encouragement,
+  positive reinforcement, and gratitude. We work hard and are highly motivated to
+  win but with a healthy perspective on life.</p><p>We offer an excellent salary and
+  benefits commensurate with experience.</p><p>ClassWallet.com is proud to be an Equal
+  Opportunity Employer. Applicants are considered for all positions without regard
+  to race, color, religion, sex, national origin, age, disability, sexual orientation,
+  marital or veteran status.</p>'
+description_text: 'ClassWallet, a leading financial technology company in the United
+  States, is seeking to hire a Business Intelligence Tech Lead to join our team. ClassWallet
+  is a financial technology company serving agencies delegated responsibility to manage
+  public funds. Agencies use ClassWallet to get public funds to the right people,
+  and ensure the funds are used for the right purpose. ClassWallet’s suite of products
+  and services empowers agency administrators to dramatically increase efficiency
+  of funds distribution and spend compliance, reduce programmatic costs, maximize
+  the full potential impact of the program, and satisfy the needs and expectations
+  of policymakers, constituents and public reporting. ClassWallet has processed over
+  $3.5 Billion to date and serves public agencies across 33 states. The Company has
+  developed an industry-defining digital wallet solution which has gained rapid traction
+  among state and local agencies and school districts across America. ClassWallet
+  ranks as the 61st fastest growing software company on the prestigious Inc. 5000
+  list of fastest-growing private companies and the 21st fastest growing financial
+  technology company on the Deloitte Technology Fast 500 in 2023. While the Company
+  delivers immense business value, the social impact of ClassWallet is a fabric that
+  runs through its mission and corporate culture. As a result of ClassWallet’s innovation,
+  public programs run with exponentially more efficiency and the impact and breadth
+  of the programs for the individuals they serve is dramatically higher. This mission
+  compliments the Company mission-based culture with focus on gratitude and work-life
+  balance. About the Role At ClassWallet, we are redefining how public funds reach
+  the people who need them. We are seeking a Business Intelligence (BI) Tech Lead
+  to serve as the primary architect and visionary of our data platform. This is a
+  role for a proactive technical leader who views data as a foundational strategic
+  asset, not just a series of reports.&nbsp; Reporting to the Director of Architecture,
+  you will own the critical intersection of data engineering and business insight,
+  driving the continuous modernization and hardening of our data systems at every
+  layer. Your work will ensure that our platform remains a source of truth, maintaining
+  the highest levels of reliability and governance for our government partners. You
+  will work as a high-impact leader to our engineering teams and collaborate closely
+  with business stakeholders to align our overarching data strategy with deep, architectural
+  implementation. Requirements The ideal candidate has deep experience with data and
+  is someone who thrives in high-stakes environments, possessing a deeply proactive
+  "engineer" mindset. Leadership &amp; Collaboration : Exceptional people leadership
+  and communication skills, with the proven ability to influence engineering teams
+  and partner with DevOps, Product and Architects to plan and execute complex replatforming
+  activities. Candidates with a proven track record of architecting systems to meet
+  rigorous compliance standards, specifically SOC2 Type 2 and GovRAMP are highly preferred.
+  Data Modeling &amp; Governance : Deep understanding of data modeling, data governance,
+  data reliability, and process hardening. Cloud &amp; Infrastructure : Expert-level
+  proficiency in AWS environments and GitHub for version control and CI/CD integration.
+  Data Stack &amp; BI Platform Mastery : Warehousing : Deep expertise in data warehouse
+  technologies like Snowflake and relational databases like MySQL. NoSQL : Knowledge
+  of MongoDB or similar document-style databases. Orchestration : Hands-on experience
+  with Airflow, Airbyte/Fivetran (or similar) for workflow management. Data Cloud
+  : experience with onboarding and maintaining Snowflake and core modules.&nbsp; BI
+  Platforms : AWS Quicksight, Sigma, Tableau&nbsp; Ingestion &amp; Sync : Proficiency
+  with data synchronization tools and real-time data ingestion patterns to ensure
+  constant data visibility. Visualization : Advanced expertise in Sigma, Tableau and
+  QuickSight to deliver actionable business insights. Documentation : Proven ability
+  to create and maintain stringent, audit-ready documentation and produce non-complex,
+  scalable technical solutions. CDP Management &amp; Architectu re: Own the technical
+  implementation and maintenance of the CDP (e.g., Segment, MParticle, or a Composable
+  CDP via Snowflake). Dashboarding &amp; Visualization : Create self-service reporting
+  in tools like Tableau, Sigma, AWS Quicksight to help stakeholders and Product teams
+  track the customer journey. Data Pipeline Engineering : Design and maintain ETL/ELT
+  pipelines that ingest first-party data from clients and third-party data from CRMs
+  (Salesforce/HubSpot) and advertising platforms (Google/Meta Ads). Create and Maintain
+  Data &amp; BI Environments : Own the end-to-end creation and ongoing maintenance
+  of development, staging, QA and production migration environments.&nbsp; Strategic
+  Goals Your success in this role will be defined by three key pillars: Platform Modernization
+  &amp; Scalability : Transform the BI stack into a modern platform that prioritizes
+  governance and security. You will implement non-complex solutions that scale, ensuring
+  our infrastructure is robust from the ground up to anticipate emerging business
+  needs. Democratization &amp; Business Partnership : Transform BI from a service
+  provider into a continuous, architectural partner. You will work closely with business
+  stakeholders to become the resident expert on our data, enabling the platform to
+  be the primary driver of informed business decisions and democratizing data across
+  the organization. Data Reliability as a Gold Standard : Position ClassWallet’s data
+  integrity as a market differentiator. By maintaining an impeccable, hardened data
+  environment, you enable the business to confidently pursue the most sensitive government
+  contracts, knowing our data platform is the gold standard for transparency and control.
+  Benefits ClassWallet is a positive, family-oriented team environment. Our focus
+  is on encouragement, positive reinforcement, and gratitude. We work hard and are
+  highly motivated to win but with a healthy perspective on life. We offer an excellent
+  salary and benefits commensurate with experience. ClassWallet.com is proud to be
+  an Equal Opportunity Employer. Applicants are considered for all positions without
+  regard to race, color, religion, sex, national origin, age, disability, sexual orientation,
+  marital or veteran status.'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: We recently updated our Vision and Values as we are more than simply
+  a technology. In our evolved Vision statement, we now emphasize the word, "integrity"
+  as we know it is the combination of technology and PEOPLE that truly sets us apart.
+  Our clients look good because their citizens are better served using our platform
+  and processes that include real people supporting the effort. A notable addition
+  to our Values is that, "we care deeply about the people we serve," further emphasizing
+  the Mission and how we approach the day-to-day. Our Values are used to make difficult
+  business decisions. They are not simply slogans but expectations interwoven into
+  the fabric of the culture. A pioneer in financial and government technology, ClassWallet's
+  technology is used by public agencies across 35 states to maximize the positive
+  impact of public funding on people’s lives. Since 2014, the ClassWallet platform
+  has been used to deliver more than $4 billion in public funds to millions of citizens,
+  and has helped clients achieve the highest standards of program integrity and efficiency.
+  With customer loyalty and satisfaction exceeding some of the world's largest brands,
+  ClassWallet was recognized by J.D. Power in 2024 for providing "An Outstanding Customer
+  Service Experience" for Phone Support. ClassWallet is headquartered in Hollywood,
+  Florida, and ranks as the 88th fastest-growing software company on the prestigious
+  Inc. 5000 list.
+url: https://builtin.com/job/business-intelligence-tech-lead/8466686
+source: builtin.com
+description: 'ClassWallet, a leading financial technology company in the United States,
+  is seeking to hire a Business Intelligence Tech Lead to join our team. ClassWallet
+  is a financial technology company serving agencies delegated responsibility to manage
+  public funds. Agencies use ClassWallet to get public funds to the right people,
+  and ensure the funds are used for the right purpose. ClassWallet’s suite of products
+  and services empowers agency administrators to dramatically increase efficiency
+  of funds distribution and spend compliance, reduce programmatic costs, maximize
+  the full potential impact of the program, and satisfy the needs and expectations
+  of policymakers, constituents and public reporting. ClassWallet has processed over
+  $3.5 Billion to date and serves public agencies across 33 states. The Company has
+  developed an industry-defining digital wallet solution which has gained rapid traction
+  among state and local agencies and school districts across America. ClassWallet
+  ranks as the 61st fastest growing software company on the prestigious Inc. 5000
+  list of fastest-growing private companies and the 21st fastest growing financial
+  technology company on the Deloitte Technology Fast 500 in 2023. While the Company
+  delivers immense business value, the social impact of ClassWallet is a fabric that
+  runs through its mission and corporate culture. As a result of ClassWallet’s innovation,
+  public programs run with exponentially more efficiency and the impact and breadth
+  of the programs for the individuals they serve is dramatically higher. This mission
+  compliments the Company mission-based culture with focus on gratitude and work-life
+  balance. About the Role At ClassWallet, we are redefining how public funds reach
+  the people who need them. We are seeking a Business Intelligence (BI) Tech Lead
+  to serve as the primary architect and visionary of our data platform. This is a
+  role for a proactive technical leader who views data as a foundational strategic
+  asset, not just a series of reports.&nbsp; Reporting to the Director of Architecture,
+  you will own the critical intersection of data engineering and business insight,
+  driving the continuous modernization and hardening of our data systems at every
+  layer. Your work will ensure that our platform remains a source of truth, maintaining
+  the highest levels of reliability and governance for our government partners. You
+  will work as a high-impact leader to our engineering teams and collaborate closely
+  with business stakeholders to align our overarching data strategy with deep, architectural
+  implementation. Requirements The ideal candidate has deep experience with data and
+  is someone who thrives in high-stakes environments, possessing a deeply proactive
+  "engineer" mindset. Leadership &amp; Collaboration : Exceptional people leadership
+  and communication skills, with the proven ability to influence engineering teams
+  and partner with DevOps, Product and Architects to plan and execute complex replatforming
+  activities. Candidates with a proven track record of architecting systems to meet
+  rigorous compliance standards, specifically SOC2 Type 2 and GovRAMP are highly preferred.
+  Data Modeling &amp; Governance : Deep understanding of data modeling, data governance,
+  data reliability, and process hardening. Cloud &amp; Infrastructure : Expert-level
+  proficiency in AWS environments and GitHub for version control and CI/CD integration.
+  Data Stack &amp; BI Platform Mastery : Warehousing : Deep expertise in data warehouse
+  technologies like Snowflake and relational databases like MySQL. NoSQL : Knowledge
+  of MongoDB or similar document-style databases. Orchestration : Hands-on experience
+  with Airflow, Airbyte/Fivetran (or similar) for workflow management. Data Cloud
+  : experience with onboarding and maintaining Snowflake and core modules.&nbsp; BI
+  Platforms : AWS Quicksight, Sigma, Tableau&nbsp; Ingestion &amp; Sync : Proficiency
+  with data synchronization tools and real-time data ingestion patterns to ensure
+  constant data visibility. Visualization : Advanced expertise in Sigma, Tableau and
+  QuickSight to deliver actionable business insights. Documentation : Proven ability
+  to create and maintain stringent, audit-ready documentation and produce non-complex,
+  scalable technical solutions. CDP Management &amp; Architectu re: Own the technical
+  implementation and maintenance of the CDP (e.g., Segment, MParticle, or a Composable
+  CDP via Snowflake). Dashboarding &amp; Visualization : Create self-service reporting
+  in tools like Tableau, Sigma, AWS Quicksight to help stakeholders and Product teams
+  track the customer journey. Data Pipeline Engineering : Design and maintain ETL/ELT
+  pipelines that ingest first-party data from clients and third-party data from CRMs
+  (Salesforce/HubSpot) and advertising platforms (Google/Meta Ads). Create and Maintain
+  Data &amp; BI Environments : Own the end-to-end creation and ongoing maintenance
+  of development, staging, QA and production migration environments.&nbsp; Strategic
+  Goals Your success in this role will be defined by three key pillars: Platform Modernization
+  &amp; Scalability : Transform the BI stack into a modern platform that prioritizes
+  governance and security. You will implement non-complex solutions that scale, ensuring
+  our infrastructure is robust from the ground up to anticipate emerging business
+  needs. Democratization &amp; Business Partnership : Transform BI from a service
+  provider into a continuous, architectural partner. You will work closely with business
+  stakeholders to become the resident expert on our data, enabling the platform to
+  be the primary driver of informed business decisions and democratizing data across
+  the organization. Data Reliability as a Gold Standard : Position ClassWallet’s data
+  integrity as a market differentiator. By maintaining an impeccable, hardened data
+  environment, you enable the business to confidently pursue the most sensitive government
+  contracts, knowing our data platform is the gold standard for transparency and control.
+  Benefits ClassWallet is a positive, family-oriented team environment. Our focus
+  is on encouragement, positive reinforcement, and gratitude. We work hard and are
+  highly motivated to win but with a healthy perspective on life. We offer an excellent
+  salary and benefits commensurate with experience. ClassWallet.com is proud to be
+  an Equal Opportunity Employer. Applicants are considered for all positions without
+  regard to race, color, religion, sex, national origin, age, disability, sexual orientation,
+  marital or veteran status.'
+postedDate: '2026-03-09'
+id: '9'
+is_gtm_technical: true
+tech_stack:
+- AWS
+- Snowflake
+- Airflow
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: The role involves leading data architecture and analytics, aligning with technical
+  GTM responsibilities.

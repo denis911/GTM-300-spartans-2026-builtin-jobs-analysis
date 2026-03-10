@@ -1,0 +1,142 @@
+title: GTM Engineer
+company: Loop AI - Delivery Intelligence Platform
+category:
+- Artificial Intelligence
+- On-Demand
+- Software
+location: Tampa, Florida, USA
+date_posted: '2026-02-14'
+description_html: '<p><b>About the Role:</b>&nbsp;</p><p><br></p><p>We''re looking
+  for a Sales-focused GTM Engineer to build and optimize the systems that power Loop
+  AI''s sales motion. You''ll sit at the intersection of sales, technology, and operations—designing
+  automated workflows, optimizing our CRM, and building infrastructure that helps
+  our sales team work smarter. This role is ideal for someone who loves building things,
+  thrives on automation, and wants to directly impact revenue growth.</p><p><b>What
+  You''ll Do:</b></p><ul><li><b>Build Sales Automation: </b>Design and implement automated
+  workflows using tools like n8n, Clay, and Zapier that streamline lead routing, follow-up
+  sequences, and handoffs between SDRs and AEs</li><li><b>Optimize the CRM: </b>Own
+  Salesforce configuration for sales workflows—custom objects, automation rules, lead
+  scoring, and pipeline management that gives our team real-time visibility</li><li><b>Pre-Demo
+  Research Automation: </b>Build AI-powered research workflows that automatically
+  enrich opportunities with company intelligence, pain points, and personalized talking
+  points before every demo</li><li><b>Data Enrichment Pipelines: </b>Integrate data
+  sources (Clay, Apollo, Clearbit) to maintain accurate, enriched prospect data that
+  powers targeted outreach</li><li><b>Sales Enablement Tools: </b>Create tools and
+  integrations that surface call intelligence from Gong/Fireflies, automate coaching
+  insights, and track rep performance</li><li><b>Pipeline Analytics: </b>Build dashboards
+  and reports that track pipeline velocity, conversion rates, and stage progression
+  to identify bottlenecks</li><li><b>Slack/CRM Integration: </b>Design notification
+  systems that alert reps to hot leads, deal risks, and action items in real-time</li><li><b>Lead
+  Scoring &amp; Routing: </b>Build intelligent lead scoring models based on behavior,
+  firmographics, and intent signals—and route qualified leads to sales in real-time</li></ul><p></p><p><b>What
+  You''ll Bring:</b></p><ul><li>2+ years in sales operations, revenue operations,
+  or GTM engineering role</li><li>Strong Salesforce administration skills—custom objects,
+  flows, validation rules, and reporting</li><li>Experience with automation platforms
+  (n8n, Zapier, Make) and data enrichment tools (Clay, Apollo, ZoomInfo)</li><li>Comfort
+  with APIs, webhooks, and light scripting (Python, JavaScript, or SQL)</li><li>Understanding
+  of the B2B sales funnel—from lead to close—and what makes reps successful</li><li>Bias
+  toward action—you''d rather build a prototype than write a spec document</li></ul><p></p><p><b>Nice
+  to Have</b></p><ul><li>Experience with call intelligence tools (Gong, Fireflies,
+  Momentum)</li><li>Familiarity with AI/LLM integrations for research automation</li><li>Background
+  in restaurant tech, SaaS sales, or delivery/logistics platforms</li><li>Salesforce
+  Admin certification</li><p><br></p></ul><p></p>'
+description_text: 'About the Role: &nbsp; We''re looking for a Sales-focused GTM Engineer
+  to build and optimize the systems that power Loop AI''s sales motion. You''ll sit
+  at the intersection of sales, technology, and operations—designing automated workflows,
+  optimizing our CRM, and building infrastructure that helps our sales team work smarter.
+  This role is ideal for someone who loves building things, thrives on automation,
+  and wants to directly impact revenue growth. What You''ll Do: Build Sales Automation:
+  Design and implement automated workflows using tools like n8n, Clay, and Zapier
+  that streamline lead routing, follow-up sequences, and handoffs between SDRs and
+  AEs Optimize the CRM: Own Salesforce configuration for sales workflows—custom objects,
+  automation rules, lead scoring, and pipeline management that gives our team real-time
+  visibility Pre-Demo Research Automation: Build AI-powered research workflows that
+  automatically enrich opportunities with company intelligence, pain points, and personalized
+  talking points before every demo Data Enrichment Pipelines: Integrate data sources
+  (Clay, Apollo, Clearbit) to maintain accurate, enriched prospect data that powers
+  targeted outreach Sales Enablement Tools: Create tools and integrations that surface
+  call intelligence from Gong/Fireflies, automate coaching insights, and track rep
+  performance Pipeline Analytics: Build dashboards and reports that track pipeline
+  velocity, conversion rates, and stage progression to identify bottlenecks Slack/CRM
+  Integration: Design notification systems that alert reps to hot leads, deal risks,
+  and action items in real-time Lead Scoring &amp; Routing: Build intelligent lead
+  scoring models based on behavior, firmographics, and intent signals—and route qualified
+  leads to sales in real-time What You''ll Bring: 2+ years in sales operations, revenue
+  operations, or GTM engineering role Strong Salesforce administration skills—custom
+  objects, flows, validation rules, and reporting Experience with automation platforms
+  (n8n, Zapier, Make) and data enrichment tools (Clay, Apollo, ZoomInfo) Comfort with
+  APIs, webhooks, and light scripting (Python, JavaScript, or SQL) Understanding of
+  the B2B sales funnel—from lead to close—and what makes reps successful Bias toward
+  action—you''d rather build a prototype than write a spec document Nice to Have Experience
+  with call intelligence tools (Gong, Fireflies, Momentum) Familiarity with AI/LLM
+  integrations for research automation Background in restaurant tech, SaaS sales,
+  or delivery/logistics platforms Salesforce Admin certification'
+salary_json_min: 95000
+salary_json_max: 140000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Loop is a fully automated delivery intelligence platform for modern
+  food brands that helps restaurants become more profitable. We address issues by
+  automating back-office operations, providing financial transparency, and streamlining
+  reconciliation processes. As delivery channels grow, they now account for over 25%
+  of restaurant revenue, yet high commission fees (20-35%) and order inaccuracies
+  (3-4% of sales) pose significant challenges to profitability.Loop has raised $6M
+  (~ 50cr) in venture capital from Base10 Partners, Afore Capital and many more. Visit
+  our website to know more!
+url: https://builtin.com/job/gtm-engineer/8239872
+source: builtin.com
+description: 'About the Role: &nbsp; We''re looking for a Sales-focused GTM Engineer
+  to build and optimize the systems that power Loop AI''s sales motion. You''ll sit
+  at the intersection of sales, technology, and operations—designing automated workflows,
+  optimizing our CRM, and building infrastructure that helps our sales team work smarter.
+  This role is ideal for someone who loves building things, thrives on automation,
+  and wants to directly impact revenue growth. What You''ll Do: Build Sales Automation:
+  Design and implement automated workflows using tools like n8n, Clay, and Zapier
+  that streamline lead routing, follow-up sequences, and handoffs between SDRs and
+  AEs Optimize the CRM: Own Salesforce configuration for sales workflows—custom objects,
+  automation rules, lead scoring, and pipeline management that gives our team real-time
+  visibility Pre-Demo Research Automation: Build AI-powered research workflows that
+  automatically enrich opportunities with company intelligence, pain points, and personalized
+  talking points before every demo Data Enrichment Pipelines: Integrate data sources
+  (Clay, Apollo, Clearbit) to maintain accurate, enriched prospect data that powers
+  targeted outreach Sales Enablement Tools: Create tools and integrations that surface
+  call intelligence from Gong/Fireflies, automate coaching insights, and track rep
+  performance Pipeline Analytics: Build dashboards and reports that track pipeline
+  velocity, conversion rates, and stage progression to identify bottlenecks Slack/CRM
+  Integration: Design notification systems that alert reps to hot leads, deal risks,
+  and action items in real-time Lead Scoring &amp; Routing: Build intelligent lead
+  scoring models based on behavior, firmographics, and intent signals—and route qualified
+  leads to sales in real-time What You''ll Bring: 2+ years in sales operations, revenue
+  operations, or GTM engineering role Strong Salesforce administration skills—custom
+  objects, flows, validation rules, and reporting Experience with automation platforms
+  (n8n, Zapier, Make) and data enrichment tools (Clay, Apollo, ZoomInfo) Comfort with
+  APIs, webhooks, and light scripting (Python, JavaScript, or SQL) Understanding of
+  the B2B sales funnel—from lead to close—and what makes reps successful Bias toward
+  action—you''d rather build a prototype than write a spec document Nice to Have Experience
+  with call intelligence tools (Gong, Fireflies, Momentum) Familiarity with AI/LLM
+  integrations for research automation Background in restaurant tech, SaaS sales,
+  or delivery/logistics platforms Salesforce Admin certification'
+postedDate: '2026-02-14'
+salary: USD 95,000 - 140,000
+id: 0
+is_gtm_technical: true
+tech_stack:
+- n8n
+- Clay
+- Zapier
+- Salesforce
+- Apollo
+- Clearbit
+- Gong
+- Fireflies
+min_years_exp: 2
+salary_min: null
+salary_max: null
+reason: The role explicitly mentions technical tasks such as automating workflows,
+  optimizing CRM systems, and using various tools related to sales engineering and
+  revenue optimization.

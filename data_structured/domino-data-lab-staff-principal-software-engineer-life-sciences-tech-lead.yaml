@@ -1,0 +1,264 @@
+title: Staff/Principal Software Engineer, Life Sciences (Tech Lead)
+company: Domino Data Lab
+category:
+- Artificial Intelligence
+- Machine Learning
+location: USA
+date_posted: '2026-03-08'
+description_html: '<p><strong><span>Who we are</span></strong></p><p>At Domino, we
+  build software that helps the largest, AI-driven organizations build and operate
+  advanced data science and AI solutions at scale. Our platform integrates a streamlined
+  model development environment, MLOps capabilities, and novel features for collaboration,
+  reuse, and reproducibility — all of which make data science teams more productive,
+  reduce time to value, and ensure compliance. Our customers — like Johnson &amp;
+  Johnson, GSK, Bristol Myers, UBS, FINRA and the US Navy — are using our software
+  to solve some of the most important challenges in the world, such as developing
+  new medicines, securing our financial markets, or protecting our country. Backed
+  by Sequoia Capital, Coatue Management, NVIDIA, Snowflake and other leading investors,
+  we have been in business for a decade but are still a small team operating with
+  the spirit of a startup. Especially in the world of AI today, we believe that the
+  future is still being invented — and we want to be the ones building it.&nbsp;For
+  more information, visit www.domino.ai</p><p><strong><span>What we are building</span></strong></p><p>The
+  Life Sciences team builds the platform capabilities that enable regulated AI/ML-driven
+  scientific and clinical computing across the therapy development lifecycle. Our
+  mission is to empower researchers, statisticians, and clinical teams with auditable,
+  reproducible, and scalable AI/ML workflows that support validation, quality control,
+  and regulatory review.</p><p>We build on Domino’s core strengths—data, metadata,
+  lineage, and code—to deliver enterprise-grade AI/ML platforms that support scientific
+  rigor and regulatory readiness. This includes deep integrations with life sciences
+  tools, FAIR data and model practices, and role-aware AI insights embedded directly
+  into SCE workflows.</p><p>By delivering traceability, QC automation, and compliant
+  collaboration across data, models, and results, we enable organizations to iterate
+  faster while maintaining confidence in the integrity and safety of their AI-driven
+  decisions.</p><p><strong><span>What your impact will be</span></strong></p><p>In
+  your first year, you will:</p><ul><li>Shape extensible platform interfaces that
+  unlock new regulated workflows: Architect durable APIs, event models, and integration
+  surfaces that enable internal teams, partners, and the world’s largest pharmaceutical
+  organizations to compose entirely new classes of fast, reproducible, inspection-ready
+  scientific workflows, not just integrate existing tools.</li><li>Redefine reproducibility
+  and system of record as platform primitives: Lead the re-design of the information
+  architecture to better support execution, lineage, and auditability so reproducibility
+  and inspection-readiness are built into how scientific work runs across cloud, hybrid,
+  HPC, and external data sources. Set the foundation for a platform where every result
+  is traceable, every execution is reviewable, and compliance is intrinsic rather
+  than bolted on.</li><li>Scale compute for the next generation of scientific workloads:
+  Drive architectural and performance improvements across Domino Workspaces and execution
+  environments to support larger datasets, higher concurrency, and compute-intensive
+  workloads, establishing patterns that make hybrid and HPC-backed execution first-class
+  and reliable at scale.</li></ul><p><strong><span>What we look for in this role</span></strong></p><ul><li>Deep
+  backend and systems expertise in regulated environments: A track record of designing,
+  building, and operating scalable backend platforms for regulated scientific or clinical
+  workflows, such as statistical compute, QC pipelines, or inspection-ready execution</li><li>Architectural
+  leadership and technical judgment: Strong systems thinking and hands-on experience
+  designing robust backend services and APIs that balance usability, scalability,
+  performance, and regulatory rigor across cloud-native and containerized environments.
+  Experience with distributed or HPC-backed compute is a meaningful plus.</li><li>Ability
+  to lead through influence and collaboration: Comfort setting technical direction,
+  leading cross-team design discussions, and aligning engineers, product partners,
+  and domain experts (e.g., statisticians, reviewers, operators) around a shared architectural
+  vision.</li><li>Fluency in turning regulatory complexity into durable solutions:
+  Proven ability to navigate ambiguity in compliance-driven environments and translate
+  regulatory, QC, and inspection requirements into practical, well-designed platform
+  capabilities.</li><li>Strong command of modern backend languages and platforms:
+  Proficiency in one or more backend languages such as Java, Scala, Go, or Python,
+  with experience building long-lived, service-oriented systems using REST and/or
+  gRPC, backed by solid API design practices.</li><li>Experience operating production
+  systems in the cloud: Hands-on experience with major cloud platforms (AWS, Azure,
+  or GCP), containerization and orchestration (Docker, Kubernetes), and modern observability
+  and DevOps practices to ensure reliability at scale.</li><li>&nbsp;</li></ul><p><strong><span>What
+  we value</span></strong></p><ul><li>We value a growth mindset. High-performing creative
+  individuals who dig into problems and see the opportunities for success</li><li>We
+  believe in individuals who seek truth and speak the truth and can be their whole
+  selves at work</li><li>We value all of you that believe improving is always possible
+  At Domino Everything is a work in progress – we can do better at everything</li><li>We
+  emphasize an environment of teaching and learning to equip employees with the tools
+  needed to be successful in their function and the company</li><li>We strongly believe
+  in the value of growing a diverse team and encourage people of all backgrounds,
+  genders, ethnicities, abilities, and sexual orientations to apply</li></ul><p>#LI-Remote</p><p><p><p><p><em>The
+  annual US base salary range for this role is listed below. For sales roles, the
+  range provided is the role''s On Target Earnings ("OTE") range, meaning that the
+  range includes both the sales commissions/sales bonuses target and annual base salary
+  for the role. This salary range will be narrowed during the interview process based
+  on a number of factors, including the candidate''s experience, qualifications, and
+  location. Additional benefits for this role may include: equity, company bonus or
+  sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and
+  wellness stipends.</em></p></p><p>Compensation Range </p><p><span>$225,000</span><span>—</span><span>$250,000
+  USD</span></p></p></p>'
+description_text: 'Who we are At Domino, we build software that helps the largest,
+  AI-driven organizations build and operate advanced data science and AI solutions
+  at scale. Our platform integrates a streamlined model development environment, MLOps
+  capabilities, and novel features for collaboration, reuse, and reproducibility —
+  all of which make data science teams more productive, reduce time to value, and
+  ensure compliance. Our customers — like Johnson &amp; Johnson, GSK, Bristol Myers,
+  UBS, FINRA and the US Navy — are using our software to solve some of the most important
+  challenges in the world, such as developing new medicines, securing our financial
+  markets, or protecting our country. Backed by Sequoia Capital, Coatue Management,
+  NVIDIA, Snowflake and other leading investors, we have been in business for a decade
+  but are still a small team operating with the spirit of a startup. Especially in
+  the world of AI today, we believe that the future is still being invented — and
+  we want to be the ones building it.&nbsp;For more information, visit www.domino.ai
+  What we are building The Life Sciences team builds the platform capabilities that
+  enable regulated AI/ML-driven scientific and clinical computing across the therapy
+  development lifecycle. Our mission is to empower researchers, statisticians, and
+  clinical teams with auditable, reproducible, and scalable AI/ML workflows that support
+  validation, quality control, and regulatory review. We build on Domino’s core strengths—data,
+  metadata, lineage, and code—to deliver enterprise-grade AI/ML platforms that support
+  scientific rigor and regulatory readiness. This includes deep integrations with
+  life sciences tools, FAIR data and model practices, and role-aware AI insights embedded
+  directly into SCE workflows. By delivering traceability, QC automation, and compliant
+  collaboration across data, models, and results, we enable organizations to iterate
+  faster while maintaining confidence in the integrity and safety of their AI-driven
+  decisions. What your impact will be In your first year, you will: Shape extensible
+  platform interfaces that unlock new regulated workflows: Architect durable APIs,
+  event models, and integration surfaces that enable internal teams, partners, and
+  the world’s largest pharmaceutical organizations to compose entirely new classes
+  of fast, reproducible, inspection-ready scientific workflows, not just integrate
+  existing tools. Redefine reproducibility and system of record as platform primitives:
+  Lead the re-design of the information architecture to better support execution,
+  lineage, and auditability so reproducibility and inspection-readiness are built
+  into how scientific work runs across cloud, hybrid, HPC, and external data sources.
+  Set the foundation for a platform where every result is traceable, every execution
+  is reviewable, and compliance is intrinsic rather than bolted on. Scale compute
+  for the next generation of scientific workloads: Drive architectural and performance
+  improvements across Domino Workspaces and execution environments to support larger
+  datasets, higher concurrency, and compute-intensive workloads, establishing patterns
+  that make hybrid and HPC-backed execution first-class and reliable at scale. What
+  we look for in this role Deep backend and systems expertise in regulated environments:
+  A track record of designing, building, and operating scalable backend platforms
+  for regulated scientific or clinical workflows, such as statistical compute, QC
+  pipelines, or inspection-ready execution Architectural leadership and technical
+  judgment: Strong systems thinking and hands-on experience designing robust backend
+  services and APIs that balance usability, scalability, performance, and regulatory
+  rigor across cloud-native and containerized environments. Experience with distributed
+  or HPC-backed compute is a meaningful plus. Ability to lead through influence and
+  collaboration: Comfort setting technical direction, leading cross-team design discussions,
+  and aligning engineers, product partners, and domain experts (e.g., statisticians,
+  reviewers, operators) around a shared architectural vision. Fluency in turning regulatory
+  complexity into durable solutions: Proven ability to navigate ambiguity in compliance-driven
+  environments and translate regulatory, QC, and inspection requirements into practical,
+  well-designed platform capabilities. Strong command of modern backend languages
+  and platforms: Proficiency in one or more backend languages such as Java, Scala,
+  Go, or Python, with experience building long-lived, service-oriented systems using
+  REST and/or gRPC, backed by solid API design practices. Experience operating production
+  systems in the cloud: Hands-on experience with major cloud platforms (AWS, Azure,
+  or GCP), containerization and orchestration (Docker, Kubernetes), and modern observability
+  and DevOps practices to ensure reliability at scale. &nbsp; What we value We value
+  a growth mindset. High-performing creative individuals who dig into problems and
+  see the opportunities for success We believe in individuals who seek truth and speak
+  the truth and can be their whole selves at work We value all of you that believe
+  improving is always possible At Domino Everything is a work in progress – we can
+  do better at everything We emphasize an environment of teaching and learning to
+  equip employees with the tools needed to be successful in their function and the
+  company We strongly believe in the value of growing a diverse team and encourage
+  people of all backgrounds, genders, ethnicities, abilities, and sexual orientations
+  to apply #LI-Remote The annual US base salary range for this role is listed below.
+  For sales roles, the range provided is the role''s On Target Earnings ("OTE") range,
+  meaning that the range includes both the sales commissions/sales bonuses target
+  and annual base salary for the role. This salary range will be narrowed during the
+  interview process based on a number of factors, including the candidate''s experience,
+  qualifications, and location. Additional benefits for this role may include: equity,
+  company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision
+  benefits; and wellness stipends. Compensation Range $225,000 — $250,000 USD'
+salary_json_min: 225000
+salary_json_max: 250000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Staff/Principal
+workplace_type_enum: UNKNOWN
+company_overview: Domino Data Lab powers model-driven businesses with its leading
+  Enterprise AI platform trusted by over 20% of the Fortune 100. Domino accelerates
+  the development and deployment of data science work while increasing collaboration
+  and governance. With Domino, enterprises worldwide can develop better medicines,
+  grow more productive crops, build better cars, and much more. Founded in 2013, Domino
+  is backed by Coatue Management, Great Hill Partners, Highland Capital, Sequoia Capital
+  and other leading investors. For more information, visit www.domino.ai
+url: https://builtin.com/job/staff-software-engineer-life-sciences-tech-lead/8164385
+source: builtin.com
+description: 'Who we are At Domino, we build software that helps the largest, AI-driven
+  organizations build and operate advanced data science and AI solutions at scale.
+  Our platform integrates a streamlined model development environment, MLOps capabilities,
+  and novel features for collaboration, reuse, and reproducibility — all of which
+  make data science teams more productive, reduce time to value, and ensure compliance.
+  Our customers — like Johnson &amp; Johnson, GSK, Bristol Myers, UBS, FINRA and the
+  US Navy — are using our software to solve some of the most important challenges
+  in the world, such as developing new medicines, securing our financial markets,
+  or protecting our country. Backed by Sequoia Capital, Coatue Management, NVIDIA,
+  Snowflake and other leading investors, we have been in business for a decade but
+  are still a small team operating with the spirit of a startup. Especially in the
+  world of AI today, we believe that the future is still being invented — and we want
+  to be the ones building it.&nbsp;For more information, visit www.domino.ai What
+  we are building The Life Sciences team builds the platform capabilities that enable
+  regulated AI/ML-driven scientific and clinical computing across the therapy development
+  lifecycle. Our mission is to empower researchers, statisticians, and clinical teams
+  with auditable, reproducible, and scalable AI/ML workflows that support validation,
+  quality control, and regulatory review. We build on Domino’s core strengths—data,
+  metadata, lineage, and code—to deliver enterprise-grade AI/ML platforms that support
+  scientific rigor and regulatory readiness. This includes deep integrations with
+  life sciences tools, FAIR data and model practices, and role-aware AI insights embedded
+  directly into SCE workflows. By delivering traceability, QC automation, and compliant
+  collaboration across data, models, and results, we enable organizations to iterate
+  faster while maintaining confidence in the integrity and safety of their AI-driven
+  decisions. What your impact will be In your first year, you will: Shape extensible
+  platform interfaces that unlock new regulated workflows: Architect durable APIs,
+  event models, and integration surfaces that enable internal teams, partners, and
+  the world’s largest pharmaceutical organizations to compose entirely new classes
+  of fast, reproducible, inspection-ready scientific workflows, not just integrate
+  existing tools. Redefine reproducibility and system of record as platform primitives:
+  Lead the re-design of the information architecture to better support execution,
+  lineage, and auditability so reproducibility and inspection-readiness are built
+  into how scientific work runs across cloud, hybrid, HPC, and external data sources.
+  Set the foundation for a platform where every result is traceable, every execution
+  is reviewable, and compliance is intrinsic rather than bolted on. Scale compute
+  for the next generation of scientific workloads: Drive architectural and performance
+  improvements across Domino Workspaces and execution environments to support larger
+  datasets, higher concurrency, and compute-intensive workloads, establishing patterns
+  that make hybrid and HPC-backed execution first-class and reliable at scale. What
+  we look for in this role Deep backend and systems expertise in regulated environments:
+  A track record of designing, building, and operating scalable backend platforms
+  for regulated scientific or clinical workflows, such as statistical compute, QC
+  pipelines, or inspection-ready execution Architectural leadership and technical
+  judgment: Strong systems thinking and hands-on experience designing robust backend
+  services and APIs that balance usability, scalability, performance, and regulatory
+  rigor across cloud-native and containerized environments. Experience with distributed
+  or HPC-backed compute is a meaningful plus. Ability to lead through influence and
+  collaboration: Comfort setting technical direction, leading cross-team design discussions,
+  and aligning engineers, product partners, and domain experts (e.g., statisticians,
+  reviewers, operators) around a shared architectural vision. Fluency in turning regulatory
+  complexity into durable solutions: Proven ability to navigate ambiguity in compliance-driven
+  environments and translate regulatory, QC, and inspection requirements into practical,
+  well-designed platform capabilities. Strong command of modern backend languages
+  and platforms: Proficiency in one or more backend languages such as Java, Scala,
+  Go, or Python, with experience building long-lived, service-oriented systems using
+  REST and/or gRPC, backed by solid API design practices. Experience operating production
+  systems in the cloud: Hands-on experience with major cloud platforms (AWS, Azure,
+  or GCP), containerization and orchestration (Docker, Kubernetes), and modern observability
+  and DevOps practices to ensure reliability at scale. &nbsp; What we value We value
+  a growth mindset. High-performing creative individuals who dig into problems and
+  see the opportunities for success We believe in individuals who seek truth and speak
+  the truth and can be their whole selves at work We value all of you that believe
+  improving is always possible At Domino Everything is a work in progress – we can
+  do better at everything We emphasize an environment of teaching and learning to
+  equip employees with the tools needed to be successful in their function and the
+  company We strongly believe in the value of growing a diverse team and encourage
+  people of all backgrounds, genders, ethnicities, abilities, and sexual orientations
+  to apply #LI-Remote The annual US base salary range for this role is listed below.
+  For sales roles, the range provided is the role''s On Target Earnings ("OTE") range,
+  meaning that the range includes both the sales commissions/sales bonuses target
+  and annual base salary for the role. This salary range will be narrowed during the
+  interview process based on a number of factors, including the candidate''s experience,
+  qualifications, and location. Additional benefits for this role may include: equity,
+  company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision
+  benefits; and wellness stipends. Compensation Range $225,000 — $250,000 USD'
+postedDate: '2026-03-08'
+salary: USD 225,000 - 250,000
+id: 2
+is_gtm_technical: true
+tech_stack: []
+min_years_exp: 5
+salary_min: 150000
+salary_max: 200000
+reason: Focus on engineering for a data science platform, correlates with technical
+  GTM role.

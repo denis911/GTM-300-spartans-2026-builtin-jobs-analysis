@@ -1,0 +1,193 @@
+title: GTM Systems Engineer
+company: Black Forest Labs
+category:
+- Artificial Intelligence
+- Software
+location: Freiburg im Breisgau, Baden-Württemberg, DEU
+date_posted: '2026-03-09'
+description_html: '<p>&nbsp;</p><b><strong>About Black Forest Labs</strong></b><p>We''re
+  the team behind Latent Diffusion, Stable Diffusion, and FLUX—foundational technologies
+  that changed how the world creates images and video. We’re creating the generative
+  models that power how people make images and video—tools used by millions of creators,
+  developers, and businesses worldwide. Our FLUX models are among the most advanced
+  in the world, and we''re just getting started.</p><p>Headquartered in Freiburg,
+  Germany with a growing presence in San Francisco, we''re scaling fast while staying
+  true to what makes us different: research excellence, open science, and building
+  technology that expands human creativity.</p><p>We''ve built the foundation models
+  that power FLUX and transformed how the world generates images—now we''re figuring
+  out how to build the commercial infrastructure that can scale as fast as our technology.</p><p>This
+  isn''t your typical RevOps role, and it''s not pure engineering either. It''s the
+  technical architecture of our business itself: the systems that turn API calls into
+  revenue, transform messy multi-jurisdictional data into clarity, and automate what
+  currently requires 10 people to do manually.</p><b><strong>The Role</strong></b><p>You''ll
+  be building the nervous system of our revenue operations—but we''re honest: much
+  of it doesn''t exist yet.</p><ul><li><strong>Billing infrastructure that doesn''t
+  break at scale</strong><br>Our business model is deliberately complex: usage-based
+  API pricing, enterprise licenses, self-serve Playground flows, dual US/German entities.
+  You''ll design systems that handle this without requiring an army of humans to intervene.
+  How do we track API consumption accurately? How do we automate invoice generation
+  across jurisdictions? How do we recognize revenue correctly when products and pricing
+  are constantly evolving?</li><li><strong>Enterprise GTM systems that actually talk
+  to each other</strong><br>Right now, data moves through too many hands. You''ll
+  architect integrations between CRM, billing, contracts, and finance—building the
+  workflows that turn enterprise sales from a manual slog into something elegant.
+  Quote-to-cash shouldn''t take weeks. Contract amendments shouldn''t require spreadsheets.
+  We need systems that scale with ambition.</li><li><strong>Analytics infrastructure
+  that surfaces truth</strong><br>We''re flying fast, which means we need instruments.
+  You''ll build the data pipelines and dashboards that show us what''s actually happening:
+  consumption patterns, churn signals, expansion opportunities. Not vanity metrics—the
+  kind of real-time visibility that changes how we make decisions.</li></ul><p><p><p><p><p><p><b>What
+  We''re Looking For</b><p><strong>Technical Skills</strong></p><ul><li>3-5+ years
+  as a Software Engineer, Systems Engineer, or RevOps Engineer at a B2B AI or SaaS
+  company</li><li>Programming proficiency: Python, JavaScript/TypeScript, SQL</li><li>CRM
+  expertise: Hands-on experience with cloud-based CRMs such as Attio, Salesforce,
+  or HubSpot</li><li>Integration platforms: Experience building with Workato, Zapier,
+  Tray.io, or similar iPaaS tools</li><li>API development: RESTful APIs, webhooks,
+  OAuth, authentication protocols—you understand these as contracts, not just endpoints</li><li>Data
+  pipelines: Proven experience building ETL/ELT workflows, data transformation, and
+  warehouse integration</li><li>Billing systems: Familiarity with Stripe Billing,
+  Metronome, Lago, Chargebee, or similar usage-based billing platforms</li></ul><p><strong>Business
+  &amp; Domain Knowledge</strong></p><ul><li>Experience with usage-based pricing,
+  consumption billing, and complex contract structures</li><li>Understanding of multi-jurisdictional
+  business operations (US/EU structures a plus)</li><li>Track record of making build-vs-buy
+  decisions and living with the consequences</li></ul><p><strong>How You Work</strong></p><ul><li>Cross-functional
+  collaboration: You translate fluently between finance speak, sales speak, and engineering
+  speak</li><li>Business acumen: You connect technical solutions directly to revenue
+  outcomes</li><li>Problem-solving: You debug complex data flows and system integration
+  issues independently—because you can''t help yourself</li><li>Communication: You
+  explain technical concepts clearly to non-technical stakeholders without condescension</li><li>Attention
+  to detail: You ensure data accuracy and integrity because you know messy data leads
+  to messy decisions</li><li>Ownership mentality: You identify problems and ship solutions
+  without waiting for permission</li></ul><b>Preferred Experience</b><ul><li>Experience
+  at a high-growth startup scaling from $1M to $100M+ ARR (ideally during the messy
+  middle)</li><li>Familiarity with API-first or usage-based products</li><li>Experience
+  with data visualization tools (Tableau, Looker, Metabase)</li><li>Knowledge of sales
+  tax, VAT compliance, and multi-currency billing</li><li>Prior experience navigating
+  dual US/EU entity structures</li></ul></p></p></p></p><p><p><p>&nbsp;</p></p></p></p></p>'
+description_text: '&nbsp; About Black Forest Labs We''re the team behind Latent Diffusion,
+  Stable Diffusion, and FLUX—foundational technologies that changed how the world
+  creates images and video. We’re creating the generative models that power how people
+  make images and video—tools used by millions of creators, developers, and businesses
+  worldwide. Our FLUX models are among the most advanced in the world, and we''re
+  just getting started. Headquartered in Freiburg, Germany with a growing presence
+  in San Francisco, we''re scaling fast while staying true to what makes us different:
+  research excellence, open science, and building technology that expands human creativity.
+  We''ve built the foundation models that power FLUX and transformed how the world
+  generates images—now we''re figuring out how to build the commercial infrastructure
+  that can scale as fast as our technology. This isn''t your typical RevOps role,
+  and it''s not pure engineering either. It''s the technical architecture of our business
+  itself: the systems that turn API calls into revenue, transform messy multi-jurisdictional
+  data into clarity, and automate what currently requires 10 people to do manually.
+  The Role You''ll be building the nervous system of our revenue operations—but we''re
+  honest: much of it doesn''t exist yet. Billing infrastructure that doesn''t break
+  at scale Our business model is deliberately complex: usage-based API pricing, enterprise
+  licenses, self-serve Playground flows, dual US/German entities. You''ll design systems
+  that handle this without requiring an army of humans to intervene. How do we track
+  API consumption accurately? How do we automate invoice generation across jurisdictions?
+  How do we recognize revenue correctly when products and pricing are constantly evolving?
+  Enterprise GTM systems that actually talk to each other Right now, data moves through
+  too many hands. You''ll architect integrations between CRM, billing, contracts,
+  and finance—building the workflows that turn enterprise sales from a manual slog
+  into something elegant. Quote-to-cash shouldn''t take weeks. Contract amendments
+  shouldn''t require spreadsheets. We need systems that scale with ambition. Analytics
+  infrastructure that surfaces truth We''re flying fast, which means we need instruments.
+  You''ll build the data pipelines and dashboards that show us what''s actually happening:
+  consumption patterns, churn signals, expansion opportunities. Not vanity metrics—the
+  kind of real-time visibility that changes how we make decisions. What We''re Looking
+  For Technical Skills 3-5+ years as a Software Engineer, Systems Engineer, or RevOps
+  Engineer at a B2B AI or SaaS company Programming proficiency: Python, JavaScript/TypeScript,
+  SQL CRM expertise: Hands-on experience with cloud-based CRMs such as Attio, Salesforce,
+  or HubSpot Integration platforms: Experience building with Workato, Zapier, Tray.io,
+  or similar iPaaS tools API development: RESTful APIs, webhooks, OAuth, authentication
+  protocols—you understand these as contracts, not just endpoints Data pipelines:
+  Proven experience building ETL/ELT workflows, data transformation, and warehouse
+  integration Billing systems: Familiarity with Stripe Billing, Metronome, Lago, Chargebee,
+  or similar usage-based billing platforms Business &amp; Domain Knowledge Experience
+  with usage-based pricing, consumption billing, and complex contract structures Understanding
+  of multi-jurisdictional business operations (US/EU structures a plus) Track record
+  of making build-vs-buy decisions and living with the consequences How You Work Cross-functional
+  collaboration: You translate fluently between finance speak, sales speak, and engineering
+  speak Business acumen: You connect technical solutions directly to revenue outcomes
+  Problem-solving: You debug complex data flows and system integration issues independently—because
+  you can''t help yourself Communication: You explain technical concepts clearly to
+  non-technical stakeholders without condescension Attention to detail: You ensure
+  data accuracy and integrity because you know messy data leads to messy decisions
+  Ownership mentality: You identify problems and ship solutions without waiting for
+  permission Preferred Experience Experience at a high-growth startup scaling from
+  $1M to $100M+ ARR (ideally during the messy middle) Familiarity with API-first or
+  usage-based products Experience with data visualization tools (Tableau, Looker,
+  Metabase) Knowledge of sales tax, VAT compliance, and multi-currency billing Prior
+  experience navigating dual US/EU entity structures &nbsp;'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: A new era of creation
+url: https://builtin.com/job/gtm-systems-engineer/8053439
+source: builtin.com
+description: '&nbsp; About Black Forest Labs We''re the team behind Latent Diffusion,
+  Stable Diffusion, and FLUX—foundational technologies that changed how the world
+  creates images and video. We’re creating the generative models that power how people
+  make images and video—tools used by millions of creators, developers, and businesses
+  worldwide. Our FLUX models are among the most advanced in the world, and we''re
+  just getting started. Headquartered in Freiburg, Germany with a growing presence
+  in San Francisco, we''re scaling fast while staying true to what makes us different:
+  research excellence, open science, and building technology that expands human creativity.
+  We''ve built the foundation models that power FLUX and transformed how the world
+  generates images—now we''re figuring out how to build the commercial infrastructure
+  that can scale as fast as our technology. This isn''t your typical RevOps role,
+  and it''s not pure engineering either. It''s the technical architecture of our business
+  itself: the systems that turn API calls into revenue, transform messy multi-jurisdictional
+  data into clarity, and automate what currently requires 10 people to do manually.
+  The Role You''ll be building the nervous system of our revenue operations—but we''re
+  honest: much of it doesn''t exist yet. Billing infrastructure that doesn''t break
+  at scale Our business model is deliberately complex: usage-based API pricing, enterprise
+  licenses, self-serve Playground flows, dual US/German entities. You''ll design systems
+  that handle this without requiring an army of humans to intervene. How do we track
+  API consumption accurately? How do we automate invoice generation across jurisdictions?
+  How do we recognize revenue correctly when products and pricing are constantly evolving?
+  Enterprise GTM systems that actually talk to each other Right now, data moves through
+  too many hands. You''ll architect integrations between CRM, billing, contracts,
+  and finance—building the workflows that turn enterprise sales from a manual slog
+  into something elegant. Quote-to-cash shouldn''t take weeks. Contract amendments
+  shouldn''t require spreadsheets. We need systems that scale with ambition. Analytics
+  infrastructure that surfaces truth We''re flying fast, which means we need instruments.
+  You''ll build the data pipelines and dashboards that show us what''s actually happening:
+  consumption patterns, churn signals, expansion opportunities. Not vanity metrics—the
+  kind of real-time visibility that changes how we make decisions. What We''re Looking
+  For Technical Skills 3-5+ years as a Software Engineer, Systems Engineer, or RevOps
+  Engineer at a B2B AI or SaaS company Programming proficiency: Python, JavaScript/TypeScript,
+  SQL CRM expertise: Hands-on experience with cloud-based CRMs such as Attio, Salesforce,
+  or HubSpot Integration platforms: Experience building with Workato, Zapier, Tray.io,
+  or similar iPaaS tools API development: RESTful APIs, webhooks, OAuth, authentication
+  protocols—you understand these as contracts, not just endpoints Data pipelines:
+  Proven experience building ETL/ELT workflows, data transformation, and warehouse
+  integration Billing systems: Familiarity with Stripe Billing, Metronome, Lago, Chargebee,
+  or similar usage-based billing platforms Business &amp; Domain Knowledge Experience
+  with usage-based pricing, consumption billing, and complex contract structures Understanding
+  of multi-jurisdictional business operations (US/EU structures a plus) Track record
+  of making build-vs-buy decisions and living with the consequences How You Work Cross-functional
+  collaboration: You translate fluently between finance speak, sales speak, and engineering
+  speak Business acumen: You connect technical solutions directly to revenue outcomes
+  Problem-solving: You debug complex data flows and system integration issues independently—because
+  you can''t help yourself Communication: You explain technical concepts clearly to
+  non-technical stakeholders without condescension Attention to detail: You ensure
+  data accuracy and integrity because you know messy data leads to messy decisions
+  Ownership mentality: You identify problems and ship solutions without waiting for
+  permission Preferred Experience Experience at a high-growth startup scaling from
+  $1M to $100M+ ARR (ideally during the messy middle) Familiarity with API-first or
+  usage-based products Experience with data visualization tools (Tableau, Looker,
+  Metabase) Knowledge of sales tax, VAT compliance, and multi-currency billing Prior
+  experience navigating dual US/EU entity structures &nbsp;'
+postedDate: '2026-03-09'
+id: 12
+is_gtm_technical: true
+tech_stack:
+- Python
+- JavaScript
+- SQL
+min_years_exp: 3
+salary_min: null
+salary_max: null
+reason: Involves building revenue systems based on technical infrastructure.

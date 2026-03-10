@@ -1,0 +1,164 @@
+title: Data Engineer (GTM)
+company: TRACTIAN
+category:
+- Artificial Intelligence
+- Machine Learning
+- Software
+location: Atlanta, Georgia, USA
+date_posted: '2026-02-26'
+description_html: '<p><b>GTM Engineering Team at TRACTIAN</b></p><p><br></p><p><span>At
+  TRACTIAN the Go-To-Market team is a global department that supports Tractian GTM
+  teams across the US, Brazil, and Mexico. We are a foundational team that is building
+  the data infrastructure, systems, and processes that support our GTM team and directly
+  impact our customer experience.&nbsp;</span></p><p><br></p><p><br></p><p><b>What
+  you''ll do</b></p><p><br></p><p><span>As a Data Engineer (GTM) at Tractian, you
+  will architect and scale our revenue data analytics and infrastructure to supercharge
+  our GTM engine. Your focus will be on managing a customer data lake, automating
+  account enrichment and revenue workflows. This is a cross-functional, high-impact
+  role that blends data engineering, analytics, and GTM strategy with best of breed
+  tools.</span></p><p><b>Responsibilities:</b></p><ul><li>Architect and manage data
+  pipelines and infrastructure for GTM systems, leveraging BigQuery, Clay, ZoomInfo,
+  as well as cloud storage and ETL frameworks.</li><li>Develop, test, and maintain
+  highly available scripts and microservices (Python, JavaScript/Node.js) to orchestrate
+  data acquisition and processing workflows.</li><li>Design and manage a unified GTM
+  data lake, merging raw and enriched datasets into a single source of truth for segmentation,
+  ICP scoring, and territory assignments.</li><li>Incorporate LLM-based enrichment
+  pipelines to intelligently augment account/contact metadata and drive predictive
+  targeting.</li><li>Build and maintain batch &amp; streaming ingestion pipelines
+  for GTM data using Apache Beam, Kafka, or Pub/Sub, with Airflow orchestration.</li><li>Develop
+  semantic layers and star/snowflake schemas for GTM analytics in dbt, ensuring BI
+  tools query from pre-aggregated, materialized datasets.</li><li>Partner closely
+  with RevOps, Enablement, and Sales Leadership to improve seller workflows, define
+  KPIs, and ensure data consistency across tools.</li><li>Proactively identify areas
+  for automation and workflow efficiency; build scalable solutions for repetitive
+  GTM processes.</li><li>Design and maintain high-cardinality indexing strategies
+  for real-time ICP scoring and territory assignment.</li></ul><p></p><p><b>Requirements:</b></p><ul><li>5+
+  years of experience in a technical Data engineer, data analytics, or data science
+  role—preferably in high growth B2B SaaS.</li><li>Comfort with API integrations and
+  at least one scripting language (Python, Go) to automate and connect tools.</li><li>Experience
+  managing large datasets and transforming GTM insights into tactical recommendations.</li><li>Excellent
+  problem-solving skills and a bias for automation and scale.</li><li>Ability to collaborate
+  across functions and communicate technical concepts to non-technical stakeholders.</li><li>Comfortable
+  working autonomously in a fast-paced environment.</li></ul><p></p><p></p><p><b>Compensation</b></p><p><br></p><p><b>Competitive
+  Salary</b></p><p><b>Premium Medical, Dental, and Vision Coverage</b></p><p><b>Paid
+  Time Off (PTO): 15 Days</b></p><p><b>401(k) Retirement Plan</b></p><p><b>Language
+  Learning Opportunities </b>- Take advantage of optional, fully funded Portuguese
+  or Spanish courses to enhance your skills and global reach.</p><p><b>Gympass Membership</b>
+  - Access a wide range of gyms and training programs.</p><p><b>Sports Incentive -
+  </b>Receive a monthly bonus when you regularly participate in physical activities.</p><p><b>Long-Term
+  Benefit </b>- After four years of service, earn a fully funded trip anywhere in
+  the world.</p><p></p>'
+description_text: 'GTM Engineering Team at TRACTIAN At TRACTIAN the Go-To-Market team
+  is a global department that supports Tractian GTM teams across the US, Brazil, and
+  Mexico. We are a foundational team that is building the data infrastructure, systems,
+  and processes that support our GTM team and directly impact our customer experience.&nbsp;
+  What you''ll do As a Data Engineer (GTM) at Tractian, you will architect and scale
+  our revenue data analytics and infrastructure to supercharge our GTM engine. Your
+  focus will be on managing a customer data lake, automating account enrichment and
+  revenue workflows. This is a cross-functional, high-impact role that blends data
+  engineering, analytics, and GTM strategy with best of breed tools. Responsibilities:
+  Architect and manage data pipelines and infrastructure for GTM systems, leveraging
+  BigQuery, Clay, ZoomInfo, as well as cloud storage and ETL frameworks. Develop,
+  test, and maintain highly available scripts and microservices (Python, JavaScript/Node.js)
+  to orchestrate data acquisition and processing workflows. Design and manage a unified
+  GTM data lake, merging raw and enriched datasets into a single source of truth for
+  segmentation, ICP scoring, and territory assignments. Incorporate LLM-based enrichment
+  pipelines to intelligently augment account/contact metadata and drive predictive
+  targeting. Build and maintain batch &amp; streaming ingestion pipelines for GTM
+  data using Apache Beam, Kafka, or Pub/Sub, with Airflow orchestration. Develop semantic
+  layers and star/snowflake schemas for GTM analytics in dbt, ensuring BI tools query
+  from pre-aggregated, materialized datasets. Partner closely with RevOps, Enablement,
+  and Sales Leadership to improve seller workflows, define KPIs, and ensure data consistency
+  across tools. Proactively identify areas for automation and workflow efficiency;
+  build scalable solutions for repetitive GTM processes. Design and maintain high-cardinality
+  indexing strategies for real-time ICP scoring and territory assignment. Requirements:
+  5+ years of experience in a technical Data engineer, data analytics, or data science
+  role—preferably in high growth B2B SaaS. Comfort with API integrations and at least
+  one scripting language (Python, Go) to automate and connect tools. Experience managing
+  large datasets and transforming GTM insights into tactical recommendations. Excellent
+  problem-solving skills and a bias for automation and scale. Ability to collaborate
+  across functions and communicate technical concepts to non-technical stakeholders.
+  Comfortable working autonomously in a fast-paced environment. Compensation Competitive
+  Salary Premium Medical, Dental, and Vision Coverage Paid Time Off (PTO): 15 Days
+  401(k) Retirement Plan Language Learning Opportunities - Take advantage of optional,
+  fully funded Portuguese or Spanish courses to enhance your skills and global reach.
+  Gympass Membership - Access a wide range of gyms and training programs. Sports Incentive
+  - Receive a monthly bonus when you regularly participate in physical activities.
+  Long-Term Benefit - After four years of service, earn a fully funded trip anywhere
+  in the world.'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Tractian is a machine intelligence company that offers industrial
+  monitoring systems. Tractian builds streamlined hardware-software solutions to give
+  maintenance technicians and industrial decision-makers comprehensive oversight of
+  their operations. It is democratizing access to sophisticated real-time monitoring
+  and asset operations tools.Tractian's solutions are used in environments that address
+  a combined total of 5% of global industrial output. The company’s broad market reach
+  is evidenced in its customer base from various industries, such as John Deere, Procter
+  & Gamble, Caterpillar, Goodyear, Carrier, Johnson Controls, and Bimbo, the owner
+  of the brands Little Bites and Thomas Bagels. Tractian's customers see a 6-12x ROI
+  with savings of $6,000 per monitored machine annually on average.In a major milestone
+  and a first for the industry, Tractian launched the AI-Assisted Maintenance category
+  in the industrial sector. In this new paradigm, artificial intelligence identifies
+  machine problems and suggests preventive actions to be taken, giving invaluable
+  insight and support to maintenance professionals. It is important to highlight that
+  the intent of Assisted Maintenance is firmly rooted in augmenting maintenance professionals
+  to provide more assertive diagnosis with human-in-the-loop feedback. Tractian's
+  mission is to elevate this category of workers in a highly impactful way. The Assisted
+  Maintenance category will provide unimaginable support for maintenance professionals.
+  By combining shop floor expertise with our technology, maintainers will be able
+  to anticipate and address issues with unprecedented accuracy and speed
+url: https://builtin.com/job/data-engineer-gtm/8598511
+source: builtin.com
+description: 'GTM Engineering Team at TRACTIAN At TRACTIAN the Go-To-Market team is
+  a global department that supports Tractian GTM teams across the US, Brazil, and
+  Mexico. We are a foundational team that is building the data infrastructure, systems,
+  and processes that support our GTM team and directly impact our customer experience.&nbsp;
+  What you''ll do As a Data Engineer (GTM) at Tractian, you will architect and scale
+  our revenue data analytics and infrastructure to supercharge our GTM engine. Your
+  focus will be on managing a customer data lake, automating account enrichment and
+  revenue workflows. This is a cross-functional, high-impact role that blends data
+  engineering, analytics, and GTM strategy with best of breed tools. Responsibilities:
+  Architect and manage data pipelines and infrastructure for GTM systems, leveraging
+  BigQuery, Clay, ZoomInfo, as well as cloud storage and ETL frameworks. Develop,
+  test, and maintain highly available scripts and microservices (Python, JavaScript/Node.js)
+  to orchestrate data acquisition and processing workflows. Design and manage a unified
+  GTM data lake, merging raw and enriched datasets into a single source of truth for
+  segmentation, ICP scoring, and territory assignments. Incorporate LLM-based enrichment
+  pipelines to intelligently augment account/contact metadata and drive predictive
+  targeting. Build and maintain batch &amp; streaming ingestion pipelines for GTM
+  data using Apache Beam, Kafka, or Pub/Sub, with Airflow orchestration. Develop semantic
+  layers and star/snowflake schemas for GTM analytics in dbt, ensuring BI tools query
+  from pre-aggregated, materialized datasets. Partner closely with RevOps, Enablement,
+  and Sales Leadership to improve seller workflows, define KPIs, and ensure data consistency
+  across tools. Proactively identify areas for automation and workflow efficiency;
+  build scalable solutions for repetitive GTM processes. Design and maintain high-cardinality
+  indexing strategies for real-time ICP scoring and territory assignment. Requirements:
+  5+ years of experience in a technical Data engineer, data analytics, or data science
+  role—preferably in high growth B2B SaaS. Comfort with API integrations and at least
+  one scripting language (Python, Go) to automate and connect tools. Experience managing
+  large datasets and transforming GTM insights into tactical recommendations. Excellent
+  problem-solving skills and a bias for automation and scale. Ability to collaborate
+  across functions and communicate technical concepts to non-technical stakeholders.
+  Comfortable working autonomously in a fast-paced environment. Compensation Competitive
+  Salary Premium Medical, Dental, and Vision Coverage Paid Time Off (PTO): 15 Days
+  401(k) Retirement Plan Language Learning Opportunities - Take advantage of optional,
+  fully funded Portuguese or Spanish courses to enhance your skills and global reach.
+  Gympass Membership - Access a wide range of gyms and training programs. Sports Incentive
+  - Receive a monthly bonus when you regularly participate in physical activities.
+  Long-Term Benefit - After four years of service, earn a fully funded trip anywhere
+  in the world.'
+postedDate: '2026-02-26'
+id: '17'
+is_gtm_technical: true
+tech_stack:
+- Zapier
+- No-code tools
+min_years_exp: 2
+salary_min: null
+salary_max: null
+reason: Focus on building and optimizing GTM processes through automation indicates
+  a technical role.

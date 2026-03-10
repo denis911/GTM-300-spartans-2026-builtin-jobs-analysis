@@ -1,0 +1,310 @@
+title: Senior / Staff Product Engineer, Machine Learning
+company: Radar
+category:
+- Mobile
+- Software
+location: New York, New York, USA
+date_posted: '2026-03-06'
+description_html: '<p><strong>About Radar</strong></p><p><u>Radar</u> is the global
+  leader in geolocation, with geofencing SDKs, maps APIs, and AI-enabled solutions
+  for marketing, fraud, and operations teams.</p><p>Why is Radar the best place to
+  work?</p><ul><li><p>We''re trusted by some of the world''s best companies, from
+  high-growth startups to the Fortune 500.</p></li><li><p>We have incredible scale:
+  We''re processing over 1 billion API calls per day from hundreds of millions of
+  devices.</p></li><li><p>We''re well-resourced, and we''ve raised $85.5M from world-class
+  investors, including Accel and Insight Partners.</p></li><li><p>We have a high-performance
+  culture, with ambitious and entrepreneurial teammates in every role.</p></li><li><p>We
+  recently moved into an amazing new office in Flatiron, Manhattan, NYC.</p></li><li><p>We
+  were recently named a top 10 best place to work in NYC by Crain''s.</p></li></ul><p>Despite
+  our growth and scale, we''re still just getting started. That''s where you come
+  in.</p><p><strong>About the role</strong></p><p>We''re looking for Product Engineers
+  to build machine learning-based systems into core Radar products. This is a product-oriented
+  role building new machine learning-based systems into our backend, data infra, and
+  mobile SDKs. The ideal engineer for this role is someone who is primarily an ML
+  engineer but wants to broaden their skills into other stacks like server, data and
+  mobile. The perfect candidate will see themselves as a generalist who has built
+  real ML systems and is ultimately motivated by driving impact to products and customers
+  by building end-to-end features that leverage machine learning. We have many ML
+  challenges across our Geofencing, Maps and Fraud products.</p><p><strong>How we
+  work:</strong></p><p>Most of our engineering team are former technical co-founders
+  or former Radar interns from schools like Waterloo and CMU. Most engineers at Radar
+  fit one of two molds, technically: either Staff level expertise in one stack, or
+  "Multi-Stack" at any level. We say "Multi-Stack" because "Full-Stack" has the connotation
+  of "Frontend and Backend", but Radar Engineers might also work on Mobile or Data
+  engineering. Not that you need to be an expert in all of those, but a desire to
+  learn, jump around to different stacks, and get things done is the important part.</p><p>We
+  care a lot about shipping fast and talking to customers. We''re committed to our
+  product vision of full-stack location infrastructure, but we also know that customer
+  feedback is a treasure map to gold. Even though Slack is the brain of our company,
+  working together in-person in our NYC HQ is the fastest way for us to get things
+  done. We meet on Mondays to plan out work for the week in small groups and use Linear
+  for planning. </p><p>To us, a week is a long time, and we expect to ship big things
+  every week.</p><p><strong>The stack:</strong></p><p>We have systems that leverage
+  LightGBM and random forests using scikit and Rust and we need to build out new systems
+  impacting additional products.</p><p>The server is a TypeScript Node.js app and
+  a Geospatial Rust database we built called HorizonDB. We use MongoDB, S3/Athena,
+  Redis, Airflow and everything is deployed to AWS.</p><p>Most engineers are in the
+  on-call rotation.</p><p>We sponsor OpenStreetMaps, MapLibre, and OpenAddresses.</p><p><strong>How
+  we use AI:</strong></p><ul><li><p>Engineers choose what AI tools they use, Claude
+  being the most popular.</p></li><li><p>We''re actively building Claude skills -
+  for example we''ve taught it how to debug HorizonDB, our geospatial database.</p></li><li><p>All
+  code changes are reviewed by an engineer knowledgeable in that area. Claude and
+  Copilot also review all PRs.</p></li><li><p>There is a range of how much engineers
+  use AI.  Most use it daily if not weekly.</p></li><li><p>We are excited about what
+  AI can do, but we also recognize the risks and don''t compromise our coding standards.</p></li></ul><p><strong>The
+  hiring process:</strong></p><p>After a call with our Technical Recruiter, you''ll
+  do several technical Zoom calls with members of our engineering team: code screen,
+  coding round, and system design round. If those go well we''ll invite you to our
+  NYC HQ for a final round interview. You''ll meet one of our co-founders, someone
+  from outside engineering, and meet more people from Radar. We''ll go into more depth
+  about how we work to see if there is a match.</p><p><strong>What you’ll do:</strong></p><ul><li><p>Work
+  on core Radar ML infrastructure built with Python, Rust, Airflow, Spark and new
+  systems you build</p></li><li><p>Build new systems for our Fraud products: anomaly
+  detection, user and device risk scores, device fingerprinting, and emerging threat
+  vectors</p></li><li><p>Build new systems for our Maps products: search ranking and
+  query classification for addresses, points of interest and others leveraging "learn-to-rank"
+  systems, LightGBM, and new systems you build.  Create road traffic models based
+  on historical and live data to improve the ETA accuracy of our routing engine.  Leverage
+  AI to ingest address and point-of-interest data from across the web.</p></li><li><p>Build
+  new systems for our Geofencing products: indoor positioning leveraging mobile device
+  sensors (BLE, barometer, motion, Ultra-Wideband, etc)</p></li><li><p>Work on full-stack
+  features across several of backend, data infra, mobile, and frontend</p></li><li><p>Push
+  the limits of what is possible with location services on iOS and Android</p></li><li><p>Have
+  your work run on 300M+ devices</p></li><li><p>Talk to Radar customers and prospects,
+  hear their feedback, incorporate it into your work, and make them successful</p></li></ul><p><strong>You
+  should:</strong></p><ul><li><p>Have experience building machine learning based products
+  in production at scale</p></li><li><p>Don''t think of yourself as an "ML Engineer"</p></li><li><p>Are
+  interested in talking to customers or prospects and making them successful</p></li><li><p>Are
+  deeply curious about how things work, and have the tenacity to sit with hard problems
+  and power through them</p></li></ul><p><strong>Bonus points if you:</strong></p><ul><li><p>Are
+  a former technical co-founder</p></li><li><p>Have experience with anomaly detection,
+  indoor positioning, or mapping infrastructure</p></li></ul><p><strong>You’ll work
+  with:</strong></p><ul><li><p><strong><u>Nick Patrick</u></strong>, Co-Founder and
+  CEO</p></li><li><p><strong><u>Tim Julien</u></strong>, CTO</p></li><li><p>Our customers
+  and prospects</p></li><li><p>Our Customer Success, Sales Engineering, and Sales
+  teams</p></li></ul><p><strong>What we offer:</strong></p><ul><li><p>Competitive
+  salary</p></li><li><p>Meaningful stock options in a fast-growing company</p></li><li><p>401(k)
+  plan with 4% match</p></li><li><p>New HQ in Flatiron, NYC</p></li><li><p>Top-notch
+  equipment</p></li><li><p>Catered lunches</p></li><li><p>Unlimited PTO</p></li><li><p>Health,
+  dental, and vision insurance with 100% coverage for employees</p></li><li><p>12
+  weeks of paid parental leave</p></li><li><p>Commuter and fitness benefits</p></li></ul><p><strong>Compensation:</strong></p><p>For
+  candidates based in the United States, the base salary range for this full-time
+  position is between $200,000 - $300,000/year with an opportunity for performance
+  bonuses and incentives.</p><p>In addition to cash compensation, Radar offers full-time
+  employees stock option grants under its equity plan. This is a meaningful ownership
+  stake in the company we provide to our employees as we build a category-defining
+  company.</p><p><em>Our salary ranges are determined by role, level, and location.
+  The range displayed on this job posting reflects the minimum and maximum target
+  for new hire salaries for the position across all US locations. Your exact offer
+  may vary based on market location, job-related skills, experience, and relevant
+  education or training.</em></p><p><em>We are committed to equal employment opportunity
+  regardless of race, color, ancestry, religion, sex, national origin, sexual orientation,
+  age, citizenship, marital status, disability, gender, gender identity or expression,
+  or veteran status. We are proud to be an equal opportunity workplace.</em></p>'
+description_text: 'About Radar Radar is the global leader in geolocation, with geofencing
+  SDKs, maps APIs, and AI-enabled solutions for marketing, fraud, and operations teams.
+  Why is Radar the best place to work? We''re trusted by some of the world''s best
+  companies, from high-growth startups to the Fortune 500. We have incredible scale:
+  We''re processing over 1 billion API calls per day from hundreds of millions of
+  devices. We''re well-resourced, and we''ve raised $85.5M from world-class investors,
+  including Accel and Insight Partners. We have a high-performance culture, with ambitious
+  and entrepreneurial teammates in every role. We recently moved into an amazing new
+  office in Flatiron, Manhattan, NYC. We were recently named a top 10 best place to
+  work in NYC by Crain''s. Despite our growth and scale, we''re still just getting
+  started. That''s where you come in. About the role We''re looking for Product Engineers
+  to build machine learning-based systems into core Radar products. This is a product-oriented
+  role building new machine learning-based systems into our backend, data infra, and
+  mobile SDKs. The ideal engineer for this role is someone who is primarily an ML
+  engineer but wants to broaden their skills into other stacks like server, data and
+  mobile. The perfect candidate will see themselves as a generalist who has built
+  real ML systems and is ultimately motivated by driving impact to products and customers
+  by building end-to-end features that leverage machine learning. We have many ML
+  challenges across our Geofencing, Maps and Fraud products. How we work: Most of
+  our engineering team are former technical co-founders or former Radar interns from
+  schools like Waterloo and CMU. Most engineers at Radar fit one of two molds, technically:
+  either Staff level expertise in one stack, or "Multi-Stack" at any level. We say
+  "Multi-Stack" because "Full-Stack" has the connotation of "Frontend and Backend",
+  but Radar Engineers might also work on Mobile or Data engineering. Not that you
+  need to be an expert in all of those, but a desire to learn, jump around to different
+  stacks, and get things done is the important part. We care a lot about shipping
+  fast and talking to customers. We''re committed to our product vision of full-stack
+  location infrastructure, but we also know that customer feedback is a treasure map
+  to gold. Even though Slack is the brain of our company, working together in-person
+  in our NYC HQ is the fastest way for us to get things done. We meet on Mondays to
+  plan out work for the week in small groups and use Linear for planning. To us, a
+  week is a long time, and we expect to ship big things every week. The stack: We
+  have systems that leverage LightGBM and random forests using scikit and Rust and
+  we need to build out new systems impacting additional products. The server is a
+  TypeScript Node.js app and a Geospatial Rust database we built called HorizonDB.
+  We use MongoDB, S3/Athena, Redis, Airflow and everything is deployed to AWS. Most
+  engineers are in the on-call rotation. We sponsor OpenStreetMaps, MapLibre, and
+  OpenAddresses. How we use AI: Engineers choose what AI tools they use, Claude being
+  the most popular. We''re actively building Claude skills - for example we''ve taught
+  it how to debug HorizonDB, our geospatial database. All code changes are reviewed
+  by an engineer knowledgeable in that area. Claude and Copilot also review all PRs.
+  There is a range of how much engineers use AI. Most use it daily if not weekly.
+  We are excited about what AI can do, but we also recognize the risks and don''t
+  compromise our coding standards. The hiring process: After a call with our Technical
+  Recruiter, you''ll do several technical Zoom calls with members of our engineering
+  team: code screen, coding round, and system design round. If those go well we''ll
+  invite you to our NYC HQ for a final round interview. You''ll meet one of our co-founders,
+  someone from outside engineering, and meet more people from Radar. We''ll go into
+  more depth about how we work to see if there is a match. What you’ll do: Work on
+  core Radar ML infrastructure built with Python, Rust, Airflow, Spark and new systems
+  you build Build new systems for our Fraud products: anomaly detection, user and
+  device risk scores, device fingerprinting, and emerging threat vectors Build new
+  systems for our Maps products: search ranking and query classification for addresses,
+  points of interest and others leveraging "learn-to-rank" systems, LightGBM, and
+  new systems you build. Create road traffic models based on historical and live data
+  to improve the ETA accuracy of our routing engine. Leverage AI to ingest address
+  and point-of-interest data from across the web. Build new systems for our Geofencing
+  products: indoor positioning leveraging mobile device sensors (BLE, barometer, motion,
+  Ultra-Wideband, etc) Work on full-stack features across several of backend, data
+  infra, mobile, and frontend Push the limits of what is possible with location services
+  on iOS and Android Have your work run on 300M+ devices Talk to Radar customers and
+  prospects, hear their feedback, incorporate it into your work, and make them successful
+  You should: Have experience building machine learning based products in production
+  at scale Don''t think of yourself as an "ML Engineer" Are interested in talking
+  to customers or prospects and making them successful Are deeply curious about how
+  things work, and have the tenacity to sit with hard problems and power through them
+  Bonus points if you: Are a former technical co-founder Have experience with anomaly
+  detection, indoor positioning, or mapping infrastructure You’ll work with: Nick
+  Patrick , Co-Founder and CEO Tim Julien , CTO Our customers and prospects Our Customer
+  Success, Sales Engineering, and Sales teams What we offer: Competitive salary Meaningful
+  stock options in a fast-growing company 401(k) plan with 4% match New HQ in Flatiron,
+  NYC Top-notch equipment Catered lunches Unlimited PTO Health, dental, and vision
+  insurance with 100% coverage for employees 12 weeks of paid parental leave Commuter
+  and fitness benefits Compensation: For candidates based in the United States, the
+  base salary range for this full-time position is between $200,000 - $300,000/year
+  with an opportunity for performance bonuses and incentives. In addition to cash
+  compensation, Radar offers full-time employees stock option grants under its equity
+  plan. This is a meaningful ownership stake in the company we provide to our employees
+  as we build a category-defining company. Our salary ranges are determined by role,
+  level, and location. The range displayed on this job posting reflects the minimum
+  and maximum target for new hire salaries for the position across all US locations.
+  Your exact offer may vary based on market location, job-related skills, experience,
+  and relevant education or training. We are committed to equal employment opportunity
+  regardless of race, color, ancestry, religion, sex, national origin, sexual orientation,
+  age, citizenship, marital status, disability, gender, gender identity or expression,
+  or veteran status. We are proud to be an equal opportunity workplace.'
+salary_json_min: 200000
+salary_json_max: 300000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: 'Radar is the world''s first Location OS: next-gen geofencing and
+  maps infrastructure for developers and AI-enabled solutions for marketing, fraud,
+  and operations teams, all in a single platform. Hundreds of enterprises, including
+  DICK''S Sporting Goods, T-Mobile, Inspire Brands, and bet365, use Radar to engage
+  their customers, protect their business, and optimize their operations across hundreds
+  of millions of devices worldwide.Founded in 2016, Radar is headquartered in New
+  York, NY. Radar has raised $85.5M from leading venture capital firms including Accel
+  and Insight Partners.'
+url: https://builtin.com/job/senior-staff-product-engineer-machine-learning/8677777
+source: builtin.com
+description: 'About Radar Radar is the global leader in geolocation, with geofencing
+  SDKs, maps APIs, and AI-enabled solutions for marketing, fraud, and operations teams.
+  Why is Radar the best place to work? We''re trusted by some of the world''s best
+  companies, from high-growth startups to the Fortune 500. We have incredible scale:
+  We''re processing over 1 billion API calls per day from hundreds of millions of
+  devices. We''re well-resourced, and we''ve raised $85.5M from world-class investors,
+  including Accel and Insight Partners. We have a high-performance culture, with ambitious
+  and entrepreneurial teammates in every role. We recently moved into an amazing new
+  office in Flatiron, Manhattan, NYC. We were recently named a top 10 best place to
+  work in NYC by Crain''s. Despite our growth and scale, we''re still just getting
+  started. That''s where you come in. About the role We''re looking for Product Engineers
+  to build machine learning-based systems into core Radar products. This is a product-oriented
+  role building new machine learning-based systems into our backend, data infra, and
+  mobile SDKs. The ideal engineer for this role is someone who is primarily an ML
+  engineer but wants to broaden their skills into other stacks like server, data and
+  mobile. The perfect candidate will see themselves as a generalist who has built
+  real ML systems and is ultimately motivated by driving impact to products and customers
+  by building end-to-end features that leverage machine learning. We have many ML
+  challenges across our Geofencing, Maps and Fraud products. How we work: Most of
+  our engineering team are former technical co-founders or former Radar interns from
+  schools like Waterloo and CMU. Most engineers at Radar fit one of two molds, technically:
+  either Staff level expertise in one stack, or "Multi-Stack" at any level. We say
+  "Multi-Stack" because "Full-Stack" has the connotation of "Frontend and Backend",
+  but Radar Engineers might also work on Mobile or Data engineering. Not that you
+  need to be an expert in all of those, but a desire to learn, jump around to different
+  stacks, and get things done is the important part. We care a lot about shipping
+  fast and talking to customers. We''re committed to our product vision of full-stack
+  location infrastructure, but we also know that customer feedback is a treasure map
+  to gold. Even though Slack is the brain of our company, working together in-person
+  in our NYC HQ is the fastest way for us to get things done. We meet on Mondays to
+  plan out work for the week in small groups and use Linear for planning. To us, a
+  week is a long time, and we expect to ship big things every week. The stack: We
+  have systems that leverage LightGBM and random forests using scikit and Rust and
+  we need to build out new systems impacting additional products. The server is a
+  TypeScript Node.js app and a Geospatial Rust database we built called HorizonDB.
+  We use MongoDB, S3/Athena, Redis, Airflow and everything is deployed to AWS. Most
+  engineers are in the on-call rotation. We sponsor OpenStreetMaps, MapLibre, and
+  OpenAddresses. How we use AI: Engineers choose what AI tools they use, Claude being
+  the most popular. We''re actively building Claude skills - for example we''ve taught
+  it how to debug HorizonDB, our geospatial database. All code changes are reviewed
+  by an engineer knowledgeable in that area. Claude and Copilot also review all PRs.
+  There is a range of how much engineers use AI. Most use it daily if not weekly.
+  We are excited about what AI can do, but we also recognize the risks and don''t
+  compromise our coding standards. The hiring process: After a call with our Technical
+  Recruiter, you''ll do several technical Zoom calls with members of our engineering
+  team: code screen, coding round, and system design round. If those go well we''ll
+  invite you to our NYC HQ for a final round interview. You''ll meet one of our co-founders,
+  someone from outside engineering, and meet more people from Radar. We''ll go into
+  more depth about how we work to see if there is a match. What you’ll do: Work on
+  core Radar ML infrastructure built with Python, Rust, Airflow, Spark and new systems
+  you build Build new systems for our Fraud products: anomaly detection, user and
+  device risk scores, device fingerprinting, and emerging threat vectors Build new
+  systems for our Maps products: search ranking and query classification for addresses,
+  points of interest and others leveraging "learn-to-rank" systems, LightGBM, and
+  new systems you build. Create road traffic models based on historical and live data
+  to improve the ETA accuracy of our routing engine. Leverage AI to ingest address
+  and point-of-interest data from across the web. Build new systems for our Geofencing
+  products: indoor positioning leveraging mobile device sensors (BLE, barometer, motion,
+  Ultra-Wideband, etc) Work on full-stack features across several of backend, data
+  infra, mobile, and frontend Push the limits of what is possible with location services
+  on iOS and Android Have your work run on 300M+ devices Talk to Radar customers and
+  prospects, hear their feedback, incorporate it into your work, and make them successful
+  You should: Have experience building machine learning based products in production
+  at scale Don''t think of yourself as an "ML Engineer" Are interested in talking
+  to customers or prospects and making them successful Are deeply curious about how
+  things work, and have the tenacity to sit with hard problems and power through them
+  Bonus points if you: Are a former technical co-founder Have experience with anomaly
+  detection, indoor positioning, or mapping infrastructure You’ll work with: Nick
+  Patrick , Co-Founder and CEO Tim Julien , CTO Our customers and prospects Our Customer
+  Success, Sales Engineering, and Sales teams What we offer: Competitive salary Meaningful
+  stock options in a fast-growing company 401(k) plan with 4% match New HQ in Flatiron,
+  NYC Top-notch equipment Catered lunches Unlimited PTO Health, dental, and vision
+  insurance with 100% coverage for employees 12 weeks of paid parental leave Commuter
+  and fitness benefits Compensation: For candidates based in the United States, the
+  base salary range for this full-time position is between $200,000 - $300,000/year
+  with an opportunity for performance bonuses and incentives. In addition to cash
+  compensation, Radar offers full-time employees stock option grants under its equity
+  plan. This is a meaningful ownership stake in the company we provide to our employees
+  as we build a category-defining company. Our salary ranges are determined by role,
+  level, and location. The range displayed on this job posting reflects the minimum
+  and maximum target for new hire salaries for the position across all US locations.
+  Your exact offer may vary based on market location, job-related skills, experience,
+  and relevant education or training. We are committed to equal employment opportunity
+  regardless of race, color, ancestry, religion, sex, national origin, sexual orientation,
+  age, citizenship, marital status, disability, gender, gender identity or expression,
+  or veteran status. We are proud to be an equal opportunity workplace.'
+postedDate: '2026-03-06'
+salary: USD 200,000 - 300,000
+id: '17'
+is_gtm_technical: true
+tech_stack:
+- LightGBM
+- scikit
+- Rust
+- Node.js
+- MongoDB
+- S3/Athena
+min_years_exp: 5
+salary_min: 0
+salary_max: 0
+reason: Product Engineer role focusing on integrating ML systems into products, a
+  relevant GTM position.

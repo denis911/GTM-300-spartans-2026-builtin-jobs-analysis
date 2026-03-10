@@ -1,0 +1,219 @@
+title: Technical Lead Manager - Data Science
+company: Sprinter Health
+category:
+- Artificial Intelligence
+- Healthtech
+- Logistics
+- Social Impact
+- Software
+- Telehealth
+location: Menlo Park, California, USA
+date_posted: '2026-03-07'
+description_html: '<p><strong><u>About Sprinter Health</u></strong></p><p>At Sprinter
+  Health, our mission is reimagining how people access care by bringing it directly
+  to their homes. Nearly 30% of patients in the U.S. skip preventive or chronic care
+  simply because they can’t get to a doctor’s office. For many, the ER becomes their
+  first touchpoint with the healthcare system—driving over $300B in avoidable costs
+  every year.</p><p>By using the same technologies that power leading marketplace
+  and last-mile platforms, we deliver care where people are, especially those who
+  need it most. So far, we’ve supported more than 2 million patients across 22 states,
+  completed 130,000+ in-home visits, and maintained a 92 NPS. Our team of clinicians,
+  technologists, and operators have raised over $125M to date investors like a16z,
+  General Catalyst, GV, and Accel and enjoy multi-year runway.</p><p>Data is core
+  to how we deliver care, allocate clinicians, and understand population risk—and
+  we’re now building the team to scale that impact.</p><p><strong><u>About the Role</u></strong></p><p>We’re
+  hiring a Tech Lead Manager, Data Science to tackle high-impact problems across logistics,
+  patient behavior, clinical operations, and population health—while also leading
+  a small, senior team of Data Scientists. This is a player-coach role: you’ll remain
+  hands-on with analytical and modeling challenges, while setting direction and mentoring
+  a team of 2 to 4 self-sufficient data scientists. You’ll turn messy, real-world
+  healthcare data into insights that drive product direction, operational efficiency,
+  and patient outcomes—and help your team do the same.</p><p>If you like asking hard
+  questions and using data to solve problems that matter in the real world, this is
+  that opportunity.</p><p><strong><u>Office Location</u></strong></p><p>We are a hybrid
+  company based in the Bay Area with offices in both San Francisco and Menlo Park.
+  We care about work-life balance and understand that there will be times where flexibility
+  is needed.</p><p></p><p><strong>What you will do:</strong></p><ul><li><p>Explore
+  clinical, operational, and patient engagement data to surface actionable insights</p></li><li><p>Analyze
+  routing, capacity planning, and supply-demand dynamics across regions</p></li><li><p>Identify
+  drivers of preventive care engagement and patient follow-through</p></li><li><p>Predict
+  cancellations, risk, and future care needs using behavioral and clinical signals</p></li><li><p>Design
+  and evaluate A/B experiments across product, growth, and operations</p></li><li><p>Support
+  internal teams with dashboards, analytics, and ad hoc decisions</p></li><li><p>Help
+  shape the Data function’s standards, tooling, and processes as an early leader</p></li><li><p>Manage
+  a small team of 2 to 4 Data Scientists: set clear goals, provide regular feedback,
+  conduct 1:1s, and support their career development</p></li><li><p>Allocate team
+  work across strategic projects and stakeholder requests in different product areas;
+  unblock your ICs and maintain high throughput</p></li><li><p>Remain a hands-on contributor:
+  own complex modeling and analytical work yourself, and set the technical bar for
+  the team</p></li></ul><p></p><p><strong>What you have done:</strong></p><ul><li><p>7+
+  years in data science, advanced analytics, or applied data modeling, with at least
+  1 year in a formal or informal people management or tech lead capacity</p></li><li><p>Worked
+  with large, messy datasets to answer ambiguous, high-stakes questions</p></li><li><p>Built
+  dashboards or visualizations using Looker, Tableau, Grafana, Superset, or similar</p></li><li><p>Written
+  high-quality SQL across warehouses like BigQuery, Snowflake, or Redshift</p></li><li><p>Influenced
+  product, ops, or strategy decisions through data insight and storytelling</p></li><li><p>Presented
+  findings to leadership and collaborated with cross-functional teams</p></li><li><p>Managed
+  or tech-led a small team of data scientists, and supported their growth and delivery</p></li><li><p>Mentored
+  junior talent</p></li></ul><p></p><p><strong>What gives you an edge:</strong></p><ul><li><p>Experience
+  with Python, Pandas, Scikit-learn, or ELK (Elasticsearch + Kibana)</p></li><li><p>Exposure
+  to GCP data tools like BigQuery, DataFlow, or DataForm</p></li><li><p>Familiarity
+  with healthcare data (claims, HL7, CCDAs, HIEs)</p></li><li><p>Experience with logistics,
+  routing, or operational optimization problems</p></li><li><p>Designed or analyzed
+  growth experiments or user behavior funnels</p></li><li><p>Communicated insights
+  to C-level stakeholders</p></li></ul><p></p><p><strong>Our Tech Stack</strong></p><ul><li><p>Python</p></li><li><p>SQL</p></li><li><p>Superset,
+  Looker, Tableau, Grafana</p></li><li><p>BigQuery, Snowflake, Redshift</p></li><li><p>Elasticsearch
+  / Kibana</p></li><li><p>FHIR, HL7, claims data (bonus)</p></li><li><p>Pandas, Scikit-learn,
+  DataForm, DataFlow</p></li></ul><p></p><p><strong>What we offer</strong></p><ul><li><p>Meaningful
+  pre-IPO equity</p></li><li><p>Medical, dental, and vision plans 100% paid for you
+  and your dependents</p></li><li><p>Flexible PTO + 10 paid holidays per year</p></li><li><p>401(k)
+  with match</p></li><li><p>16-week parental leave policy for birthing parent, 8 weeks
+  for all other parents</p></li><li><p>HSA + FSA contributions</p></li><li><p>Life
+  insurance, plus short and long-term disability coverage</p></li><li><p>Free daily
+  lunch in-office</p></li><li><p>Annual learning stipend</p></li></ul>'
+description_text: 'About Sprinter Health At Sprinter Health, our mission is reimagining
+  how people access care by bringing it directly to their homes. Nearly 30% of patients
+  in the U.S. skip preventive or chronic care simply because they can’t get to a doctor’s
+  office. For many, the ER becomes their first touchpoint with the healthcare system—driving
+  over $300B in avoidable costs every year. By using the same technologies that power
+  leading marketplace and last-mile platforms, we deliver care where people are, especially
+  those who need it most. So far, we’ve supported more than 2 million patients across
+  22 states, completed 130,000+ in-home visits, and maintained a 92 NPS. Our team
+  of clinicians, technologists, and operators have raised over $125M to date investors
+  like a16z, General Catalyst, GV, and Accel and enjoy multi-year runway. Data is
+  core to how we deliver care, allocate clinicians, and understand population risk—and
+  we’re now building the team to scale that impact. About the Role We’re hiring a
+  Tech Lead Manager, Data Science to tackle high-impact problems across logistics,
+  patient behavior, clinical operations, and population health—while also leading
+  a small, senior team of Data Scientists. This is a player-coach role: you’ll remain
+  hands-on with analytical and modeling challenges, while setting direction and mentoring
+  a team of 2 to 4 self-sufficient data scientists. You’ll turn messy, real-world
+  healthcare data into insights that drive product direction, operational efficiency,
+  and patient outcomes—and help your team do the same. If you like asking hard questions
+  and using data to solve problems that matter in the real world, this is that opportunity.
+  Office Location We are a hybrid company based in the Bay Area with offices in both
+  San Francisco and Menlo Park. We care about work-life balance and understand that
+  there will be times where flexibility is needed. What you will do: Explore clinical,
+  operational, and patient engagement data to surface actionable insights Analyze
+  routing, capacity planning, and supply-demand dynamics across regions Identify drivers
+  of preventive care engagement and patient follow-through Predict cancellations,
+  risk, and future care needs using behavioral and clinical signals Design and evaluate
+  A/B experiments across product, growth, and operations Support internal teams with
+  dashboards, analytics, and ad hoc decisions Help shape the Data function’s standards,
+  tooling, and processes as an early leader Manage a small team of 2 to 4 Data Scientists:
+  set clear goals, provide regular feedback, conduct 1:1s, and support their career
+  development Allocate team work across strategic projects and stakeholder requests
+  in different product areas; unblock your ICs and maintain high throughput Remain
+  a hands-on contributor: own complex modeling and analytical work yourself, and set
+  the technical bar for the team What you have done: 7+ years in data science, advanced
+  analytics, or applied data modeling, with at least 1 year in a formal or informal
+  people management or tech lead capacity Worked with large, messy datasets to answer
+  ambiguous, high-stakes questions Built dashboards or visualizations using Looker,
+  Tableau, Grafana, Superset, or similar Written high-quality SQL across warehouses
+  like BigQuery, Snowflake, or Redshift Influenced product, ops, or strategy decisions
+  through data insight and storytelling Presented findings to leadership and collaborated
+  with cross-functional teams Managed or tech-led a small team of data scientists,
+  and supported their growth and delivery Mentored junior talent What gives you an
+  edge: Experience with Python, Pandas, Scikit-learn, or ELK (Elasticsearch + Kibana)
+  Exposure to GCP data tools like BigQuery, DataFlow, or DataForm Familiarity with
+  healthcare data (claims, HL7, CCDAs, HIEs) Experience with logistics, routing, or
+  operational optimization problems Designed or analyzed growth experiments or user
+  behavior funnels Communicated insights to C-level stakeholders Our Tech Stack Python
+  SQL Superset, Looker, Tableau, Grafana BigQuery, Snowflake, Redshift Elasticsearch
+  / Kibana FHIR, HL7, claims data (bonus) Pandas, Scikit-learn, DataForm, DataFlow
+  What we offer Meaningful pre-IPO equity Medical, dental, and vision plans 100% paid
+  for you and your dependents Flexible PTO + 10 paid holidays per year 401(k) with
+  match 16-week parental leave policy for birthing parent, 8 weeks for all other parents
+  HSA + FSA contributions Life insurance, plus short and long-term disability coverage
+  Free daily lunch in-office Annual learning stipend'
+salary_json_min: 160000
+salary_json_max: 225000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: At Sprinter Health, we're focused on dramatically expanding access
+  to healthcare by reimagining the patient experience—delivered at home and powered
+  by technology for scale. We’re a boots-on-the-ground clinician network for the tele-health
+  age, bringing routine blood draws, labs, and vitals checks into people's busy lives.
+  We have completed over 140,000 appointments in 2025 across the US!
+url: https://builtin.com/job/technical-lead-manager-data-science/8681532
+source: builtin.com
+description: 'About Sprinter Health At Sprinter Health, our mission is reimagining
+  how people access care by bringing it directly to their homes. Nearly 30% of patients
+  in the U.S. skip preventive or chronic care simply because they can’t get to a doctor’s
+  office. For many, the ER becomes their first touchpoint with the healthcare system—driving
+  over $300B in avoidable costs every year. By using the same technologies that power
+  leading marketplace and last-mile platforms, we deliver care where people are, especially
+  those who need it most. So far, we’ve supported more than 2 million patients across
+  22 states, completed 130,000+ in-home visits, and maintained a 92 NPS. Our team
+  of clinicians, technologists, and operators have raised over $125M to date investors
+  like a16z, General Catalyst, GV, and Accel and enjoy multi-year runway. Data is
+  core to how we deliver care, allocate clinicians, and understand population risk—and
+  we’re now building the team to scale that impact. About the Role We’re hiring a
+  Tech Lead Manager, Data Science to tackle high-impact problems across logistics,
+  patient behavior, clinical operations, and population health—while also leading
+  a small, senior team of Data Scientists. This is a player-coach role: you’ll remain
+  hands-on with analytical and modeling challenges, while setting direction and mentoring
+  a team of 2 to 4 self-sufficient data scientists. You’ll turn messy, real-world
+  healthcare data into insights that drive product direction, operational efficiency,
+  and patient outcomes—and help your team do the same. If you like asking hard questions
+  and using data to solve problems that matter in the real world, this is that opportunity.
+  Office Location We are a hybrid company based in the Bay Area with offices in both
+  San Francisco and Menlo Park. We care about work-life balance and understand that
+  there will be times where flexibility is needed. What you will do: Explore clinical,
+  operational, and patient engagement data to surface actionable insights Analyze
+  routing, capacity planning, and supply-demand dynamics across regions Identify drivers
+  of preventive care engagement and patient follow-through Predict cancellations,
+  risk, and future care needs using behavioral and clinical signals Design and evaluate
+  A/B experiments across product, growth, and operations Support internal teams with
+  dashboards, analytics, and ad hoc decisions Help shape the Data function’s standards,
+  tooling, and processes as an early leader Manage a small team of 2 to 4 Data Scientists:
+  set clear goals, provide regular feedback, conduct 1:1s, and support their career
+  development Allocate team work across strategic projects and stakeholder requests
+  in different product areas; unblock your ICs and maintain high throughput Remain
+  a hands-on contributor: own complex modeling and analytical work yourself, and set
+  the technical bar for the team What you have done: 7+ years in data science, advanced
+  analytics, or applied data modeling, with at least 1 year in a formal or informal
+  people management or tech lead capacity Worked with large, messy datasets to answer
+  ambiguous, high-stakes questions Built dashboards or visualizations using Looker,
+  Tableau, Grafana, Superset, or similar Written high-quality SQL across warehouses
+  like BigQuery, Snowflake, or Redshift Influenced product, ops, or strategy decisions
+  through data insight and storytelling Presented findings to leadership and collaborated
+  with cross-functional teams Managed or tech-led a small team of data scientists,
+  and supported their growth and delivery Mentored junior talent What gives you an
+  edge: Experience with Python, Pandas, Scikit-learn, or ELK (Elasticsearch + Kibana)
+  Exposure to GCP data tools like BigQuery, DataFlow, or DataForm Familiarity with
+  healthcare data (claims, HL7, CCDAs, HIEs) Experience with logistics, routing, or
+  operational optimization problems Designed or analyzed growth experiments or user
+  behavior funnels Communicated insights to C-level stakeholders Our Tech Stack Python
+  SQL Superset, Looker, Tableau, Grafana BigQuery, Snowflake, Redshift Elasticsearch
+  / Kibana FHIR, HL7, claims data (bonus) Pandas, Scikit-learn, DataForm, DataFlow
+  What we offer Meaningful pre-IPO equity Medical, dental, and vision plans 100% paid
+  for you and your dependents Flexible PTO + 10 paid holidays per year 401(k) with
+  match 16-week parental leave policy for birthing parent, 8 weeks for all other parents
+  HSA + FSA contributions Life insurance, plus short and long-term disability coverage
+  Free daily lunch in-office Annual learning stipend'
+postedDate: '2026-03-07'
+salary: USD 160,000 - 225,000
+id: 0
+is_gtm_technical: true
+tech_stack:
+- Looker
+- Tableau
+- Grafana
+- BigQuery
+- Snowflake
+- Redshift
+- Python
+- Pandas
+- Scikit-learn
+- GCP
+min_years_exp: 7
+salary_min: 0
+salary_max: 0
+reason: The role involves technical data analysis, A/B testing design, and working
+  with GTM data tools.

@@ -1,0 +1,317 @@
+title: Sr. Software Engineer, DevOps
+company: AKASA
+category:
+- Artificial Intelligence
+- Healthtech
+- Machine Learning
+- Natural Language Processing
+- Software
+- Generative AI
+location: San Francisco, California, USA
+date_posted: '2026-03-09'
+description_html: '<p></p><p><strong>About AKASA</strong></p><p></p><p>At AKASA, our
+  mission is to build the future of healthcare with AI. As the leading provider of
+  generative AI solutions for the healthcare revenue cycle, we help health systems
+  comprehensively capture and communicate the full patient clinical journey. By empowering
+  health systems to streamline their operations, they can focus on what matters most
+  - delivering quality patient care. We have raised over $205M in funding from investors
+  such as Andreessen Horowitz, BOND, and Costanoa Ventures.</p><p></p><p>This is the
+  most exciting time to join AKASA. Revenue bookings for our new AI-native product
+  suite have grown over 20x since launching in 2024. In this time, we have broken
+  our record for the largest deal in company history three times consecutively. This
+  growth is driven by the massive improvement we are generating for our customers
+  across clinical quality and documentation accuracy, both top priority areas for
+  health system leaders.</p><p></p><p>Our deployments have been recognized nationally
+  as "one of the most comprehensive real-world uses of GenAI in healthcare finance
+  to date" (link). Our customer base represents more than $120B+ in net patient revenue
+  and includes the most innovative health systems in the country, like Cleveland Clinic,
+  Duke, Stanford, and Johns Hopkins.</p><p></p><p>Some of our recent recognitions
+  include being named one of America''s Top Startup Employers 2026 by Forbes, #1 most
+  promising healthcare RCM startup of 2025 by Black Book Market Research, and one
+  of the fastest-growing GenAI startups to watch by AIM Research. Our CEO was ranked
+  among the “Top 50 Healthcare Technology CEOs” by the Healthcare Technology Report,
+  and we have been certified as a “Great Place to Work” for the past 6 years in a
+  row.</p><p></p><p>We’re building on this momentum to redefine what’s possible in
+  healthcare. We’re looking for exceptional people to help us accelerate that reality.</p><p></p><p></p><p><strong>About
+  the Role</strong></p><p></p><p>As a Sr. Infrastructure Engineer at AKASA, you’ll
+  work closely with our Infrastructure and Platform teams to manage, improve, and
+  scale the systems that power our products. Your focus will be on ensuring our infrastructure
+  is reliable, observable, and easy to operate — with an emphasis on automation, operational
+  excellence, and cross-functional collaboration.</p><p></p><p>You’ll help build and
+  maintain the foundational infrastructure that supports our SaaS applications, including
+  Kubernetes, Terraform-managed cloud resources, and GitHub-based CI/CD pipelines.
+  While incident response is part of the role, the primary focus is on proactive improvements:
+  reducing operational toil, improving visibility into system behavior, and enabling
+  product teams to move fast with confidence.</p><p></p><p>You’ll also contribute
+  to monitoring and observability efforts, ensuring our systems are well-instrumented
+  and that we can detect issues before they impact customers. You''ll collaborate
+  with software engineers to embed reliability best practices across the development
+  lifecycle.</p><p></p><p>This role is ideal for someone who enjoys a balance of hands-on
+  engineering, systems design, automation, and technical mentorship.</p><p></p><p>The
+  AKASA office is located in South San Francisco. While we support remote work on
+  a variety of teams, we have a strong Bay Area presence across the company. The local
+  R&amp;D teams come into the office every Wednesday for co-working days, which this
+  role will be expected to attend.</p><p></p><p><strong>What You''ll Do</strong></p><p></p><ul><li><p><strong>Infrastructure
+  Management:</strong> Build, manage, and optimize infrastructure using Terraform,
+  GitHub CI/CD, and Kubernetes.</p></li><li><p><strong>Monitoring &amp; Observability:</strong>
+  Create visualizations and alerts that provide actionable insights using tools like
+  Grafana, Prometheus/Mimir, OpenSearch, and Sentry.</p></li><li><p><strong>Automation
+  &amp; Reliability:</strong> Identify manual or error-prone processes and replace
+  them with automated, repeatable systems.</p></li><li><p><strong>Production Troubleshooting:</strong>
+  Diagnose and resolve production issues across application and infrastructure layers.</p></li><li><p><strong>Documentation:</strong>
+  Capture knowledge in runbooks, setup guides, and architecture diagrams to support
+  operational maturity.</p></li><li><p><strong>Collaboration:</strong> Partner with
+  engineers across teams to drive adoption of DevOps and infrastructure best practices.</p></li><li><p><strong>Scalability
+  Planning:</strong> Help scale infrastructure and monitoring systems to meet growing
+  demands.</p></li><li><p><strong>Incident Participation:</strong> Participate in
+  an on-call rotation and support incident response processes as needed.</p></li></ul><p></p><p><strong>Skills
+  &amp; Qualifications</strong></p><p></p><ul><li><p><strong>Observability:</strong>
+  Experience with metrics, logs, and traces using tools such as Grafana, Prometheus/Mimir,
+  OpenSearch, Sentry, or similar.</p></li><li><p><strong>Infrastructure as Code:</strong>
+  Proficient with Terraform, Kubernetes, and containerization tools.</p></li><li><p><strong>Programming
+  Skills:</strong> 5+ years of experience with Python. </p></li><li><p><strong>Linux
+  Systems:</strong> Comfortable working with Linux-based environments and writing
+  shell scripts.</p></li><li><p><strong>Communication:</strong> Strong collaboration
+  skills with a focus on asynchronous, written communication.</p></li><li><p><strong>Documentation:</strong>
+  Commitment to clear, comprehensive documentation and process standardization.</p></li><li><p><strong>Initiative:</strong>
+  Self-starter mindset with a proactive approach to solving operational challenges.</p></li><li><p><strong>Version
+  Control:</strong> Skilled in Git/GitHub-based workflows.</p></li></ul><p></p><p><strong>Nice
+  to haves</strong></p><p></p><ul><li><p><strong>Cloud Experience:</strong> AWS (preferred),
+  GCP, or Azure cloud infrastructure management.</p></li><li><p><strong>Networking
+  Fundamentals:</strong> Familiarity with TCP/IP, DNS, routing, and load balancing
+  concepts.</p></li><li><p><strong>Security:</strong> Understanding of cloud and infrastructure
+  security best practices.</p></li><li><p><strong>Performance Tuning:</strong> Experience
+  tuning application or infrastructure performance in production environments.</p></li></ul><p></p><p><strong>What
+  We Offer </strong></p><p></p><ul><li><p>Flexible paid time off (PTO)</p></li><li><p>Expansive
+  coverage for health, dental, and vision</p></li><li><p>Employer contribution to
+  Health Savings Accounts (HSA)</p></li><li><p>Generous parental leave policy</p></li><li><p>Full
+  employee coverage for life insurance</p></li><li><p>Home office stipend</p></li><li><p>Cell
+  phone/internet reimbursement</p></li><li><p>Company-paid holidays</p></li><li><p>401(K)
+  plan</p><p></p></li></ul><p><strong>Compensation </strong></p><p></p><ul><li><p>Based
+  on market data and other factors, the salary range for this position is $180,000-$220,000
+  + Equity. However, a salary higher or lower than this range may be appropriate for
+  a candidate whose qualifications differ meaningfully from those listed in the job
+  description.</p></li></ul><p></p><p><em>The above represents the expected salary
+  range for this job requisition. Ultimately, in determining your pay, we''ll consider
+  your location, experience, and other job-related factors.</em></p><p></p><p><em>We’re
+  committed to doing the best work of our lives, together. Come see if we''re the
+  right team for you.</em></p><p></p><p><em>AKASA is a proud equal opportunity employer
+  and we believe that a diverse and inclusive workforce is an imperative. We welcome
+  people of different backgrounds, genders, races, ethnicities, abilities, sexual
+  orientations, and perspectives, just to name a few. We do not discriminate based
+  upon any protected class and we encourage candidates of all identities and backgrounds
+  to apply. AKASA considers qualified applicants regardless of criminal histories
+  in accordance with the </em><em><u>San Francisco Fair Chance Ordinance.</u></em></p><p></p><p><em>AKASA
+  is committed to providing reasonable accommodations for candidates with disabilities
+  in our recruiting process. If you need any assistance or accommodations due to a
+  disability, please let us know at recruiting@akasa.com.</em></p>'
+description_text: 'About AKASA At AKASA, our mission is to build the future of healthcare
+  with AI. As the leading provider of generative AI solutions for the healthcare revenue
+  cycle, we help health systems comprehensively capture and communicate the full patient
+  clinical journey. By empowering health systems to streamline their operations, they
+  can focus on what matters most - delivering quality patient care. We have raised
+  over $205M in funding from investors such as Andreessen Horowitz, BOND, and Costanoa
+  Ventures. This is the most exciting time to join AKASA. Revenue bookings for our
+  new AI-native product suite have grown over 20x since launching in 2024. In this
+  time, we have broken our record for the largest deal in company history three times
+  consecutively. This growth is driven by the massive improvement we are generating
+  for our customers across clinical quality and documentation accuracy, both top priority
+  areas for health system leaders. Our deployments have been recognized nationally
+  as "one of the most comprehensive real-world uses of GenAI in healthcare finance
+  to date" (link). Our customer base represents more than $120B+ in net patient revenue
+  and includes the most innovative health systems in the country, like Cleveland Clinic,
+  Duke, Stanford, and Johns Hopkins. Some of our recent recognitions include being
+  named one of America''s Top Startup Employers 2026 by Forbes, #1 most promising
+  healthcare RCM startup of 2025 by Black Book Market Research, and one of the fastest-growing
+  GenAI startups to watch by AIM Research. Our CEO was ranked among the “Top 50 Healthcare
+  Technology CEOs” by the Healthcare Technology Report, and we have been certified
+  as a “Great Place to Work” for the past 6 years in a row. We’re building on this
+  momentum to redefine what’s possible in healthcare. We’re looking for exceptional
+  people to help us accelerate that reality. About the Role As a Sr. Infrastructure
+  Engineer at AKASA, you’ll work closely with our Infrastructure and Platform teams
+  to manage, improve, and scale the systems that power our products. Your focus will
+  be on ensuring our infrastructure is reliable, observable, and easy to operate —
+  with an emphasis on automation, operational excellence, and cross-functional collaboration.
+  You’ll help build and maintain the foundational infrastructure that supports our
+  SaaS applications, including Kubernetes, Terraform-managed cloud resources, and
+  GitHub-based CI/CD pipelines. While incident response is part of the role, the primary
+  focus is on proactive improvements: reducing operational toil, improving visibility
+  into system behavior, and enabling product teams to move fast with confidence. You’ll
+  also contribute to monitoring and observability efforts, ensuring our systems are
+  well-instrumented and that we can detect issues before they impact customers. You''ll
+  collaborate with software engineers to embed reliability best practices across the
+  development lifecycle. This role is ideal for someone who enjoys a balance of hands-on
+  engineering, systems design, automation, and technical mentorship. The AKASA office
+  is located in South San Francisco. While we support remote work on a variety of
+  teams, we have a strong Bay Area presence across the company. The local R&amp;D
+  teams come into the office every Wednesday for co-working days, which this role
+  will be expected to attend. What You''ll Do Infrastructure Management: Build, manage,
+  and optimize infrastructure using Terraform, GitHub CI/CD, and Kubernetes. Monitoring
+  &amp; Observability: Create visualizations and alerts that provide actionable insights
+  using tools like Grafana, Prometheus/Mimir, OpenSearch, and Sentry. Automation &amp;
+  Reliability: Identify manual or error-prone processes and replace them with automated,
+  repeatable systems. Production Troubleshooting: Diagnose and resolve production
+  issues across application and infrastructure layers. Documentation: Capture knowledge
+  in runbooks, setup guides, and architecture diagrams to support operational maturity.
+  Collaboration: Partner with engineers across teams to drive adoption of DevOps and
+  infrastructure best practices. Scalability Planning: Help scale infrastructure and
+  monitoring systems to meet growing demands. Incident Participation: Participate
+  in an on-call rotation and support incident response processes as needed. Skills
+  &amp; Qualifications Observability: Experience with metrics, logs, and traces using
+  tools such as Grafana, Prometheus/Mimir, OpenSearch, Sentry, or similar. Infrastructure
+  as Code: Proficient with Terraform, Kubernetes, and containerization tools. Programming
+  Skills: 5+ years of experience with Python. Linux Systems: Comfortable working with
+  Linux-based environments and writing shell scripts. Communication: Strong collaboration
+  skills with a focus on asynchronous, written communication. Documentation: Commitment
+  to clear, comprehensive documentation and process standardization. Initiative: Self-starter
+  mindset with a proactive approach to solving operational challenges. Version Control:
+  Skilled in Git/GitHub-based workflows. Nice to haves Cloud Experience: AWS (preferred),
+  GCP, or Azure cloud infrastructure management. Networking Fundamentals: Familiarity
+  with TCP/IP, DNS, routing, and load balancing concepts. Security: Understanding
+  of cloud and infrastructure security best practices. Performance Tuning: Experience
+  tuning application or infrastructure performance in production environments. What
+  We Offer Flexible paid time off (PTO) Expansive coverage for health, dental, and
+  vision Employer contribution to Health Savings Accounts (HSA) Generous parental
+  leave policy Full employee coverage for life insurance Home office stipend Cell
+  phone/internet reimbursement Company-paid holidays 401(K) plan Compensation Based
+  on market data and other factors, the salary range for this position is $180,000-$220,000
+  + Equity. However, a salary higher or lower than this range may be appropriate for
+  a candidate whose qualifications differ meaningfully from those listed in the job
+  description. The above represents the expected salary range for this job requisition.
+  Ultimately, in determining your pay, we''ll consider your location, experience,
+  and other job-related factors. We’re committed to doing the best work of our lives,
+  together. Come see if we''re the right team for you. AKASA is a proud equal opportunity
+  employer and we believe that a diverse and inclusive workforce is an imperative.
+  We welcome people of different backgrounds, genders, races, ethnicities, abilities,
+  sexual orientations, and perspectives, just to name a few. We do not discriminate
+  based upon any protected class and we encourage candidates of all identities and
+  backgrounds to apply. AKASA considers qualified applicants regardless of criminal
+  histories in accordance with the San Francisco Fair Chance Ordinance. AKASA is committed
+  to providing reasonable accommodations for candidates with disabilities in our recruiting
+  process. If you need any assistance or accommodations due to a disability, please
+  let us know at recruiting@akasa.com.'
+salary_json_min: 180000
+salary_json_max: 220000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: 'American medicine is the best in the world. But the American healthcare
+  system is challenged by high administrative costs that burden patients, health systems,
+  and insurance companies with unnecessary expenses. We are focused on addressing
+  those challenges.We use GenAI to improve the most pressing financial pain points
+  in the revenue cycle. We’re one of the first companies to deploy GenAI for practical
+  use cases within healthcare. That gives health systems the ability to focus on what
+  really matters: helping patients.This is one of the most exciting times to join
+  AKASA. Bookings for our GenAI product suite have increased 10x in the last year.
+  We also recently closed our biggest deal in company history. Our customer base represents
+  more than $120B+ in net patient revenue and includes the most innovative health
+  systems in the country, like Stanford, Johns Hopkins, and Cleveland Clinic. And
+  we’re just getting started! Some of our most recent recognitions include being named
+  one of the fastest-growing GenAI startups to watch by AIM Research and an “AI Revenue
+  Cycle Leader” by Black Book in 17 out of 18 categories. Our CEO was ranked among
+  the “Top 50 Healthcare Technology CEOs” by the Healthcare Technology Report, and
+  we have been certified as a “Great Place to Work” for the past five years in a row,
+  just to name a few.'
+url: https://builtin.com/job/sr-software-engineer-devops/6889760
+source: builtin.com
+description: 'About AKASA At AKASA, our mission is to build the future of healthcare
+  with AI. As the leading provider of generative AI solutions for the healthcare revenue
+  cycle, we help health systems comprehensively capture and communicate the full patient
+  clinical journey. By empowering health systems to streamline their operations, they
+  can focus on what matters most - delivering quality patient care. We have raised
+  over $205M in funding from investors such as Andreessen Horowitz, BOND, and Costanoa
+  Ventures. This is the most exciting time to join AKASA. Revenue bookings for our
+  new AI-native product suite have grown over 20x since launching in 2024. In this
+  time, we have broken our record for the largest deal in company history three times
+  consecutively. This growth is driven by the massive improvement we are generating
+  for our customers across clinical quality and documentation accuracy, both top priority
+  areas for health system leaders. Our deployments have been recognized nationally
+  as "one of the most comprehensive real-world uses of GenAI in healthcare finance
+  to date" (link). Our customer base represents more than $120B+ in net patient revenue
+  and includes the most innovative health systems in the country, like Cleveland Clinic,
+  Duke, Stanford, and Johns Hopkins. Some of our recent recognitions include being
+  named one of America''s Top Startup Employers 2026 by Forbes, #1 most promising
+  healthcare RCM startup of 2025 by Black Book Market Research, and one of the fastest-growing
+  GenAI startups to watch by AIM Research. Our CEO was ranked among the “Top 50 Healthcare
+  Technology CEOs” by the Healthcare Technology Report, and we have been certified
+  as a “Great Place to Work” for the past 6 years in a row. We’re building on this
+  momentum to redefine what’s possible in healthcare. We’re looking for exceptional
+  people to help us accelerate that reality. About the Role As a Sr. Infrastructure
+  Engineer at AKASA, you’ll work closely with our Infrastructure and Platform teams
+  to manage, improve, and scale the systems that power our products. Your focus will
+  be on ensuring our infrastructure is reliable, observable, and easy to operate —
+  with an emphasis on automation, operational excellence, and cross-functional collaboration.
+  You’ll help build and maintain the foundational infrastructure that supports our
+  SaaS applications, including Kubernetes, Terraform-managed cloud resources, and
+  GitHub-based CI/CD pipelines. While incident response is part of the role, the primary
+  focus is on proactive improvements: reducing operational toil, improving visibility
+  into system behavior, and enabling product teams to move fast with confidence. You’ll
+  also contribute to monitoring and observability efforts, ensuring our systems are
+  well-instrumented and that we can detect issues before they impact customers. You''ll
+  collaborate with software engineers to embed reliability best practices across the
+  development lifecycle. This role is ideal for someone who enjoys a balance of hands-on
+  engineering, systems design, automation, and technical mentorship. The AKASA office
+  is located in South San Francisco. While we support remote work on a variety of
+  teams, we have a strong Bay Area presence across the company. The local R&amp;D
+  teams come into the office every Wednesday for co-working days, which this role
+  will be expected to attend. What You''ll Do Infrastructure Management: Build, manage,
+  and optimize infrastructure using Terraform, GitHub CI/CD, and Kubernetes. Monitoring
+  &amp; Observability: Create visualizations and alerts that provide actionable insights
+  using tools like Grafana, Prometheus/Mimir, OpenSearch, and Sentry. Automation &amp;
+  Reliability: Identify manual or error-prone processes and replace them with automated,
+  repeatable systems. Production Troubleshooting: Diagnose and resolve production
+  issues across application and infrastructure layers. Documentation: Capture knowledge
+  in runbooks, setup guides, and architecture diagrams to support operational maturity.
+  Collaboration: Partner with engineers across teams to drive adoption of DevOps and
+  infrastructure best practices. Scalability Planning: Help scale infrastructure and
+  monitoring systems to meet growing demands. Incident Participation: Participate
+  in an on-call rotation and support incident response processes as needed. Skills
+  &amp; Qualifications Observability: Experience with metrics, logs, and traces using
+  tools such as Grafana, Prometheus/Mimir, OpenSearch, Sentry, or similar. Infrastructure
+  as Code: Proficient with Terraform, Kubernetes, and containerization tools. Programming
+  Skills: 5+ years of experience with Python. Linux Systems: Comfortable working with
+  Linux-based environments and writing shell scripts. Communication: Strong collaboration
+  skills with a focus on asynchronous, written communication. Documentation: Commitment
+  to clear, comprehensive documentation and process standardization. Initiative: Self-starter
+  mindset with a proactive approach to solving operational challenges. Version Control:
+  Skilled in Git/GitHub-based workflows. Nice to haves Cloud Experience: AWS (preferred),
+  GCP, or Azure cloud infrastructure management. Networking Fundamentals: Familiarity
+  with TCP/IP, DNS, routing, and load balancing concepts. Security: Understanding
+  of cloud and infrastructure security best practices. Performance Tuning: Experience
+  tuning application or infrastructure performance in production environments. What
+  We Offer Flexible paid time off (PTO) Expansive coverage for health, dental, and
+  vision Employer contribution to Health Savings Accounts (HSA) Generous parental
+  leave policy Full employee coverage for life insurance Home office stipend Cell
+  phone/internet reimbursement Company-paid holidays 401(K) plan Compensation Based
+  on market data and other factors, the salary range for this position is $180,000-$220,000
+  + Equity. However, a salary higher or lower than this range may be appropriate for
+  a candidate whose qualifications differ meaningfully from those listed in the job
+  description. The above represents the expected salary range for this job requisition.
+  Ultimately, in determining your pay, we''ll consider your location, experience,
+  and other job-related factors. We’re committed to doing the best work of our lives,
+  together. Come see if we''re the right team for you. AKASA is a proud equal opportunity
+  employer and we believe that a diverse and inclusive workforce is an imperative.
+  We welcome people of different backgrounds, genders, races, ethnicities, abilities,
+  sexual orientations, and perspectives, just to name a few. We do not discriminate
+  based upon any protected class and we encourage candidates of all identities and
+  backgrounds to apply. AKASA considers qualified applicants regardless of criminal
+  histories in accordance with the San Francisco Fair Chance Ordinance. AKASA is committed
+  to providing reasonable accommodations for candidates with disabilities in our recruiting
+  process. If you need any assistance or accommodations due to a disability, please
+  let us know at recruiting@akasa.com.'
+postedDate: '2026-03-09'
+salary: USD 180,000 - 220,000
+id: 17
+is_gtm_technical: true
+tech_stack:
+- Terraform
+- Kubernetes
+min_years_exp: null
+salary_min: null
+salary_max: null
+reason: The focus is on managing infrastructure that supports SaaS applications, relevant
+  in a GTM context.

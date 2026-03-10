@@ -1,0 +1,232 @@
+title: GTM Engineer
+company: GlossGenius
+category:
+- Beauty
+- Enterprise Web
+- Fintech
+- Payments
+- Software
+location: New York, New York, USA
+date_posted: '2026-02-27'
+description_html: '<p><strong>About GlossGenius</strong></p><p>GlossGenius is building
+  an ecosystem enabling entrepreneurs to succeed. We empower small business owners
+  to focus on being creators, not admins, by offering a range of business management
+  tools including booking and scheduling, marketing, analytics, payment processing
+  and much more.&nbsp;</p><p>Over 100,000 small business owners have chosen to rely
+  on GlossGenius every day to run their entire set of business operations. Joining
+  its powerful, intuitive platform with its vibrant, distinguished brand, GlossGenius
+  is the ideal combination of a fintech, SMB software, and consumer company all in
+  one.</p><p><strong>About the Role</strong></p><p>At GlossGenius, we are obsessed
+  with empowering creative entrepreneurs. As our<strong> </strong>GTM Engineer, you
+  will be the architect behind our next generation of sales technology. You won''t
+  just manage tools; you will build intelligent systems that use LLMs and automated
+  workflows to remove friction from the sales process, allowing our team to focus
+  on what they do best: building relationships.</p><p>You will report to our Senior
+  Manager, Revenue Operations. You must be commutable to our NYC headquarters and
+  will operate in a hybrid environment with 3-4 days per week with required attendance
+  on Tuesdays and Thursdays.</p><p><strong>What You’ll Do</strong></p><ul><li><strong>Architect
+  AI Workflows:</strong> Design and deploy LLM-powered solutions for lead enrichment,
+  automated personalization, and real-time sales coaching (e.g., automated "Battlecards"
+  based on competitor mentions in Gong)</li><li><strong>Bridge the Data Gap:</strong>
+  Work closely with Data Engineering to pipe high-intent product usage signals from
+  our data warehouse (Snowflake/BigQuery) into actionable sales triggers</li><li><strong>Automate
+  the Lifecycle:</strong> Build and maintain custom integrations between our CRM (Salesforce/HubSpot),
+  sales engagement platforms (Outreach/Salesloft), and internal proprietary tools
+  using Python and APIs</li><li><strong>Optimize Lead Routing:</strong> Develop sophisticated,
+  code-based routing logic to ensure the right leads get to the right reps at the
+  exact moment of high intent</li><li><strong>Build Internal Tools:</strong> Create
+  "lite" internal apps or Slack bots that give the sales team instant access to customer
+  health scores and upsell opportunities</li></ul><p><strong>What We’re Looking For</strong></p><ul><li>4+
+  years of experience in a technical role — Forward Deployed Engineering, Solutions
+  Architecture, or Technical RevOps — comfortable in a codebase but thriving in a
+  business-growth environment</li><li>Advanced Python and SQL skills; you write scripts
+  to manipulate data and interface with REST APIs without waiting for a developer
+  to build a connector for you</li><li>Hands-on experience with OpenAI''s API, LangChain,
+  or similar frameworks; you know how to prompt-engineer for high-quality, structured
+  output</li><li>Deep understanding of where in the sales funnel reps lose time and
+  a track record of proposing and building technical solutions to fix it</li><li>Experience
+  with the following tech stack is preferred</li><ul><li>CRM: Hubspot (Advanced Admin/Apex
+  knowledge preferred)</li><li>Languages: Python, Node.js, and SQL</li><li>Data/AI:
+  Snowflake, Fivetran, OpenAI API, LangChain</li><li>Sales Tech: Outreach/Salesloft,
+  Gong, ZoomInfo, Clearbit</li></ul></ul><p><strong>Benefits &amp; Perks</strong></p><ul><li>Flexible
+  PTO</li><li>Competitive health &amp; dental insurance options, with premiums partially
+  or fully covered by GG</li><li>In-person opportunities that are designed to help
+  team members foster collaboration and build community (ie; working out of a co-working
+  space, team dinners, and other team building activities)</li><li>Fertility and adoption
+  benefits via Carrot</li><li>Generous, fully-paid parental leave policy</li><li>401k
+  benefit - employees are eligible to contribute starting day 1 of employment</li><li>Professional
+  Development - employees receive a yearly stipend for approved learning and educational-related
+  expenses</li><li>Pre-tax commuter benefits</li><li>Dependent Care FSA</li><li>Home
+  office support</li></ul><p><em>The starting base salary for this role in New York,
+  California, and Washington is between $140,000 - $175,000 + target equity + benefits.
+  The base salary offered is dependent upon many factors including skills, experience,
+  location, and education. The base pay range is subject to change and may be modified
+  in the future.&nbsp;</em></p><p><em>At GlossGenius, we celebrate our differences
+  and are committed to creating a workplace where all employees feel supported and
+  empowered to do their best work. We believe this benefits not only our employees
+  but our product, customers, and community as well. GlossGenius is proud to be an
+  Equal Opportunity and Affirmative Action Employer.</em></p><p><p><em>Personal Information:
+  Notice at Collection for Employees and Applicants</em></p><p><em>Agency Submissions<br></em><em>If
+  a resume or applicant is submitted to GlossGenius by a third party without a signed
+  search agreement in place, it will become the property of GlossGenius and no fee
+  will be paid, irrespective of whether the candidate is hired.&nbsp;</em></p><p><em>GlossGenius
+  may use automated tools, including artificial intelligence and machine learning
+  systems (AI Tools), to assist in evaluating applicants’ qualifications and fitness
+  for the position. These AI Tools may be used alongside human review during one or
+  more stages of the recruiting process, including application screening, skills assessments,
+  and interviewing. No final hiring decision will be made solely by AI Tools without
+  human oversight.<br></em></p></p>'
+description_text: 'About GlossGenius GlossGenius is building an ecosystem enabling
+  entrepreneurs to succeed. We empower small business owners to focus on being creators,
+  not admins, by offering a range of business management tools including booking and
+  scheduling, marketing, analytics, payment processing and much more.&nbsp; Over 100,000
+  small business owners have chosen to rely on GlossGenius every day to run their
+  entire set of business operations. Joining its powerful, intuitive platform with
+  its vibrant, distinguished brand, GlossGenius is the ideal combination of a fintech,
+  SMB software, and consumer company all in one. About the Role At GlossGenius, we
+  are obsessed with empowering creative entrepreneurs. As our GTM Engineer, you will
+  be the architect behind our next generation of sales technology. You won''t just
+  manage tools; you will build intelligent systems that use LLMs and automated workflows
+  to remove friction from the sales process, allowing our team to focus on what they
+  do best: building relationships. You will report to our Senior Manager, Revenue
+  Operations. You must be commutable to our NYC headquarters and will operate in a
+  hybrid environment with 3-4 days per week with required attendance on Tuesdays and
+  Thursdays. What You’ll Do Architect AI Workflows: Design and deploy LLM-powered
+  solutions for lead enrichment, automated personalization, and real-time sales coaching
+  (e.g., automated "Battlecards" based on competitor mentions in Gong) Bridge the
+  Data Gap: Work closely with Data Engineering to pipe high-intent product usage signals
+  from our data warehouse (Snowflake/BigQuery) into actionable sales triggers Automate
+  the Lifecycle: Build and maintain custom integrations between our CRM (Salesforce/HubSpot),
+  sales engagement platforms (Outreach/Salesloft), and internal proprietary tools
+  using Python and APIs Optimize Lead Routing: Develop sophisticated, code-based routing
+  logic to ensure the right leads get to the right reps at the exact moment of high
+  intent Build Internal Tools: Create "lite" internal apps or Slack bots that give
+  the sales team instant access to customer health scores and upsell opportunities
+  What We’re Looking For 4+ years of experience in a technical role — Forward Deployed
+  Engineering, Solutions Architecture, or Technical RevOps — comfortable in a codebase
+  but thriving in a business-growth environment Advanced Python and SQL skills; you
+  write scripts to manipulate data and interface with REST APIs without waiting for
+  a developer to build a connector for you Hands-on experience with OpenAI''s API,
+  LangChain, or similar frameworks; you know how to prompt-engineer for high-quality,
+  structured output Deep understanding of where in the sales funnel reps lose time
+  and a track record of proposing and building technical solutions to fix it Experience
+  with the following tech stack is preferred CRM: Hubspot (Advanced Admin/Apex knowledge
+  preferred) Languages: Python, Node.js, and SQL Data/AI: Snowflake, Fivetran, OpenAI
+  API, LangChain Sales Tech: Outreach/Salesloft, Gong, ZoomInfo, Clearbit Benefits
+  &amp; Perks Flexible PTO Competitive health &amp; dental insurance options, with
+  premiums partially or fully covered by GG In-person opportunities that are designed
+  to help team members foster collaboration and build community (ie; working out of
+  a co-working space, team dinners, and other team building activities) Fertility
+  and adoption benefits via Carrot Generous, fully-paid parental leave policy 401k
+  benefit - employees are eligible to contribute starting day 1 of employment Professional
+  Development - employees receive a yearly stipend for approved learning and educational-related
+  expenses Pre-tax commuter benefits Dependent Care FSA Home office support The starting
+  base salary for this role in New York, California, and Washington is between $140,000
+  - $175,000 + target equity + benefits. The base salary offered is dependent upon
+  many factors including skills, experience, location, and education. The base pay
+  range is subject to change and may be modified in the future.&nbsp; At GlossGenius,
+  we celebrate our differences and are committed to creating a workplace where all
+  employees feel supported and empowered to do their best work. We believe this benefits
+  not only our employees but our product, customers, and community as well. GlossGenius
+  is proud to be an Equal Opportunity and Affirmative Action Employer. Personal Information:
+  Notice at Collection for Employees and Applicants Agency Submissions If a resume
+  or applicant is submitted to GlossGenius by a third party without a signed search
+  agreement in place, it will become the property of GlossGenius and no fee will be
+  paid, irrespective of whether the candidate is hired.&nbsp; GlossGenius may use
+  automated tools, including artificial intelligence and machine learning systems
+  (AI Tools), to assist in evaluating applicants’ qualifications and fitness for the
+  position. These AI Tools may be used alongside human review during one or more stages
+  of the recruiting process, including application screening, skills assessments,
+  and interviewing. No final hiring decision will be made solely by AI Tools without
+  human oversight.'
+salary_json_min: 140000
+salary_json_max: 175000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: GlossGenius is one of the fastest growing solutions powering small
+  business owners across the US in the beauty & wellness space with elegant, vibrant,
+  and intuitive software. GlossGenius’s complete “business-in-a-box” platform spans
+  powerful SaaS and fintech solutions, enabling tens of thousands of business owners
+  to run their entire set of business operations every day.
+url: https://builtin.com/job/gtm-engineer/8606264
+source: builtin.com
+description: 'About GlossGenius GlossGenius is building an ecosystem enabling entrepreneurs
+  to succeed. We empower small business owners to focus on being creators, not admins,
+  by offering a range of business management tools including booking and scheduling,
+  marketing, analytics, payment processing and much more.&nbsp; Over 100,000 small
+  business owners have chosen to rely on GlossGenius every day to run their entire
+  set of business operations. Joining its powerful, intuitive platform with its vibrant,
+  distinguished brand, GlossGenius is the ideal combination of a fintech, SMB software,
+  and consumer company all in one. About the Role At GlossGenius, we are obsessed
+  with empowering creative entrepreneurs. As our GTM Engineer, you will be the architect
+  behind our next generation of sales technology. You won''t just manage tools; you
+  will build intelligent systems that use LLMs and automated workflows to remove friction
+  from the sales process, allowing our team to focus on what they do best: building
+  relationships. You will report to our Senior Manager, Revenue Operations. You must
+  be commutable to our NYC headquarters and will operate in a hybrid environment with
+  3-4 days per week with required attendance on Tuesdays and Thursdays. What You’ll
+  Do Architect AI Workflows: Design and deploy LLM-powered solutions for lead enrichment,
+  automated personalization, and real-time sales coaching (e.g., automated "Battlecards"
+  based on competitor mentions in Gong) Bridge the Data Gap: Work closely with Data
+  Engineering to pipe high-intent product usage signals from our data warehouse (Snowflake/BigQuery)
+  into actionable sales triggers Automate the Lifecycle: Build and maintain custom
+  integrations between our CRM (Salesforce/HubSpot), sales engagement platforms (Outreach/Salesloft),
+  and internal proprietary tools using Python and APIs Optimize Lead Routing: Develop
+  sophisticated, code-based routing logic to ensure the right leads get to the right
+  reps at the exact moment of high intent Build Internal Tools: Create "lite" internal
+  apps or Slack bots that give the sales team instant access to customer health scores
+  and upsell opportunities What We’re Looking For 4+ years of experience in a technical
+  role — Forward Deployed Engineering, Solutions Architecture, or Technical RevOps
+  — comfortable in a codebase but thriving in a business-growth environment Advanced
+  Python and SQL skills; you write scripts to manipulate data and interface with REST
+  APIs without waiting for a developer to build a connector for you Hands-on experience
+  with OpenAI''s API, LangChain, or similar frameworks; you know how to prompt-engineer
+  for high-quality, structured output Deep understanding of where in the sales funnel
+  reps lose time and a track record of proposing and building technical solutions
+  to fix it Experience with the following tech stack is preferred CRM: Hubspot (Advanced
+  Admin/Apex knowledge preferred) Languages: Python, Node.js, and SQL Data/AI: Snowflake,
+  Fivetran, OpenAI API, LangChain Sales Tech: Outreach/Salesloft, Gong, ZoomInfo,
+  Clearbit Benefits &amp; Perks Flexible PTO Competitive health &amp; dental insurance
+  options, with premiums partially or fully covered by GG In-person opportunities
+  that are designed to help team members foster collaboration and build community
+  (ie; working out of a co-working space, team dinners, and other team building activities)
+  Fertility and adoption benefits via Carrot Generous, fully-paid parental leave policy
+  401k benefit - employees are eligible to contribute starting day 1 of employment
+  Professional Development - employees receive a yearly stipend for approved learning
+  and educational-related expenses Pre-tax commuter benefits Dependent Care FSA Home
+  office support The starting base salary for this role in New York, California, and
+  Washington is between $140,000 - $175,000 + target equity + benefits. The base salary
+  offered is dependent upon many factors including skills, experience, location, and
+  education. The base pay range is subject to change and may be modified in the future.&nbsp;
+  At GlossGenius, we celebrate our differences and are committed to creating a workplace
+  where all employees feel supported and empowered to do their best work. We believe
+  this benefits not only our employees but our product, customers, and community as
+  well. GlossGenius is proud to be an Equal Opportunity and Affirmative Action Employer.
+  Personal Information: Notice at Collection for Employees and Applicants Agency Submissions
+  If a resume or applicant is submitted to GlossGenius by a third party without a
+  signed search agreement in place, it will become the property of GlossGenius and
+  no fee will be paid, irrespective of whether the candidate is hired.&nbsp; GlossGenius
+  may use automated tools, including artificial intelligence and machine learning
+  systems (AI Tools), to assist in evaluating applicants’ qualifications and fitness
+  for the position. These AI Tools may be used alongside human review during one or
+  more stages of the recruiting process, including application screening, skills assessments,
+  and interviewing. No final hiring decision will be made solely by AI Tools without
+  human oversight.'
+postedDate: '2026-02-27'
+salary: USD 140,000 - 175,000
+id: 5
+is_gtm_technical: true
+tech_stack:
+- Salesforce
+- HubSpot
+- OpenAI API
+min_years_exp: 4
+salary_min: null
+salary_max: null
+reason: The role aims at building intelligent systems for GTM processes, indicative
+  of a technical focus.

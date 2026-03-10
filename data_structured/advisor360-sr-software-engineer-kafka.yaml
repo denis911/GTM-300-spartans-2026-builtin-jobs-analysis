@@ -1,0 +1,291 @@
+title: Sr. Software Engineer, Kafka
+company: Advisor360
+category:
+- Artificial Intelligence
+- Fintech
+- Software
+- Financial Services
+- Generative AI
+- Big Data Analytics
+- Automation
+location: Needham, Massachusetts, USA
+date_posted: '2026-03-08'
+description_html: '<p><span>At Advisor360°, we build technology that transforms how
+  wealth management firms operate, scale, and serve their clients. As a leading SaaS
+  platform in the fintech space, we’re trusted by some of the largest independent
+  broker-dealers and RIAs to power the full advisor and client experience—from portfolio
+  construction and reporting to compliance and client engagement.</span><br><span>What
+  sets us apart? It''s not just the tech (though it''s best-in-class). It''s the people,
+  the purpose, and the passion behind everything we do.&nbsp;We’re a team of builders,
+  thinkers, and doers who believe that great companies are defined by the stories
+  they tell and the experiences they create—internally and externally. We bring deep
+  industry expertise, a collaborative spirit, and a commitment to innovation as we
+  reshape what’s possible in wealth management.&nbsp;</span><br><span>As we grow,
+  we’re looking for teammates who are ready to roll up their sleeves, think big, and
+  help elevate our brand in a way that reflects the bold ambitions we have for our
+  company and the clients we serve.&nbsp;</span><br><span>Join us, and be part of
+  a company that''s not only moving fast—but making it count.&nbsp;</span></p><p><br></p><p><b><strong>This
+  role is hybrid, requiring three days per week onsite in our Needham, MA headquarters.&nbsp;</strong></b><span>&nbsp;</span></p><p><br></p><p><span>We
+  are seeking a Senior Software Engineer to help operate, support, and evolve our
+  internal platform and service integrations. This role has a </span><b><strong>strong
+  focus on Apache Kafka</strong></b><span>, while also working across a broader ecosystem
+  of shared services such as </span><b><strong>Redis, Auth0, ELK, and Orkes</strong></b><span>.</span></p><p><span>You
+  will act as a platform engineer and technical partner for internal teams, helping
+  them integrate reliably with Kafka and other core services through libraries, services,
+  tooling, and best practices. This role combines deep technical expertise, hands-on
+  development, and cross-team collaboration.</span></p><p><br></p><p><i><em>Responsibilities:</em></i></p><ul><li><span>Own
+  and support the Kafka platform used by multiple engineering teams</span></li><li><span>Design,
+  build, and maintain shared libraries, SDKs, and services that simplify Kafka integration</span></li><li><span>Partner
+  with application teams to design and troubleshoot event-driven and asynchronous
+  workflows</span></li><li><span>Operate and support additional shared services and
+  integrations, including Redis, Auth0, ELK, and Orkes</span></li><li><span>Develop
+  integration patterns, reference architectures, and reusable components for internal
+  consumption</span></li><li><span>Debug complex production issues spanning messaging,
+  authentication, observability, and orchestration layers</span></li><li><span>Establish
+  and promote best practices for Kafka topics, schemas, producers, consumers, and
+  error handling</span></li><li><span>Improve reliability, performance, and observability
+  of Kafka and other shared services</span></li><li><span>Collaborate with SRE, DevOps,
+  and security teams on platform reliability, access controls, and compliance</span></li><li><span>Contribute
+  to documentation, examples, and internal enablement efforts</span></li></ul><p><br></p><p><i><em>Qualifications:</em></i></p><ul><li><span>5+
+  years of professional software engineering experience</span></li><li><b><strong>Strong,
+  hands-on experience with Apache Kafka in production environments (required)</strong></b></li><li><span>Experience
+  operating or integrating distributed systems at scale</span></li><li><span>Proficiency
+  in building backend services and libraries (.NET, Python or similar)</span></li><li><span>Experience
+  debugging and supporting complex, multi-service systems</span></li><li><span>Solid
+  understanding of event-driven and asynchronous architectures</span></li><li><span>Strong
+  collaboration and communication skills</span></li><li><span>Background in platform
+  engineering, developer experience, or internal tooling</span></li><li><span>Preferred
+  experience with other platforms</span></li><li><ul><li><span>Redis (caching, pub/sub,
+  or data access patterns)</span></li><li><span>Identity and access management systems
+  (e.g., Auth0)</span></li><li><span>Observability stacks such as ELK (Elasticsearch,
+  Logstash, Kibana)</span></li><li><span>Workflow orchestration platforms (e.g., Orkes
+  or similar)</span></li><li><span>Cloud-native platforms, Kubernetes, or managed
+  service offerings</span></li></ul></li></ul><p><br></p><p><i><em>What Success Looks
+  Like:</em></i></p><ul><li><span>Kafka is reliable, well-governed, and easy for teams
+  to integrate with</span></li><li><span>Internal teams leverage shared libraries
+  and patterns rather than building custom integrations</span></li><li><span>Platform
+  and service integrations are observable, secure, and scalable</span></li><li><span>Cross-team
+  dependencies are reduced through clear standards and tooling</span></li></ul><p><span>&nbsp;</span></p><p><span>&nbsp;</span><b><strong>Why
+  You’ll Love Working With Us:&nbsp;</strong></b></p><p><span>It’s not just about
+  work—it’s about building a career and enjoying the ride! Here’s what you can expect:
+  &nbsp;</span></p><p><span>The estimated base salary range for this position is $</span><span>152,000</span><span>-$173,000
+  plus bonus &amp; equity.</span></p><p><i><em>Advisor360 provides an estimate of
+  the compensation for roles that may be hired as required by state regulations. Compensation
+  may vary based on factors including, but not limited to, individual candidate experience,
+  skills, and qualifications. Additionally, Advisor360 leverages current market data
+  to determine compensation, therefore posted compensation figures are subject to
+  change as new market data becomes available. The salary, other forms of compensation,
+  and benefits information is accurate as of the date of this posting. Advisor360
+  reserves the right to modify this information at any time, subject to applicable
+  law.</em></i></p><p><br></p><p><span>We believe in recognizing and rewarding performance.
+  Our compensation package includes competitive base salaries, annual performance-based
+  bonuses, and the chance to share in the equity value you and your colleagues create
+  during your time with the company. We offer comprehensive health benefits, including
+  dental, life, and disability insurance. We also trust our employees to manage their
+  time effectively, which is why we offer an unlimited paid time off program to help
+  you perform at your best every day.&nbsp;&nbsp;</span></p><p><br></p><p><span>Join
+  us on this journey. Advisor360° is an equal opportunity employer committed to a
+  diverse workforce. We believe diversity drives innovation and are therefore building
+  a company where people of all backgrounds are truly welcome and included. Everyone
+  is encouraged to bring their unique, authentic selves to work each and every day.
+  The way we see it, we are here to learn from each other.</span></p><p><br></p><p><b><strong>While
+  we are interested in qualified applicants who are permanently eligible to work for
+  any employer in the United States, we are unable to sponsor or transfer sponsorship
+  for employment visas at this time.</strong></b></p><p><br></p><p><span>To all recruitment
+  agencies: We do not accept unsolicited agency resumes and are not responsible for
+  any fees related to unsolicited resumes.</span></p>'
+description_text: 'At Advisor360°, we build technology that transforms how wealth
+  management firms operate, scale, and serve their clients. As a leading SaaS platform
+  in the fintech space, we’re trusted by some of the largest independent broker-dealers
+  and RIAs to power the full advisor and client experience—from portfolio construction
+  and reporting to compliance and client engagement. What sets us apart? It''s not
+  just the tech (though it''s best-in-class). It''s the people, the purpose, and the
+  passion behind everything we do.&nbsp;We’re a team of builders, thinkers, and doers
+  who believe that great companies are defined by the stories they tell and the experiences
+  they create—internally and externally. We bring deep industry expertise, a collaborative
+  spirit, and a commitment to innovation as we reshape what’s possible in wealth management.&nbsp;
+  As we grow, we’re looking for teammates who are ready to roll up their sleeves,
+  think big, and help elevate our brand in a way that reflects the bold ambitions
+  we have for our company and the clients we serve.&nbsp; Join us, and be part of
+  a company that''s not only moving fast—but making it count.&nbsp; This role is hybrid,
+  requiring three days per week onsite in our Needham, MA headquarters.&nbsp; &nbsp;
+  We are seeking a Senior Software Engineer to help operate, support, and evolve our
+  internal platform and service integrations. This role has a strong focus on Apache
+  Kafka , while also working across a broader ecosystem of shared services such as
+  Redis, Auth0, ELK, and Orkes . You will act as a platform engineer and technical
+  partner for internal teams, helping them integrate reliably with Kafka and other
+  core services through libraries, services, tooling, and best practices. This role
+  combines deep technical expertise, hands-on development, and cross-team collaboration.
+  Responsibilities: Own and support the Kafka platform used by multiple engineering
+  teams Design, build, and maintain shared libraries, SDKs, and services that simplify
+  Kafka integration Partner with application teams to design and troubleshoot event-driven
+  and asynchronous workflows Operate and support additional shared services and integrations,
+  including Redis, Auth0, ELK, and Orkes Develop integration patterns, reference architectures,
+  and reusable components for internal consumption Debug complex production issues
+  spanning messaging, authentication, observability, and orchestration layers Establish
+  and promote best practices for Kafka topics, schemas, producers, consumers, and
+  error handling Improve reliability, performance, and observability of Kafka and
+  other shared services Collaborate with SRE, DevOps, and security teams on platform
+  reliability, access controls, and compliance Contribute to documentation, examples,
+  and internal enablement efforts Qualifications: 5+ years of professional software
+  engineering experience Strong, hands-on experience with Apache Kafka in production
+  environments (required) Experience operating or integrating distributed systems
+  at scale Proficiency in building backend services and libraries (.NET, Python or
+  similar) Experience debugging and supporting complex, multi-service systems Solid
+  understanding of event-driven and asynchronous architectures Strong collaboration
+  and communication skills Background in platform engineering, developer experience,
+  or internal tooling Preferred experience with other platforms Redis (caching, pub/sub,
+  or data access patterns) Identity and access management systems (e.g., Auth0) Observability
+  stacks such as ELK (Elasticsearch, Logstash, Kibana) Workflow orchestration platforms
+  (e.g., Orkes or similar) Cloud-native platforms, Kubernetes, or managed service
+  offerings What Success Looks Like: Kafka is reliable, well-governed, and easy for
+  teams to integrate with Internal teams leverage shared libraries and patterns rather
+  than building custom integrations Platform and service integrations are observable,
+  secure, and scalable Cross-team dependencies are reduced through clear standards
+  and tooling &nbsp; &nbsp; Why You’ll Love Working With Us:&nbsp; It’s not just about
+  work—it’s about building a career and enjoying the ride! Here’s what you can expect:
+  &nbsp; The estimated base salary range for this position is $ 152,000 -$173,000
+  plus bonus &amp; equity. Advisor360 provides an estimate of the compensation for
+  roles that may be hired as required by state regulations. Compensation may vary
+  based on factors including, but not limited to, individual candidate experience,
+  skills, and qualifications. Additionally, Advisor360 leverages current market data
+  to determine compensation, therefore posted compensation figures are subject to
+  change as new market data becomes available. The salary, other forms of compensation,
+  and benefits information is accurate as of the date of this posting. Advisor360
+  reserves the right to modify this information at any time, subject to applicable
+  law. We believe in recognizing and rewarding performance. Our compensation package
+  includes competitive base salaries, annual performance-based bonuses, and the chance
+  to share in the equity value you and your colleagues create during your time with
+  the company. We offer comprehensive health benefits, including dental, life, and
+  disability insurance. We also trust our employees to manage their time effectively,
+  which is why we offer an unlimited paid time off program to help you perform at
+  your best every day.&nbsp;&nbsp; Join us on this journey. Advisor360° is an equal
+  opportunity employer committed to a diverse workforce. We believe diversity drives
+  innovation and are therefore building a company where people of all backgrounds
+  are truly welcome and included. Everyone is encouraged to bring their unique, authentic
+  selves to work each and every day. The way we see it, we are here to learn from
+  each other. While we are interested in qualified applicants who are permanently
+  eligible to work for any employer in the United States, we are unable to sponsor
+  or transfer sponsorship for employment visas at this time. To all recruitment agencies:
+  We do not accept unsolicited agency resumes and are not responsible for any fees
+  related to unsolicited resumes.'
+salary_json_min: 152000
+salary_json_max: 173000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: Advisor360° is a fintech company that helps wealth management firms
+  deliver better experiences to financial advisors and their clients. We offer an
+  integrated technology platform that brings together portfolio management, CRM, digital
+  onboarding, compliance tools, and client portals in one place. Our cloud-based solution,
+  powered by AI-driven insights, connects advisors with the data and tools they need
+  to grow their practices while giving end clients a seamless digital wealth management
+  experience. We serve major broker-dealers and independent RIAs across the country,
+  supporting advisors who manage billions in assets and helping transform how the
+  financial services industry operates.As a leading SaaS platform in the fintech space,
+  we’re trusted by some of the largest independent broker-dealers and RIAs to power
+  the full advisor and client experience—from portfolio construction and reporting
+  to compliance and client engagement. What sets us apart? It's not just the tech
+  (though it's best-in-class). It's the people, the purpose, and the passion behind
+  everything we do. We’re a team of builders, thinkers, and doers who believe that
+  great companies are defined by the stories they tell and the experiences they create—internally
+  and externally. We bring deep industry expertise, a collaborative spirit, and a
+  commitment to innovation as we reshape what’s possible in wealth management. As
+  we grow, we’re looking for teammates who are ready to roll up their sleeves, think
+  big, and help elevate our brand in a way that reflects the bold ambitions we have
+  for our company and the clients we serve. Join us, and be part of a company that's
+  not only moving fast—but making it count.
+url: https://builtin.com/job/sr-software-engineer-kafka/8454351
+source: builtin.com
+description: 'At Advisor360°, we build technology that transforms how wealth management
+  firms operate, scale, and serve their clients. As a leading SaaS platform in the
+  fintech space, we’re trusted by some of the largest independent broker-dealers and
+  RIAs to power the full advisor and client experience—from portfolio construction
+  and reporting to compliance and client engagement. What sets us apart? It''s not
+  just the tech (though it''s best-in-class). It''s the people, the purpose, and the
+  passion behind everything we do.&nbsp;We’re a team of builders, thinkers, and doers
+  who believe that great companies are defined by the stories they tell and the experiences
+  they create—internally and externally. We bring deep industry expertise, a collaborative
+  spirit, and a commitment to innovation as we reshape what’s possible in wealth management.&nbsp;
+  As we grow, we’re looking for teammates who are ready to roll up their sleeves,
+  think big, and help elevate our brand in a way that reflects the bold ambitions
+  we have for our company and the clients we serve.&nbsp; Join us, and be part of
+  a company that''s not only moving fast—but making it count.&nbsp; This role is hybrid,
+  requiring three days per week onsite in our Needham, MA headquarters.&nbsp; &nbsp;
+  We are seeking a Senior Software Engineer to help operate, support, and evolve our
+  internal platform and service integrations. This role has a strong focus on Apache
+  Kafka , while also working across a broader ecosystem of shared services such as
+  Redis, Auth0, ELK, and Orkes . You will act as a platform engineer and technical
+  partner for internal teams, helping them integrate reliably with Kafka and other
+  core services through libraries, services, tooling, and best practices. This role
+  combines deep technical expertise, hands-on development, and cross-team collaboration.
+  Responsibilities: Own and support the Kafka platform used by multiple engineering
+  teams Design, build, and maintain shared libraries, SDKs, and services that simplify
+  Kafka integration Partner with application teams to design and troubleshoot event-driven
+  and asynchronous workflows Operate and support additional shared services and integrations,
+  including Redis, Auth0, ELK, and Orkes Develop integration patterns, reference architectures,
+  and reusable components for internal consumption Debug complex production issues
+  spanning messaging, authentication, observability, and orchestration layers Establish
+  and promote best practices for Kafka topics, schemas, producers, consumers, and
+  error handling Improve reliability, performance, and observability of Kafka and
+  other shared services Collaborate with SRE, DevOps, and security teams on platform
+  reliability, access controls, and compliance Contribute to documentation, examples,
+  and internal enablement efforts Qualifications: 5+ years of professional software
+  engineering experience Strong, hands-on experience with Apache Kafka in production
+  environments (required) Experience operating or integrating distributed systems
+  at scale Proficiency in building backend services and libraries (.NET, Python or
+  similar) Experience debugging and supporting complex, multi-service systems Solid
+  understanding of event-driven and asynchronous architectures Strong collaboration
+  and communication skills Background in platform engineering, developer experience,
+  or internal tooling Preferred experience with other platforms Redis (caching, pub/sub,
+  or data access patterns) Identity and access management systems (e.g., Auth0) Observability
+  stacks such as ELK (Elasticsearch, Logstash, Kibana) Workflow orchestration platforms
+  (e.g., Orkes or similar) Cloud-native platforms, Kubernetes, or managed service
+  offerings What Success Looks Like: Kafka is reliable, well-governed, and easy for
+  teams to integrate with Internal teams leverage shared libraries and patterns rather
+  than building custom integrations Platform and service integrations are observable,
+  secure, and scalable Cross-team dependencies are reduced through clear standards
+  and tooling &nbsp; &nbsp; Why You’ll Love Working With Us:&nbsp; It’s not just about
+  work—it’s about building a career and enjoying the ride! Here’s what you can expect:
+  &nbsp; The estimated base salary range for this position is $ 152,000 -$173,000
+  plus bonus &amp; equity. Advisor360 provides an estimate of the compensation for
+  roles that may be hired as required by state regulations. Compensation may vary
+  based on factors including, but not limited to, individual candidate experience,
+  skills, and qualifications. Additionally, Advisor360 leverages current market data
+  to determine compensation, therefore posted compensation figures are subject to
+  change as new market data becomes available. The salary, other forms of compensation,
+  and benefits information is accurate as of the date of this posting. Advisor360
+  reserves the right to modify this information at any time, subject to applicable
+  law. We believe in recognizing and rewarding performance. Our compensation package
+  includes competitive base salaries, annual performance-based bonuses, and the chance
+  to share in the equity value you and your colleagues create during your time with
+  the company. We offer comprehensive health benefits, including dental, life, and
+  disability insurance. We also trust our employees to manage their time effectively,
+  which is why we offer an unlimited paid time off program to help you perform at
+  your best every day.&nbsp;&nbsp; Join us on this journey. Advisor360° is an equal
+  opportunity employer committed to a diverse workforce. We believe diversity drives
+  innovation and are therefore building a company where people of all backgrounds
+  are truly welcome and included. Everyone is encouraged to bring their unique, authentic
+  selves to work each and every day. The way we see it, we are here to learn from
+  each other. While we are interested in qualified applicants who are permanently
+  eligible to work for any employer in the United States, we are unable to sponsor
+  or transfer sponsorship for employment visas at this time. To all recruitment agencies:
+  We do not accept unsolicited agency resumes and are not responsible for any fees
+  related to unsolicited resumes.'
+postedDate: '2026-03-08'
+salary: USD 152,000 - 173,000
+id: '13'
+is_gtm_technical: true
+tech_stack:
+- Apache Kafka
+- Redis
+- Auth0
+- ELK
+min_years_exp: 5
+salary_min: 0
+salary_max: 0
+reason: Focus on platform engineering, specifically with Kafka.

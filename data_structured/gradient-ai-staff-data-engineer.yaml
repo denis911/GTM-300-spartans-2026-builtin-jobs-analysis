@@ -1,0 +1,209 @@
+title: Staff Data Engineer
+company: Gradient AI
+category:
+- Artificial Intelligence
+- Insurance
+- Machine Learning
+- Software
+- Analytics
+location: USA
+date_posted: '2026-03-06'
+description_html: '<p><strong><em>This is a fully remote opportunity.</em></strong></p><p><strong><span>Gradient
+  AI:&nbsp;&nbsp;</span></strong><span>&nbsp;</span><span>&nbsp;</span></p><p><span>
+  Gradient AI is revolutionizing Group Health and P&amp;C insurance with AI-powered
+  solutions that help insurers predict risk more accurately, improve profitability,
+  and automate underwriting and claims. Our SaaS platform taps into one of the industry’s
+  largest data lakes—tens of millions of policies and claims—to deliver deep, actionable
+  insights. </span><span>Trusted by leading carriers, MGAs, TPAs, and self-insured
+  employers, Gradient AI has grown rapidly since our founding in 2018. Backed by $56M
+  in Series C funding, we''re scaling fast—and it''s an exciting time to join the
+  team.</span><span>&nbsp;</span></p><p><strong><span>About the Role:&nbsp;&nbsp;</span></strong><span>&nbsp;</span><span>&nbsp;</span></p><p>We
+  are seeking a Staff Data Engineer to lead the improvement and refinement of scalable
+  data infrastructure, data platforms, and data architecture that power our predictive
+  analytics solutions. This role focuses on building reliable, high-performance data
+  pipelines and orchestration frameworks that enable efficient data movement across
+  systems. The ideal candidate brings deep expertise in modern data platforms, an
+  understanding of big data tools, and distributed systems, paired with experience
+  working with complex healthcare datasets (e.g., claims or clinical data). You’ll
+  play a key role in shaping our data foundation, ensuring robustness, scalability,
+  and operational excellence across the platform.</p><p><strong><span>How you will
+  make an impact:</span></strong><span>&nbsp;</span></p><ul><li>Design, build, and
+  implement data systems to support ML and AI models for our health insurance clients,
+  ensuring strict compliance with healthcare data privacy and security regulations
+  (e.g., HIPAA).</li><li>Develop tools for extracting, processing, and profiling diverse
+  healthcare data sources, including EHRs, medical claims, pharmacy data, and genomic
+  data.</li><li>Collaborate with data scientists to transform large volumes of health-related
+  and bioinformatics data into modeling-ready formats, prioritizing data quality,
+  integrity, and reliability in healthcare applications.</li><li>Build and maintain
+  infrastructure for the extraction, transformation, and loading (ETL) of data from
+  a variety of sources using SQL, AWS, and healthcare-specific big data technologies
+  and analytics platforms.</li><li>Ensure data pipelines meet the unique requirements
+  of health, medical, and bioinformatics data processing, including translating complex
+  medical and biological concepts into actionable data requirements.</li></ul><p><span>&nbsp;</span><strong><span>Skills
+  needed to succeed:&nbsp;</span></strong><span>&nbsp;</span><span>&nbsp;</span></p><ul><li>BS
+  in Computer Science, Bioinformatics, or another quantitative discipline with 7+
+  years of relevant working experience.</li><li>Deep expertise in health, medical,
+  and bioinformatics data, including real-world healthcare datasets, with a strong
+  understanding of the complexities and challenges of processing medical and biological
+  information.</li><li>Proficiency in Python and SQL within a professional environment.</li><li>Hands-on
+  knowledge of big data tools like Apache Spark (PySpark), Databricks, Snowflake,
+  or similar platforms</li><li>Experience with data orchestration frameworks such
+  as Airflow, Dagster, or Prefect.</li><li>Experience with modern DevOps practices,
+  including CI/CD, IaC (Terraform), containerization (Docker/Kubernetes), and cloud
+  environments (AWS preferred).</li><li>Knowledge of data transformation tools, such
+  as dbt, is a plus</li></ul><p><strong><span>What We Offer:</span></strong><span>&nbsp;</span><span>&nbsp;</span></p><ul><li><span>A
+  fun, team-oriented startup culture.&nbsp;</span><span>&nbsp;</span></li><li><span>Generous
+  stock options - we all get to own a piece of what we’re building.&nbsp;</span><span>&nbsp;</span></li><li><span>Unlimited
+  vacation days.&nbsp;</span><span>&nbsp;</span></li><li><span>Flexible schedule that
+  supports working from home.&nbsp;</span><span>&nbsp;</span></li><li><span>Full benefits
+  package includes medical, dental, vision, 401k, paid paternal leave, and more.&nbsp;</span><span>&nbsp;</span></li><li><span>Ample
+  opportunities to learn and take on new responsibilities.&nbsp;</span><span>&nbsp;</span></li></ul><p><span>We
+  are an equal opportunity employer.</span><span>&nbsp;</span></p><p><span><strong><span>Salary
+  Range: </span></strong><span>$150,000-190,000 base salary annually.</span>&nbsp;<br><span>This
+  role is also eligible for an annual performance bonus, equity grant, and a comprehensive
+  benefits package. In accordance with the Massachusetts Pay Transparency Law, we
+  are providing a good-faith salary range for this position at the time of posting.
+  The actual salary offered will depend on the level at which the candidate is hired,
+  as well as their experience, skills, qualifications, and location. Compensation
+  may grow over time through merit-based increases, promotions, and company-wide adjustments.
+  If your salary expectations fall outside this range, we still encourage you to apply
+  so we can have a conversation.</span><span>&nbsp;</span></span></p>'
+description_text: 'This is a fully remote opportunity. Gradient AI:&nbsp;&nbsp; &nbsp;
+  &nbsp; Gradient AI is revolutionizing Group Health and P&amp;C insurance with AI-powered
+  solutions that help insurers predict risk more accurately, improve profitability,
+  and automate underwriting and claims. Our SaaS platform taps into one of the industry’s
+  largest data lakes—tens of millions of policies and claims—to deliver deep, actionable
+  insights. Trusted by leading carriers, MGAs, TPAs, and self-insured employers, Gradient
+  AI has grown rapidly since our founding in 2018. Backed by $56M in Series C funding,
+  we''re scaling fast—and it''s an exciting time to join the team. &nbsp; About the
+  Role:&nbsp;&nbsp; &nbsp; &nbsp; We are seeking a Staff Data Engineer to lead the
+  improvement and refinement of scalable data infrastructure, data platforms, and
+  data architecture that power our predictive analytics solutions. This role focuses
+  on building reliable, high-performance data pipelines and orchestration frameworks
+  that enable efficient data movement across systems. The ideal candidate brings deep
+  expertise in modern data platforms, an understanding of big data tools, and distributed
+  systems, paired with experience working with complex healthcare datasets (e.g.,
+  claims or clinical data). You’ll play a key role in shaping our data foundation,
+  ensuring robustness, scalability, and operational excellence across the platform.
+  How you will make an impact: &nbsp; Design, build, and implement data systems to
+  support ML and AI models for our health insurance clients, ensuring strict compliance
+  with healthcare data privacy and security regulations (e.g., HIPAA). Develop tools
+  for extracting, processing, and profiling diverse healthcare data sources, including
+  EHRs, medical claims, pharmacy data, and genomic data. Collaborate with data scientists
+  to transform large volumes of health-related and bioinformatics data into modeling-ready
+  formats, prioritizing data quality, integrity, and reliability in healthcare applications.
+  Build and maintain infrastructure for the extraction, transformation, and loading
+  (ETL) of data from a variety of sources using SQL, AWS, and healthcare-specific
+  big data technologies and analytics platforms. Ensure data pipelines meet the unique
+  requirements of health, medical, and bioinformatics data processing, including translating
+  complex medical and biological concepts into actionable data requirements. &nbsp;
+  Skills needed to succeed:&nbsp; &nbsp; &nbsp; BS in Computer Science, Bioinformatics,
+  or another quantitative discipline with 7+ years of relevant working experience.
+  Deep expertise in health, medical, and bioinformatics data, including real-world
+  healthcare datasets, with a strong understanding of the complexities and challenges
+  of processing medical and biological information. Proficiency in Python and SQL
+  within a professional environment. Hands-on knowledge of big data tools like Apache
+  Spark (PySpark), Databricks, Snowflake, or similar platforms Experience with data
+  orchestration frameworks such as Airflow, Dagster, or Prefect. Experience with modern
+  DevOps practices, including CI/CD, IaC (Terraform), containerization (Docker/Kubernetes),
+  and cloud environments (AWS preferred). Knowledge of data transformation tools,
+  such as dbt, is a plus What We Offer: &nbsp; &nbsp; A fun, team-oriented startup
+  culture.&nbsp; &nbsp; Generous stock options - we all get to own a piece of what
+  we’re building.&nbsp; &nbsp; Unlimited vacation days.&nbsp; &nbsp; Flexible schedule
+  that supports working from home.&nbsp; &nbsp; Full benefits package includes medical,
+  dental, vision, 401k, paid paternal leave, and more.&nbsp; &nbsp; Ample opportunities
+  to learn and take on new responsibilities.&nbsp; &nbsp; We are an equal opportunity
+  employer. &nbsp; Salary Range: $150,000-190,000 base salary annually. &nbsp; This
+  role is also eligible for an annual performance bonus, equity grant, and a comprehensive
+  benefits package. In accordance with the Massachusetts Pay Transparency Law, we
+  are providing a good-faith salary range for this position at the time of posting.
+  The actual salary offered will depend on the level at which the candidate is hired,
+  as well as their experience, skills, qualifications, and location. Compensation
+  may grow over time through merit-based increases, promotions, and company-wide adjustments.
+  If your salary expectations fall outside this range, we still encourage you to apply
+  so we can have a conversation. &nbsp;'
+salary_json_min: 150000
+salary_json_max: 185000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Staff
+workplace_type_enum: UNKNOWN
+company_overview: Gradient AI is revolutionizing Group Health and P&C insurance with
+  AI-powered solutions that help insurers predict risk more accurately, improve profitability,
+  and automate underwriting and claims. Our SaaS platform taps into one of the industry’s
+  largest data lakes—tens of millions of policies and claims—to deliver deep, actionable
+  insights. Trusted by leading carriers, MGAs, TPAs, and self-insured employers, Gradient
+  AI has grown rapidly since our founding in 2018. Backed by $56M in Series C funding,
+  we're scaling fast—and it's an exciting time to join the team.
+url: https://builtin.com/job/staff-data-engineer/8270328
+source: builtin.com
+description: 'This is a fully remote opportunity. Gradient AI:&nbsp;&nbsp; &nbsp;
+  &nbsp; Gradient AI is revolutionizing Group Health and P&amp;C insurance with AI-powered
+  solutions that help insurers predict risk more accurately, improve profitability,
+  and automate underwriting and claims. Our SaaS platform taps into one of the industry’s
+  largest data lakes—tens of millions of policies and claims—to deliver deep, actionable
+  insights. Trusted by leading carriers, MGAs, TPAs, and self-insured employers, Gradient
+  AI has grown rapidly since our founding in 2018. Backed by $56M in Series C funding,
+  we''re scaling fast—and it''s an exciting time to join the team. &nbsp; About the
+  Role:&nbsp;&nbsp; &nbsp; &nbsp; We are seeking a Staff Data Engineer to lead the
+  improvement and refinement of scalable data infrastructure, data platforms, and
+  data architecture that power our predictive analytics solutions. This role focuses
+  on building reliable, high-performance data pipelines and orchestration frameworks
+  that enable efficient data movement across systems. The ideal candidate brings deep
+  expertise in modern data platforms, an understanding of big data tools, and distributed
+  systems, paired with experience working with complex healthcare datasets (e.g.,
+  claims or clinical data). You’ll play a key role in shaping our data foundation,
+  ensuring robustness, scalability, and operational excellence across the platform.
+  How you will make an impact: &nbsp; Design, build, and implement data systems to
+  support ML and AI models for our health insurance clients, ensuring strict compliance
+  with healthcare data privacy and security regulations (e.g., HIPAA). Develop tools
+  for extracting, processing, and profiling diverse healthcare data sources, including
+  EHRs, medical claims, pharmacy data, and genomic data. Collaborate with data scientists
+  to transform large volumes of health-related and bioinformatics data into modeling-ready
+  formats, prioritizing data quality, integrity, and reliability in healthcare applications.
+  Build and maintain infrastructure for the extraction, transformation, and loading
+  (ETL) of data from a variety of sources using SQL, AWS, and healthcare-specific
+  big data technologies and analytics platforms. Ensure data pipelines meet the unique
+  requirements of health, medical, and bioinformatics data processing, including translating
+  complex medical and biological concepts into actionable data requirements. &nbsp;
+  Skills needed to succeed:&nbsp; &nbsp; &nbsp; BS in Computer Science, Bioinformatics,
+  or another quantitative discipline with 7+ years of relevant working experience.
+  Deep expertise in health, medical, and bioinformatics data, including real-world
+  healthcare datasets, with a strong understanding of the complexities and challenges
+  of processing medical and biological information. Proficiency in Python and SQL
+  within a professional environment. Hands-on knowledge of big data tools like Apache
+  Spark (PySpark), Databricks, Snowflake, or similar platforms Experience with data
+  orchestration frameworks such as Airflow, Dagster, or Prefect. Experience with modern
+  DevOps practices, including CI/CD, IaC (Terraform), containerization (Docker/Kubernetes),
+  and cloud environments (AWS preferred). Knowledge of data transformation tools,
+  such as dbt, is a plus What We Offer: &nbsp; &nbsp; A fun, team-oriented startup
+  culture.&nbsp; &nbsp; Generous stock options - we all get to own a piece of what
+  we’re building.&nbsp; &nbsp; Unlimited vacation days.&nbsp; &nbsp; Flexible schedule
+  that supports working from home.&nbsp; &nbsp; Full benefits package includes medical,
+  dental, vision, 401k, paid paternal leave, and more.&nbsp; &nbsp; Ample opportunities
+  to learn and take on new responsibilities.&nbsp; &nbsp; We are an equal opportunity
+  employer. &nbsp; Salary Range: $150,000-190,000 base salary annually. &nbsp; This
+  role is also eligible for an annual performance bonus, equity grant, and a comprehensive
+  benefits package. In accordance with the Massachusetts Pay Transparency Law, we
+  are providing a good-faith salary range for this position at the time of posting.
+  The actual salary offered will depend on the level at which the candidate is hired,
+  as well as their experience, skills, qualifications, and location. Compensation
+  may grow over time through merit-based increases, promotions, and company-wide adjustments.
+  If your salary expectations fall outside this range, we still encourage you to apply
+  so we can have a conversation. &nbsp;'
+postedDate: '2026-03-06'
+salary: USD 150,000 - 185,000
+id: 5
+is_gtm_technical: true
+tech_stack:
+- SQL
+- AWS
+- Apache Spark
+min_years_exp: 7
+salary_min: 150000
+salary_max: 190000
+reason: Staff Data Engineer focuses on building data systems that will support predictive
+  analytics, contributing to overall growth outcomes.

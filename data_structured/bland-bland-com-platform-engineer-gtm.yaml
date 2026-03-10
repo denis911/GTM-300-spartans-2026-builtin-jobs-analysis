@@ -1,0 +1,142 @@
+title: Platform Engineer, GTM
+company: Bland (bland.com)
+category:
+- Artificial Intelligence
+- Information Technology
+location: San Francisco, California, USA
+date_posted: '2026-03-02'
+description_html: <b><strong><u>About Bland AI</u></strong></b><b></b><p>At Bland,
+  we’re building the most human AI phone agents in the world.</p><p>We’re a Series
+  B startup backed by Emergence Capital, Y Combinator, and the founders of PayPal
+  and Twilio, and we’ve raised $65M to reimagine the future of customer communication.
+  Today, we’re a 60 person team powering voice automation for companies like Better.com,
+  helping them deliver friendly, helpful, and human-like conversations at massive
+  scale.</p><p></p><b><strong><u>Why This Role Exists</u></strong></b><p>We are building
+  a centralized platform team to own all internal systems, covering revenue tooling,
+  HR, finance, security enablement, and observability. Instead of scattered ownership,
+  everything runs through one intake, one roadmap, and one engineering function.</p><p>You’ll
+  help architect and build that foundation. If you see a system that feels manual,
+  fragmented, or fragile, you fix it.</p><p>This role starts with GTM infrastructure
+  (HubSpot + Clay) and expands into automation, integration infrastructure, and reliability
+  across the company.</p><p></p><b><strong><u>What You’ll Do</u></strong></b><b></b><b>Build
+  the GTM Engine</b><ul><li><p>Design and own our HubSpot data model (objects, workflows,
+  scoring, reporting)</p></li><li><p>Build enrichment and outbound automation in Clay</p></li><li><p>Write
+  scripts and services to integrate product data into revenue systems</p></li><li><p>Build
+  dashboards and data pipelines for full funnel visibility</p></li></ul><b>Engineer
+  End-to-End Integrations</b><ul><li><p>Design and implement APIs and automation connecting
+  revenue, finance, and internal systems</p></li><li><p>Eliminate manual workflows
+  with code, not process</p></li><li><p>Debug and refactor brittle integrations for
+  long-term reliability</p></li></ul><b>Build for Reliability</b><ul><li><p>Implement
+  logging, retries, and error handling across integrations</p></li><li><p>Monitor
+  systems for data drift and silent failure</p></li><li><p>Improve internal observability
+  and incident workflows</p></li></ul><b>Support Security &amp; Internal Tooling</b><ul><li><p>Integrate
+  identity and access controls into internal systems</p></li><li><p>Improve automation
+  across HR, finance, and corporate tooling</p></li><li><p>Build infrastructure that
+  scales without increasing headcount</p></li></ul><b><strong><u>Qualifications</u></strong></b><ul><li><p>Graduating
+  (or recently graduated) in CS or a similar technical field</p></li><li><p>Have built
+  real things — internships or serious projects with production-level code</p></li><li><p>Can
+  take an ambiguous problem, design an approach, and unblock yourself without hand-holding</p></li><li><p>Bias
+  toward shipping — move fast, but don’t cut corners on quality</p></li><li><p>Want
+  real ownership early, not a ticket-taking role</p></li></ul><p></p><b><strong>Why
+  It’s Compelling</strong></b><p>In 12 months, you won’t just "know a CRM." You’ll
+  understand how revenue systems, automation, observability, and internal infrastructure
+  actually connect inside a scaling company.</p><p>Relentlessness matters most. If
+  you’re a fast learner who gets things done, even without perfect experience, apply.</p><p></p><b><strong><u>Compensation
+  &amp; Perks</u></strong></b><ul><li><p><strong>Salary:</strong> $120k to $160k base
+  + meaningful equity + benefits.</p></li><li><p><strong>Location:</strong> Gorgeous
+  office in <strong>Jackson Square, San Francisco </strong>(rooftop views and great
+  coffee shops nearby)</p></li></ul>
+description_text: 'About Bland AI At Bland, we’re building the most human AI phone
+  agents in the world. We’re a Series B startup backed by Emergence Capital, Y Combinator,
+  and the founders of PayPal and Twilio, and we’ve raised $65M to reimagine the future
+  of customer communication. Today, we’re a 60 person team powering voice automation
+  for companies like Better.com, helping them deliver friendly, helpful, and human-like
+  conversations at massive scale. Why This Role Exists We are building a centralized
+  platform team to own all internal systems, covering revenue tooling, HR, finance,
+  security enablement, and observability. Instead of scattered ownership, everything
+  runs through one intake, one roadmap, and one engineering function. You’ll help
+  architect and build that foundation. If you see a system that feels manual, fragmented,
+  or fragile, you fix it. This role starts with GTM infrastructure (HubSpot + Clay)
+  and expands into automation, integration infrastructure, and reliability across
+  the company. What You’ll Do Build the GTM Engine Design and own our HubSpot data
+  model (objects, workflows, scoring, reporting) Build enrichment and outbound automation
+  in Clay Write scripts and services to integrate product data into revenue systems
+  Build dashboards and data pipelines for full funnel visibility Engineer End-to-End
+  Integrations Design and implement APIs and automation connecting revenue, finance,
+  and internal systems Eliminate manual workflows with code, not process Debug and
+  refactor brittle integrations for long-term reliability Build for Reliability Implement
+  logging, retries, and error handling across integrations Monitor systems for data
+  drift and silent failure Improve internal observability and incident workflows Support
+  Security &amp; Internal Tooling Integrate identity and access controls into internal
+  systems Improve automation across HR, finance, and corporate tooling Build infrastructure
+  that scales without increasing headcount Qualifications Graduating (or recently
+  graduated) in CS or a similar technical field Have built real things — internships
+  or serious projects with production-level code Can take an ambiguous problem, design
+  an approach, and unblock yourself without hand-holding Bias toward shipping — move
+  fast, but don’t cut corners on quality Want real ownership early, not a ticket-taking
+  role Why It’s Compelling In 12 months, you won’t just "know a CRM." You’ll understand
+  how revenue systems, automation, observability, and internal infrastructure actually
+  connect inside a scaling company. Relentlessness matters most. If you’re a fast
+  learner who gets things done, even without perfect experience, apply. Compensation
+  &amp; Perks Salary: $120k to $160k base + meaningful equity + benefits. Location:
+  Gorgeous office in Jackson Square, San Francisco (rooftop views and great coffee
+  shops nearby)'
+salary_json_min: 120000
+salary_json_max: 160000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: The enterprise first solution for AI phone calls
+url: https://builtin.com/job/platform-engineer-gtm/8619891
+source: builtin.com
+description: 'About Bland AI At Bland, we’re building the most human AI phone agents
+  in the world. We’re a Series B startup backed by Emergence Capital, Y Combinator,
+  and the founders of PayPal and Twilio, and we’ve raised $65M to reimagine the future
+  of customer communication. Today, we’re a 60 person team powering voice automation
+  for companies like Better.com, helping them deliver friendly, helpful, and human-like
+  conversations at massive scale. Why This Role Exists We are building a centralized
+  platform team to own all internal systems, covering revenue tooling, HR, finance,
+  security enablement, and observability. Instead of scattered ownership, everything
+  runs through one intake, one roadmap, and one engineering function. You’ll help
+  architect and build that foundation. If you see a system that feels manual, fragmented,
+  or fragile, you fix it. This role starts with GTM infrastructure (HubSpot + Clay)
+  and expands into automation, integration infrastructure, and reliability across
+  the company. What You’ll Do Build the GTM Engine Design and own our HubSpot data
+  model (objects, workflows, scoring, reporting) Build enrichment and outbound automation
+  in Clay Write scripts and services to integrate product data into revenue systems
+  Build dashboards and data pipelines for full funnel visibility Engineer End-to-End
+  Integrations Design and implement APIs and automation connecting revenue, finance,
+  and internal systems Eliminate manual workflows with code, not process Debug and
+  refactor brittle integrations for long-term reliability Build for Reliability Implement
+  logging, retries, and error handling across integrations Monitor systems for data
+  drift and silent failure Improve internal observability and incident workflows Support
+  Security &amp; Internal Tooling Integrate identity and access controls into internal
+  systems Improve automation across HR, finance, and corporate tooling Build infrastructure
+  that scales without increasing headcount Qualifications Graduating (or recently
+  graduated) in CS or a similar technical field Have built real things — internships
+  or serious projects with production-level code Can take an ambiguous problem, design
+  an approach, and unblock yourself without hand-holding Bias toward shipping — move
+  fast, but don’t cut corners on quality Want real ownership early, not a ticket-taking
+  role Why It’s Compelling In 12 months, you won’t just "know a CRM." You’ll understand
+  how revenue systems, automation, observability, and internal infrastructure actually
+  connect inside a scaling company. Relentlessness matters most. If you’re a fast
+  learner who gets things done, even without perfect experience, apply. Compensation
+  &amp; Perks Salary: $120k to $160k base + meaningful equity + benefits. Location:
+  Gorgeous office in Jackson Square, San Francisco (rooftop views and great coffee
+  shops nearby)'
+postedDate: '2026-03-02'
+salary: USD 120,000 - 160,000
+id: 19
+is_gtm_technical: true
+tech_stack:
+- HubSpot
+- Clay
+min_years_exp: null
+salary_min: 120000
+salary_max: 160000
+reason: The role is designed for building and optimizing GTM infrastructures, making
+  significant technical contributions in a startup environment.

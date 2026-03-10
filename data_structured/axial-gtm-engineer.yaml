@@ -1,0 +1,345 @@
+title: GTM Engineer
+company: Axial
+category:
+- Fintech
+- Information Technology
+- Software
+location: New York, New York, USA
+date_posted: '2026-03-08'
+description_html: '<p><strong>Location:</strong> New York City<br><strong>In-office:</strong>
+  3 days per week (Tuesday, Wednesday, Thursday)<br><strong>Reports to:</strong> Senior
+  Manager, Business Operations</p><p><strong>About Axial</strong></p><p>Axial is the
+  trusted online M&amp;A platform connecting buyers and sellers of $5M-$100M American
+  privately held companies. Trusted by over 4,500 professional acquirers and 3,000
+  M&amp;A advisors, we have built a pioneering digital transaction platform that radically
+  improves the speed, confidentiality, and success by which private companies achieve
+  successful exits.</p><p>Axial is a founder-led, profitable company based in New
+  York City with a hybrid office culture. We’ve been profitable since 2020 and are
+  the category leader in our market. We are long-term oriented, values-driven, and
+  focused on building a lasting company committed to member trust, operational excellence,
+  and profitable long-term growth.</p><p>In 2025, over 12,500 private companies pursued
+  an exit via the platform, leading to over 3,000,000 platform connections and over
+  $1B in annual transaction volume (Closed Transactions).</p><p><strong>Overview</strong></p><p>We
+  are seeking a technically oriented GTM Engineer to design, build, and operate the
+  systems that power Axial’s go-to-market function. Reporting to the Business Operations
+  Lead, this role sits at the intersection of BizOps, GTM, and Product.</p><p>This
+  is a hands-on technical operations role. You will own and improve the systems that
+  drive GTM execution, including workflow orchestration, data pipelines, and AI-driven
+  automation. Your work will reduce manual effort, increase reliability, and improve
+  how internal teams and members operate.</p><p>The initial focus of the role is to
+  own and evolve AI-powered systems across Axial’s member lifecycle. You will design
+  and deploy intelligent workflows that qualify and verify new members in real time,
+  build automation that resolves support requests without human intervention, develop
+  agentic SDR systems that proactively engage the right prospects, and elevate our
+  AI-driven chat into a high-quality, trusted member experience. Your work will power
+  critical workflows that directly impact revenue, member trust, and operational leverage.</p><p>This
+  role is best suited for someone comfortable owning systems end-to-end, from initial
+  architecture and implementation through ongoing monitoring and improvement. You
+  care deeply about data quality, reliability, and user experience, and take pride
+  in building durable systems that materially improve how the company operates.</p><p><strong>Responsibilities</strong></p><ul><li><strong>AI
+  and Agentic Systems Development: </strong>Design, build, and operate AI-driven systems
+  that power core GTM and member workflows. Deploy production-grade tooling and own
+  its reliability and performance. Measure results against defined metrics and continuously
+  improve.</li><li><strong>Workflow Orchestration and Automation: </strong>Build and
+  maintain scalable workflows using tools such as n8n, Clay, Zapier, Google Apps Script,
+  and custom code. Translate business logic into reliable multi-system automations
+  that reduce manual work and enforce consistency.</li><li><strong>Internal Tools
+  and Lightweight Product Development:</strong> Design and build custom internal tools
+  and lightweight product surfaces that support GTM and member operations. Use platforms
+  such as Superblocks to build reliable applications that integrate with core systems
+  and increase operational leverage.</li><li><strong>Data Infrastructure for AI and
+  Automation: </strong>Help design and maintain the data foundations required for
+  AI-driven and automated workflows. Maintain accurate, structured, and accessible
+  GTM data to power automation and agentic systems.</li><li><strong>GTM Systems:</strong>
+  Work within Axial’s core GTM tech stack to configure workflows, manage integrations,
+  troubleshoot issues, and maintain system stability.</li><li><strong>Strategic Projects
+  and Experimentation:</strong> Lead exploratory projects focused on new tools, architectures,
+  and automation opportunities. Prototype quickly and convert successful experiments
+  into stable production systems.</li><li><strong>Cross-Functional Partnership: </strong>Partner
+  closely with BizOps, GTM, Product, and Engineering to translate real-world workflows
+  into technical solutions.</li></ul><p><strong>Qualifications</strong></p><ul><li><strong>Experience:</strong>
+  3-5 years of experience in BizOps, Engineering, RevOps, SalesOps, GTM Engineering,
+  or a related role at a high-growth technology company or startup.</li><li><strong>Automation
+  and Systems Building: </strong>Hands-on experience designing and building workflow
+  automations using tools such as n8n, Clay, Zapier, or Google Apps Script. Experience
+  building internal tools and applications that support operational and GTM workflows.</li><li><strong>GTM
+  Systems Experience: </strong>Strong working knowledge of Salesforce and related
+  GTM systems such as HubSpot, Outreach, or Gong. Experience with configuration, integrations,
+  and data hygiene beyond basic administration.</li><li><strong>Technical Proficiency:
+  </strong>Ability to write and maintain code to support automation and systems integration
+  in JavaScript, SQL, Python, or Apps Script. Comfortable working with APIs, webhooks,
+  and structured data. Familiarity with AI-assisted development tools.&nbsp;</li><li><strong>Data
+  and Analytics: </strong>Strong comfort working with operational data to support
+  reporting and decision making. Able to assess data quality and translate business
+  questions into reliable reporting and automated insights.</li><li><strong>Ownership
+  and Execution: </strong>Demonstrated ability to own projects from definition through
+  delivery. Operates effectively in ambiguity and balances speed with reliability.
+  High integrity and accountability, with a track record of building durable systems
+  others rely on.</li><li><strong>Communication and Collaboration: </strong>Clear
+  written and verbal communicator who works effectively with technical and non-technical
+  partners across GTM, Business Operations, and Product.</li></ul><p><strong>Working
+  at Axial</strong></p><p>We are a small and tight-knit team (currently 60 employees),
+  and you’ll have the opportunity to have a direct impact on company growth. We have
+  a modern, well-equipped office in Manhattan on 30th and Park. The atmosphere is
+  collegial, the office is open and inviting, and full of accommodations (kitchen,
+  snacks, coffee, relaxing spaces, games, and an upright piano). We work hard together,
+  but also like to have fun together, and often enjoy company events like trivia,
+  game nights, and our annual Axialite Day.</p><p>At Axial, you will also enjoy:</p><ul><li>Working
+  with a great team of smart, motivated people</li><li>Robust medical, dental, and
+  vision insurance, paid for by Axial at nearly 100%</li><li>401k program</li><li>Flexible
+  vacation policy</li><li>Paid Parental Leave Policy</li><li>Monthly Health &amp;
+  Wellness stipend</li><li>Pre-tax commuter program</li></ul><p><strong>Below are
+  the values we subscribe to as a company</strong></p><ul><li><strong>Obsess Over
+  Member Trust</strong>: Your daily choices reflect your awareness that we facilitate
+  vital life-altering transactions. You take this responsibility seriously and it’s
+  top of mind.</li><li><strong>Expect and Deliver Excellence</strong>: You demonstrate
+  consistency so that your colleagues feel confident partnering and relying on you.
+  You demonstrate a personal commitment to continuous improvement.</li><li><strong>Communication
+  Matters</strong>: You are concise and articulate in your communication, external
+  or internal. You listen well and genuinely.</li><li><strong>Invent and Simplify</strong>:
+  You are open-minded, looking for great new ideas that can elevate and even transform
+  the member experience. You find novel ways to simplify complex status quos.</li><li><strong>Be
+  an Owner</strong>: You think about the long-term effects of your decisions. You
+  invest real time in building relationships with your colleagues.</li></ul><p><strong>Below
+  are the traits we look for and actively cultivate in every Axialite</strong></p><ul><li><strong>Humility:
+  </strong>We seek truth, not credit, and learn from anyone.</li><li><strong>Positivity:
+  </strong>We bring energy, optimism, and belief, even when it is hard.</li><li><strong>Grit:
+  </strong>We show up, follow through, and push beyond the first draft.</li><li><strong>Discernment:
+  </strong>We choose wisely, prioritize sharply, and ask better questions.</li><li><strong>Accountability:
+  </strong>We take full responsibility for our work and results.</li></ul><p><p><p>NY
+  Pay Range</p><p><span>$125,000</span><span>—</span><span>$175,000 USD</span></p></p></p>'
+description_text: 'Location: New York City In-office: 3 days per week (Tuesday, Wednesday,
+  Thursday) Reports to: Senior Manager, Business Operations About Axial Axial is the
+  trusted online M&amp;A platform connecting buyers and sellers of $5M-$100M American
+  privately held companies. Trusted by over 4,500 professional acquirers and 3,000
+  M&amp;A advisors, we have built a pioneering digital transaction platform that radically
+  improves the speed, confidentiality, and success by which private companies achieve
+  successful exits. Axial is a founder-led, profitable company based in New York City
+  with a hybrid office culture. We’ve been profitable since 2020 and are the category
+  leader in our market. We are long-term oriented, values-driven, and focused on building
+  a lasting company committed to member trust, operational excellence, and profitable
+  long-term growth. In 2025, over 12,500 private companies pursued an exit via the
+  platform, leading to over 3,000,000 platform connections and over $1B in annual
+  transaction volume (Closed Transactions). Overview We are seeking a technically
+  oriented GTM Engineer to design, build, and operate the systems that power Axial’s
+  go-to-market function. Reporting to the Business Operations Lead, this role sits
+  at the intersection of BizOps, GTM, and Product. This is a hands-on technical operations
+  role. You will own and improve the systems that drive GTM execution, including workflow
+  orchestration, data pipelines, and AI-driven automation. Your work will reduce manual
+  effort, increase reliability, and improve how internal teams and members operate.
+  The initial focus of the role is to own and evolve AI-powered systems across Axial’s
+  member lifecycle. You will design and deploy intelligent workflows that qualify
+  and verify new members in real time, build automation that resolves support requests
+  without human intervention, develop agentic SDR systems that proactively engage
+  the right prospects, and elevate our AI-driven chat into a high-quality, trusted
+  member experience. Your work will power critical workflows that directly impact
+  revenue, member trust, and operational leverage. This role is best suited for someone
+  comfortable owning systems end-to-end, from initial architecture and implementation
+  through ongoing monitoring and improvement. You care deeply about data quality,
+  reliability, and user experience, and take pride in building durable systems that
+  materially improve how the company operates. Responsibilities AI and Agentic Systems
+  Development: Design, build, and operate AI-driven systems that power core GTM and
+  member workflows. Deploy production-grade tooling and own its reliability and performance.
+  Measure results against defined metrics and continuously improve. Workflow Orchestration
+  and Automation: Build and maintain scalable workflows using tools such as n8n, Clay,
+  Zapier, Google Apps Script, and custom code. Translate business logic into reliable
+  multi-system automations that reduce manual work and enforce consistency. Internal
+  Tools and Lightweight Product Development: Design and build custom internal tools
+  and lightweight product surfaces that support GTM and member operations. Use platforms
+  such as Superblocks to build reliable applications that integrate with core systems
+  and increase operational leverage. Data Infrastructure for AI and Automation: Help
+  design and maintain the data foundations required for AI-driven and automated workflows.
+  Maintain accurate, structured, and accessible GTM data to power automation and agentic
+  systems. GTM Systems: Work within Axial’s core GTM tech stack to configure workflows,
+  manage integrations, troubleshoot issues, and maintain system stability. Strategic
+  Projects and Experimentation: Lead exploratory projects focused on new tools, architectures,
+  and automation opportunities. Prototype quickly and convert successful experiments
+  into stable production systems. Cross-Functional Partnership: Partner closely with
+  BizOps, GTM, Product, and Engineering to translate real-world workflows into technical
+  solutions. Qualifications Experience: 3-5 years of experience in BizOps, Engineering,
+  RevOps, SalesOps, GTM Engineering, or a related role at a high-growth technology
+  company or startup. Automation and Systems Building: Hands-on experience designing
+  and building workflow automations using tools such as n8n, Clay, Zapier, or Google
+  Apps Script. Experience building internal tools and applications that support operational
+  and GTM workflows. GTM Systems Experience: Strong working knowledge of Salesforce
+  and related GTM systems such as HubSpot, Outreach, or Gong. Experience with configuration,
+  integrations, and data hygiene beyond basic administration. Technical Proficiency:
+  Ability to write and maintain code to support automation and systems integration
+  in JavaScript, SQL, Python, or Apps Script. Comfortable working with APIs, webhooks,
+  and structured data. Familiarity with AI-assisted development tools.&nbsp; Data
+  and Analytics: Strong comfort working with operational data to support reporting
+  and decision making. Able to assess data quality and translate business questions
+  into reliable reporting and automated insights. Ownership and Execution: Demonstrated
+  ability to own projects from definition through delivery. Operates effectively in
+  ambiguity and balances speed with reliability. High integrity and accountability,
+  with a track record of building durable systems others rely on. Communication and
+  Collaboration: Clear written and verbal communicator who works effectively with
+  technical and non-technical partners across GTM, Business Operations, and Product.
+  Working at Axial We are a small and tight-knit team (currently 60 employees), and
+  you’ll have the opportunity to have a direct impact on company growth. We have a
+  modern, well-equipped office in Manhattan on 30th and Park. The atmosphere is collegial,
+  the office is open and inviting, and full of accommodations (kitchen, snacks, coffee,
+  relaxing spaces, games, and an upright piano). We work hard together, but also like
+  to have fun together, and often enjoy company events like trivia, game nights, and
+  our annual Axialite Day. At Axial, you will also enjoy: Working with a great team
+  of smart, motivated people Robust medical, dental, and vision insurance, paid for
+  by Axial at nearly 100% 401k program Flexible vacation policy Paid Parental Leave
+  Policy Monthly Health &amp; Wellness stipend Pre-tax commuter program Below are
+  the values we subscribe to as a company Obsess Over Member Trust : Your daily choices
+  reflect your awareness that we facilitate vital life-altering transactions. You
+  take this responsibility seriously and it’s top of mind. Expect and Deliver Excellence
+  : You demonstrate consistency so that your colleagues feel confident partnering
+  and relying on you. You demonstrate a personal commitment to continuous improvement.
+  Communication Matters : You are concise and articulate in your communication, external
+  or internal. You listen well and genuinely. Invent and Simplify : You are open-minded,
+  looking for great new ideas that can elevate and even transform the member experience.
+  You find novel ways to simplify complex status quos. Be an Owner : You think about
+  the long-term effects of your decisions. You invest real time in building relationships
+  with your colleagues. Below are the traits we look for and actively cultivate in
+  every Axialite Humility: We seek truth, not credit, and learn from anyone. Positivity:
+  We bring energy, optimism, and belief, even when it is hard. Grit: We show up, follow
+  through, and push beyond the first draft. Discernment: We choose wisely, prioritize
+  sharply, and ask better questions. Accountability: We take full responsibility for
+  our work and results. NY Pay Range $125,000 — $175,000 USD'
+salary_json_min: 125000
+salary_json_max: 175000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: 'Axial (axial.net) operates the largest marketplace on the internet
+  for buying, selling, and financing American small businesses (businesses with $5M-$100M
+  in revenues).Over 20,000 professional investors, M&A advisors and CEOs use Axial''s
+  tools, data, and marketplace to source, manage and execute small business M&A transactions.
+  Axial members have closed over 2,500 deals since 2010, amounting to more than $25
+  Billion in closed transaction volume.Market OverviewAt the core of the US economy
+  are "lower middle market" businesses - businesses generating $5M to $100M in revenue.
+  In the US alone, there are over 350,000 companies in this size range. These small
+  businesses are neither large enough to go public, nor are they able to attract great
+  advice from national or global investment banks. In addition, the wholesale absence
+  of reliable data on transactions and market participants has made this the most
+  broken underperforming segment of private capital markets.Axial is transforming
+  the status quo in this capital market, providing companies, their trusted advisors,
+  and their capital partners with high quality purpose-built tools, unique data, and
+  marketplace infrastructure.Below are the values we subscribe to as a company:--
+  Obsess Over Member Trust: Your daily choices reflect your awareness that we facilitate
+  vital life-altering transactions. You take this responsibility seriously and it’s
+  top of mind.-- Expect and Deliver Excellence: You demonstrate consistency so that
+  your colleagues feel confident partnering and relying on you. You demonstrate a
+  personal commitment to continuous improvement.-- Communication Matters: You are
+  concise and articulate in your communication, external or internal. You listen well
+  and genuinely.-- Invent and Simplify: You are open-minded, looking for great new
+  ideas that can elevate and even transform the member experience. You find novel
+  ways to simplify complex status quos.-- Be an Owner: You think about the long-term
+  effects of your decisions. You invest real time in building relationships with your
+  colleagues.'
+url: https://builtin.com/job/gtm-engineer/8456701
+source: builtin.com
+description: 'Location: New York City In-office: 3 days per week (Tuesday, Wednesday,
+  Thursday) Reports to: Senior Manager, Business Operations About Axial Axial is the
+  trusted online M&amp;A platform connecting buyers and sellers of $5M-$100M American
+  privately held companies. Trusted by over 4,500 professional acquirers and 3,000
+  M&amp;A advisors, we have built a pioneering digital transaction platform that radically
+  improves the speed, confidentiality, and success by which private companies achieve
+  successful exits. Axial is a founder-led, profitable company based in New York City
+  with a hybrid office culture. We’ve been profitable since 2020 and are the category
+  leader in our market. We are long-term oriented, values-driven, and focused on building
+  a lasting company committed to member trust, operational excellence, and profitable
+  long-term growth. In 2025, over 12,500 private companies pursued an exit via the
+  platform, leading to over 3,000,000 platform connections and over $1B in annual
+  transaction volume (Closed Transactions). Overview We are seeking a technically
+  oriented GTM Engineer to design, build, and operate the systems that power Axial’s
+  go-to-market function. Reporting to the Business Operations Lead, this role sits
+  at the intersection of BizOps, GTM, and Product. This is a hands-on technical operations
+  role. You will own and improve the systems that drive GTM execution, including workflow
+  orchestration, data pipelines, and AI-driven automation. Your work will reduce manual
+  effort, increase reliability, and improve how internal teams and members operate.
+  The initial focus of the role is to own and evolve AI-powered systems across Axial’s
+  member lifecycle. You will design and deploy intelligent workflows that qualify
+  and verify new members in real time, build automation that resolves support requests
+  without human intervention, develop agentic SDR systems that proactively engage
+  the right prospects, and elevate our AI-driven chat into a high-quality, trusted
+  member experience. Your work will power critical workflows that directly impact
+  revenue, member trust, and operational leverage. This role is best suited for someone
+  comfortable owning systems end-to-end, from initial architecture and implementation
+  through ongoing monitoring and improvement. You care deeply about data quality,
+  reliability, and user experience, and take pride in building durable systems that
+  materially improve how the company operates. Responsibilities AI and Agentic Systems
+  Development: Design, build, and operate AI-driven systems that power core GTM and
+  member workflows. Deploy production-grade tooling and own its reliability and performance.
+  Measure results against defined metrics and continuously improve. Workflow Orchestration
+  and Automation: Build and maintain scalable workflows using tools such as n8n, Clay,
+  Zapier, Google Apps Script, and custom code. Translate business logic into reliable
+  multi-system automations that reduce manual work and enforce consistency. Internal
+  Tools and Lightweight Product Development: Design and build custom internal tools
+  and lightweight product surfaces that support GTM and member operations. Use platforms
+  such as Superblocks to build reliable applications that integrate with core systems
+  and increase operational leverage. Data Infrastructure for AI and Automation: Help
+  design and maintain the data foundations required for AI-driven and automated workflows.
+  Maintain accurate, structured, and accessible GTM data to power automation and agentic
+  systems. GTM Systems: Work within Axial’s core GTM tech stack to configure workflows,
+  manage integrations, troubleshoot issues, and maintain system stability. Strategic
+  Projects and Experimentation: Lead exploratory projects focused on new tools, architectures,
+  and automation opportunities. Prototype quickly and convert successful experiments
+  into stable production systems. Cross-Functional Partnership: Partner closely with
+  BizOps, GTM, Product, and Engineering to translate real-world workflows into technical
+  solutions. Qualifications Experience: 3-5 years of experience in BizOps, Engineering,
+  RevOps, SalesOps, GTM Engineering, or a related role at a high-growth technology
+  company or startup. Automation and Systems Building: Hands-on experience designing
+  and building workflow automations using tools such as n8n, Clay, Zapier, or Google
+  Apps Script. Experience building internal tools and applications that support operational
+  and GTM workflows. GTM Systems Experience: Strong working knowledge of Salesforce
+  and related GTM systems such as HubSpot, Outreach, or Gong. Experience with configuration,
+  integrations, and data hygiene beyond basic administration. Technical Proficiency:
+  Ability to write and maintain code to support automation and systems integration
+  in JavaScript, SQL, Python, or Apps Script. Comfortable working with APIs, webhooks,
+  and structured data. Familiarity with AI-assisted development tools.&nbsp; Data
+  and Analytics: Strong comfort working with operational data to support reporting
+  and decision making. Able to assess data quality and translate business questions
+  into reliable reporting and automated insights. Ownership and Execution: Demonstrated
+  ability to own projects from definition through delivery. Operates effectively in
+  ambiguity and balances speed with reliability. High integrity and accountability,
+  with a track record of building durable systems others rely on. Communication and
+  Collaboration: Clear written and verbal communicator who works effectively with
+  technical and non-technical partners across GTM, Business Operations, and Product.
+  Working at Axial We are a small and tight-knit team (currently 60 employees), and
+  you’ll have the opportunity to have a direct impact on company growth. We have a
+  modern, well-equipped office in Manhattan on 30th and Park. The atmosphere is collegial,
+  the office is open and inviting, and full of accommodations (kitchen, snacks, coffee,
+  relaxing spaces, games, and an upright piano). We work hard together, but also like
+  to have fun together, and often enjoy company events like trivia, game nights, and
+  our annual Axialite Day. At Axial, you will also enjoy: Working with a great team
+  of smart, motivated people Robust medical, dental, and vision insurance, paid for
+  by Axial at nearly 100% 401k program Flexible vacation policy Paid Parental Leave
+  Policy Monthly Health &amp; Wellness stipend Pre-tax commuter program Below are
+  the values we subscribe to as a company Obsess Over Member Trust : Your daily choices
+  reflect your awareness that we facilitate vital life-altering transactions. You
+  take this responsibility seriously and it’s top of mind. Expect and Deliver Excellence
+  : You demonstrate consistency so that your colleagues feel confident partnering
+  and relying on you. You demonstrate a personal commitment to continuous improvement.
+  Communication Matters : You are concise and articulate in your communication, external
+  or internal. You listen well and genuinely. Invent and Simplify : You are open-minded,
+  looking for great new ideas that can elevate and even transform the member experience.
+  You find novel ways to simplify complex status quos. Be an Owner : You think about
+  the long-term effects of your decisions. You invest real time in building relationships
+  with your colleagues. Below are the traits we look for and actively cultivate in
+  every Axialite Humility: We seek truth, not credit, and learn from anyone. Positivity:
+  We bring energy, optimism, and belief, even when it is hard. Grit: We show up, follow
+  through, and push beyond the first draft. Discernment: We choose wisely, prioritize
+  sharply, and ask better questions. Accountability: We take full responsibility for
+  our work and results. NY Pay Range $125,000 — $175,000 USD'
+postedDate: '2026-03-08'
+salary: USD 125,000 - 175,000
+id: 11
+is_gtm_technical: true
+tech_stack:
+- n8n
+- Clay
+- API integrations
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: Focuses on technical systems development crucial for GTM function.

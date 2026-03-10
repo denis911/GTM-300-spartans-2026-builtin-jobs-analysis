@@ -1,0 +1,145 @@
+title: Senior GTM Engineer
+company: Multiplier
+category:
+- HR Tech
+- Information Technology
+- Software
+location: CAN
+date_posted: '2026-02-20'
+description_html: '<b><span><strong>About the Role</strong></span></b><p><span>As
+  the GTM Data Engineer, you will be responsible for integrating the revenue stack
+  and building and optimizing the robust and scalable data pipelines that fuel the
+  GTM system. You will be architecting the engine that powers our sales funnel, marketing
+  attribution, and customer health scoring, providing data-driven recommendations
+  that help accelerate growth and improve GTM efficiency.</span></p><p><span>The ideal
+  candidate possesses the technical rigor of a Data Engineer and the strategic mindset
+  of a GTM specialist.</span></p><p></p><p></p><b><span><strong>Key Responsibilities</strong></span></b><p><span><strong>GTM
+  Systems &amp; Process Excellence</strong></span></p><ul><li><p><span>Lead the management
+  and connection of the GTM systems stack—including CRM, Sales engagement, CDP, data
+  enrichment etc tools into a cohesive, scalable stack.</span></p></li><li><p><span>Drive
+  system and process improvements to increase efficiency, reduce friction, and strengthen
+  data quality.</span></p></li><li><p><span>Partner with Product, Sales, Marketing,
+  and CS leadership to operationalize new GTM motions and ensure system support.</span></p></li><li><p><span>Translate
+  business requirements from stakeholders into technical schemas that support GTM
+  use cases such as 360-degree view of the customer journey creation, automated outbound
+  sequencing and territory management.</span></p></li></ul><b><span><strong>Data Architecture
+  &amp; Pipeline Engineering</strong></span></b><ul><li><p><span>Create seamless and
+  scalable data integrations between all GTM tech stack components.</span></p></li><li><p><span>Design,
+  build, and maintain scalable ELT/ETL pipelines that centralize data from disparate
+  GTM sources into our data warehouse.</span></p></li><li><p><span>Own the "Reverse
+  ETL" process to push actionable insights from the warehouse back into frontline
+  tools (e.g., pushing lead scores into Salesforce or churn alerts into Slack).</span></p></li><li><p><span>Ensure
+  data quality and observability across the GTM stack and implement processes and
+  tools to monitor data quality, ensuring the reliability and integrity of the "Single
+  Source of Truth" data assets.</span></p></li></ul><b><span><strong>3. Analytics
+  &amp; Optimization</strong></span></b><ul><li><p><span>Build and optimize dbt models
+  to transform raw GTM data into clean, analysis-ready tables.</span></p></li><li><p><span>Collaborate
+  with Data Science to implement predictive models for Propensity to Buy and Churn
+  Prediction directly into the GTM workflow.</span></p></li></ul><p></p><p></p><b><span><strong>Preferred
+  Experience and Qualifications:</strong></span></b><ul><li><p><span>Bachelor’s or
+  Master’s degree in Marketing, technical or business-related field.</span></p></li><li><p><span>5+
+  years of experience and deep technical understanding of GTM systems, including Salesforce
+  (SOQL, APIs), Marketing Automation platforms for Reverse ETL.</span></p></li><li><p><span>High
+  proficiency in SQL and Python. Experience with dbt (Data Build Tool) and cloud warehouses
+  (Snowflake, BigQuery, or Redshift).</span></p></li><li><p><span>Orchestration: Experience
+  with Airflow, Dagster, or Fivetran.</span></p></li><li><p><span>API Mastery: Ability
+  to work with REST APIs to pull data from platforms that don''t have native integrations.</span></p></li><li><p><span>Proven
+  experience building and maintaining data pipelines for GTM-focused data (leads,
+  accounts, opportunities, bookings).</span></p></li><li><p><span>Exceptional analytical
+  and problem-solving skills; able to move from data to insight to action.</span></p></li><li><p><span>Excellent
+  communication and stakeholder management skills across functions and seniority levels.</span></p></li></ul>'
+description_text: 'About the Role As the GTM Data Engineer, you will be responsible
+  for integrating the revenue stack and building and optimizing the robust and scalable
+  data pipelines that fuel the GTM system. You will be architecting the engine that
+  powers our sales funnel, marketing attribution, and customer health scoring, providing
+  data-driven recommendations that help accelerate growth and improve GTM efficiency.
+  The ideal candidate possesses the technical rigor of a Data Engineer and the strategic
+  mindset of a GTM specialist. Key Responsibilities GTM Systems &amp; Process Excellence
+  Lead the management and connection of the GTM systems stack—including CRM, Sales
+  engagement, CDP, data enrichment etc tools into a cohesive, scalable stack. Drive
+  system and process improvements to increase efficiency, reduce friction, and strengthen
+  data quality. Partner with Product, Sales, Marketing, and CS leadership to operationalize
+  new GTM motions and ensure system support. Translate business requirements from
+  stakeholders into technical schemas that support GTM use cases such as 360-degree
+  view of the customer journey creation, automated outbound sequencing and territory
+  management. Data Architecture &amp; Pipeline Engineering Create seamless and scalable
+  data integrations between all GTM tech stack components. Design, build, and maintain
+  scalable ELT/ETL pipelines that centralize data from disparate GTM sources into
+  our data warehouse. Own the "Reverse ETL" process to push actionable insights from
+  the warehouse back into frontline tools (e.g., pushing lead scores into Salesforce
+  or churn alerts into Slack). Ensure data quality and observability across the GTM
+  stack and implement processes and tools to monitor data quality, ensuring the reliability
+  and integrity of the "Single Source of Truth" data assets. 3. Analytics &amp; Optimization
+  Build and optimize dbt models to transform raw GTM data into clean, analysis-ready
+  tables. Collaborate with Data Science to implement predictive models for Propensity
+  to Buy and Churn Prediction directly into the GTM workflow. Preferred Experience
+  and Qualifications: Bachelor’s or Master’s degree in Marketing, technical or business-related
+  field. 5+ years of experience and deep technical understanding of GTM systems, including
+  Salesforce (SOQL, APIs), Marketing Automation platforms for Reverse ETL. High proficiency
+  in SQL and Python. Experience with dbt (Data Build Tool) and cloud warehouses (Snowflake,
+  BigQuery, or Redshift). Orchestration: Experience with Airflow, Dagster, or Fivetran.
+  API Mastery: Ability to work with REST APIs to pull data from platforms that don''t
+  have native integrations. Proven experience building and maintaining data pipelines
+  for GTM-focused data (leads, accounts, opportunities, bookings). Exceptional analytical
+  and problem-solving skills; able to move from data to insight to action. Excellent
+  communication and stakeholder management skills across functions and seniority levels.'
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: Multiplier is a leading global employment platform that makes it
+  easy for companies to employ teams internationally. Its proprietary technology simplifies
+  the employment process by managing the complexities of local compliance, labour
+  contracts, payroll, benefits and taxes.We enable companies to manage their distributed
+  teams via a simple dashboard while taking responsibility for local labor law compliance
+  on their behalf. We are passionate about creating a world where people can get a
+  job they love, without having to leave the people they love.
+url: https://builtin.com/job/senior-gtm-engineer/8548553
+source: builtin.com
+description: 'About the Role As the GTM Data Engineer, you will be responsible for
+  integrating the revenue stack and building and optimizing the robust and scalable
+  data pipelines that fuel the GTM system. You will be architecting the engine that
+  powers our sales funnel, marketing attribution, and customer health scoring, providing
+  data-driven recommendations that help accelerate growth and improve GTM efficiency.
+  The ideal candidate possesses the technical rigor of a Data Engineer and the strategic
+  mindset of a GTM specialist. Key Responsibilities GTM Systems &amp; Process Excellence
+  Lead the management and connection of the GTM systems stack—including CRM, Sales
+  engagement, CDP, data enrichment etc tools into a cohesive, scalable stack. Drive
+  system and process improvements to increase efficiency, reduce friction, and strengthen
+  data quality. Partner with Product, Sales, Marketing, and CS leadership to operationalize
+  new GTM motions and ensure system support. Translate business requirements from
+  stakeholders into technical schemas that support GTM use cases such as 360-degree
+  view of the customer journey creation, automated outbound sequencing and territory
+  management. Data Architecture &amp; Pipeline Engineering Create seamless and scalable
+  data integrations between all GTM tech stack components. Design, build, and maintain
+  scalable ELT/ETL pipelines that centralize data from disparate GTM sources into
+  our data warehouse. Own the "Reverse ETL" process to push actionable insights from
+  the warehouse back into frontline tools (e.g., pushing lead scores into Salesforce
+  or churn alerts into Slack). Ensure data quality and observability across the GTM
+  stack and implement processes and tools to monitor data quality, ensuring the reliability
+  and integrity of the "Single Source of Truth" data assets. 3. Analytics &amp; Optimization
+  Build and optimize dbt models to transform raw GTM data into clean, analysis-ready
+  tables. Collaborate with Data Science to implement predictive models for Propensity
+  to Buy and Churn Prediction directly into the GTM workflow. Preferred Experience
+  and Qualifications: Bachelor’s or Master’s degree in Marketing, technical or business-related
+  field. 5+ years of experience and deep technical understanding of GTM systems, including
+  Salesforce (SOQL, APIs), Marketing Automation platforms for Reverse ETL. High proficiency
+  in SQL and Python. Experience with dbt (Data Build Tool) and cloud warehouses (Snowflake,
+  BigQuery, or Redshift). Orchestration: Experience with Airflow, Dagster, or Fivetran.
+  API Mastery: Ability to work with REST APIs to pull data from platforms that don''t
+  have native integrations. Proven experience building and maintaining data pipelines
+  for GTM-focused data (leads, accounts, opportunities, bookings). Exceptional analytical
+  and problem-solving skills; able to move from data to insight to action. Excellent
+  communication and stakeholder management skills across functions and seniority levels.'
+postedDate: '2026-02-20'
+id: 7
+is_gtm_technical: true
+tech_stack:
+- Salesforce
+- BigQuery
+- Snowflake
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: Combines GTM systems with pipeline optimization in a technical capacity.

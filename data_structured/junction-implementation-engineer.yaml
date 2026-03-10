@@ -1,0 +1,234 @@
+title: Implementation Engineer
+company: Junction
+category: Healthtech
+location: Ohio, USA
+date_posted: '2026-03-09'
+description_html: '<p>Healthcare is in crisis and the people behind the results deserve
+  better. With more and more data coming from wearables, lab tests, and patient–doctor
+  interactions, we’re entering an era where data is abundant.</p><p>Junction is building
+  the infrastructure layer for diagnostic healthcare, making patient data accessible,
+  actionable, and automated across labs and devices. Our mission is simple but ambitious:
+  use health data to unlock unprecedented insight into human health and disease.</p><p>If
+  you''re passionate about how technology can supercharge healthcare, you’ll fit right
+  in.</p><p>Backed by <strong>Creandum, Point Nine, 20VC, YC</strong>, and leading
+  angels, we’re working to solve one of the biggest challenges of our time: making
+  healthcare personalized, proactive, and affordable. We’re already connecting millions
+  and scaling fast.<br></p><p></p><p><strong>Short on time? TL;DR</strong></p><ul><li><p><strong>Ownership:</strong>
+  Lab integrations are how customers start using Junction. We need one clear owner
+  so onboarding stays fast and reliable as volume grows.</p></li><li><p><strong>Salary:</strong>
+  $110,000 - $140,000 + equity</p><p>*<em>The salary range shown is intentionally
+  broad to reflect the range of skills and levels that we are open to for this role.</em></p></li><li><p><strong>You:</strong>
+  A hands-on implementation, solutions or forward-deployed engineer who can onboard
+  lab integrations independently and at a fast-pace, and provide exceptional customer
+  service to partners</p></li><li><p><strong>Location:</strong> Fully remote (EST
+  timezone only)</p></li></ul><p></p><p><strong>Why we need you</strong></p><p>Junction
+  processes millions of lab test orders a year, and are growing our customer base
+  and lab network.</p><p>Each onboarding is complex, and requires a deep technical
+  understanding of the product, project management skills, and the ability to collaborate
+  with a number of internal stakeholders and provide excellent customer service to
+  the partners involved.</p><p>Right now, this work falls between several functions,
+  none of whom are specialists in this. To be the best, Junction needs own owner to
+  manage implementation, maintenance, partner co-ordination and debugging. And lay
+  the foundations to scale this to match our rapid pace of growth</p><p></p><p><strong>What
+  you’ll be doing day to day</strong></p><ul><li><p><strong>Own lab integrations end-to-end:</strong>
+  across the full lifecycle — onboarding, maintenance, relationship management, and
+  offboarding. You’ll handle partner comms, keep internal teams updated, write code
+  when needed, and troubleshoot issues from logs.</p></li><li><p><strong>Be the primary
+  technical point of contact</strong> for lab partners during implementations.</p></li><li><p><strong>Coordinate
+  timelines, requirements, and dependencies</strong> across engineering, ops, and
+  customer success — and keep everyone aligned on what’s happening and what’s next.</p></li><li><p><strong>Spot
+  risks + blockers early</strong> and drive them to resolution.</p></li><li><p><strong>Troubleshoot
+  real issues:</strong> logs, broken workflows, and integration edge cases.</p></li><li><p><strong>Manage
+  ongoing changes:</strong> test menu updates, compendia updates, and lab-specific
+  requirements that evolve over time.</p></li><li><p><strong>Improve how we do integrations:</strong>
+  document what matters, surface recurring issues, and help fix root causes so the
+  next integration is faster and smoother.</p></li></ul><p></p><p><strong>Requirements</strong></p><p>You
+  have:</p><ul><li><p>3+ years doing technical implementations / integrations where
+  you actually got things live with external partners</p></li><li><p>Hands-on integration
+  experience with HL7 and/or APIs, including mapping/config, testing, and moving to
+  production.</p></li><li><p>Experience working in healthcare / diagnostics / labs
+  or similar integration complexity + low tolerance for errors.</p></li></ul><p>You
+  can:</p><ul><li><p>Troubleshoot using logs and evidence and identify what’s broken
+  (and what isn’t) before pulling in engineers.</p></li><li><p>Run partner-facing
+  technical comms: keep momentum, ask for what you need, and give clear updates without
+  escalating everything.</p></li><li><p>Manage multiple implementations at once and
+  keep timelines, dependencies, and decisions straight.</p></li></ul><p></p><p><strong>What
+  this role isn’t</strong></p><ul><li><p><strong>Product discovery:</strong> you won’t
+  own roadmap or product direction</p></li><li><p><strong>Device integrations</strong></p></li><li><p><strong>Pre-sales
+  or post-sales:</strong> this isn’t demos, decks, or closing work</p></li><li><p><strong>A
+  greenfield “design a new platform” role</strong></p></li><li><p><strong>You want
+  simple integrations:</strong> this is not that. Labs are messy and full of edge
+  cases — the harder the integration, the more you should like it.</p></li><li><p><strong>A
+  different task each day:</strong> the core of this role is implementing integrations
+  and improving the process to make them faster, cleaner and more reliable each time’</p></li></ul><p></p><p><strong>How
+  you''ll be compensated</strong></p><ul><li><p>Salary: $110K - $140k + equity</p></li></ul><ul><li><p>Your
+  salary is dependant on your location and experience level, generated by our salary
+  calculator. Read more in our handbook here.</p></li><li><p>Generous early stage
+  options (extended exercise post 2 years employment) </p></li><li><p>Regular in person
+  offsites, last were in Morocco and Tenerife</p></li><li><p>Bi-weekly team happy
+  hours &amp; events remotely</p></li><li><p>Monthly learning budget of $300 for personal
+  development/productivity</p></li><li><p>Flexible, remote-first working - including
+  $1K for home office equipment</p></li><li><p>25 days off a year + national holidays</p></li><li><p>Healthcare
+  cover depending on location</p></li></ul><p></p><p><strong>Oh and before we forget:
+  </strong></p><ul><li><p>Backend Stack: Python (FastAPI), Go, PostgreSQL, Google
+  Cloud Platform (Cloud Run, GKE, Cloud BigTable, etc), Temporal Cloud</p></li><li><p>Frontend
+  Stack: TypeScript, Next.js</p></li><li><p>API docs are here: https://docs.junction.com/</p></li><li><p>Company
+  handbook is here with engineering values + principles</p></li></ul><p></p><p><strong>Important
+  details before applying:</strong></p><ul><li><p>We only hire folks physically based
+  in GMT and EST timezones - more information here.</p></li><li><p>We do not sponsor
+  visas right now given our stage</p></li></ul>'
+description_text: 'Healthcare is in crisis and the people behind the results deserve
+  better. With more and more data coming from wearables, lab tests, and patient–doctor
+  interactions, we’re entering an era where data is abundant. Junction is building
+  the infrastructure layer for diagnostic healthcare, making patient data accessible,
+  actionable, and automated across labs and devices. Our mission is simple but ambitious:
+  use health data to unlock unprecedented insight into human health and disease. If
+  you''re passionate about how technology can supercharge healthcare, you’ll fit right
+  in. Backed by Creandum, Point Nine, 20VC, YC , and leading angels, we’re working
+  to solve one of the biggest challenges of our time: making healthcare personalized,
+  proactive, and affordable. We’re already connecting millions and scaling fast. Short
+  on time? TL;DR Ownership: Lab integrations are how customers start using Junction.
+  We need one clear owner so onboarding stays fast and reliable as volume grows. Salary:
+  $110,000 - $140,000 + equity * The salary range shown is intentionally broad to
+  reflect the range of skills and levels that we are open to for this role. You: A
+  hands-on implementation, solutions or forward-deployed engineer who can onboard
+  lab integrations independently and at a fast-pace, and provide exceptional customer
+  service to partners Location: Fully remote (EST timezone only) Why we need you Junction
+  processes millions of lab test orders a year, and are growing our customer base
+  and lab network. Each onboarding is complex, and requires a deep technical understanding
+  of the product, project management skills, and the ability to collaborate with a
+  number of internal stakeholders and provide excellent customer service to the partners
+  involved. Right now, this work falls between several functions, none of whom are
+  specialists in this. To be the best, Junction needs own owner to manage implementation,
+  maintenance, partner co-ordination and debugging. And lay the foundations to scale
+  this to match our rapid pace of growth What you’ll be doing day to day Own lab integrations
+  end-to-end: across the full lifecycle — onboarding, maintenance, relationship management,
+  and offboarding. You’ll handle partner comms, keep internal teams updated, write
+  code when needed, and troubleshoot issues from logs. Be the primary technical point
+  of contact for lab partners during implementations. Coordinate timelines, requirements,
+  and dependencies across engineering, ops, and customer success — and keep everyone
+  aligned on what’s happening and what’s next. Spot risks + blockers early and drive
+  them to resolution. Troubleshoot real issues: logs, broken workflows, and integration
+  edge cases. Manage ongoing changes: test menu updates, compendia updates, and lab-specific
+  requirements that evolve over time. Improve how we do integrations: document what
+  matters, surface recurring issues, and help fix root causes so the next integration
+  is faster and smoother. Requirements You have: 3+ years doing technical implementations
+  / integrations where you actually got things live with external partners Hands-on
+  integration experience with HL7 and/or APIs, including mapping/config, testing,
+  and moving to production. Experience working in healthcare / diagnostics / labs
+  or similar integration complexity + low tolerance for errors. You can: Troubleshoot
+  using logs and evidence and identify what’s broken (and what isn’t) before pulling
+  in engineers. Run partner-facing technical comms: keep momentum, ask for what you
+  need, and give clear updates without escalating everything. Manage multiple implementations
+  at once and keep timelines, dependencies, and decisions straight. What this role
+  isn’t Product discovery: you won’t own roadmap or product direction Device integrations
+  Pre-sales or post-sales: this isn’t demos, decks, or closing work A greenfield “design
+  a new platform” role You want simple integrations: this is not that. Labs are messy
+  and full of edge cases — the harder the integration, the more you should like it.
+  A different task each day: the core of this role is implementing integrations and
+  improving the process to make them faster, cleaner and more reliable each time’
+  How you''ll be compensated Salary: $110K - $140k + equity Your salary is dependant
+  on your location and experience level, generated by our salary calculator. Read
+  more in our handbook here. Generous early stage options (extended exercise post
+  2 years employment) Regular in person offsites, last were in Morocco and Tenerife
+  Bi-weekly team happy hours &amp; events remotely Monthly learning budget of $300
+  for personal development/productivity Flexible, remote-first working - including
+  $1K for home office equipment 25 days off a year + national holidays Healthcare
+  cover depending on location Oh and before we forget: Backend Stack: Python (FastAPI),
+  Go, PostgreSQL, Google Cloud Platform (Cloud Run, GKE, Cloud BigTable, etc), Temporal
+  Cloud Frontend Stack: TypeScript, Next.js API docs are here: https://docs.junction.com/
+  Company handbook is here with engineering values + principles Important details
+  before applying: We only hire folks physically based in GMT and EST timezones -
+  more information here. We do not sponsor visas right now given our stage'
+salary_json_min: 110000
+salary_json_max: 140000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Healthcare is in a crisis, help us fix this for the humans behind
+  the results. With more and more data being collected from wearables, lab tests and
+  patient-doctor conversations, we’re entering an era where data is abundant. We need
+  people like you who are passionate about how technology can supercharge healthcare.Junction
+  helps leading digital health and wellness companies connect to wearable and lab
+  data, through a single universal API.
+url: https://builtin.com/job/implementation-engineer/8471123
+source: builtin.com
+description: 'Healthcare is in crisis and the people behind the results deserve better.
+  With more and more data coming from wearables, lab tests, and patient–doctor interactions,
+  we’re entering an era where data is abundant. Junction is building the infrastructure
+  layer for diagnostic healthcare, making patient data accessible, actionable, and
+  automated across labs and devices. Our mission is simple but ambitious: use health
+  data to unlock unprecedented insight into human health and disease. If you''re passionate
+  about how technology can supercharge healthcare, you’ll fit right in. Backed by
+  Creandum, Point Nine, 20VC, YC , and leading angels, we’re working to solve one
+  of the biggest challenges of our time: making healthcare personalized, proactive,
+  and affordable. We’re already connecting millions and scaling fast. Short on time?
+  TL;DR Ownership: Lab integrations are how customers start using Junction. We need
+  one clear owner so onboarding stays fast and reliable as volume grows. Salary: $110,000
+  - $140,000 + equity * The salary range shown is intentionally broad to reflect the
+  range of skills and levels that we are open to for this role. You: A hands-on implementation,
+  solutions or forward-deployed engineer who can onboard lab integrations independently
+  and at a fast-pace, and provide exceptional customer service to partners Location:
+  Fully remote (EST timezone only) Why we need you Junction processes millions of
+  lab test orders a year, and are growing our customer base and lab network. Each
+  onboarding is complex, and requires a deep technical understanding of the product,
+  project management skills, and the ability to collaborate with a number of internal
+  stakeholders and provide excellent customer service to the partners involved. Right
+  now, this work falls between several functions, none of whom are specialists in
+  this. To be the best, Junction needs own owner to manage implementation, maintenance,
+  partner co-ordination and debugging. And lay the foundations to scale this to match
+  our rapid pace of growth What you’ll be doing day to day Own lab integrations end-to-end:
+  across the full lifecycle — onboarding, maintenance, relationship management, and
+  offboarding. You’ll handle partner comms, keep internal teams updated, write code
+  when needed, and troubleshoot issues from logs. Be the primary technical point of
+  contact for lab partners during implementations. Coordinate timelines, requirements,
+  and dependencies across engineering, ops, and customer success — and keep everyone
+  aligned on what’s happening and what’s next. Spot risks + blockers early and drive
+  them to resolution. Troubleshoot real issues: logs, broken workflows, and integration
+  edge cases. Manage ongoing changes: test menu updates, compendia updates, and lab-specific
+  requirements that evolve over time. Improve how we do integrations: document what
+  matters, surface recurring issues, and help fix root causes so the next integration
+  is faster and smoother. Requirements You have: 3+ years doing technical implementations
+  / integrations where you actually got things live with external partners Hands-on
+  integration experience with HL7 and/or APIs, including mapping/config, testing,
+  and moving to production. Experience working in healthcare / diagnostics / labs
+  or similar integration complexity + low tolerance for errors. You can: Troubleshoot
+  using logs and evidence and identify what’s broken (and what isn’t) before pulling
+  in engineers. Run partner-facing technical comms: keep momentum, ask for what you
+  need, and give clear updates without escalating everything. Manage multiple implementations
+  at once and keep timelines, dependencies, and decisions straight. What this role
+  isn’t Product discovery: you won’t own roadmap or product direction Device integrations
+  Pre-sales or post-sales: this isn’t demos, decks, or closing work A greenfield “design
+  a new platform” role You want simple integrations: this is not that. Labs are messy
+  and full of edge cases — the harder the integration, the more you should like it.
+  A different task each day: the core of this role is implementing integrations and
+  improving the process to make them faster, cleaner and more reliable each time’
+  How you''ll be compensated Salary: $110K - $140k + equity Your salary is dependant
+  on your location and experience level, generated by our salary calculator. Read
+  more in our handbook here. Generous early stage options (extended exercise post
+  2 years employment) Regular in person offsites, last were in Morocco and Tenerife
+  Bi-weekly team happy hours &amp; events remotely Monthly learning budget of $300
+  for personal development/productivity Flexible, remote-first working - including
+  $1K for home office equipment 25 days off a year + national holidays Healthcare
+  cover depending on location Oh and before we forget: Backend Stack: Python (FastAPI),
+  Go, PostgreSQL, Google Cloud Platform (Cloud Run, GKE, Cloud BigTable, etc), Temporal
+  Cloud Frontend Stack: TypeScript, Next.js API docs are here: https://docs.junction.com/
+  Company handbook is here with engineering values + principles Important details
+  before applying: We only hire folks physically based in GMT and EST timezones -
+  more information here. We do not sponsor visas right now given our stage'
+postedDate: '2026-03-09'
+salary: USD 110,000 - 140,000
+id: '3'
+is_gtm_technical: true
+tech_stack:
+- HL7
+- APIs
+min_years_exp: 3
+salary_min: 110000
+salary_max: 140000
+reason: The Implementation Engineer role involves technical integrations within healthcare,
+  meeting the criteria for a technical GTM role.

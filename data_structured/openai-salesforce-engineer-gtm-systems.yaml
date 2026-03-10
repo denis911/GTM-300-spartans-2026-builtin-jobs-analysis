@@ -1,0 +1,276 @@
+title: Salesforce Engineer (GTM Systems)
+company: OpenAI
+category:
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+location: San Francisco, California, USA
+date_posted: '2026-02-18'
+description_html: '<p><strong>About the team</strong></p><p>OpenAI’s mission is to
+  build safe artificial general intelligence (AGI) which benefits all of humanity.
+  This long-term undertaking brings the world’s best scientists, engineers, and business
+  professionals into one lab together to accomplish this.</p><p>In pursuit of this
+  mission, our Enterprise Platform team is responsible for equipping and enabling
+  the Go To Market (GTM) as they seek to help customers learn how to leverage and
+  deploy our highly capable AI products across their business. The team is made of
+  Sales, Solutions, Customer Success, Support, Marketing, and Partnership professionals
+  that work together to create valuable solutions that will help bring AI to as many
+  users as possible.</p><p><strong>About the role</strong></p><p>Our GTM team exists
+  to help customers understand the transformational potential of OpenAI’s models,
+  and we believe our own systems should reflect that same intelligence. We’re looking
+  for a talented Salesforce Engineer to partner with our Financial Engineering, Finance
+  Platform Technology, and Order-Management teams. This is an execution-heavy, builder
+  role: you’ll take scoped technical outcomes, like new order-capture objects, fulfillment
+  triggers, tax &amp; billing integrations, SKU and entitlement governance—and turn
+  them into well-tested, production-ready Salesforce configurations and custom code.</p><p>While
+  you’ll still touch with OpenAI’s CPQ deployment when needed, the primary charter
+  of this role is order-management logic, platform health, and compliance-ready automations
+  that keep deals flowing cleanly from Opportunity close through invoicing and revenue
+  recognition</p><p><strong>In this role, you''ll:</strong></p><ul><li><p><strong>Build
+  order-to-cash solutions in Salesforce</strong>: Develop order-capture objects, fulfillment
+  triggers, financial approval workflows, and entitlement logic that move deals cleanly
+  from opportunity close through invoicing and revenue recognition.</p></li><li><p><strong>Engineer
+  integrations with finance and billing systems</strong>: Connect Salesforce to ERP,
+  tax engines, billing platforms, CLM, and e-signature tools to keep data accurate
+  and auditable across the entire revenue lifecycle.</p></li><li><p><strong>Implement
+  scoped technical outcomes</strong>: Take detailed requirements from the opportunity
+  to order pod’s Lead Technologist and translate them into production-ready flows,
+  validation rules, Platform Events, and Apex code where needed for scale or performance.</p></li><li><p><strong>Test,
+  troubleshoot, and document</strong>: Own QA for new builds, resolve production issues
+  quickly, and maintain clear documentation aligned with Copado-driven change-management,
+  SOX/SOC2 controls, and deployment best practices.</p></li><li><p><strong>Partner
+  cross-functionally</strong>: Collaborate daily with FinEng, Fin Systems, Order Management,
+  Sales Ops, Billing, and Legal Ops to ensure SKUs, pricebooks, and workflows stay
+  accurate, compliant, and resilient as our product catalog and policies evolve.</p></li></ul><p><strong>You
+  might thrive in this role if you have:</strong></p><ul><li><p>Advanced Salesforce
+  development (Apex, async patterns, APIs) and data model expertise across opportunity,
+  quote, order, and billing domains.</p></li><li><p>Proven experience designing and
+  implementing robust integrations using REST, Platform Events, and data sync patterns
+  between Salesforce and external systems.</p></li><li><p>QTC &amp; finance-system
+  experience: Familiarity with CPQ and order-management objects, product catalog governance,
+  consumption- vs subscription-based pricing, tax &amp; billing integrations, and
+  data reconciliation with downstream ERPs.</p></li><li><p>Execution and quality focus:
+  Proven ability to build, test, and deploy scoped solutions in a regulated, change-controlled
+  environment—keeping integrations intact and documentation audit-ready.<br>Collaborative
+  problem-solver: Strong cross-functional communication skills and a track record
+  of partnering with finance and operations teams to design resilient revenue workflows
+  at scale.</p></li><li><p>(Nice-to-have) Salesforce certifications (Platform Developer
+  I/II, Application Architect) or prior experience in AI-driven or high-growth SaaS
+  businesses.</p></li></ul><p></p><p><strong>About OpenAI</strong></p><p>OpenAI is
+  an AI research and deployment company dedicated to ensuring that general-purpose
+  artificial intelligence benefits all of humanity. We push the boundaries of the
+  capabilities of AI systems and seek to safely deploy them to the world through our
+  products. AI is an extremely powerful tool that must be created with safety and
+  human needs at its core, and to achieve our mission, we must encompass and value
+  the many different perspectives, voices, and experiences that form the full spectrum
+  of humanity.&nbsp;</p><p>We are an equal opportunity employer, and we do not discriminate
+  on the basis of race, religion, color, national origin, sex, sexual orientation,
+  age, veteran status, disability, genetic information, or other applicable legally
+  protected characteristic. </p><p>For additional information, please see <u>OpenAI’s
+  Affirmative Action and Equal Employment Opportunity Policy Statement</u>.</p><p>Background
+  checks for applicants will be administered in accordance with applicable law, and
+  qualified applicants with arrest or conviction records will be considered for employment
+  consistent with those laws, including the San Francisco Fair Chance Ordinance, the
+  Los Angeles County Fair Chance Ordinance for Employers, and the California Fair
+  Chance Act, for US-based candidates. For unincorporated Los Angeles County workers:
+  we reasonably believe that criminal history may have a direct, adverse and negative
+  relationship with the following job duties, potentially resulting in the withdrawal
+  of a conditional offer of employment: protect computer hardware entrusted to you
+  from theft, loss or damage; return all computer hardware in your possession (including
+  the data contained therein) upon termination of employment or end of assignment;
+  and maintain the confidentiality of proprietary, confidential, and non-public information.
+  In addition, job duties require access to secure and protected information technology
+  systems and related data security obligations.</p><p>To notify OpenAI that you believe
+  this job posting is non-compliant, please submit a report through this form. No
+  response will be provided to inquiries unrelated to job posting compliance.</p><p>We
+  are committed to providing reasonable accommodations to applicants with disabilities,
+  and requests can be made via this <u>link</u>.</p><p>OpenAI Global Applicant Privacy
+  Policy</p><p>At OpenAI, we believe artificial intelligence has the potential to
+  help people solve immense global challenges, and we want the upside of AI to be
+  widely shared. Join us in shaping the future of technology.</p>'
+description_text: 'About the team OpenAI’s mission is to build safe artificial general
+  intelligence (AGI) which benefits all of humanity. This long-term undertaking brings
+  the world’s best scientists, engineers, and business professionals into one lab
+  together to accomplish this. In pursuit of this mission, our Enterprise Platform
+  team is responsible for equipping and enabling the Go To Market (GTM) as they seek
+  to help customers learn how to leverage and deploy our highly capable AI products
+  across their business. The team is made of Sales, Solutions, Customer Success, Support,
+  Marketing, and Partnership professionals that work together to create valuable solutions
+  that will help bring AI to as many users as possible. About the role Our GTM team
+  exists to help customers understand the transformational potential of OpenAI’s models,
+  and we believe our own systems should reflect that same intelligence. We’re looking
+  for a talented Salesforce Engineer to partner with our Financial Engineering, Finance
+  Platform Technology, and Order-Management teams. This is an execution-heavy, builder
+  role: you’ll take scoped technical outcomes, like new order-capture objects, fulfillment
+  triggers, tax &amp; billing integrations, SKU and entitlement governance—and turn
+  them into well-tested, production-ready Salesforce configurations and custom code.
+  While you’ll still touch with OpenAI’s CPQ deployment when needed, the primary charter
+  of this role is order-management logic, platform health, and compliance-ready automations
+  that keep deals flowing cleanly from Opportunity close through invoicing and revenue
+  recognition In this role, you''ll: Build order-to-cash solutions in Salesforce :
+  Develop order-capture objects, fulfillment triggers, financial approval workflows,
+  and entitlement logic that move deals cleanly from opportunity close through invoicing
+  and revenue recognition. Engineer integrations with finance and billing systems
+  : Connect Salesforce to ERP, tax engines, billing platforms, CLM, and e-signature
+  tools to keep data accurate and auditable across the entire revenue lifecycle. Implement
+  scoped technical outcomes : Take detailed requirements from the opportunity to order
+  pod’s Lead Technologist and translate them into production-ready flows, validation
+  rules, Platform Events, and Apex code where needed for scale or performance. Test,
+  troubleshoot, and document : Own QA for new builds, resolve production issues quickly,
+  and maintain clear documentation aligned with Copado-driven change-management, SOX/SOC2
+  controls, and deployment best practices. Partner cross-functionally : Collaborate
+  daily with FinEng, Fin Systems, Order Management, Sales Ops, Billing, and Legal
+  Ops to ensure SKUs, pricebooks, and workflows stay accurate, compliant, and resilient
+  as our product catalog and policies evolve. You might thrive in this role if you
+  have: Advanced Salesforce development (Apex, async patterns, APIs) and data model
+  expertise across opportunity, quote, order, and billing domains. Proven experience
+  designing and implementing robust integrations using REST, Platform Events, and
+  data sync patterns between Salesforce and external systems. QTC &amp; finance-system
+  experience: Familiarity with CPQ and order-management objects, product catalog governance,
+  consumption- vs subscription-based pricing, tax &amp; billing integrations, and
+  data reconciliation with downstream ERPs. Execution and quality focus: Proven ability
+  to build, test, and deploy scoped solutions in a regulated, change-controlled environment—keeping
+  integrations intact and documentation audit-ready. Collaborative problem-solver:
+  Strong cross-functional communication skills and a track record of partnering with
+  finance and operations teams to design resilient revenue workflows at scale. (Nice-to-have)
+  Salesforce certifications (Platform Developer I/II, Application Architect) or prior
+  experience in AI-driven or high-growth SaaS businesses. About OpenAI OpenAI is an
+  AI research and deployment company dedicated to ensuring that general-purpose artificial
+  intelligence benefits all of humanity. We push the boundaries of the capabilities
+  of AI systems and seek to safely deploy them to the world through our products.
+  AI is an extremely powerful tool that must be created with safety and human needs
+  at its core, and to achieve our mission, we must encompass and value the many different
+  perspectives, voices, and experiences that form the full spectrum of humanity.&nbsp;
+  We are an equal opportunity employer, and we do not discriminate on the basis of
+  race, religion, color, national origin, sex, sexual orientation, age, veteran status,
+  disability, genetic information, or other applicable legally protected characteristic.
+  For additional information, please see OpenAI’s Affirmative Action and Equal Employment
+  Opportunity Policy Statement . Background checks for applicants will be administered
+  in accordance with applicable law, and qualified applicants with arrest or conviction
+  records will be considered for employment consistent with those laws, including
+  the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance
+  for Employers, and the California Fair Chance Act, for US-based candidates. For
+  unincorporated Los Angeles County workers: we reasonably believe that criminal history
+  may have a direct, adverse and negative relationship with the following job duties,
+  potentially resulting in the withdrawal of a conditional offer of employment: protect
+  computer hardware entrusted to you from theft, loss or damage; return all computer
+  hardware in your possession (including the data contained therein) upon termination
+  of employment or end of assignment; and maintain the confidentiality of proprietary,
+  confidential, and non-public information. In addition, job duties require access
+  to secure and protected information technology systems and related data security
+  obligations. To notify OpenAI that you believe this job posting is non-compliant,
+  please submit a report through this form. No response will be provided to inquiries
+  unrelated to job posting compliance. We are committed to providing reasonable accommodations
+  to applicants with disabilities, and requests can be made via this link . OpenAI
+  Global Applicant Privacy Policy At OpenAI, we believe artificial intelligence has
+  the potential to help people solve immense global challenges, and we want the upside
+  of AI to be widely shared. Join us in shaping the future of technology.'
+salary_json_min: 206000
+salary_json_max: 228000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: OpenAI is an AI research and deployment company dedicated to ensuring
+  that general-purpose artificial intelligence benefits all of humanity. AI is an
+  extremely powerful tool that must be created with safety and human needs at its
+  core. OpenAI is dedicated to putting that alignment of interests first — ahead of
+  profit.To achieve our mission, we must encompass and value the many different perspectives,
+  voices, and experiences that form the full spectrum of humanity. Our investment
+  in diversity, equity, and inclusion is ongoing, executed through a wide range of
+  initiatives, and championed and supported by leadership.At OpenAI, we believe artificial
+  intelligence has the potential to help people solve immense global challenges, and
+  we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+url: https://builtin.com/job/salesforce-engineer-gtm-systems/8292548
+source: builtin.com
+description: 'About the team OpenAI’s mission is to build safe artificial general
+  intelligence (AGI) which benefits all of humanity. This long-term undertaking brings
+  the world’s best scientists, engineers, and business professionals into one lab
+  together to accomplish this. In pursuit of this mission, our Enterprise Platform
+  team is responsible for equipping and enabling the Go To Market (GTM) as they seek
+  to help customers learn how to leverage and deploy our highly capable AI products
+  across their business. The team is made of Sales, Solutions, Customer Success, Support,
+  Marketing, and Partnership professionals that work together to create valuable solutions
+  that will help bring AI to as many users as possible. About the role Our GTM team
+  exists to help customers understand the transformational potential of OpenAI’s models,
+  and we believe our own systems should reflect that same intelligence. We’re looking
+  for a talented Salesforce Engineer to partner with our Financial Engineering, Finance
+  Platform Technology, and Order-Management teams. This is an execution-heavy, builder
+  role: you’ll take scoped technical outcomes, like new order-capture objects, fulfillment
+  triggers, tax &amp; billing integrations, SKU and entitlement governance—and turn
+  them into well-tested, production-ready Salesforce configurations and custom code.
+  While you’ll still touch with OpenAI’s CPQ deployment when needed, the primary charter
+  of this role is order-management logic, platform health, and compliance-ready automations
+  that keep deals flowing cleanly from Opportunity close through invoicing and revenue
+  recognition In this role, you''ll: Build order-to-cash solutions in Salesforce :
+  Develop order-capture objects, fulfillment triggers, financial approval workflows,
+  and entitlement logic that move deals cleanly from opportunity close through invoicing
+  and revenue recognition. Engineer integrations with finance and billing systems
+  : Connect Salesforce to ERP, tax engines, billing platforms, CLM, and e-signature
+  tools to keep data accurate and auditable across the entire revenue lifecycle. Implement
+  scoped technical outcomes : Take detailed requirements from the opportunity to order
+  pod’s Lead Technologist and translate them into production-ready flows, validation
+  rules, Platform Events, and Apex code where needed for scale or performance. Test,
+  troubleshoot, and document : Own QA for new builds, resolve production issues quickly,
+  and maintain clear documentation aligned with Copado-driven change-management, SOX/SOC2
+  controls, and deployment best practices. Partner cross-functionally : Collaborate
+  daily with FinEng, Fin Systems, Order Management, Sales Ops, Billing, and Legal
+  Ops to ensure SKUs, pricebooks, and workflows stay accurate, compliant, and resilient
+  as our product catalog and policies evolve. You might thrive in this role if you
+  have: Advanced Salesforce development (Apex, async patterns, APIs) and data model
+  expertise across opportunity, quote, order, and billing domains. Proven experience
+  designing and implementing robust integrations using REST, Platform Events, and
+  data sync patterns between Salesforce and external systems. QTC &amp; finance-system
+  experience: Familiarity with CPQ and order-management objects, product catalog governance,
+  consumption- vs subscription-based pricing, tax &amp; billing integrations, and
+  data reconciliation with downstream ERPs. Execution and quality focus: Proven ability
+  to build, test, and deploy scoped solutions in a regulated, change-controlled environment—keeping
+  integrations intact and documentation audit-ready. Collaborative problem-solver:
+  Strong cross-functional communication skills and a track record of partnering with
+  finance and operations teams to design resilient revenue workflows at scale. (Nice-to-have)
+  Salesforce certifications (Platform Developer I/II, Application Architect) or prior
+  experience in AI-driven or high-growth SaaS businesses. About OpenAI OpenAI is an
+  AI research and deployment company dedicated to ensuring that general-purpose artificial
+  intelligence benefits all of humanity. We push the boundaries of the capabilities
+  of AI systems and seek to safely deploy them to the world through our products.
+  AI is an extremely powerful tool that must be created with safety and human needs
+  at its core, and to achieve our mission, we must encompass and value the many different
+  perspectives, voices, and experiences that form the full spectrum of humanity.&nbsp;
+  We are an equal opportunity employer, and we do not discriminate on the basis of
+  race, religion, color, national origin, sex, sexual orientation, age, veteran status,
+  disability, genetic information, or other applicable legally protected characteristic.
+  For additional information, please see OpenAI’s Affirmative Action and Equal Employment
+  Opportunity Policy Statement . Background checks for applicants will be administered
+  in accordance with applicable law, and qualified applicants with arrest or conviction
+  records will be considered for employment consistent with those laws, including
+  the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance
+  for Employers, and the California Fair Chance Act, for US-based candidates. For
+  unincorporated Los Angeles County workers: we reasonably believe that criminal history
+  may have a direct, adverse and negative relationship with the following job duties,
+  potentially resulting in the withdrawal of a conditional offer of employment: protect
+  computer hardware entrusted to you from theft, loss or damage; return all computer
+  hardware in your possession (including the data contained therein) upon termination
+  of employment or end of assignment; and maintain the confidentiality of proprietary,
+  confidential, and non-public information. In addition, job duties require access
+  to secure and protected information technology systems and related data security
+  obligations. To notify OpenAI that you believe this job posting is non-compliant,
+  please submit a report through this form. No response will be provided to inquiries
+  unrelated to job posting compliance. We are committed to providing reasonable accommodations
+  to applicants with disabilities, and requests can be made via this link . OpenAI
+  Global Applicant Privacy Policy At OpenAI, we believe artificial intelligence has
+  the potential to help people solve immense global challenges, and we want the upside
+  of AI to be widely shared. Join us in shaping the future of technology.'
+postedDate: '2026-02-18'
+salary: USD 206,000 - 228,000
+id: '15'
+is_gtm_technical: true
+tech_stack:
+- Salesforce
+min_years_exp: null
+salary_min: null
+salary_max: null
+reason: The role involves technical execution within the GTM team, linking it to GTM
+  engineering responsibilities.

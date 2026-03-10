@@ -1,0 +1,421 @@
+title: Staff GTM Engineer (AI & Automation) | US | Remote
+company: Grafana Labs
+category: Software
+location: USA
+date_posted: '2026-02-17'
+description_html: '<p><p>Grafana Labs is a remote-first, open-source powerhouse. There
+  are more than 20M users of Grafana, the open source visualization tool, around the
+  globe, monitoring everything from beehives to climate change in the Alps. The instantly
+  recognizable dashboards have been spotted everywhere from a NASA launch and Minecraft
+  HQ to Wimbledon and the Tour de France. Grafana Labs also helps more than 3,000
+  companies -- including Bloomberg, JPMorgan Chase, and eBay -- manage their observability
+  strategies with the Grafana LGTM Stack, which can be run fully managed with Grafana
+  Cloud or self-managed with the Grafana Enterprise Stack, both featuring scalable
+  metrics (Grafana Mimir), logs (Grafana Loki), and traces (Grafana Tempo).</p><p>We’re
+  scaling fast and staying true to what makes us different: an open-source legacy,
+  a global collaborative culture, and a passion for meaningful work. Our team thrives
+  in an innovation-driven environment where transparency, autonomy, and trust fuel
+  everything we do.</p><p>You may not meet every requirement, and that’s okay. If
+  this role excites you, we’d love you to raise your hand for what could be a truly
+  career-defining opportunity.</p></p><p>This is a remote opportunity and we are looking
+  for candidates from the U.S.</p><p><strong>The Opportunity</strong></p><p>Grafana
+  Labs is seeking a Staff GTM Engineer (AI &amp; Automation) to build our next-generation
+  AI agent and workflow systems. You''ll spend most of your time writing code — designing
+  multi-agent architectures, integrating LLM APIs, building data pipelines, and shipping
+  automation that runs 24/7 across Marketing, RevOps, and SDR teams. Ideal for a builder
+  who thrives at the intersection of AI, automation, and business growth.</p><p>You''ll
+  execute the AI growth roadmap, building internal capabilities and integrations that
+  streamline marketing and operational workflows across teams. You''ll implement multi-agent
+  systems that drive results across Marketing, RevOps, and SDR teams. With strong
+  technical ability and execution focus, you''ll deliver AI-first solutions that translate
+  business bottlenecks into comprehensive, automated systems that drive measurable
+  ROI, accelerate growth, and elevate team effectiveness across departments.</p><p>This
+  is a hands-on builder role with 60-70% coding and systems development, and 30-40%
+  operational enablement (requirements, documentation, training, measurement, and
+  stakeholder alignment). You’ll be a key driver of Grafana’s internal AI transformation
+  by implementing governance and delivering automation that accelerates marketing
+  and go-to-market efficiency.</p><p><strong>What You''ll Be Doing</strong></p><p>Build
+  &amp; operate GTM automation systems</p><ul><li>Build and operate reliable automation
+  across custom code + orchestration tools (e.g., n8n/Workato/Make), including CI/CD,
+  testing, deployment practices, and runbooks that keep iteration fast and safe</li><li>Implement
+  modular, scalable, multi-agent AI systems that operate 24/7 and integrate with marketing
+  platforms (e.g., Customer.io, Marketo, Salesforce, BigQuery)</li><li>Own technical
+  direction for GTM automation: design data models, define API contracts, build shared
+  libraries, and maintain reference architectures used across teams</li><li>Review
+  code, write tests, and maintain production reliability standards</li></ul><p>Operate,
+  enable, and scale GTM workflows</p><ul><li>Partner with RevOps, Demand Generation,
+  Regional Marketing, Events Marketing, &amp; SDRs to solve workflow inefficiencies
+  through agent-based solutions with measurable business outcomes</li><li>Create reusable
+  workflow templates, playbooks, and “how-to” docs so partner teams can safely self-serve
+  common automations (with clear ownership and measurement)</li><li>Provide hands-on
+  technical support and troubleshooting for AI systems across teams</li></ul><p>Key
+  Strategic Project: AI Chatbot Routing &amp; Human-in-the-Loop Orchestration</p><ul><li>Align
+  AI chatbot systems across multiple teams (Marketing, SDR, Customer Success) to create
+  unified prospect interaction routing</li><li>Build intelligent routing logic that
+  determines when and how to engage human resources in prospect interactions</li><li>Implement
+  tracking and analytics to measure routing effectiveness and refine human-in-the-loop
+  triggers</li><li>Create scalable patterns for prospect intent classification and
+  optimal channel/resource assignment</li><li>Define SLAs, failure modes, and fallback
+  pathways (when routing is uncertain, when systems are down, when confidence is low)</li><li>Instrument
+  end-to-end funnel metrics (handoff time, qualification accuracy, meeting set rate,
+  pipeline influence) and iterate</li></ul><p>AI Implementation &amp; Operational
+  Excellence</p><ul><li>Build and maintain secure, documented systems with robust
+  PII controls, compliance protocols, and permission frameworks</li><li>Implement
+  company-wide standards for AI prompt engineering, version control, testing, observability,
+  and business impact measurement</li><li>Create internal training materials, best
+  practices documentation, and scalable frameworks for AI tools that enable cross-functional
+  team success</li><li>Support ongoing AI adoption through hands-on technical assistance
+  and system optimization</li></ul><p><strong>What Makes You a Great Fit</strong></p><p>Technical
+  Proficiency</p><ul><li>7+ years building production systems and integrations (software
+  engineering, data/analytics engineering, business systems, or GTM engineering)</li><li>2+
+  years hands-on experience applying LLMs/AI to production workflows — not just prototypes</li><li>Proven
+  experience delivering AI-enabled systems or automation (0→1 or major expansions)
+  with measurable business outcomes</li><li>Strong in Python and JavaScript/Node.js
+  with Git-based development workflows, code review practices, and testing discipline</li><li>Deep
+  familiarity with Google Cloud Platform, BigQuery, and Cloud Functions</li><li>Hands-on
+  experience with LLM frameworks and patterns: prompt engineering, RAG, function calling/tool
+  use, agent orchestration, structured output parsing, and evaluation</li><li>Fluent
+  with AI-assisted development tools (GitHub Copilot, Cursor, Claude Code) — you use
+  AI to build AI systems</li></ul><p>Systems Implementation &amp; Operational Excellence</p><ul><li>Experience
+  implementing automation systems, building agent workflows, and maintaining scalable
+  infrastructure</li><li>Proven ability to execute, prioritize, and deliver high-ROI
+  AI automation projects</li><li>Strong documentation skills and ability to communicate
+  clearly with technical and business audiences</li><li>Experience integrating with
+  Salesforce (or similar CRM) and at least one marketing automation platform (Customer.io
+  / HubSpot / Marketo)</li><li>Background working with analytics, segmentation, and
+  personalization platforms</li></ul><p>Mindset &amp; Approach</p><ul><li>A hands-on
+  builder who helps others thrive, where you ship solutions <em>and</em> enable colleagues
+  to build on your work</li><li>Comfortable working in ambiguity with high autonomy
+  and you scope your own work, follow through on commitments, and default to transparency
+  when making technical decisions</li><li>Favors progress over perfection by shipping
+  iteratively, learn from production, and improve continuously</li><li>Seeks diverse
+  perspectives when designing systems, gather input from the teams who''ll use what
+  you build, not just the ones who requested it</li></ul><p>AI &amp; Agent Systems</p><ul><li>Experience
+  building multi-agent systems: agent decomposition, orchestration patterns (sequential
+  chains, router/dispatcher, parallel fan-out), state management across handoffs</li><li>Understanding
+  of LLM failure modes and production mitigations: confidence thresholds, fallback
+  logic, human escalation, cost/latency management</li><li>Experience with systematic
+  LLM evaluation: golden datasets, regression testing, A/B testing prompts, monitoring
+  for drift</li><li>Familiarity with conversational AI, chatbot development, and routing
+  logic</li></ul><p><strong>Bonus Points</strong></p><ul><li>Background in B2B SaaS
+  or GTM operations&nbsp;</li><li>Active in open-source communities</li><li>Experience
+  with workflow orchestration platforms (n8n, Temporal, Prefect, Airflow)</li></ul><p>In
+  the United States, the base compensation range for this role is USD <span>$174,986
+  </span>- USD $209,983. Actual compensation may vary based on level, experience,
+  and skillset as assessed throughout the interview process. All of our roles include
+  Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs''
+  success. We believe in shared outcomes—RSUs help us stay aligned and invested as
+  we scale globally.</p><p><p><p><em>*Compensation ranges are country specific. If
+  you are applying for this role from a different location than listed above, your
+  recruiter will discuss your specific market’s defined pay range &amp; benefits at
+  the beginning of the process.</em></p><p><strong>Why You’ll Thrive at Grafana Labs:</strong></p><ul><li><strong>100%
+  Remote, Global Culture -&nbsp;</strong>As a remote-only company, we bring together
+  talent from around the world, united by a culture of collaboration and shared purpose.</li><li><strong>Scaling
+  Organization</strong> – Tackle meaningful work in a high-growth, ever-evolving environment.</li><li><strong>Transparent
+  Communication</strong> – Expect open decision-making and regular company-wide updates.</li><li><strong>Innovation-Driven</strong>
+  – Autonomy and support to ship great work and try new things.</li><li><strong>Open
+  Source Roots</strong> – Built on community-driven values that shape how we work.</li><li><strong>Empowered
+  Teams</strong> – High trust, low ego culture that values outcomes over optics.</li><li><strong>Career
+  Growth Pathways</strong> – Defined opportunities to grow and develop your career.</li><li><strong>Approachable
+  Leadership</strong> – Transparent execs who are involved, visible, and human.</li><li><strong>Passionate
+  People</strong> – Join a team of smart, supportive folks who care deeply about what
+  they do.</li><li><strong>In-Person onboarding </strong>- We want you to thrive from
+  day 1 with your fellow new ‘Grafanistas’ to learn all about what we do and how we
+  do it.&nbsp;</li><li><strong>Balance is Key</strong> - We operate a global annual
+  leave policy of 30 days per annum. 3 days of your annual leave entitlement are reserved
+  for Grafana Shutdown Days to allow the team to really disconnect. <em>*We will comply
+  with local legislation where applicable.</em></li></ul><p><strong>Equal Opportunity
+  Employer:</strong> We will recruit, train, compensate and promote regardless of
+  race, religion, color, national origin, gender, disability, age, veteran status,
+  and all the other fascinating characteristics that make us different and unique.
+  We believe that equality and diversity builds a strong organization and we’re working
+  hard to make sure that’s the foundation of our organization as we grow.</p><p><em>Grafana
+  Labs may utilize AI tools in its recruitment process to assist in matching information
+  provided in CVs to job postings. The recruitment team will continue to review inbound
+  CVs manually to identify alignment with current openings.</em></p><p>#LI-Remote</p></p><p><em>For
+  information about how your personal data is used once you’ve applied to a job, check
+  out our privacy policy.&nbsp;</em></p><p>&nbsp;</p></p>'
+description_text: 'Grafana Labs is a remote-first, open-source powerhouse. There are
+  more than 20M users of Grafana, the open source visualization tool, around the globe,
+  monitoring everything from beehives to climate change in the Alps. The instantly
+  recognizable dashboards have been spotted everywhere from a NASA launch and Minecraft
+  HQ to Wimbledon and the Tour de France. Grafana Labs also helps more than 3,000
+  companies -- including Bloomberg, JPMorgan Chase, and eBay -- manage their observability
+  strategies with the Grafana LGTM Stack, which can be run fully managed with Grafana
+  Cloud or self-managed with the Grafana Enterprise Stack, both featuring scalable
+  metrics (Grafana Mimir), logs (Grafana Loki), and traces (Grafana Tempo). We’re
+  scaling fast and staying true to what makes us different: an open-source legacy,
+  a global collaborative culture, and a passion for meaningful work. Our team thrives
+  in an innovation-driven environment where transparency, autonomy, and trust fuel
+  everything we do. You may not meet every requirement, and that’s okay. If this role
+  excites you, we’d love you to raise your hand for what could be a truly career-defining
+  opportunity. This is a remote opportunity and we are looking for candidates from
+  the U.S. The Opportunity Grafana Labs is seeking a Staff GTM Engineer (AI &amp;
+  Automation) to build our next-generation AI agent and workflow systems. You''ll
+  spend most of your time writing code — designing multi-agent architectures, integrating
+  LLM APIs, building data pipelines, and shipping automation that runs 24/7 across
+  Marketing, RevOps, and SDR teams. Ideal for a builder who thrives at the intersection
+  of AI, automation, and business growth. You''ll execute the AI growth roadmap, building
+  internal capabilities and integrations that streamline marketing and operational
+  workflows across teams. You''ll implement multi-agent systems that drive results
+  across Marketing, RevOps, and SDR teams. With strong technical ability and execution
+  focus, you''ll deliver AI-first solutions that translate business bottlenecks into
+  comprehensive, automated systems that drive measurable ROI, accelerate growth, and
+  elevate team effectiveness across departments. This is a hands-on builder role with
+  60-70% coding and systems development, and 30-40% operational enablement (requirements,
+  documentation, training, measurement, and stakeholder alignment). You’ll be a key
+  driver of Grafana’s internal AI transformation by implementing governance and delivering
+  automation that accelerates marketing and go-to-market efficiency. What You''ll
+  Be Doing Build &amp; operate GTM automation systems Build and operate reliable automation
+  across custom code + orchestration tools (e.g., n8n/Workato/Make), including CI/CD,
+  testing, deployment practices, and runbooks that keep iteration fast and safe Implement
+  modular, scalable, multi-agent AI systems that operate 24/7 and integrate with marketing
+  platforms (e.g., Customer.io, Marketo, Salesforce, BigQuery) Own technical direction
+  for GTM automation: design data models, define API contracts, build shared libraries,
+  and maintain reference architectures used across teams Review code, write tests,
+  and maintain production reliability standards Operate, enable, and scale GTM workflows
+  Partner with RevOps, Demand Generation, Regional Marketing, Events Marketing, &amp;
+  SDRs to solve workflow inefficiencies through agent-based solutions with measurable
+  business outcomes Create reusable workflow templates, playbooks, and “how-to” docs
+  so partner teams can safely self-serve common automations (with clear ownership
+  and measurement) Provide hands-on technical support and troubleshooting for AI systems
+  across teams Key Strategic Project: AI Chatbot Routing &amp; Human-in-the-Loop Orchestration
+  Align AI chatbot systems across multiple teams (Marketing, SDR, Customer Success)
+  to create unified prospect interaction routing Build intelligent routing logic that
+  determines when and how to engage human resources in prospect interactions Implement
+  tracking and analytics to measure routing effectiveness and refine human-in-the-loop
+  triggers Create scalable patterns for prospect intent classification and optimal
+  channel/resource assignment Define SLAs, failure modes, and fallback pathways (when
+  routing is uncertain, when systems are down, when confidence is low) Instrument
+  end-to-end funnel metrics (handoff time, qualification accuracy, meeting set rate,
+  pipeline influence) and iterate AI Implementation &amp; Operational Excellence Build
+  and maintain secure, documented systems with robust PII controls, compliance protocols,
+  and permission frameworks Implement company-wide standards for AI prompt engineering,
+  version control, testing, observability, and business impact measurement Create
+  internal training materials, best practices documentation, and scalable frameworks
+  for AI tools that enable cross-functional team success Support ongoing AI adoption
+  through hands-on technical assistance and system optimization What Makes You a Great
+  Fit Technical Proficiency 7+ years building production systems and integrations
+  (software engineering, data/analytics engineering, business systems, or GTM engineering)
+  2+ years hands-on experience applying LLMs/AI to production workflows — not just
+  prototypes Proven experience delivering AI-enabled systems or automation (0→1 or
+  major expansions) with measurable business outcomes Strong in Python and JavaScript/Node.js
+  with Git-based development workflows, code review practices, and testing discipline
+  Deep familiarity with Google Cloud Platform, BigQuery, and Cloud Functions Hands-on
+  experience with LLM frameworks and patterns: prompt engineering, RAG, function calling/tool
+  use, agent orchestration, structured output parsing, and evaluation Fluent with
+  AI-assisted development tools (GitHub Copilot, Cursor, Claude Code) — you use AI
+  to build AI systems Systems Implementation &amp; Operational Excellence Experience
+  implementing automation systems, building agent workflows, and maintaining scalable
+  infrastructure Proven ability to execute, prioritize, and deliver high-ROI AI automation
+  projects Strong documentation skills and ability to communicate clearly with technical
+  and business audiences Experience integrating with Salesforce (or similar CRM) and
+  at least one marketing automation platform (Customer.io / HubSpot / Marketo) Background
+  working with analytics, segmentation, and personalization platforms Mindset &amp;
+  Approach A hands-on builder who helps others thrive, where you ship solutions and
+  enable colleagues to build on your work Comfortable working in ambiguity with high
+  autonomy and you scope your own work, follow through on commitments, and default
+  to transparency when making technical decisions Favors progress over perfection
+  by shipping iteratively, learn from production, and improve continuously Seeks diverse
+  perspectives when designing systems, gather input from the teams who''ll use what
+  you build, not just the ones who requested it AI &amp; Agent Systems Experience
+  building multi-agent systems: agent decomposition, orchestration patterns (sequential
+  chains, router/dispatcher, parallel fan-out), state management across handoffs Understanding
+  of LLM failure modes and production mitigations: confidence thresholds, fallback
+  logic, human escalation, cost/latency management Experience with systematic LLM
+  evaluation: golden datasets, regression testing, A/B testing prompts, monitoring
+  for drift Familiarity with conversational AI, chatbot development, and routing logic
+  Bonus Points Background in B2B SaaS or GTM operations&nbsp; Active in open-source
+  communities Experience with workflow orchestration platforms (n8n, Temporal, Prefect,
+  Airflow) In the United States, the base compensation range for this role is USD
+  $174,986 - USD $209,983. Actual compensation may vary based on level, experience,
+  and skillset as assessed throughout the interview process. All of our roles include
+  Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs''
+  success. We believe in shared outcomes—RSUs help us stay aligned and invested as
+  we scale globally. *Compensation ranges are country specific. If you are applying
+  for this role from a different location than listed above, your recruiter will discuss
+  your specific market’s defined pay range &amp; benefits at the beginning of the
+  process. Why You’ll Thrive at Grafana Labs: 100% Remote, Global Culture -&nbsp;
+  As a remote-only company, we bring together talent from around the world, united
+  by a culture of collaboration and shared purpose. Scaling Organization – Tackle
+  meaningful work in a high-growth, ever-evolving environment. Transparent Communication
+  – Expect open decision-making and regular company-wide updates. Innovation-Driven
+  – Autonomy and support to ship great work and try new things. Open Source Roots
+  – Built on community-driven values that shape how we work. Empowered Teams – High
+  trust, low ego culture that values outcomes over optics. Career Growth Pathways
+  – Defined opportunities to grow and develop your career. Approachable Leadership
+  – Transparent execs who are involved, visible, and human. Passionate People – Join
+  a team of smart, supportive folks who care deeply about what they do. In-Person
+  onboarding - We want you to thrive from day 1 with your fellow new ‘Grafanistas’
+  to learn all about what we do and how we do it.&nbsp; Balance is Key - We operate
+  a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement
+  are reserved for Grafana Shutdown Days to allow the team to really disconnect. *We
+  will comply with local legislation where applicable. Equal Opportunity Employer:
+  We will recruit, train, compensate and promote regardless of race, religion, color,
+  national origin, gender, disability, age, veteran status, and all the other fascinating
+  characteristics that make us different and unique. We believe that equality and
+  diversity builds a strong organization and we’re working hard to make sure that’s
+  the foundation of our organization as we grow. Grafana Labs may utilize AI tools
+  in its recruitment process to assist in matching information provided in CVs to
+  job postings. The recruitment team will continue to review inbound CVs manually
+  to identify alignment with current openings. #LI-Remote For information about how
+  your personal data is used once you’ve applied to a job, check out our privacy policy.&nbsp;
+  &nbsp;'
+salary_json_min: 174986
+salary_json_max: 209983
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Staff
+workplace_type_enum: UNKNOWN
+company_overview: Grafana Labs provides an open and composable monitoring and observability
+  stack built around Grafana, the leading open source technology for dashboards and
+  visualization. There are more than 5,000 Grafana Labs customers, including Bloomberg,
+  Citigroup, Dell Technologies, Salesforce, and TomTom, and more than 20 million users
+  of Grafana around the world. Grafana Labs helps companies manage their observability
+  strategies with the LGTM Stack, which can be run fully managed with Grafana Cloud
+  or self-managed with the Grafana Enterprise offerings, both featuring scalable metrics
+  (Grafana Mimir), logs (Grafana Loki), and traces (Grafana Tempo) as well as extensive
+  enterprise data source plugins, dashboard management, alerting, reporting, and security.
+url: https://builtin.com/job/staff-gtm-engineer-ai-automation-us-remote/8520076
+source: builtin.com
+description: 'Grafana Labs is a remote-first, open-source powerhouse. There are more
+  than 20M users of Grafana, the open source visualization tool, around the globe,
+  monitoring everything from beehives to climate change in the Alps. The instantly
+  recognizable dashboards have been spotted everywhere from a NASA launch and Minecraft
+  HQ to Wimbledon and the Tour de France. Grafana Labs also helps more than 3,000
+  companies -- including Bloomberg, JPMorgan Chase, and eBay -- manage their observability
+  strategies with the Grafana LGTM Stack, which can be run fully managed with Grafana
+  Cloud or self-managed with the Grafana Enterprise Stack, both featuring scalable
+  metrics (Grafana Mimir), logs (Grafana Loki), and traces (Grafana Tempo). We’re
+  scaling fast and staying true to what makes us different: an open-source legacy,
+  a global collaborative culture, and a passion for meaningful work. Our team thrives
+  in an innovation-driven environment where transparency, autonomy, and trust fuel
+  everything we do. You may not meet every requirement, and that’s okay. If this role
+  excites you, we’d love you to raise your hand for what could be a truly career-defining
+  opportunity. This is a remote opportunity and we are looking for candidates from
+  the U.S. The Opportunity Grafana Labs is seeking a Staff GTM Engineer (AI &amp;
+  Automation) to build our next-generation AI agent and workflow systems. You''ll
+  spend most of your time writing code — designing multi-agent architectures, integrating
+  LLM APIs, building data pipelines, and shipping automation that runs 24/7 across
+  Marketing, RevOps, and SDR teams. Ideal for a builder who thrives at the intersection
+  of AI, automation, and business growth. You''ll execute the AI growth roadmap, building
+  internal capabilities and integrations that streamline marketing and operational
+  workflows across teams. You''ll implement multi-agent systems that drive results
+  across Marketing, RevOps, and SDR teams. With strong technical ability and execution
+  focus, you''ll deliver AI-first solutions that translate business bottlenecks into
+  comprehensive, automated systems that drive measurable ROI, accelerate growth, and
+  elevate team effectiveness across departments. This is a hands-on builder role with
+  60-70% coding and systems development, and 30-40% operational enablement (requirements,
+  documentation, training, measurement, and stakeholder alignment). You’ll be a key
+  driver of Grafana’s internal AI transformation by implementing governance and delivering
+  automation that accelerates marketing and go-to-market efficiency. What You''ll
+  Be Doing Build &amp; operate GTM automation systems Build and operate reliable automation
+  across custom code + orchestration tools (e.g., n8n/Workato/Make), including CI/CD,
+  testing, deployment practices, and runbooks that keep iteration fast and safe Implement
+  modular, scalable, multi-agent AI systems that operate 24/7 and integrate with marketing
+  platforms (e.g., Customer.io, Marketo, Salesforce, BigQuery) Own technical direction
+  for GTM automation: design data models, define API contracts, build shared libraries,
+  and maintain reference architectures used across teams Review code, write tests,
+  and maintain production reliability standards Operate, enable, and scale GTM workflows
+  Partner with RevOps, Demand Generation, Regional Marketing, Events Marketing, &amp;
+  SDRs to solve workflow inefficiencies through agent-based solutions with measurable
+  business outcomes Create reusable workflow templates, playbooks, and “how-to” docs
+  so partner teams can safely self-serve common automations (with clear ownership
+  and measurement) Provide hands-on technical support and troubleshooting for AI systems
+  across teams Key Strategic Project: AI Chatbot Routing &amp; Human-in-the-Loop Orchestration
+  Align AI chatbot systems across multiple teams (Marketing, SDR, Customer Success)
+  to create unified prospect interaction routing Build intelligent routing logic that
+  determines when and how to engage human resources in prospect interactions Implement
+  tracking and analytics to measure routing effectiveness and refine human-in-the-loop
+  triggers Create scalable patterns for prospect intent classification and optimal
+  channel/resource assignment Define SLAs, failure modes, and fallback pathways (when
+  routing is uncertain, when systems are down, when confidence is low) Instrument
+  end-to-end funnel metrics (handoff time, qualification accuracy, meeting set rate,
+  pipeline influence) and iterate AI Implementation &amp; Operational Excellence Build
+  and maintain secure, documented systems with robust PII controls, compliance protocols,
+  and permission frameworks Implement company-wide standards for AI prompt engineering,
+  version control, testing, observability, and business impact measurement Create
+  internal training materials, best practices documentation, and scalable frameworks
+  for AI tools that enable cross-functional team success Support ongoing AI adoption
+  through hands-on technical assistance and system optimization What Makes You a Great
+  Fit Technical Proficiency 7+ years building production systems and integrations
+  (software engineering, data/analytics engineering, business systems, or GTM engineering)
+  2+ years hands-on experience applying LLMs/AI to production workflows — not just
+  prototypes Proven experience delivering AI-enabled systems or automation (0→1 or
+  major expansions) with measurable business outcomes Strong in Python and JavaScript/Node.js
+  with Git-based development workflows, code review practices, and testing discipline
+  Deep familiarity with Google Cloud Platform, BigQuery, and Cloud Functions Hands-on
+  experience with LLM frameworks and patterns: prompt engineering, RAG, function calling/tool
+  use, agent orchestration, structured output parsing, and evaluation Fluent with
+  AI-assisted development tools (GitHub Copilot, Cursor, Claude Code) — you use AI
+  to build AI systems Systems Implementation &amp; Operational Excellence Experience
+  implementing automation systems, building agent workflows, and maintaining scalable
+  infrastructure Proven ability to execute, prioritize, and deliver high-ROI AI automation
+  projects Strong documentation skills and ability to communicate clearly with technical
+  and business audiences Experience integrating with Salesforce (or similar CRM) and
+  at least one marketing automation platform (Customer.io / HubSpot / Marketo) Background
+  working with analytics, segmentation, and personalization platforms Mindset &amp;
+  Approach A hands-on builder who helps others thrive, where you ship solutions and
+  enable colleagues to build on your work Comfortable working in ambiguity with high
+  autonomy and you scope your own work, follow through on commitments, and default
+  to transparency when making technical decisions Favors progress over perfection
+  by shipping iteratively, learn from production, and improve continuously Seeks diverse
+  perspectives when designing systems, gather input from the teams who''ll use what
+  you build, not just the ones who requested it AI &amp; Agent Systems Experience
+  building multi-agent systems: agent decomposition, orchestration patterns (sequential
+  chains, router/dispatcher, parallel fan-out), state management across handoffs Understanding
+  of LLM failure modes and production mitigations: confidence thresholds, fallback
+  logic, human escalation, cost/latency management Experience with systematic LLM
+  evaluation: golden datasets, regression testing, A/B testing prompts, monitoring
+  for drift Familiarity with conversational AI, chatbot development, and routing logic
+  Bonus Points Background in B2B SaaS or GTM operations&nbsp; Active in open-source
+  communities Experience with workflow orchestration platforms (n8n, Temporal, Prefect,
+  Airflow) In the United States, the base compensation range for this role is USD
+  $174,986 - USD $209,983. Actual compensation may vary based on level, experience,
+  and skillset as assessed throughout the interview process. All of our roles include
+  Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs''
+  success. We believe in shared outcomes—RSUs help us stay aligned and invested as
+  we scale globally. *Compensation ranges are country specific. If you are applying
+  for this role from a different location than listed above, your recruiter will discuss
+  your specific market’s defined pay range &amp; benefits at the beginning of the
+  process. Why You’ll Thrive at Grafana Labs: 100% Remote, Global Culture -&nbsp;
+  As a remote-only company, we bring together talent from around the world, united
+  by a culture of collaboration and shared purpose. Scaling Organization – Tackle
+  meaningful work in a high-growth, ever-evolving environment. Transparent Communication
+  – Expect open decision-making and regular company-wide updates. Innovation-Driven
+  – Autonomy and support to ship great work and try new things. Open Source Roots
+  – Built on community-driven values that shape how we work. Empowered Teams – High
+  trust, low ego culture that values outcomes over optics. Career Growth Pathways
+  – Defined opportunities to grow and develop your career. Approachable Leadership
+  – Transparent execs who are involved, visible, and human. Passionate People – Join
+  a team of smart, supportive folks who care deeply about what they do. In-Person
+  onboarding - We want you to thrive from day 1 with your fellow new ‘Grafanistas’
+  to learn all about what we do and how we do it.&nbsp; Balance is Key - We operate
+  a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement
+  are reserved for Grafana Shutdown Days to allow the team to really disconnect. *We
+  will comply with local legislation where applicable. Equal Opportunity Employer:
+  We will recruit, train, compensate and promote regardless of race, religion, color,
+  national origin, gender, disability, age, veteran status, and all the other fascinating
+  characteristics that make us different and unique. We believe that equality and
+  diversity builds a strong organization and we’re working hard to make sure that’s
+  the foundation of our organization as we grow. Grafana Labs may utilize AI tools
+  in its recruitment process to assist in matching information provided in CVs to
+  job postings. The recruitment team will continue to review inbound CVs manually
+  to identify alignment with current openings. #LI-Remote For information about how
+  your personal data is used once you’ve applied to a job, check out our privacy policy.&nbsp;
+  &nbsp;'
+postedDate: '2026-02-17'
+salary: USD 174,986 - 209,983
+id: '17'
+is_gtm_technical: true
+tech_stack:
+- n8n
+- Workato
+min_years_exp: 5
+salary_min: null
+salary_max: null
+reason: This position is focused on AI and automation systems in GTM, making it a
+  relevant technical role.

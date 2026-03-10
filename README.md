@@ -27,9 +27,40 @@ Refined the raw dataset into a structured format focused on Technical Go-To-Mark
 - **Tech Stack Extraction**: Captured modern GTM tools including **Clay**, **n8n**, **Tray.io**, and **Salesforce**.
 - **Data Fidelity**: Used JSON as the primary source to preserve 100% text accuracy (solving CSV parsing issues with HTML/newlines).
 
-## Prerequisites
+## Stage 3: Market Insights (March 2026)
 
-Before running the pipeline, you need to set up your API keys.
+Based on the analysis of **310 GTM Technical roles**, here are the key trends in the modern Go-To-Market stack.
+
+### 🛠️ Top GTM Tools
+The most requested tool is **Salesforce**, but modern "GTM Engineering" tools like **Clay** and **n8n** are showing significant traction.
+
+![Tech Stack Popularity](_internal/charts/tech_stack_popularity.png)
+
+| Tool | Frequency | Category |
+|---|---|---|
+| **Salesforce** | 68 | CRM / System of Record |
+| **Clay** | 59 | Data Orchestration / Prospecting |
+| **Python** | 50 | Automation / Scripting |
+| **SQL** | 39 | Data Analysis |
+| **HubSpot** | 36 | CRM / Marketing Automation |
+| **n8n** | 21 | Workflow Automation |
+
+### 💰 Salary Benchmarks
+GTM Engineering is a high-compensation field, with Senior and Staff roles frequently exceeding **$200k USD** base salary.
+
+![Salary by Seniority](_internal/charts/salary_by_seniority.png)
+
+*Data source: Builtin.com (Scraped March 2026). Analysis based on 310 curated technical roles.*
+
+---
+
+## Technical Details
+
+### Analysis Notebook
+For an interactive look at the data, see [analysis.ipynb](analysis.ipynb).
+
+### Prerequisites
+Before running the pipeline, you need to set up your API keys...
 
 ### 1. Get Your Keys
 - **Apify API Token**: Sign up at [Apify](https://apify.com/) and find your token in Settings > Integrations.

@@ -1,0 +1,188 @@
+title: Senior IAM Engineer
+company: Tempus AI
+category:
+- Artificial Intelligence
+- Big Data
+- Healthtech
+- Machine Learning
+- Analytics
+- Biotech
+- Generative AI
+location: Chicago, Illinois, USA
+date_posted: '2026-03-09'
+description_html: <p><span><b><span>Passionate about precision medicine and advancing
+  the healthcare industry?</span></b></span></p><p></p><p><span><span>Recent advancements
+  in underlying technology have finally made it possible for AI to impact clinical
+  care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem
+  of real-world evidence to deliver real-time, actionable insights to physicians,
+  providing critical information about the right treatments for the right patients,
+  at the right time.</span></span></p><p></p><ul><li><p><span>As a Senior IAM Engineer,
+  you will be the primary architect and guardian of our identity perimeter. You will
+  design, implement, and maintain scalable identity solutions that secure our workforce.
+  Your focus will be on transitioning away from manual provisioning toward a fully
+  automated "Identity-as-Code" model using Okta Workflows and API integrations.</span></p></li><li><b><b><b>Key
+  Responsibilities</b></b></b><ul><li><p>Architectural Leadership:<span> Design and
+  scale our Okta tenant, ensuring high availability and global best practices for
+  </span>SAML, OIDC,<span> and </span>OAuth 2.0<span> integrations.</span></p></li><li><p>Automation
+  &amp; Orchestration:<span> Build complex lifecycle management (LCM) flows using
+  </span>Okta Workflows<span> to automate joiner/mover/leaver processes across HRIS,
+  AD, and downstream SaaS apps.</span></p></li><li><p>Hybrid Identity Management:<span>
+  Manage and optimize the synchronization between </span>Active Directory (AD)<span>
+  and cloud identity providers.</span></p></li><li><p>API Integration:<span> Develop
+  custom integrations using REST APIs to connect homegrown or niche applications that
+  lack out-of-the-box support.</span></p></li><li><p>Security &amp; Compliance:<span>
+  Implement Adaptive Multi-Factor Authentication (MFA), Passwordless strategies, and
+  regular access certifications to meet SOC2/ISO 27001/SOX requirements.</span></p></li><li><p>Escalation
+  Support:<span> Serve as the Tier 3 expert for complex authentication issues and
+  identity-related security incidents.</span></p></li></ul></li><li><b><b><b>Technical
+  Qualifications</b></b></b><ul><li><p>Okta Mastery:<span> 5+ years of experience
+  managing Okta at an enterprise scale, including advanced Workflows and Okta Expression
+  Language.</span></p></li><li><p>Protocol Expertise:<span> Deep understanding of
+  the "Identity Trinity":</span>SAML 2.0:<span> XML-based assertions and troubleshooting.</span>OIDC/OAuth
+  2.0:<span> Scopes, claims, and grant types (Authorization Code vs. Client Credentials).</span>SCIM:<span>
+  Automating user provisioning and deprovisioning.</span></p></li><li><p>Directory
+  Services:<span> Strong background in </span>Active Directory<span> (Group Policy,
+  Kerberos, DNS) and how it interfaces with modern cloud tenants.</span></p></li><li><p>Programming/Scripting:<span>
+  Proficiency in Python, PowerShell, or JavaScript for interacting with APIs and automating
+  repetitive tasks.</span></p></li><li><p>Modern Security:<span> Familiarity with
+  Zero Trust Architecture (ZTA) and Least Privilege principles.</span></p></li></ul></li><li><b><b><b>Soft
+  Skills</b></b></b><ul><li><p>Problem Solver:<span> You don't just fix the symptom;
+  you find the root cause in the protocol trace.</span></p></li><li><p>Communicator:<span>
+  Ability to explain complex authentication flows to non-technical stakeholders (e.g.,
+  HR or Legal).</span></p></li><li><p>Continuous Learner:<span> The identity landscape
+  shifts weekly; you enjoy staying ahead of new standards like FIDO2 or Passkeys.</span></p></li></ul></li><li><b><b><b>Bonus
+  Points</b></b></b><ul><li><p><span>Okta Certified Professional/Administrator/Consultant.</span></p></li><li><p><span>Experience
+  with Infrastructure as Code (Terraform) for managing Okta resources.</span></p></li><li><p><span>Experience
+  with Privileged Access Management (PAM) tools.</span></p></li><li><p><span>Experience
+  with Identity Governance and Administration (IGA) tools.</span></p></li></ul></li></ul><p><span>#LI-HR1</span></p><p><span>#LI-Hybrid</span></p><p>CHI
+  - $120,000-$160,000</p><p><span>The expected salary range above is applicable if
+  the role is performed from Illinois and may vary for other locations (California,
+  Colorado, New York). Actual salary may vary based on qualifications and experience.
+  Tempus offers a full range of benefits, which may include incentive compensation,
+  restricted stock units, medical and other benefits depending on the position.</span></p><p></p><p>We
+  are an equal opportunity employer. We do not discriminate on the basis of race,
+  religion, color, national origin, gender, sexual orientation, age, marital status,
+  veteran status, or disability status.&nbsp;</p>
+description_text: 'Passionate about precision medicine and advancing the healthcare
+  industry? Recent advancements in underlying technology have finally made it possible
+  for AI to impact clinical care in a meaningful way. Tempus'' proprietary platform
+  connects an entire ecosystem of real-world evidence to deliver real-time, actionable
+  insights to physicians, providing critical information about the right treatments
+  for the right patients, at the right time. As a Senior IAM Engineer, you will be
+  the primary architect and guardian of our identity perimeter. You will design, implement,
+  and maintain scalable identity solutions that secure our workforce. Your focus will
+  be on transitioning away from manual provisioning toward a fully automated "Identity-as-Code"
+  model using Okta Workflows and API integrations. Key Responsibilities Architectural
+  Leadership: Design and scale our Okta tenant, ensuring high availability and global
+  best practices for SAML, OIDC, and OAuth 2.0 integrations. Automation &amp; Orchestration:
+  Build complex lifecycle management (LCM) flows using Okta Workflows to automate
+  joiner/mover/leaver processes across HRIS, AD, and downstream SaaS apps. Hybrid
+  Identity Management: Manage and optimize the synchronization between Active Directory
+  (AD) and cloud identity providers. API Integration: Develop custom integrations
+  using REST APIs to connect homegrown or niche applications that lack out-of-the-box
+  support. Security &amp; Compliance: Implement Adaptive Multi-Factor Authentication
+  (MFA), Passwordless strategies, and regular access certifications to meet SOC2/ISO
+  27001/SOX requirements. Escalation Support: Serve as the Tier 3 expert for complex
+  authentication issues and identity-related security incidents. Technical Qualifications
+  Okta Mastery: 5+ years of experience managing Okta at an enterprise scale, including
+  advanced Workflows and Okta Expression Language. Protocol Expertise: Deep understanding
+  of the "Identity Trinity": SAML 2.0: XML-based assertions and troubleshooting. OIDC/OAuth
+  2.0: Scopes, claims, and grant types (Authorization Code vs. Client Credentials).
+  SCIM: Automating user provisioning and deprovisioning. Directory Services: Strong
+  background in Active Directory (Group Policy, Kerberos, DNS) and how it interfaces
+  with modern cloud tenants. Programming/Scripting: Proficiency in Python, PowerShell,
+  or JavaScript for interacting with APIs and automating repetitive tasks. Modern
+  Security: Familiarity with Zero Trust Architecture (ZTA) and Least Privilege principles.
+  Soft Skills Problem Solver: You don''t just fix the symptom; you find the root cause
+  in the protocol trace. Communicator: Ability to explain complex authentication flows
+  to non-technical stakeholders (e.g., HR or Legal). Continuous Learner: The identity
+  landscape shifts weekly; you enjoy staying ahead of new standards like FIDO2 or
+  Passkeys. Bonus Points Okta Certified Professional/Administrator/Consultant. Experience
+  with Infrastructure as Code (Terraform) for managing Okta resources. Experience
+  with Privileged Access Management (PAM) tools. Experience with Identity Governance
+  and Administration (IGA) tools. #LI-HR1 #LI-Hybrid CHI - $120,000-$160,000 The expected
+  salary range above is applicable if the role is performed from Illinois and may
+  vary for other locations (California, Colorado, New York). Actual salary may vary
+  based on qualifications and experience. Tempus offers a full range of benefits,
+  which may include incentive compensation, restricted stock units, medical and other
+  benefits depending on the position. We are an equal opportunity employer. We do
+  not discriminate on the basis of race, religion, color, national origin, gender,
+  sexual orientation, age, marital status, veteran status, or disability status.&nbsp;'
+salary_json_min: 120000
+salary_json_max: 160000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: 'We bring together one of the world’s largest libraries of multimodal
+  clinical and molecular data with a robust suite of AI tools to help physicians personalize
+  care in real time, connect patients with therapies and clinical trials, and enable
+  partners to accelerate discovery and development of new treatments.With ~8 million
+  de-identified research records and 350+ petabytes of data, Tempus partners with
+  more than half of U.S. oncologists and the majority of the top 20 global pharma
+  companies. Our teams are pioneering work across oncology, neurology, psychiatry,
+  cardiology, and beyond—transforming how care is delivered and therapies are developed.At
+  Tempus, every role contributes to our mission: to help each patient benefit from
+  the experiences of those who came before.For more information, visit tempus.com.'
+url: https://builtin.com/job/senior-iam-engineer/8468827
+source: builtin.com
+description: 'Passionate about precision medicine and advancing the healthcare industry?
+  Recent advancements in underlying technology have finally made it possible for AI
+  to impact clinical care in a meaningful way. Tempus'' proprietary platform connects
+  an entire ecosystem of real-world evidence to deliver real-time, actionable insights
+  to physicians, providing critical information about the right treatments for the
+  right patients, at the right time. As a Senior IAM Engineer, you will be the primary
+  architect and guardian of our identity perimeter. You will design, implement, and
+  maintain scalable identity solutions that secure our workforce. Your focus will
+  be on transitioning away from manual provisioning toward a fully automated "Identity-as-Code"
+  model using Okta Workflows and API integrations. Key Responsibilities Architectural
+  Leadership: Design and scale our Okta tenant, ensuring high availability and global
+  best practices for SAML, OIDC, and OAuth 2.0 integrations. Automation &amp; Orchestration:
+  Build complex lifecycle management (LCM) flows using Okta Workflows to automate
+  joiner/mover/leaver processes across HRIS, AD, and downstream SaaS apps. Hybrid
+  Identity Management: Manage and optimize the synchronization between Active Directory
+  (AD) and cloud identity providers. API Integration: Develop custom integrations
+  using REST APIs to connect homegrown or niche applications that lack out-of-the-box
+  support. Security &amp; Compliance: Implement Adaptive Multi-Factor Authentication
+  (MFA), Passwordless strategies, and regular access certifications to meet SOC2/ISO
+  27001/SOX requirements. Escalation Support: Serve as the Tier 3 expert for complex
+  authentication issues and identity-related security incidents. Technical Qualifications
+  Okta Mastery: 5+ years of experience managing Okta at an enterprise scale, including
+  advanced Workflows and Okta Expression Language. Protocol Expertise: Deep understanding
+  of the "Identity Trinity": SAML 2.0: XML-based assertions and troubleshooting. OIDC/OAuth
+  2.0: Scopes, claims, and grant types (Authorization Code vs. Client Credentials).
+  SCIM: Automating user provisioning and deprovisioning. Directory Services: Strong
+  background in Active Directory (Group Policy, Kerberos, DNS) and how it interfaces
+  with modern cloud tenants. Programming/Scripting: Proficiency in Python, PowerShell,
+  or JavaScript for interacting with APIs and automating repetitive tasks. Modern
+  Security: Familiarity with Zero Trust Architecture (ZTA) and Least Privilege principles.
+  Soft Skills Problem Solver: You don''t just fix the symptom; you find the root cause
+  in the protocol trace. Communicator: Ability to explain complex authentication flows
+  to non-technical stakeholders (e.g., HR or Legal). Continuous Learner: The identity
+  landscape shifts weekly; you enjoy staying ahead of new standards like FIDO2 or
+  Passkeys. Bonus Points Okta Certified Professional/Administrator/Consultant. Experience
+  with Infrastructure as Code (Terraform) for managing Okta resources. Experience
+  with Privileged Access Management (PAM) tools. Experience with Identity Governance
+  and Administration (IGA) tools. #LI-HR1 #LI-Hybrid CHI - $120,000-$160,000 The expected
+  salary range above is applicable if the role is performed from Illinois and may
+  vary for other locations (California, Colorado, New York). Actual salary may vary
+  based on qualifications and experience. Tempus offers a full range of benefits,
+  which may include incentive compensation, restricted stock units, medical and other
+  benefits depending on the position. We are an equal opportunity employer. We do
+  not discriminate on the basis of race, religion, color, national origin, gender,
+  sexual orientation, age, marital status, veteran status, or disability status.&nbsp;'
+postedDate: '2026-03-09'
+salary: USD 120,000 - 160,000
+id: '11'
+is_gtm_technical: true
+tech_stack:
+- Okta
+- Python
+min_years_exp: 5
+salary_min: 120000
+salary_max: 160000
+reason: Focuses on identity management and automating processes for enhanced security,
+  indicating GTM relevance.

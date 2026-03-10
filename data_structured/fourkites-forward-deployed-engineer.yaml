@@ -1,0 +1,374 @@
+title: Forward Deployed Engineer
+company: FourKites
+category:
+- Artificial Intelligence
+- Big Data
+- Logistics
+- Machine Learning
+- Software
+- Transportation
+location: Chicago, Illinois, USA
+date_posted: '2026-03-09'
+description_html: '<p><em>At FourKites we have the opportunity to tackle complex challenges
+  with real-world impacts. Whether it’s medical supplies from Cardinal Health or groceries
+  for Walmart, the FourKites platform helps customers operate global supply chains
+  that are efficient, agile and sustainable.</em></p><p><em>Join a team of curious
+  problem solvers that celebrates differences, leads with empathy and values inclusivity</em><strong><em>.</em></strong></p><p>As
+  a Forward Deployment Engineer, you sit at the intersection of software engineering
+  and customer impact. You build and deploy AI-powered integration and agentic workflow
+  solutions directly with enterprise customers — from the first technical discovery
+  conversation through post-launch enhancements. You are the engineer in the room
+  who hears a customer problem and builds the solution. Speed matters here — the ability
+  to write optimized, production-grade code fast and deploy it to customers without
+  long feedback cycles is what makes the FDE function valuable. Strong data structures
+  and algorithms fundamentals and an innovative, non-obvious approach to problem solving
+  are core to what we look for. AI fluency — building agentic workflows and using
+  LLMs as a daily engineering tool — is a baseline expectation for everyone on this
+  team, not a specialization.</p><p><strong>What you''ll be doing:</strong></p><ul><li>Build
+  and deploy integration solutions — EDI (214, 315), callbacks, custom payload mapping,
+  and API integrations — with production-grade quality and full test coverage</li><li>Deploy
+  agentic AI workflows that orchestrate supply chain operations live with customers
+  present — configuring and deploying in the call, not gathering requirements to build
+  later</li><li>Write and extend LangGraph-based workflow extensions and wrapped action
+  customizations in Agent Studio</li><li>Use Claude, OpenAI, and other LLMs across
+  the entire workflow — requirements documentation, integration design, code generation,
+  testing and deployment; LLMs are not a convenience tool, they are how this team
+  works</li><li>Participate in customer discovery and technical clarification calls
+  — answering complex technical and product questions with concrete, innovative solutions
+  in real time</li><li>Write thorough root cause analyses for integration failures
+  and own the fix through to resolution</li><li>Perform code reviews on integration
+  and AI workflow work and maintain the team''s quality standards before any customer
+  deployment</li><li>Contribute to the team''s reusable integration package and AI
+  workflow template library as you build</li><li>Mentor incoming FDEs — pair on hard
+  problems, accelerate their ramp-up, and share institutional knowledge</li><li>Collaborate
+  with Implementation Managers, Customer Success Managers, Solutions Consultants,
+  Product Managers, and Engineering to deliver seamless customer outcomes</li></ul><p><strong>About
+  the team:</strong></p><p>At FourKites, our teams solve complex, high-impact problems
+  that move the world’s supply chains—from delivering critical medical supplies to
+  keeping grocery shelves stocked. We’re a group of curious, customer-obsessed problem
+  solvers who value empathy, inclusivity, and diverse perspectives. Working closely
+  with Fortune 100 customers, our teams sit at the intersection of cutting-edge AI
+  and real-world enterprise systems to build solutions that are practical, scalable,
+  and transformative.</p><p><strong>Who you are:</strong></p><ul><li>0–4 years of
+  software engineering experience — what matters more than tenure is the depth and
+  quality of what you have built</li><li>Strong proficiency in Java (required) — writes
+  clean, optimized, production-grade code with proper error handling, test coverage,
+  and clear design thinking from day one</li><li>Strong foundations in data structures
+  and algorithms — able to reason about time and space complexity, choose the right
+  data structures for the problem, and write code that performs at scale without being
+  told how</li><li>Strong software design instincts — designs integration solutions
+  that are modular, maintainable, and built to evolve; doesn''t just write code that
+  works today, writes code that holds up over time</li><li>Writes code at speed without
+  sacrificing quality — can take a customer requirement from problem statement to
+  working, deployed solution faster than traditional development cycles allow; this
+  is a core expectation, not a nice-to-have</li><li>Innovative problem solver — approaches
+  integration and AI workflow challenges with genuine curiosity, finds non-obvious
+  solutions, and doesn''t default to the first approach that comes to mind</li><li>Proficient
+  in REST APIs, HTTP/HTTPS, SFTP, and core data formats — XML, EDI, JSON, flat files
+  — can read, write, and transform all of them</li><li>Working knowledge of enterprise
+  integration patterns and how to apply them in distributed, multi-tenant systems</li><li>Solid
+  working understanding of LLMs, prompt engineering, and agentic workflow design —
+  hands-on, not theoretical</li><li>Uses Claude, OpenAI, or equivalent LLMs across
+  the full workflow — requirements documentation, integration design, code generation,
+  debugging, testing and deployment; not just as a coding assistant but as a core
+  engineering tool</li><li>Familiar with agentic frameworks such as LangGraph or LangChain
+  and has built or configured at least one AI workflow in production or a meaningful
+  side project</li><li>Understands authentication patterns: OAuth 2.0, API keys, basic
+  auth, token lifecycle management</li><li>Comfortable on customer calls — communicates
+  technical concepts clearly to both technical and non-technical stakeholders</li><li>Able
+  to deploy agentic workflows live with customers present, handling configuration
+  and troubleshooting in the moment</li></ul><b><strong>Preferred Qualifications</strong></b><ul><li>Experience
+  in supply chain, logistics, transportation, or B2B SaaS platforms is a strong plus</li><li>Familiarity
+  with enterprise integration patterns and the ability to select the right approach
+  for a given business and technical scenario</li><li>Familiarity with EDI standards,
+  carrier integrations, TMS/WMS systems, and supply chain data flows</li><li>SQL proficiency
+  — Snowflake experience is a plus</li><li>Experience with low-code/no-code workflow
+  automation platforms such as Pipedream, n8n, Temporal, or equivalent</li><li>Proficient
+  with Lucidchart, Miro, draw.io, or similar tools to document and communicate integration
+  designs visually — the ability to make a complex data flow readable to a customer
+  or a non-technical stakeholder matters as much as the build itself</li><li>Experience
+  working with enterprise customers in a post-sales, implementation, or technical
+  account role</li><li>Familiarity with webhook and callback delivery architecture</li></ul><b><span>Compensation</span></b><p>The
+  expected annual base salary range for this role is $80,000 - $110,000. Actual compensation
+  will be determined based on several factors, including but not limited to experience,
+  qualifications, skills, and business needs. In addition to base salary, this position
+  is eligible for bonus and incentive compensation as well as participation in FourKites''
+  employee stock option program.</p><b><span>Benefits</span></b><p>FourKites provides
+  competitive compensation with stock options, outstanding benefits and a collaborative
+  culture for all employees around the globe. To help you be your best, we have 5
+  global recharge days, in addition to generous PTO and standard holidays. Parental
+  leave for all parents, an annual wellness stipend and volunteer days also provide
+  you with time and resources for self care and to care for others. Throughout the
+  year, FourKites sets aside time during the workday to learn and celebrate diversity.
+  We''re always listening for new ways to support everyone in and out of the office.</p><p>Benefits
+  include:</p><ul><li><p>Medical, Dental &amp; Vision benefits starting on first day
+  of employment</p></li><li><p>401k Retirement savings with employer match</p></li><li><p>Bonus
+  and incentive compensation as well as employee stock option program</p></li><li><p>Employer
+  paid life insurance and short term disability insurance</p></li><li><p>Generous
+  PTO, global recharge days, and volunteer days</p></li><li><p>Paid parental leave
+  for all parents</p></li><li><p>Family planning and inclusive wellbeing resources</p></li><li><p>Technology
+  reimbursement</p></li><li><p>Commuter benefits for in-office employees (Chicago)</p></li><li><p>Annual
+  Wellness Stipend</p></li><li><p>Ongoing learning &amp; development opportunities</p></li></ul><b><span>About
+  FourKites</span></b><p>FourKites, the leader in AI-driven supply chain transformation
+  for global enterprises and pioneer of real-time visibility, turns supply chain data
+  into automated action. FourKites Intelligent Control Tower® breaks down enterprise
+  silos by creating a real-time digital twin of orders, shipments, inventory and assets.
+  This comprehensive view, combined with AI-powered digital workers, enables companies
+  to prevent disruptions, automate routine tasks and optimize performance across their
+  supply chain. FourKites processes over 3.2 million supply chain events daily — from
+  purchase orders to final delivery — helping 1,600-plus global brands prevent disruptions,
+  make faster decisions and move from reactive tracking to proactive supply chain
+  orchestration. For more information, visit www.fourkites.com.</p><p>If you are a
+  California resident, here is our California Applicant Privacy Notice. If you are
+  a European Union resident, here is our EU Applicant Privacy Notice.</p><p>FourKites
+  is an equal opportunity employer. We celebrate diversity and are committed to creating
+  an inclusive environment for all employees. If you''re excited about this role but
+  don''t meet every requirement, we encourage you to apply.</p><br>'
+description_text: 'At FourKites we have the opportunity to tackle complex challenges
+  with real-world impacts. Whether it’s medical supplies from Cardinal Health or groceries
+  for Walmart, the FourKites platform helps customers operate global supply chains
+  that are efficient, agile and sustainable. Join a team of curious problem solvers
+  that celebrates differences, leads with empathy and values inclusivity . As a Forward
+  Deployment Engineer, you sit at the intersection of software engineering and customer
+  impact. You build and deploy AI-powered integration and agentic workflow solutions
+  directly with enterprise customers — from the first technical discovery conversation
+  through post-launch enhancements. You are the engineer in the room who hears a customer
+  problem and builds the solution. Speed matters here — the ability to write optimized,
+  production-grade code fast and deploy it to customers without long feedback cycles
+  is what makes the FDE function valuable. Strong data structures and algorithms fundamentals
+  and an innovative, non-obvious approach to problem solving are core to what we look
+  for. AI fluency — building agentic workflows and using LLMs as a daily engineering
+  tool — is a baseline expectation for everyone on this team, not a specialization.
+  What you''ll be doing: Build and deploy integration solutions — EDI (214, 315),
+  callbacks, custom payload mapping, and API integrations — with production-grade
+  quality and full test coverage Deploy agentic AI workflows that orchestrate supply
+  chain operations live with customers present — configuring and deploying in the
+  call, not gathering requirements to build later Write and extend LangGraph-based
+  workflow extensions and wrapped action customizations in Agent Studio Use Claude,
+  OpenAI, and other LLMs across the entire workflow — requirements documentation,
+  integration design, code generation, testing and deployment; LLMs are not a convenience
+  tool, they are how this team works Participate in customer discovery and technical
+  clarification calls — answering complex technical and product questions with concrete,
+  innovative solutions in real time Write thorough root cause analyses for integration
+  failures and own the fix through to resolution Perform code reviews on integration
+  and AI workflow work and maintain the team''s quality standards before any customer
+  deployment Contribute to the team''s reusable integration package and AI workflow
+  template library as you build Mentor incoming FDEs — pair on hard problems, accelerate
+  their ramp-up, and share institutional knowledge Collaborate with Implementation
+  Managers, Customer Success Managers, Solutions Consultants, Product Managers, and
+  Engineering to deliver seamless customer outcomes About the team: At FourKites,
+  our teams solve complex, high-impact problems that move the world’s supply chains—from
+  delivering critical medical supplies to keeping grocery shelves stocked. We’re a
+  group of curious, customer-obsessed problem solvers who value empathy, inclusivity,
+  and diverse perspectives. Working closely with Fortune 100 customers, our teams
+  sit at the intersection of cutting-edge AI and real-world enterprise systems to
+  build solutions that are practical, scalable, and transformative. Who you are: 0–4
+  years of software engineering experience — what matters more than tenure is the
+  depth and quality of what you have built Strong proficiency in Java (required) —
+  writes clean, optimized, production-grade code with proper error handling, test
+  coverage, and clear design thinking from day one Strong foundations in data structures
+  and algorithms — able to reason about time and space complexity, choose the right
+  data structures for the problem, and write code that performs at scale without being
+  told how Strong software design instincts — designs integration solutions that are
+  modular, maintainable, and built to evolve; doesn''t just write code that works
+  today, writes code that holds up over time Writes code at speed without sacrificing
+  quality — can take a customer requirement from problem statement to working, deployed
+  solution faster than traditional development cycles allow; this is a core expectation,
+  not a nice-to-have Innovative problem solver — approaches integration and AI workflow
+  challenges with genuine curiosity, finds non-obvious solutions, and doesn''t default
+  to the first approach that comes to mind Proficient in REST APIs, HTTP/HTTPS, SFTP,
+  and core data formats — XML, EDI, JSON, flat files — can read, write, and transform
+  all of them Working knowledge of enterprise integration patterns and how to apply
+  them in distributed, multi-tenant systems Solid working understanding of LLMs, prompt
+  engineering, and agentic workflow design — hands-on, not theoretical Uses Claude,
+  OpenAI, or equivalent LLMs across the full workflow — requirements documentation,
+  integration design, code generation, debugging, testing and deployment; not just
+  as a coding assistant but as a core engineering tool Familiar with agentic frameworks
+  such as LangGraph or LangChain and has built or configured at least one AI workflow
+  in production or a meaningful side project Understands authentication patterns:
+  OAuth 2.0, API keys, basic auth, token lifecycle management Comfortable on customer
+  calls — communicates technical concepts clearly to both technical and non-technical
+  stakeholders Able to deploy agentic workflows live with customers present, handling
+  configuration and troubleshooting in the moment Preferred Qualifications Experience
+  in supply chain, logistics, transportation, or B2B SaaS platforms is a strong plus
+  Familiarity with enterprise integration patterns and the ability to select the right
+  approach for a given business and technical scenario Familiarity with EDI standards,
+  carrier integrations, TMS/WMS systems, and supply chain data flows SQL proficiency
+  — Snowflake experience is a plus Experience with low-code/no-code workflow automation
+  platforms such as Pipedream, n8n, Temporal, or equivalent Proficient with Lucidchart,
+  Miro, draw.io, or similar tools to document and communicate integration designs
+  visually — the ability to make a complex data flow readable to a customer or a non-technical
+  stakeholder matters as much as the build itself Experience working with enterprise
+  customers in a post-sales, implementation, or technical account role Familiarity
+  with webhook and callback delivery architecture Compensation The expected annual
+  base salary range for this role is $80,000 - $110,000. Actual compensation will
+  be determined based on several factors, including but not limited to experience,
+  qualifications, skills, and business needs. In addition to base salary, this position
+  is eligible for bonus and incentive compensation as well as participation in FourKites''
+  employee stock option program. Benefits FourKites provides competitive compensation
+  with stock options, outstanding benefits and a collaborative culture for all employees
+  around the globe. To help you be your best, we have 5 global recharge days, in addition
+  to generous PTO and standard holidays. Parental leave for all parents, an annual
+  wellness stipend and volunteer days also provide you with time and resources for
+  self care and to care for others. Throughout the year, FourKites sets aside time
+  during the workday to learn and celebrate diversity. We''re always listening for
+  new ways to support everyone in and out of the office. Benefits include: Medical,
+  Dental &amp; Vision benefits starting on first day of employment 401k Retirement
+  savings with employer match Bonus and incentive compensation as well as employee
+  stock option program Employer paid life insurance and short term disability insurance
+  Generous PTO, global recharge days, and volunteer days Paid parental leave for all
+  parents Family planning and inclusive wellbeing resources Technology reimbursement
+  Commuter benefits for in-office employees (Chicago) Annual Wellness Stipend Ongoing
+  learning &amp; development opportunities About FourKites FourKites, the leader in
+  AI-driven supply chain transformation for global enterprises and pioneer of real-time
+  visibility, turns supply chain data into automated action. FourKites Intelligent
+  Control Tower® breaks down enterprise silos by creating a real-time digital twin
+  of orders, shipments, inventory and assets. This comprehensive view, combined with
+  AI-powered digital workers, enables companies to prevent disruptions, automate routine
+  tasks and optimize performance across their supply chain. FourKites processes over
+  3.2 million supply chain events daily — from purchase orders to final delivery —
+  helping 1,600-plus global brands prevent disruptions, make faster decisions and
+  move from reactive tracking to proactive supply chain orchestration. For more information,
+  visit www.fourkites.com. If you are a California resident, here is our California
+  Applicant Privacy Notice. If you are a European Union resident, here is our EU Applicant
+  Privacy Notice. FourKites is an equal opportunity employer. We celebrate diversity
+  and are committed to creating an inclusive environment for all employees. If you''re
+  excited about this role but don''t meet every requirement, we encourage you to apply.'
+salary_json_min: 1
+salary_json_max: 1
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Mid
+workplace_type_enum: UNKNOWN
+company_overview: Our platform creates comprehensive digital twins of your supply
+  chain with AI-powered digital workers to automate resolution, improve collaboration
+  and drive outcomes across all stakeholders. Unlike traditional control towers, we
+  enable true real-time execution and intelligent fulfillment, transforming both your
+  supply and customer-facing operations.
+url: https://builtin.com/job/ai-integration-engineer/8090749
+source: builtin.com
+description: 'At FourKites we have the opportunity to tackle complex challenges with
+  real-world impacts. Whether it’s medical supplies from Cardinal Health or groceries
+  for Walmart, the FourKites platform helps customers operate global supply chains
+  that are efficient, agile and sustainable. Join a team of curious problem solvers
+  that celebrates differences, leads with empathy and values inclusivity . As a Forward
+  Deployment Engineer, you sit at the intersection of software engineering and customer
+  impact. You build and deploy AI-powered integration and agentic workflow solutions
+  directly with enterprise customers — from the first technical discovery conversation
+  through post-launch enhancements. You are the engineer in the room who hears a customer
+  problem and builds the solution. Speed matters here — the ability to write optimized,
+  production-grade code fast and deploy it to customers without long feedback cycles
+  is what makes the FDE function valuable. Strong data structures and algorithms fundamentals
+  and an innovative, non-obvious approach to problem solving are core to what we look
+  for. AI fluency — building agentic workflows and using LLMs as a daily engineering
+  tool — is a baseline expectation for everyone on this team, not a specialization.
+  What you''ll be doing: Build and deploy integration solutions — EDI (214, 315),
+  callbacks, custom payload mapping, and API integrations — with production-grade
+  quality and full test coverage Deploy agentic AI workflows that orchestrate supply
+  chain operations live with customers present — configuring and deploying in the
+  call, not gathering requirements to build later Write and extend LangGraph-based
+  workflow extensions and wrapped action customizations in Agent Studio Use Claude,
+  OpenAI, and other LLMs across the entire workflow — requirements documentation,
+  integration design, code generation, testing and deployment; LLMs are not a convenience
+  tool, they are how this team works Participate in customer discovery and technical
+  clarification calls — answering complex technical and product questions with concrete,
+  innovative solutions in real time Write thorough root cause analyses for integration
+  failures and own the fix through to resolution Perform code reviews on integration
+  and AI workflow work and maintain the team''s quality standards before any customer
+  deployment Contribute to the team''s reusable integration package and AI workflow
+  template library as you build Mentor incoming FDEs — pair on hard problems, accelerate
+  their ramp-up, and share institutional knowledge Collaborate with Implementation
+  Managers, Customer Success Managers, Solutions Consultants, Product Managers, and
+  Engineering to deliver seamless customer outcomes About the team: At FourKites,
+  our teams solve complex, high-impact problems that move the world’s supply chains—from
+  delivering critical medical supplies to keeping grocery shelves stocked. We’re a
+  group of curious, customer-obsessed problem solvers who value empathy, inclusivity,
+  and diverse perspectives. Working closely with Fortune 100 customers, our teams
+  sit at the intersection of cutting-edge AI and real-world enterprise systems to
+  build solutions that are practical, scalable, and transformative. Who you are: 0–4
+  years of software engineering experience — what matters more than tenure is the
+  depth and quality of what you have built Strong proficiency in Java (required) —
+  writes clean, optimized, production-grade code with proper error handling, test
+  coverage, and clear design thinking from day one Strong foundations in data structures
+  and algorithms — able to reason about time and space complexity, choose the right
+  data structures for the problem, and write code that performs at scale without being
+  told how Strong software design instincts — designs integration solutions that are
+  modular, maintainable, and built to evolve; doesn''t just write code that works
+  today, writes code that holds up over time Writes code at speed without sacrificing
+  quality — can take a customer requirement from problem statement to working, deployed
+  solution faster than traditional development cycles allow; this is a core expectation,
+  not a nice-to-have Innovative problem solver — approaches integration and AI workflow
+  challenges with genuine curiosity, finds non-obvious solutions, and doesn''t default
+  to the first approach that comes to mind Proficient in REST APIs, HTTP/HTTPS, SFTP,
+  and core data formats — XML, EDI, JSON, flat files — can read, write, and transform
+  all of them Working knowledge of enterprise integration patterns and how to apply
+  them in distributed, multi-tenant systems Solid working understanding of LLMs, prompt
+  engineering, and agentic workflow design — hands-on, not theoretical Uses Claude,
+  OpenAI, or equivalent LLMs across the full workflow — requirements documentation,
+  integration design, code generation, debugging, testing and deployment; not just
+  as a coding assistant but as a core engineering tool Familiar with agentic frameworks
+  such as LangGraph or LangChain and has built or configured at least one AI workflow
+  in production or a meaningful side project Understands authentication patterns:
+  OAuth 2.0, API keys, basic auth, token lifecycle management Comfortable on customer
+  calls — communicates technical concepts clearly to both technical and non-technical
+  stakeholders Able to deploy agentic workflows live with customers present, handling
+  configuration and troubleshooting in the moment Preferred Qualifications Experience
+  in supply chain, logistics, transportation, or B2B SaaS platforms is a strong plus
+  Familiarity with enterprise integration patterns and the ability to select the right
+  approach for a given business and technical scenario Familiarity with EDI standards,
+  carrier integrations, TMS/WMS systems, and supply chain data flows SQL proficiency
+  — Snowflake experience is a plus Experience with low-code/no-code workflow automation
+  platforms such as Pipedream, n8n, Temporal, or equivalent Proficient with Lucidchart,
+  Miro, draw.io, or similar tools to document and communicate integration designs
+  visually — the ability to make a complex data flow readable to a customer or a non-technical
+  stakeholder matters as much as the build itself Experience working with enterprise
+  customers in a post-sales, implementation, or technical account role Familiarity
+  with webhook and callback delivery architecture Compensation The expected annual
+  base salary range for this role is $80,000 - $110,000. Actual compensation will
+  be determined based on several factors, including but not limited to experience,
+  qualifications, skills, and business needs. In addition to base salary, this position
+  is eligible for bonus and incentive compensation as well as participation in FourKites''
+  employee stock option program. Benefits FourKites provides competitive compensation
+  with stock options, outstanding benefits and a collaborative culture for all employees
+  around the globe. To help you be your best, we have 5 global recharge days, in addition
+  to generous PTO and standard holidays. Parental leave for all parents, an annual
+  wellness stipend and volunteer days also provide you with time and resources for
+  self care and to care for others. Throughout the year, FourKites sets aside time
+  during the workday to learn and celebrate diversity. We''re always listening for
+  new ways to support everyone in and out of the office. Benefits include: Medical,
+  Dental &amp; Vision benefits starting on first day of employment 401k Retirement
+  savings with employer match Bonus and incentive compensation as well as employee
+  stock option program Employer paid life insurance and short term disability insurance
+  Generous PTO, global recharge days, and volunteer days Paid parental leave for all
+  parents Family planning and inclusive wellbeing resources Technology reimbursement
+  Commuter benefits for in-office employees (Chicago) Annual Wellness Stipend Ongoing
+  learning &amp; development opportunities About FourKites FourKites, the leader in
+  AI-driven supply chain transformation for global enterprises and pioneer of real-time
+  visibility, turns supply chain data into automated action. FourKites Intelligent
+  Control Tower® breaks down enterprise silos by creating a real-time digital twin
+  of orders, shipments, inventory and assets. This comprehensive view, combined with
+  AI-powered digital workers, enables companies to prevent disruptions, automate routine
+  tasks and optimize performance across their supply chain. FourKites processes over
+  3.2 million supply chain events daily — from purchase orders to final delivery —
+  helping 1,600-plus global brands prevent disruptions, make faster decisions and
+  move from reactive tracking to proactive supply chain orchestration. For more information,
+  visit www.fourkites.com. If you are a California resident, here is our California
+  Applicant Privacy Notice. If you are a European Union resident, here is our EU Applicant
+  Privacy Notice. FourKites is an equal opportunity employer. We celebrate diversity
+  and are committed to creating an inclusive environment for all employees. If you''re
+  excited about this role but don''t meet every requirement, we encourage you to apply.'
+postedDate: '2026-03-09'
+salary: USD 1 - 1
+id: '3'
+is_gtm_technical: true
+tech_stack:
+- EDI
+- API
+min_years_exp: 0
+salary_min: 0
+salary_max: 0
+reason: This role focuses on building and deploying integration solutions, characteristic
+  of a Technical GTM role.

@@ -1,0 +1,374 @@
+title: Sr. Data Engineer (Part Time)
+company: Carina
+category: Information Technology
+location: Oregon, USA
+date_posted: '2026-03-05'
+description_html: '<p>Carina is a nonprofit technology organization founded in 2016
+  that operates an online home care matching platform.&nbsp; We connect individuals
+  who need publicly funded home care services, including Medicaid, with home care
+  workers seeking meaningful work and good jobs.&nbsp; We work closely with state
+  and local governments, labor unions, training funds, and private employers.&nbsp;
+  Since our founding, Carina has successfully facilitated thousands of matches, resulting
+  in more than 5 million hours of home care being delivered.</p><p>Carina has been
+  recognized as an MIT Solver in the care economy, a Black &amp; Brown Innovator honoree
+  by MIT Solve, and an honoree on CareGuild’s Care at Scale List, highlighting our
+  innovative approach to strengthening the care workforce and expanding access to
+  care.</p><p>&nbsp;</p><h3>Position Details:</h3><p><span style="color: rgba(45,
+  48, 69, 1)"><strong>Location: </strong></span>Hybrid work Headquartered in Downtown
+  Seattle, remote work possible from CA, OR and WA.</p><p><span style="color: rgba(45,
+  48, 69, 1)"><strong>Work Schedule: </strong>Our typical business hours are 8:30-5:00
+  Monday-Friday.</span></p><p><span style="color: rgba(45, 48, 69, 1)"><strong>Travel
+  Requirements: </strong>Up to 10%</span></p><p><span style="color: rgba(45, 48, 69,
+  1)"><strong>Category: </strong>Part-Time, FLSA Non-Exempt, Regular</span></p><p><span
+  style="color: rgba(45, 48, 69, 1)"><strong>Physical Requirements: </strong>Must
+  be able to perform tasks that may require prolonged periods of sitting or standing,
+  with or without reasonable accommodation.</span></p><p><span style="color: rgba(45,
+  48, 69, 1)">&nbsp;</span></p><p><strong>Position Summary:</strong></p><p>We are
+  seeking a detail-oriented and collaborative Senior Data Engineer to join our growing
+  technology team on a part-time basis. This role is ideal for someone who enjoys
+  solving data challenges, building efficient systems, and supporting a mission-driven
+  organization.</p><p>As a Senior Data Engineer at Carina, you will design, implement,
+  and maintain the data infrastructure that powers our web-based marketplace connecting
+  certified in-home care providers with Medicaid-eligible care seekers. You will work
+  primarily with PostgreSQL on AWS RDS, helping ensure the quality, integrity, and
+  security of data across applications, analytics, and partner integrations.</p><p>You
+  will collaborate closely with software engineers, data analysts, and product teams
+  to deliver reliable, well-structured data systems that enable meaningful insights
+  and informed decision-making. This is an opportunity to make a direct impact on
+  how Carina improves access to care for families and caregivers across the state.</p><p>&nbsp;</p><h3>You
+  Will:</h3><h3>Design &amp; Development (DBE)</h3><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Design, build, and maintain scalable data solutions and pipelines to support application
+  and business needs;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and optimize
+  data models and schemas within AWS RDS (PostgreSQL) for transactional and analytical
+  use cases;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and maintain data
+  architecture documentation including ERDs, data dictionaries, and source-to-target
+  mappings across business units;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
+  and maintain ETL and Reverse ETL processes for ingestion, transformation, and distribution
+  of data across internal and external systems;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Ensure data security and compliance for confidential PII and PHI in accordance with
+  HIPAA, internal governance standards, and AWS security best practices;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Support development teams with data access design through views, APIs, and performance-optimized
+  SQL.</p><p>&nbsp;</p><h3>Administration (DBA)</h3><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Monitor database performance, identify bottlenecks, and apply indexing, partitioning,
+  and query tuning strategies;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage
+  schema versioning, migrations, and change control in collaboration with application
+  engineers;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintain database reliability
+  through regular backups, restores, and performance audits in AWS RDS;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Implement and enforce data governance policies, access controls, and user permissions;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Analyze query execution plans and develop indexing strategies for optimal read/write
+  performance.</p><p>&nbsp;</p><h3>Data Management &amp; Analytics</h3><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Develop and maintain data validation and quality checks to ensure integrity across
+  systems;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate with internal stakeholders
+  to support reporting, ad-hoc analysis, and BI integrations;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Create and manage derived tables, materialized views, and summary datasets for analytics
+  and partner reporting;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assist in data
+  migrations, version upgrades, and integration efforts as Carina expands to new markets
+  and data domains.</p><p>&nbsp;</p><h3>Collaboration</h3><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Partner with software engineers, data analysts, and product managers to translate
+  feature requirements into scalable data solutions;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Support internal stakeholders by providing SQL queries, datasets, and insights that
+  inform business decisions;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate
+  with external partners and vendors to integrate, transform, and exchange data securely
+  and reliably;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate complex technical
+  concepts clearly to both technical and non-technical audiences.</p><p>&nbsp;</p><h3>Continuous
+  Improvement</h3><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stay current with AWS data
+  services, PostgreSQL advancements, and emerging data engineering practices;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Propose and implement process and tooling improvements that enhance data reliability
+  and developer productivity;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contribute
+  to building and documenting Carina’s data engineering standards, code review practices,
+  and infrastructure-as-code patterns;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Champion a data-first culture by advocating for performance, security, and data
+  quality throughout the organization.</p><p>&nbsp;</p><h3>You Have:</h3><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Bachelor’s degree in computer science, Data Engineering, Information Technology,
+  or a related technical field — or equivalent practical experience;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  5+ years of professional experience in data engineering, data infrastructure, or
+  database development;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5+ years of hands-on
+  experience designing, developing, and maintaining relational databases in PostgreSQL,
+  preferably in AWS RDS;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proven experience
+  building and managing data pipelines (ETL/ELT, Reverse ETL) using SQL, Python, or
+  orchestration tools;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience administering
+  or tuning production databases (indexes, vacuum, query plans, schema versioning);</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Hands-on experience with cloud services (AWS preferred: RDS, S3, Lambda, CloudWatch)
+  and general infrastructure concepts;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Working knowledge of data warehousing, analytics, and BI tools (e.g., AWS Quicksight,
+  Metabase, dbt, Looker, or Tableau);</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Experience working in regulated or data-sensitive environments (e.g., healthcare,
+  HIPAA);</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated SQL expertise with
+  the ability to write, optimize, and troubleshoot complex queries in Postgres PL/pgSQL,
+  including effective use of indexing and window functions;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Proficient in Python, JavaScript/Node.js, or another modern programming language
+  commonly used for data and application development;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Deep understanding of data modeling, including relational schema design, normalization,
+  and performance-driven modeling;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experienced
+  in version control &amp; CI/CD, including Git, pull-request workflows, and database-focused
+  pipelines changes;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comprehensive knowledge
+  of cloud data engineering including AWS data services such as RDS, S3, Secrets Manager
+  and IAM along with secure networking principles;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Ability to collaborate with engineers, analysts, and product stakeholders to design
+  and deliver reliable data solutions;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Resourceful and detail-oriented, with the ability to take ownership and diagnose
+  complex SQL or system issues in production environments;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Skilled at communicating complex technical information into meaningful business
+  content for non-technical audiences;&nbsp;&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Comfortable working independently in a part-time capacity while collaborating asynchronously
+  with engineering teams.</p><p>&nbsp;</p><p><strong>Pay Range:</strong></p><p>$58.65
+  - $78.36/hour</p><p>&nbsp;</p><p><strong>Benefits:</strong></p><ul><li>Medical,
+  Dental and Vision coverage&nbsp;at varying levels, specifically 50%, 75%, or 100%,
+  depending on the number of hours worked per quarter.</li><li>1 floating holiday,
+  2 personal days, end of year winter break; mid-year summer break. </li><li>Vacation,
+  sick leave, and holiday pay are prorated/accrued, based upon hours worked. </li><li>Defined
+  Benefit Pension Plan and 401(k) options.</li><li>Fitness, cell phone, internet and
+  furniture stipends.</li></ul><p><span style="color: rgba(45, 48, 69, 1)">&nbsp;</span></p><p><span
+  style="color: rgba(45, 48, 69, 1)">&nbsp;</span></p><p><span style="color: rgba(45,
+  48, 69, 1)"><i>Carina provides equal employment opportunities to all employees and
+  applicants for employment and prohibits discrimination and harassment of any type
+  without regard to race, color, religion, age, sex, national origin, disability status,
+  genetics, protected veteran status, sexual orientation, gender identity or expression,
+  or any other characteristic protected by federal, state or local laws.</i></span></p>'
+description_text: 'Carina is a nonprofit technology organization founded in 2016 that
+  operates an online home care matching platform.&nbsp; We connect individuals who
+  need publicly funded home care services, including Medicaid, with home care workers
+  seeking meaningful work and good jobs.&nbsp; We work closely with state and local
+  governments, labor unions, training funds, and private employers.&nbsp; Since our
+  founding, Carina has successfully facilitated thousands of matches, resulting in
+  more than 5 million hours of home care being delivered. Carina has been recognized
+  as an MIT Solver in the care economy, a Black &amp; Brown Innovator honoree by MIT
+  Solve, and an honoree on CareGuild’s Care at Scale List, highlighting our innovative
+  approach to strengthening the care workforce and expanding access to care. &nbsp;
+  Position Details: Location: Hybrid work Headquartered in Downtown Seattle, remote
+  work possible from CA, OR and WA. Work Schedule: Our typical business hours are
+  8:30-5:00 Monday-Friday. Travel Requirements: Up to 10% Category: Part-Time, FLSA
+  Non-Exempt, Regular Physical Requirements: Must be able to perform tasks that may
+  require prolonged periods of sitting or standing, with or without reasonable accommodation.
+  &nbsp; Position Summary: We are seeking a detail-oriented and collaborative Senior
+  Data Engineer to join our growing technology team on a part-time basis. This role
+  is ideal for someone who enjoys solving data challenges, building efficient systems,
+  and supporting a mission-driven organization. As a Senior Data Engineer at Carina,
+  you will design, implement, and maintain the data infrastructure that powers our
+  web-based marketplace connecting certified in-home care providers with Medicaid-eligible
+  care seekers. You will work primarily with PostgreSQL on AWS RDS, helping ensure
+  the quality, integrity, and security of data across applications, analytics, and
+  partner integrations. You will collaborate closely with software engineers, data
+  analysts, and product teams to deliver reliable, well-structured data systems that
+  enable meaningful insights and informed decision-making. This is an opportunity
+  to make a direct impact on how Carina improves access to care for families and caregivers
+  across the state. &nbsp; You Will: Design &amp; Development (DBE) ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Design, build, and maintain scalable data solutions and pipelines to support application
+  and business needs; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and optimize data
+  models and schemas within AWS RDS (PostgreSQL) for transactional and analytical
+  use cases; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and maintain data architecture
+  documentation including ERDs, data dictionaries, and source-to-target mappings across
+  business units; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement and maintain ETL
+  and Reverse ETL processes for ingestion, transformation, and distribution of data
+  across internal and external systems; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure
+  data security and compliance for confidential PII and PHI in accordance with HIPAA,
+  internal governance standards, and AWS security best practices; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Support development teams with data access design through views, APIs, and performance-optimized
+  SQL. &nbsp; Administration (DBA) ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor database
+  performance, identify bottlenecks, and apply indexing, partitioning, and query tuning
+  strategies; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage schema versioning, migrations,
+  and change control in collaboration with application engineers; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Maintain database reliability through regular backups, restores, and performance
+  audits in AWS RDS; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement and enforce data
+  governance policies, access controls, and user permissions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Analyze query execution plans and develop indexing strategies for optimal read/write
+  performance. &nbsp; Data Management &amp; Analytics ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Develop and maintain data validation and quality checks to ensure integrity across
+  systems; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate with internal stakeholders
+  to support reporting, ad-hoc analysis, and BI integrations; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Create and manage derived tables, materialized views, and summary datasets for analytics
+  and partner reporting; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assist in data migrations,
+  version upgrades, and integration efforts as Carina expands to new markets and data
+  domains. &nbsp; Collaboration ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partner with
+  software engineers, data analysts, and product managers to translate feature requirements
+  into scalable data solutions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support internal
+  stakeholders by providing SQL queries, datasets, and insights that inform business
+  decisions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate with external partners
+  and vendors to integrate, transform, and exchange data securely and reliably; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Communicate complex technical concepts clearly to both technical and non-technical
+  audiences. &nbsp; Continuous Improvement ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stay
+  current with AWS data services, PostgreSQL advancements, and emerging data engineering
+  practices; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propose and implement process and
+  tooling improvements that enhance data reliability and developer productivity; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Contribute to building and documenting Carina’s data engineering standards, code
+  review practices, and infrastructure-as-code patterns; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Champion a data-first culture by advocating for performance, security, and data
+  quality throughout the organization. &nbsp; You Have: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Bachelor’s degree in computer science, Data Engineering, Information Technology,
+  or a related technical field — or equivalent practical experience; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  5+ years of professional experience in data engineering, data infrastructure, or
+  database development; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5+ years of hands-on
+  experience designing, developing, and maintaining relational databases in PostgreSQL,
+  preferably in AWS RDS; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proven experience building
+  and managing data pipelines (ETL/ELT, Reverse ETL) using SQL, Python, or orchestration
+  tools; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience administering or tuning
+  production databases (indexes, vacuum, query plans, schema versioning); ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Hands-on experience with cloud services (AWS preferred: RDS, S3, Lambda, CloudWatch)
+  and general infrastructure concepts; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working
+  knowledge of data warehousing, analytics, and BI tools (e.g., AWS Quicksight, Metabase,
+  dbt, Looker, or Tableau); ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience working
+  in regulated or data-sensitive environments (e.g., healthcare, HIPAA); ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Demonstrated SQL expertise with the ability to write, optimize, and troubleshoot
+  complex queries in Postgres PL/pgSQL, including effective use of indexing and window
+  functions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficient in Python, JavaScript/Node.js,
+  or another modern programming language commonly used for data and application development;
+  ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deep understanding of data modeling, including
+  relational schema design, normalization, and performance-driven modeling; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Experienced in version control &amp; CI/CD, including Git, pull-request workflows,
+  and database-focused pipelines changes; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comprehensive
+  knowledge of cloud data engineering including AWS data services such as RDS, S3,
+  Secrets Manager and IAM along with secure networking principles; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Ability to collaborate with engineers, analysts, and product stakeholders to design
+  and deliver reliable data solutions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resourceful
+  and detail-oriented, with the ability to take ownership and diagnose complex SQL
+  or system issues in production environments; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Skilled at communicating complex technical information into meaningful business
+  content for non-technical audiences;&nbsp;&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Comfortable working independently in a part-time capacity while collaborating asynchronously
+  with engineering teams. &nbsp; Pay Range: $58.65 - $78.36/hour &nbsp; Benefits:
+  Medical, Dental and Vision coverage&nbsp;at varying levels, specifically 50%, 75%,
+  or 100%, depending on the number of hours worked per quarter. 1 floating holiday,
+  2 personal days, end of year winter break; mid-year summer break. Vacation, sick
+  leave, and holiday pay are prorated/accrued, based upon hours worked. Defined Benefit
+  Pension Plan and 401(k) options. Fitness, cell phone, internet and furniture stipends.
+  &nbsp; &nbsp; Carina provides equal employment opportunities to all employees and
+  applicants for employment and prohibits discrimination and harassment of any type
+  without regard to race, color, religion, age, sex, national origin, disability status,
+  genetics, protected veteran status, sexual orientation, gender identity or expression,
+  or any other characteristic protected by federal, state or local laws.'
+salary_json_min: 58.65
+salary_json_max: 78.36
+salary_json_currency: USD
+salary_json_unit: HOUR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Senior
+workplace_type_enum: UNKNOWN
+company_overview: ''
+url: https://builtin.com/job/sr-data-engineer-part-time/8666318
+source: builtin.com
+description: 'Carina is a nonprofit technology organization founded in 2016 that operates
+  an online home care matching platform.&nbsp; We connect individuals who need publicly
+  funded home care services, including Medicaid, with home care workers seeking meaningful
+  work and good jobs.&nbsp; We work closely with state and local governments, labor
+  unions, training funds, and private employers.&nbsp; Since our founding, Carina
+  has successfully facilitated thousands of matches, resulting in more than 5 million
+  hours of home care being delivered. Carina has been recognized as an MIT Solver
+  in the care economy, a Black &amp; Brown Innovator honoree by MIT Solve, and an
+  honoree on CareGuild’s Care at Scale List, highlighting our innovative approach
+  to strengthening the care workforce and expanding access to care. &nbsp; Position
+  Details: Location: Hybrid work Headquartered in Downtown Seattle, remote work possible
+  from CA, OR and WA. Work Schedule: Our typical business hours are 8:30-5:00 Monday-Friday.
+  Travel Requirements: Up to 10% Category: Part-Time, FLSA Non-Exempt, Regular Physical
+  Requirements: Must be able to perform tasks that may require prolonged periods of
+  sitting or standing, with or without reasonable accommodation. &nbsp; Position Summary:
+  We are seeking a detail-oriented and collaborative Senior Data Engineer to join
+  our growing technology team on a part-time basis. This role is ideal for someone
+  who enjoys solving data challenges, building efficient systems, and supporting a
+  mission-driven organization. As a Senior Data Engineer at Carina, you will design,
+  implement, and maintain the data infrastructure that powers our web-based marketplace
+  connecting certified in-home care providers with Medicaid-eligible care seekers.
+  You will work primarily with PostgreSQL on AWS RDS, helping ensure the quality,
+  integrity, and security of data across applications, analytics, and partner integrations.
+  You will collaborate closely with software engineers, data analysts, and product
+  teams to deliver reliable, well-structured data systems that enable meaningful insights
+  and informed decision-making. This is an opportunity to make a direct impact on
+  how Carina improves access to care for families and caregivers across the state.
+  &nbsp; You Will: Design &amp; Development (DBE) ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Design, build, and maintain scalable data solutions and pipelines to support application
+  and business needs; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and optimize data
+  models and schemas within AWS RDS (PostgreSQL) for transactional and analytical
+  use cases; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create and maintain data architecture
+  documentation including ERDs, data dictionaries, and source-to-target mappings across
+  business units; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement and maintain ETL
+  and Reverse ETL processes for ingestion, transformation, and distribution of data
+  across internal and external systems; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure
+  data security and compliance for confidential PII and PHI in accordance with HIPAA,
+  internal governance standards, and AWS security best practices; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Support development teams with data access design through views, APIs, and performance-optimized
+  SQL. &nbsp; Administration (DBA) ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor database
+  performance, identify bottlenecks, and apply indexing, partitioning, and query tuning
+  strategies; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manage schema versioning, migrations,
+  and change control in collaboration with application engineers; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Maintain database reliability through regular backups, restores, and performance
+  audits in AWS RDS; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement and enforce data
+  governance policies, access controls, and user permissions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Analyze query execution plans and develop indexing strategies for optimal read/write
+  performance. &nbsp; Data Management &amp; Analytics ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Develop and maintain data validation and quality checks to ensure integrity across
+  systems; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate with internal stakeholders
+  to support reporting, ad-hoc analysis, and BI integrations; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Create and manage derived tables, materialized views, and summary datasets for analytics
+  and partner reporting; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assist in data migrations,
+  version upgrades, and integration efforts as Carina expands to new markets and data
+  domains. &nbsp; Collaboration ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partner with
+  software engineers, data analysts, and product managers to translate feature requirements
+  into scalable data solutions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support internal
+  stakeholders by providing SQL queries, datasets, and insights that inform business
+  decisions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborate with external partners
+  and vendors to integrate, transform, and exchange data securely and reliably; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Communicate complex technical concepts clearly to both technical and non-technical
+  audiences. &nbsp; Continuous Improvement ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stay
+  current with AWS data services, PostgreSQL advancements, and emerging data engineering
+  practices; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propose and implement process and
+  tooling improvements that enhance data reliability and developer productivity; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Contribute to building and documenting Carina’s data engineering standards, code
+  review practices, and infrastructure-as-code patterns; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Champion a data-first culture by advocating for performance, security, and data
+  quality throughout the organization. &nbsp; You Have: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Bachelor’s degree in computer science, Data Engineering, Information Technology,
+  or a related technical field — or equivalent practical experience; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  5+ years of professional experience in data engineering, data infrastructure, or
+  database development; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5+ years of hands-on
+  experience designing, developing, and maintaining relational databases in PostgreSQL,
+  preferably in AWS RDS; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proven experience building
+  and managing data pipelines (ETL/ELT, Reverse ETL) using SQL, Python, or orchestration
+  tools; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience administering or tuning
+  production databases (indexes, vacuum, query plans, schema versioning); ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Hands-on experience with cloud services (AWS preferred: RDS, S3, Lambda, CloudWatch)
+  and general infrastructure concepts; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working
+  knowledge of data warehousing, analytics, and BI tools (e.g., AWS Quicksight, Metabase,
+  dbt, Looker, or Tableau); ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience working
+  in regulated or data-sensitive environments (e.g., healthcare, HIPAA); ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Demonstrated SQL expertise with the ability to write, optimize, and troubleshoot
+  complex queries in Postgres PL/pgSQL, including effective use of indexing and window
+  functions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficient in Python, JavaScript/Node.js,
+  or another modern programming language commonly used for data and application development;
+  ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deep understanding of data modeling, including
+  relational schema design, normalization, and performance-driven modeling; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Experienced in version control &amp; CI/CD, including Git, pull-request workflows,
+  and database-focused pipelines changes; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comprehensive
+  knowledge of cloud data engineering including AWS data services such as RDS, S3,
+  Secrets Manager and IAM along with secure networking principles; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Ability to collaborate with engineers, analysts, and product stakeholders to design
+  and deliver reliable data solutions; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resourceful
+  and detail-oriented, with the ability to take ownership and diagnose complex SQL
+  or system issues in production environments; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Skilled at communicating complex technical information into meaningful business
+  content for non-technical audiences;&nbsp;&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Comfortable working independently in a part-time capacity while collaborating asynchronously
+  with engineering teams. &nbsp; Pay Range: $58.65 - $78.36/hour &nbsp; Benefits:
+  Medical, Dental and Vision coverage&nbsp;at varying levels, specifically 50%, 75%,
+  or 100%, depending on the number of hours worked per quarter. 1 floating holiday,
+  2 personal days, end of year winter break; mid-year summer break. Vacation, sick
+  leave, and holiday pay are prorated/accrued, based upon hours worked. Defined Benefit
+  Pension Plan and 401(k) options. Fitness, cell phone, internet and furniture stipends.
+  &nbsp; &nbsp; Carina provides equal employment opportunities to all employees and
+  applicants for employment and prohibits discrimination and harassment of any type
+  without regard to race, color, religion, age, sex, national origin, disability status,
+  genetics, protected veteran status, sexual orientation, gender identity or expression,
+  or any other characteristic protected by federal, state or local laws.'
+postedDate: '2026-03-05'
+salary: USD 58.65 - 78.36
+id: 8
+is_gtm_technical: true
+tech_stack:
+- PostgreSQL
+- AWS RDS
+min_years_exp: 0
+salary_min: null
+salary_max: null
+reason: Sr. Data Engineer role focuses on building and maintaining data solutions
+  which support the application's functionality and business decisions, linking it
+  to GTM needs.

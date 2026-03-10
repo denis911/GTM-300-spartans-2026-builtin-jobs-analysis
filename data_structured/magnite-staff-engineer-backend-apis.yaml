@@ -1,0 +1,331 @@
+title: Staff Engineer, Backend APIs
+company: Magnite
+category:
+- AdTech
+- Big Data
+- Digital Media
+- Software
+location: Los Angeles, California, USA
+date_posted: '2026-03-09'
+description_html: '<p><b><b>Staff Engineer — Backend APIs</b></b></p><p><b><b>Los
+  Angeles, CA</b></b></p><p><b><b>New York City, NY</b></b></p><p><b><b>Broomfield,
+  CO</b></b></p><p><b><b>Hybrid Schedule (M/F remote, T/W/TH in-office)</b></b></p><p><span>At
+  Magnite, we cultivate an environment of continuous growth and collaboration. Our
+  work impacts what millions of people read, watch, and buy, and we’re looking for
+  people to help us tackle that responsibility with creativity and focus.&nbsp; Magnite
+  (NASDAQ: MGNI) is the world’s largest independent sell-side advertising platform.
+  Publishers use our technology to monetize their content across all screens and formats
+  including CTV / streaming, online video, display, and audio. Our tech fuels billions
+  of transactions per day!</span></p><p><b><b>About this team:</b></b></p><p><span>Magnite’s
+  Reporting &amp; Insights group powers our flagship analytics products — Performance
+  Analytics (PA), Prebid Analytics (PBA), and the SpringServe platform''s reporting
+  — and is building the next‑generation Unified Reporting API. We’re adding an experienced
+  backend engineer to accelerate a high‑impact roadmap, elevate API developer experience,
+  and partner closely with our UI and Data teams to ship features that our publishers
+  and DSPs rely on to understand and optimize campaign performance.</span></p><p><b><b>In
+  this role you will:&nbsp;&nbsp;</b></b></p><ul><li><p><span>Design, build, and evolve
+  microservice‑based API products that power reporting and analytics applications.&nbsp;</span></p></li><li><p><span>Manage
+  individual project priorities, deadlines, and deliverables with your technical expertise</span></p></li><li><p><span>Collaborate
+  daily with Product, UI, and Data engineers to take features end‑to‑end — from requirements
+  and design to delivery.</span></p></li><li><p><span>Design and build APIs that are
+  intuitive and easy to consume: clear contracts (OpenAPI/gRPC), well-documented,
+  versioning strategies, pagination, filtering, batching, and strong SLAs/SLOs.</span></p></li><li><p><span>Shape
+  data access patterns: schemas, query plans, caching, and performance tuning in read/writes
+  for big data.</span></p></li><li><p><span>Champion code quality: well‑tested, observable,
+  maintainable code, thoughtful reviews, design docs, and pragmatic documentation.</span></p></li><li><p><span>Own
+  services in production: dashboards, alerting, capacity and load testing, cost‑aware
+  design, and reliability improvements.</span></p></li><li><p><span>Leverage AI-assisted
+  tools in your development process</span></p></li><li><p><span>Mentor teammates,
+  share knowledge, and help raise the technical bar across the organization.</span></p></li></ul><p><b><b>We’re
+  looking for someone with:&nbsp;</b></b></p><ul><li><p><span>8+ years of relevant
+  work experience in software development.</span></p></li><li><p><span>Deep understanding
+  of microservice fundamentals (service boundaries, resiliency, observability, CI/CD)
+  and API design at scale.</span></p></li><li><p><span>Primary development experience
+  in Java for high-throughput, low-latency back-end web services. Experience with
+  asynchronous programming patterns, high levels of concurrency, and with frameworks
+  such as Vert.x and Dropwizard is highly desirable.</span></p></li><li><p><span>Experience
+  working in roles where project success was heavily dependent on your personal design
+  and development contributions, your technical leadership and broad expertise.</span></p></li><li><p><span>A
+  track record of shipping well‑tested, production‑grade APIs used by UI applications
+  and direct API consumers.</span></p></li><li><p><span>Experience with development
+  and CI tools like Maven, git, containerization with Docker, a build management system
+  like Codebuild or Jenkins, and Jira</span></p></li><li><p><span>Clear, empathetic
+  communication and a collaborative mindset.</span></p></li></ul><p><b><b>Our current
+  tech stack:</b></b></p><ul><li><p><span>Exposure to cloud providers (AWS, GCP, or
+  Azure) and container orchestration (Docker/Kubernetes).</span></p></li><li><p><span>Familiarity
+  with functional programming concepts and Scala FP libraries.</span></p></li><li><p><span>Experience
+  with event‑driven or streaming architectures.</span></p></li><li><p><span>Understanding
+  of authN/Z patterns (OAuth2/JWT), rate limiting, and API security.</span></p></li><li><p><span>Observability
+  tools and practices (metrics, tracing, logs) and load/perf testing.</span></p></li><li><p><span>Knowledge
+  of Real-Time Bidding (RTB), SSPs, DSPs, and ad delivery systems is a strong plus.</span></p></li><li><p><span>Experience
+  with Terraform or other infrastructure automation tools.</span></p></li></ul><p><b><b>How
+  we work:</b></b></p><ul><li><p><span>Hybrid collaboration centered on our Los Angeles
+  office with close partnership to US‑based Product, UI, and Data teams.</span></p></li><li><p><span>Pragmatic
+  process: design docs, small PRs, automation over toil, and continuous learning.</span></p></li><li><p><span>A
+  supportive culture that values mentorship, psychological safety, and outcomes over
+  ego.</span></p></li></ul><p><b><b>Perks and Benefits</b><span>:&nbsp;</span></b></p><ul><li><p><span>Comprehensive
+  Healthcare Coverage from Day One</span></p></li><li><p><span>Generous Time Off&nbsp;&nbsp;</span></p></li><li><p><span>Holiday
+  Breaks and Quarterly Wellness Days</span></p></li><li><p><span>Equity and Employee
+  Stock Purchase Plan</span></p></li><li><p><span>Family-Focused Benefits and Parental
+  Leave&nbsp;</span></p></li><li><p><span>401k Retirement Savings Plan with Employer
+  Match</span></p></li><li><p><span>Disability and Life Insurance</span></p></li><li><p><span>Cell
+  Phone Subsidy</span></p></li><li><p><span>Fitness and Wellness Reimbursement</span></p></li></ul><p><b><b>Company
+  Culture:&nbsp;</b></b></p><p><span>We believe collaboration is essential to success.
+  Magnite’s hybrid schedule includes two days worked remotely (Monday and Friday)
+  and three days on-site (Tuesday, Wednesday and Thursday). Our offices provide catered
+  lunches, beverages, snacks, training and development, and office events to support
+  your work week. We also understand you have appointments, families, hobbies, and
+  other commitments. Magnite strives to maintain a healthy work/life integration for
+  all employees so you can bring your best every day - both at work and at home.</span></p><ul><li><p><span>Community
+  Service and Volunteer Events</span></p></li><li><p><span>Company-Matched Charitable
+  Contributions</span></p></li><li><p><span>Wellness Coach and Mental Health Support</span></p></li><li><p><span>Career
+  Development Initiatives and a Career Growth Framework</span></p></li><li><p><span>Culture
+  and Inclusion Programs</span></p></li><li><p><span>Bonusly Peer-to-Peer Recognition
+  Program</span></p></li></ul><p><b><b>About Us</b><b><span> </span></b></b></p><p><span>The
+  world''s leading agencies and brands trust our platform to access brand-safe, high-quality
+  ad inventory and execute billions of advertising transactions each month. Anchored
+  in bustling New York City, sunny Los Angeles, mile-high Denver, historic London,
+  and down under in Sydney, Magnite has offices across North America, EMEA, LATAM,
+  and APAC.</span></p><p><span>Across the US, the base salary range for this position
+  is: $155,000 - $185,000 in addition to an annual variable bonus based on performance
+  and company equity (NASDAQ: MGNI). The pay varies based on location, industry, and
+  technical experience.</span></p><p><b><b>For Los Angeles-based applicants:&nbsp;</b></b></p><p><span>Qualified
+  applications with arrest or conviction records will be considered for employment
+  in accordance with the Los Angeles County Fair Chance Ordinance for Employers and
+  the California Fair Chance Act.</span></p><p><span>The material job duties of this
+  specific job position for which Magnite reasonably believes that a criminal history
+  may have a direct, adverse, and negative relationship include:</span></p><ul><li><p><span>Having
+  access to the Company’s Confidential Information or trade secrets including data
+  related to customers, clients, vendors, business partners, or suppliers&nbsp;</span></p></li><li><p><span>Work
+  with cross teams&nbsp; to access datasets, databases, formulas, algorithms, tools,
+  products, prototypes, systems applications, and technologies in any stage of development&nbsp;</span></p></li></ul><p><i>Magnite
+  is an Equal Opportunity Employer and does not discriminate against applicants due
+  to race, color, religion, national origin, age, sex, marital status, ancestry, physical
+  or mental disability, veteran status, gender identity, sexual orientation or any
+  other federal, state or local protected class.</i></p><p><i>Our Commitment: We aim
+  to incorporate a wide range of voices into our Magnite culture, cultivating an environment
+  where employees feel welcomed, cared for, and encouraged to freely share ideas.
+  We are committed to employee growth, collaboration, inclusion, and innovation.&nbsp;
+  We invest in Magnite’s local communities. We seek talent from all backgrounds to
+  champion corporate values of seeing the big picture and being catalysts of change.</i></p><p><b><b>Want
+  to learn more about us?</b><span>&nbsp;&nbsp;</span></b></p><p><b><span>Check out
+  our </span><u>blog</u><span> for Magnite announcements and Ad Tech industry news!&nbsp;</span></b></p><p><b><b>Recruiting
+  Agency Notice</b></b></p><p><span>Magnite does not accept agency resumes and is
+  not responsible for any fees related to unsolicited resumes. </span></p>'
+description_text: 'Staff Engineer — Backend APIs Los Angeles, CA New York City, NY
+  Broomfield, CO Hybrid Schedule (M/F remote, T/W/TH in-office) At Magnite, we cultivate
+  an environment of continuous growth and collaboration. Our work impacts what millions
+  of people read, watch, and buy, and we’re looking for people to help us tackle that
+  responsibility with creativity and focus.&nbsp; Magnite (NASDAQ: MGNI) is the world’s
+  largest independent sell-side advertising platform. Publishers use our technology
+  to monetize their content across all screens and formats including CTV / streaming,
+  online video, display, and audio. Our tech fuels billions of transactions per day!
+  About this team: Magnite’s Reporting &amp; Insights group powers our flagship analytics
+  products — Performance Analytics (PA), Prebid Analytics (PBA), and the SpringServe
+  platform''s reporting — and is building the next‑generation Unified Reporting API.
+  We’re adding an experienced backend engineer to accelerate a high‑impact roadmap,
+  elevate API developer experience, and partner closely with our UI and Data teams
+  to ship features that our publishers and DSPs rely on to understand and optimize
+  campaign performance. In this role you will:&nbsp;&nbsp; Design, build, and evolve
+  microservice‑based API products that power reporting and analytics applications.&nbsp;
+  Manage individual project priorities, deadlines, and deliverables with your technical
+  expertise Collaborate daily with Product, UI, and Data engineers to take features
+  end‑to‑end — from requirements and design to delivery. Design and build APIs that
+  are intuitive and easy to consume: clear contracts (OpenAPI/gRPC), well-documented,
+  versioning strategies, pagination, filtering, batching, and strong SLAs/SLOs. Shape
+  data access patterns: schemas, query plans, caching, and performance tuning in read/writes
+  for big data. Champion code quality: well‑tested, observable, maintainable code,
+  thoughtful reviews, design docs, and pragmatic documentation. Own services in production:
+  dashboards, alerting, capacity and load testing, cost‑aware design, and reliability
+  improvements. Leverage AI-assisted tools in your development process Mentor teammates,
+  share knowledge, and help raise the technical bar across the organization. We’re
+  looking for someone with:&nbsp; 8+ years of relevant work experience in software
+  development. Deep understanding of microservice fundamentals (service boundaries,
+  resiliency, observability, CI/CD) and API design at scale. Primary development experience
+  in Java for high-throughput, low-latency back-end web services. Experience with
+  asynchronous programming patterns, high levels of concurrency, and with frameworks
+  such as Vert.x and Dropwizard is highly desirable. Experience working in roles where
+  project success was heavily dependent on your personal design and development contributions,
+  your technical leadership and broad expertise. A track record of shipping well‑tested,
+  production‑grade APIs used by UI applications and direct API consumers. Experience
+  with development and CI tools like Maven, git, containerization with Docker, a build
+  management system like Codebuild or Jenkins, and Jira Clear, empathetic communication
+  and a collaborative mindset. Our current tech stack: Exposure to cloud providers
+  (AWS, GCP, or Azure) and container orchestration (Docker/Kubernetes). Familiarity
+  with functional programming concepts and Scala FP libraries. Experience with event‑driven
+  or streaming architectures. Understanding of authN/Z patterns (OAuth2/JWT), rate
+  limiting, and API security. Observability tools and practices (metrics, tracing,
+  logs) and load/perf testing. Knowledge of Real-Time Bidding (RTB), SSPs, DSPs, and
+  ad delivery systems is a strong plus. Experience with Terraform or other infrastructure
+  automation tools. How we work: Hybrid collaboration centered on our Los Angeles
+  office with close partnership to US‑based Product, UI, and Data teams. Pragmatic
+  process: design docs, small PRs, automation over toil, and continuous learning.
+  A supportive culture that values mentorship, psychological safety, and outcomes
+  over ego. Perks and Benefits :&nbsp; Comprehensive Healthcare Coverage from Day
+  One Generous Time Off&nbsp;&nbsp; Holiday Breaks and Quarterly Wellness Days Equity
+  and Employee Stock Purchase Plan Family-Focused Benefits and Parental Leave&nbsp;
+  401k Retirement Savings Plan with Employer Match Disability and Life Insurance Cell
+  Phone Subsidy Fitness and Wellness Reimbursement Company Culture:&nbsp; We believe
+  collaboration is essential to success. Magnite’s hybrid schedule includes two days
+  worked remotely (Monday and Friday) and three days on-site (Tuesday, Wednesday and
+  Thursday). Our offices provide catered lunches, beverages, snacks, training and
+  development, and office events to support your work week. We also understand you
+  have appointments, families, hobbies, and other commitments. Magnite strives to
+  maintain a healthy work/life integration for all employees so you can bring your
+  best every day - both at work and at home. Community Service and Volunteer Events
+  Company-Matched Charitable Contributions Wellness Coach and Mental Health Support
+  Career Development Initiatives and a Career Growth Framework Culture and Inclusion
+  Programs Bonusly Peer-to-Peer Recognition Program About Us The world''s leading
+  agencies and brands trust our platform to access brand-safe, high-quality ad inventory
+  and execute billions of advertising transactions each month. Anchored in bustling
+  New York City, sunny Los Angeles, mile-high Denver, historic London, and down under
+  in Sydney, Magnite has offices across North America, EMEA, LATAM, and APAC. Across
+  the US, the base salary range for this position is: $155,000 - $185,000 in addition
+  to an annual variable bonus based on performance and company equity (NASDAQ: MGNI).
+  The pay varies based on location, industry, and technical experience. For Los Angeles-based
+  applicants:&nbsp; Qualified applications with arrest or conviction records will
+  be considered for employment in accordance with the Los Angeles County Fair Chance
+  Ordinance for Employers and the California Fair Chance Act. The material job duties
+  of this specific job position for which Magnite reasonably believes that a criminal
+  history may have a direct, adverse, and negative relationship include: Having access
+  to the Company’s Confidential Information or trade secrets including data related
+  to customers, clients, vendors, business partners, or suppliers&nbsp; Work with
+  cross teams&nbsp; to access datasets, databases, formulas, algorithms, tools, products,
+  prototypes, systems applications, and technologies in any stage of development&nbsp;
+  Magnite is an Equal Opportunity Employer and does not discriminate against applicants
+  due to race, color, religion, national origin, age, sex, marital status, ancestry,
+  physical or mental disability, veteran status, gender identity, sexual orientation
+  or any other federal, state or local protected class. Our Commitment: We aim to
+  incorporate a wide range of voices into our Magnite culture, cultivating an environment
+  where employees feel welcomed, cared for, and encouraged to freely share ideas.
+  We are committed to employee growth, collaboration, inclusion, and innovation.&nbsp;
+  We invest in Magnite’s local communities. We seek talent from all backgrounds to
+  champion corporate values of seeing the big picture and being catalysts of change.
+  Want to learn more about us? &nbsp;&nbsp; Check out our blog for Magnite announcements
+  and Ad Tech industry news!&nbsp; Recruiting Agency Notice Magnite does not accept
+  agency resumes and is not responsible for any fees related to unsolicited resumes.'
+salary_json_min: 155000
+salary_json_max: 185000
+salary_json_currency: USD
+salary_json_unit: YEAR
+hiring_remote_in: ''
+workplace_type: ''
+salary_range_short: ''
+seniority: Staff
+workplace_type_enum: UNKNOWN
+company_overview: 'Together, we power advertising that enables billions of people
+  to stay informed, entertained, and connected. We introduce them to new ideas, products,
+  and services that make their lives better. And we help media owners of all sizes
+  realize their full potential.That’s a lot — that’s the power of advertising. But
+  it’s only possible with great technology. And that’s where Magnite comes in.Magnite
+  (NASDAQ: MGNI) is the world’s largest independent sell-side advertising platform.
+  Publishers use our technology to monetize their content across all screens and formats
+  including CTV, online video, display, and audio. Our tech fuels billions of transactions
+  per day!'
+url: https://builtin.com/job/staff-engineer-backend-apis/8220615
+source: builtin.com
+description: 'Staff Engineer — Backend APIs Los Angeles, CA New York City, NY Broomfield,
+  CO Hybrid Schedule (M/F remote, T/W/TH in-office) At Magnite, we cultivate an environment
+  of continuous growth and collaboration. Our work impacts what millions of people
+  read, watch, and buy, and we’re looking for people to help us tackle that responsibility
+  with creativity and focus.&nbsp; Magnite (NASDAQ: MGNI) is the world’s largest independent
+  sell-side advertising platform. Publishers use our technology to monetize their
+  content across all screens and formats including CTV / streaming, online video,
+  display, and audio. Our tech fuels billions of transactions per day! About this
+  team: Magnite’s Reporting &amp; Insights group powers our flagship analytics products
+  — Performance Analytics (PA), Prebid Analytics (PBA), and the SpringServe platform''s
+  reporting — and is building the next‑generation Unified Reporting API. We’re adding
+  an experienced backend engineer to accelerate a high‑impact roadmap, elevate API
+  developer experience, and partner closely with our UI and Data teams to ship features
+  that our publishers and DSPs rely on to understand and optimize campaign performance.
+  In this role you will:&nbsp;&nbsp; Design, build, and evolve microservice‑based
+  API products that power reporting and analytics applications.&nbsp; Manage individual
+  project priorities, deadlines, and deliverables with your technical expertise Collaborate
+  daily with Product, UI, and Data engineers to take features end‑to‑end — from requirements
+  and design to delivery. Design and build APIs that are intuitive and easy to consume:
+  clear contracts (OpenAPI/gRPC), well-documented, versioning strategies, pagination,
+  filtering, batching, and strong SLAs/SLOs. Shape data access patterns: schemas,
+  query plans, caching, and performance tuning in read/writes for big data. Champion
+  code quality: well‑tested, observable, maintainable code, thoughtful reviews, design
+  docs, and pragmatic documentation. Own services in production: dashboards, alerting,
+  capacity and load testing, cost‑aware design, and reliability improvements. Leverage
+  AI-assisted tools in your development process Mentor teammates, share knowledge,
+  and help raise the technical bar across the organization. We’re looking for someone
+  with:&nbsp; 8+ years of relevant work experience in software development. Deep understanding
+  of microservice fundamentals (service boundaries, resiliency, observability, CI/CD)
+  and API design at scale. Primary development experience in Java for high-throughput,
+  low-latency back-end web services. Experience with asynchronous programming patterns,
+  high levels of concurrency, and with frameworks such as Vert.x and Dropwizard is
+  highly desirable. Experience working in roles where project success was heavily
+  dependent on your personal design and development contributions, your technical
+  leadership and broad expertise. A track record of shipping well‑tested, production‑grade
+  APIs used by UI applications and direct API consumers. Experience with development
+  and CI tools like Maven, git, containerization with Docker, a build management system
+  like Codebuild or Jenkins, and Jira Clear, empathetic communication and a collaborative
+  mindset. Our current tech stack: Exposure to cloud providers (AWS, GCP, or Azure)
+  and container orchestration (Docker/Kubernetes). Familiarity with functional programming
+  concepts and Scala FP libraries. Experience with event‑driven or streaming architectures.
+  Understanding of authN/Z patterns (OAuth2/JWT), rate limiting, and API security.
+  Observability tools and practices (metrics, tracing, logs) and load/perf testing.
+  Knowledge of Real-Time Bidding (RTB), SSPs, DSPs, and ad delivery systems is a strong
+  plus. Experience with Terraform or other infrastructure automation tools. How we
+  work: Hybrid collaboration centered on our Los Angeles office with close partnership
+  to US‑based Product, UI, and Data teams. Pragmatic process: design docs, small PRs,
+  automation over toil, and continuous learning. A supportive culture that values
+  mentorship, psychological safety, and outcomes over ego. Perks and Benefits :&nbsp;
+  Comprehensive Healthcare Coverage from Day One Generous Time Off&nbsp;&nbsp; Holiday
+  Breaks and Quarterly Wellness Days Equity and Employee Stock Purchase Plan Family-Focused
+  Benefits and Parental Leave&nbsp; 401k Retirement Savings Plan with Employer Match
+  Disability and Life Insurance Cell Phone Subsidy Fitness and Wellness Reimbursement
+  Company Culture:&nbsp; We believe collaboration is essential to success. Magnite’s
+  hybrid schedule includes two days worked remotely (Monday and Friday) and three
+  days on-site (Tuesday, Wednesday and Thursday). Our offices provide catered lunches,
+  beverages, snacks, training and development, and office events to support your work
+  week. We also understand you have appointments, families, hobbies, and other commitments.
+  Magnite strives to maintain a healthy work/life integration for all employees so
+  you can bring your best every day - both at work and at home. Community Service
+  and Volunteer Events Company-Matched Charitable Contributions Wellness Coach and
+  Mental Health Support Career Development Initiatives and a Career Growth Framework
+  Culture and Inclusion Programs Bonusly Peer-to-Peer Recognition Program About Us
+  The world''s leading agencies and brands trust our platform to access brand-safe,
+  high-quality ad inventory and execute billions of advertising transactions each
+  month. Anchored in bustling New York City, sunny Los Angeles, mile-high Denver,
+  historic London, and down under in Sydney, Magnite has offices across North America,
+  EMEA, LATAM, and APAC. Across the US, the base salary range for this position is:
+  $155,000 - $185,000 in addition to an annual variable bonus based on performance
+  and company equity (NASDAQ: MGNI). The pay varies based on location, industry, and
+  technical experience. For Los Angeles-based applicants:&nbsp; Qualified applications
+  with arrest or conviction records will be considered for employment in accordance
+  with the Los Angeles County Fair Chance Ordinance for Employers and the California
+  Fair Chance Act. The material job duties of this specific job position for which
+  Magnite reasonably believes that a criminal history may have a direct, adverse,
+  and negative relationship include: Having access to the Company’s Confidential Information
+  or trade secrets including data related to customers, clients, vendors, business
+  partners, or suppliers&nbsp; Work with cross teams&nbsp; to access datasets, databases,
+  formulas, algorithms, tools, products, prototypes, systems applications, and technologies
+  in any stage of development&nbsp; Magnite is an Equal Opportunity Employer and does
+  not discriminate against applicants due to race, color, religion, national origin,
+  age, sex, marital status, ancestry, physical or mental disability, veteran status,
+  gender identity, sexual orientation or any other federal, state or local protected
+  class. Our Commitment: We aim to incorporate a wide range of voices into our Magnite
+  culture, cultivating an environment where employees feel welcomed, cared for, and
+  encouraged to freely share ideas. We are committed to employee growth, collaboration,
+  inclusion, and innovation.&nbsp; We invest in Magnite’s local communities. We seek
+  talent from all backgrounds to champion corporate values of seeing the big picture
+  and being catalysts of change. Want to learn more about us? &nbsp;&nbsp; Check out
+  our blog for Magnite announcements and Ad Tech industry news!&nbsp; Recruiting Agency
+  Notice Magnite does not accept agency resumes and is not responsible for any fees
+  related to unsolicited resumes.'
+postedDate: '2026-03-09'
+salary: USD 155,000 - 185,000
+id: 15
+is_gtm_technical: true
+tech_stack:
+- Java
+- Kubernetes
+- Docker
+min_years_exp: 8
+salary_min: null
+salary_max: null
+reason: The role designs API products that relate to analytics and reporting tools,
+  linking directly to GTM.
