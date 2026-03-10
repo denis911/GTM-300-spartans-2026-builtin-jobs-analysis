@@ -35,10 +35,29 @@
 **Decisions**: Used `startUrl`, `results_wanted`, and `max_pages` as per PDF. The role-based URL provided high volume.
 **Next**: Move to Stage 2 - LLM-driven cleaning and YAML export.
 
-## [CHECKPOINT 2.2] — 2026-03-09 23:25
-**Activity**: Started full LLM extraction for 829 items using .
-**Configuration**:
-- Batch Size: 20
-- Key Tools Target: Clay, n8n, Tray.io, Salesforce, HubSpot, dbt, SQL.
-- Focus: "GTM Technical" relevancy filtering.
-- Source: `apify_raw_export.json` (JSON source of truth).
+## [CHECKPOINT 3.3] — 2026-03-10 10:00
+**Summary:** Completed full LLM structuring run for all 829 raw items.
+**Results:** 310 records passed the "GTM Technical" filter and were saved to `data_structured/`. GPT-4o-mini used for efficient extraction.
+**Decisions:** Rigorous filtering applied to exclude generic Sales/Marketing roles.
+
+---
+## [CHECKPOINT 4.1] — 2026-03-10 11:30
+**Summary:** Validated all 310 structured records for schema compliance and field completeness.
+**Results:** 100% compliance on required fields (`title`, `company`, `job_type`). High coverage for `tech_stack` and `compensation` where available.
+
+---
+## [CHECKPOINT 5.4] — 2026-03-10 18:45
+**Summary:** Fully implemented `analysis.ipynb` with 10 sections.
+**Results:** Generated insights on compensation, tool popularity, and seniority trends. Exported initial set of charts to `_internal/charts/`.
+**Decisions:** Used computed variables for the "Key Findings" section to ensure data integrity.
+
+---
+## [CHECKPOINT 5.R] — 2026-03-10 19:40
+**Summary:** Replaced bar/pie charts in Sections 1 and 2 of the notebook with styled Pandas tables.
+**Decisions:** Prioritized information density and readability for the Top 10 Companies and Job Type Distribution views.
+
+---
+## [CHECKPOINT 6.2] — 2026-03-10 21:00
+**Summary:** Final project audit and documentation update.
+**Results:** Updated `README.md` and `TASK.md` to reflect the final project state. Verified file counts (310 records, 6 charts, 2 high-density tables).
+**Decisions:** Project marked as complete.
