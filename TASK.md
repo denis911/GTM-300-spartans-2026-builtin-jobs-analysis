@@ -323,32 +323,32 @@ Human checks: Does the "vibe" and content structure match the desired output?
 
 ---
 
-#### [ ] Checkpoint 7.2 — Stitch Generation & Iteration
+#### ✅ Checkpoint 7.2 — Stitch Generation & Iteration
 
 **Tasks:**
-- [ ] Run `mcp_stitch:generate_screen_from_text` with the baton prompt
-- [ ] Download generated HTML and PNG assets to `.stitch/designs/`
+- [x] Run `mcp_stitch:generate_screen_from_text` with the baton prompt
+- [x] Download generated HTML and PNG assets to `.stitch/designs/`
 - [x] Verify the design against the "Premium" requirement
 - [x] Update `next-prompt.md` for any required tweaks or additional sections
 
 ---
 
-#### ✅ Checkpoint 7.3 — Asset Integration & HTMX Plumbing
+#### [x] Checkpoint 7.3 — Asset Integration & HTMX Plumbing
 
 **Tasks:**
-- [ ] Move HTML to `site/public/index.html`
-- [ ] Replace placeholder images with local charts from `_internal/charts/`
-- [ ] Ingest notebook data tables into the HTML structure
-- [ ] Add HTMX markers for potential dynamic area loads
+- [x] Move HTML to `site/public/index.html`
+- [x] Replace placeholder images with local charts from `_internal/charts/`
+- [x] Ingest notebook data tables into the HTML structure
+- [x] Add HTMX markers for potential dynamic area loads
 
 ---
 
-#### ✅ Checkpoint 7.4 — Final Polish & Verification
+#### [x] Checkpoint 7.4 — Final Polish & Verification
 
 **Tasks:**
-- [ ] Run a local pulse-check on the page layout
-- [ ] Ensure all local links to charts are functional
-- [ ] Create `walkthrough.md` for the final delivery
+- [x] Run a local pulse-check on the page layout
+- [x] Ensure all local links to charts are functional
+- [x] Create `walkthrough.md` for the final delivery
 
 **🛑 STOP 7.4 — PROJECT COMPLETE**
 Output: Final index.html linkable assets list. Landing page ready for review.
