@@ -34,8 +34,6 @@ Based on the analysis of **310 GTM Technical roles**, here are the key trends in
 ### 🛠️ GTM Stack & Tools
 The most requested tool is **Salesforce**, but modern "GTM Engineering" tools like **Clay** and **n8n** are showing significant traction. Python and SQL remain the foundational languages for these roles.
 
-![Tech Stack Popularity](site/public/charts/tech_stack_popularity.png)
-
 | Tool | Frequency | Category |
 |---|---|---|
 | **Salesforce** | 68 | CRM / System of Record |
@@ -49,8 +47,6 @@ The most requested tool is **Salesforce**, but modern "GTM Engineering" tools li
 
 ### 💰 Compensation Analysis
 GTM Engineering is a high-compensation field, with Senior and Staff roles frequently exceeding **$200k USD** base salary. The compensation varies significantly by seniority and region.
-
-![Salary by Seniority](site/public/charts/salary_by_seniority.png)
 
 ![Compensation Analysis](site/public/charts/03_compensation_analysis.png)
 
