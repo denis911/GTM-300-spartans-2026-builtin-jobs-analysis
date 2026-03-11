@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>GTM Engineering 2026 Report</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#9513ec",
+                        "accent-mint": "#00f5d4",
+                        "background-light": "#f7f6f8",
+                        "background-dark": "#0a0a0b",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.5rem",
+                        "lg": "1rem",
+                        "xl": "1.5rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+        .glass-card {
+            background: rgba(149, 19, 236, 0.05);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(149, 19, 236, 0.2);
+        }
+        .mesh-gradient {
+            background-image: radial-gradient(at 0% 0%, rgba(149, 19, 236, 0.15) 0px, transparent 50%),
+                              radial-gradient(at 100% 100%, rgba(0, 245, 212, 0.1) 0px, transparent 50%);
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background-light dark:bg-background-dark font-display text-slate-900 dark:text-slate-100 antialiased">
+<!-- Top Navigation -->
+<nav class="sticky top-0 z-50 flex items-center justify-between p-4 bg-background-dark/80 backdrop-blur-md border-b border-primary/10">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary">analytics</span>
+<span class="font-bold text-sm tracking-tight uppercase">GTM Engineering</span>
+</div>
+<div class="flex gap-4">
+<button class="p-2 rounded-full hover:bg-primary/10 transition-colors">
+<span class="material-symbols-outlined text-slate-100">share</span>
+</button>
+<button class="p-2 rounded-full hover:bg-primary/10 transition-colors">
+<span class="material-symbols-outlined text-slate-100">more_vert</span>
+</button>
+</div>
+</nav>
+<main class="mesh-gradient min-h-screen">
+<!-- Hero Section -->
+<header class="px-6 pt-12 pb-8 text-center flex flex-col items-center">
+<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/20 border border-primary/30 mb-6">
+<span class="relative flex h-2 w-2">
+<span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent-mint opacity-75"></span>
+<span class="relative inline-flex rounded-full h-2 w-2 bg-accent-mint"></span>
+</span>
+<span class="text-xs font-semibold text-primary uppercase tracking-widest">March 2026 Edition</span>
+</div>
+<h1 class="text-4xl font-extrabold tracking-tight mb-4 leading-tight bg-gradient-to-br from-white via-slate-200 to-slate-500 bg-clip-text text-transparent">
+                GTM Engineering 2026: State of the Market
+            </h1>
+<p class="text-slate-400 text-lg leading-relaxed max-w-sm">
+                A quantitative analysis of 310 curated engineering roles defining the modern revenue stack.
+            </p>
+</header>
+<!-- Metrics Grid -->
+<section class="grid grid-cols-2 gap-4 px-6 mb-12">
+<div class="glass-card p-5 rounded-xl flex flex-col gap-1">
+<span class="text-[10px] uppercase tracking-widest text-slate-500 font-bold">Total Roles</span>
+<span class="text-2xl font-bold text-slate-100">310</span>
+<div class="h-1 w-8 bg-primary rounded-full mt-2"></div>
+</div>
+<div class="glass-card p-5 rounded-xl flex flex-col gap-1">
+<span class="text-[10px] uppercase tracking-widest text-slate-500 font-bold">Global Hubs</span>
+<span class="text-2xl font-bold text-slate-100">5</span>
+<div class="h-1 w-8 bg-accent-mint rounded-full mt-2"></div>
+</div>
+<div class="glass-card p-5 rounded-xl flex flex-col gap-1">
+<span class="text-[10px] uppercase tracking-widest text-slate-500 font-bold">Median Comp</span>
+<span class="text-2xl font-bold text-slate-100">$218k</span>
+<div class="h-1 w-8 bg-primary rounded-full mt-2"></div>
+</div>
+<div class="glass-card p-5 rounded-xl flex flex-col gap-1">
+<span class="text-[10px] uppercase tracking-widest text-slate-500 font-bold">Top Stack</span>
+<span class="text-sm font-bold text-slate-100 truncate mt-1">Clay &amp; n8n</span>
+<div class="h-1 w-8 bg-accent-mint rounded-full mt-2"></div>
+</div>
+</section>
+<!-- Market Leaders Table -->
+<section class="px-6 mb-12">
+<div class="flex items-center justify-between mb-4">
+<h3 class="text-lg font-bold">Market Leaders</h3>
+<span class="text-xs text-primary font-semibold">View All</span>
+</div>
+<div class="glass-card rounded-xl overflow-hidden">
+<table class="w-full text-left text-sm">
+<thead>
+<tr class="bg-primary/10 text-slate-400 text-[10px] uppercase tracking-wider">
+<th class="px-4 py-3 font-semibold">Company</th>
+<th class="px-4 py-3 font-semibold">Hubs Active</th>
+<th class="px-4 py-3 font-semibold text-right">Open Roles</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-primary/10">
+<tr>
+<td class="px-4 py-4 font-medium">OpenAI</td>
+<td class="px-4 py-4 text-slate-400">SF, London, Remote</td>
+<td class="px-4 py-4 text-right text-accent-mint font-bold">4</td>
+</tr>
+<tr>
+<td class="px-4 py-4 font-medium">Klaviyo</td>
+<td class="px-4 py-4 text-slate-400">Boston, London, Remote</td>
+<td class="px-4 py-4 text-right text-accent-mint font-bold">4</td>
+</tr>
+<tr>
+<td class="px-4 py-4 font-medium">Rain</td>
+<td class="px-4 py-4 text-slate-400">Global Hubs</td>
+<td class="px-4 py-4 text-right text-accent-mint font-bold">3</td>
+</tr>
+<tr>
+<td class="px-4 py-4 font-medium">Lucid Software</td>
+<td class="px-4 py-4 text-slate-400">Austin, Remote</td>
+<td class="px-4 py-4 text-right text-accent-mint font-bold">3</td>
+</tr>
+<tr>
+<td class="px-4 py-4 font-medium">Airwallex</td>
+<td class="px-4 py-4 text-slate-400">Global Fintech Hubs</td>
+<td class="px-4 py-4 text-right text-accent-mint font-bold">3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<!-- Tech Pulse Section -->
+<section class="px-6 mb-12">
+<div class="glass-card rounded-xl p-6">
+<h3 class="text-lg font-bold mb-6">Salary Tech Pulse</h3>
+<div class="relative w-full mb-6 overflow-hidden rounded-lg">
+    <img src="charts/03_compensation_analysis.png" alt="Salary Benchmarks" class="w-full h-auto">
+</div>
+<div class="space-y-3">
+<div class="flex justify-between items-center text-sm">
+<span class="text-slate-400">Strategic Alignment</span>
+<span class="font-bold text-accent-mint">37.4% GTM Density</span>
+</div>
+<div class="flex justify-between items-center text-sm">
+<span class="text-slate-400">Top Tech Proficiency</span>
+<span class="font-bold text-primary">Python & SQL Dominance</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Global Footprint -->
+<section class="px-6 mb-12">
+<h3 class="text-lg font-bold mb-4">Global Footprint</h3>
+<div class="glass-card rounded-xl p-6 space-y-6">
+<div>
+<img src="charts/05_top_tools.png" alt="Top Tools" class="w-full h-auto rounded-xl mb-6">
+</div>
+<div class="pt-4 border-t border-primary/10">
+<div class="flex items-center gap-3 text-sm text-slate-400">
+<span class="material-symbols-outlined text-accent-mint text-sm">location_on</span>
+<span>Hot Hubs: San Francisco, Austin, London, Berlin</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Footer -->
+<footer class="px-6 py-12 bg-slate-900/50 border-t border-primary/10">
+<h4 class="text-sm font-bold text-slate-100 mb-2 uppercase tracking-widest">Methodology</h4>
+<p class="text-xs text-slate-500 leading-relaxed mb-8">
+                Data synthesized from public job board listings, company career pages, and proprietary network analysis between January and March 2026. Adjusted for cost-of-living premiums.
+            </p>
+<div class="flex flex-col gap-3">
+<button class="flex items-center justify-center gap-2 w-full py-4 bg-primary text-white font-bold rounded-xl transition-transform active:scale-[0.98]">
+<span class="material-symbols-outlined">menu_book</span>
+                    Access Full Notebook
+                </button>
+<button class="flex items-center justify-center gap-2 w-full py-4 bg-slate-800 text-slate-100 font-bold rounded-xl border border-primary/20 transition-transform active:scale-[0.98]">
+<span class="material-symbols-outlined">database</span>
+                    Export Raw Data (.csv)
+                </button>
+</div>
+<div class="mt-12 text-center text-[10px] text-slate-600 font-medium">
+                © 2026 GTM Engineering Research Group. All rights reserved.
+            </div>
+</footer>
+</main>
+</body></html>
