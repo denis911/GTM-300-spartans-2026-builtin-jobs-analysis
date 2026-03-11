@@ -1,6 +1,6 @@
 # GTM Engineer Job Market Analysis
 
-**310 high-quality technical GTM leads** · Collected March 2026 · Cities: New York · San Francisco · London · Berlin · Austin TX
+**310 high-quality technical GTM positions** · Collected March 2026 · Cities: New York · San Francisco · London · Berlin · Austin TX
 
 Collect and analyze GTM (Go-To-Market) Engineer job descriptions from Builtin.com, structured by city, clean and normalize the data with an LLM extraction step, run a comprehensive Jupyter notebook analysis, and produce GitHub-ready documentation.
 
