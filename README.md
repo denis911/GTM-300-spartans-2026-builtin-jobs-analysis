@@ -6,6 +6,9 @@ Collect and analyze GTM (Go-To-Market) Engineer job descriptions from Builtin.co
 
 Original idea is taken from repository AI Engineering research: https://github.com/alexeygrigorev/ai-engineering-field-guide/tree/main/job-market
 
+## Deployed landing page on Vercel
+https://gtm-300-spartans-2026-builtin-jobs.vercel.app/
+
 ## Contents
 
 | Path | Description |
