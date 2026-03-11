@@ -31,10 +31,10 @@ Refined the raw dataset into a structured format focused on Technical Go-To-Mark
 
 Based on the analysis of **310 GTM Technical roles**, here are the key trends in the modern Go-To-Market stack.
 
-### 🛠️ Top GTM Tools
-The most requested tool is **Salesforce**, but modern "GTM Engineering" tools like **Clay** and **n8n** are showing significant traction.
+### 🛠️ GTM Stack & Tools
+The most requested tool is **Salesforce**, but modern "GTM Engineering" tools like **Clay** and **n8n** are showing significant traction. Python and SQL remain the foundational languages for these roles.
 
-![Tech Stack Popularity](_internal/charts/tech_stack_popularity.png)
+![Tech Stack Popularity](site/public/charts/tech_stack_popularity.png)
 
 | Tool | Frequency | Category |
 |---|---|---|
@@ -45,12 +45,30 @@ The most requested tool is **Salesforce**, but modern "GTM Engineering" tools li
 | **HubSpot** | 36 | CRM / Marketing Automation |
 | **n8n** | 21 | Workflow Automation |
 
-### 💰 Salary Benchmarks
-GTM Engineering is a high-compensation field, with Senior and Staff roles frequently exceeding **$200k USD** base salary.
+![Top Tools](site/public/charts/05_top_tools.png)
 
-![Salary by Seniority](_internal/charts/salary_by_seniority.png)
+### 💰 Compensation Analysis
+GTM Engineering is a high-compensation field, with Senior and Staff roles frequently exceeding **$200k USD** base salary. The compensation varies significantly by seniority and region.
 
-*Data source: Builtin.com (Scraped March 2026). Analysis based on 310 curated technical roles. High-density table views implemented for Dataset Overview and Job Type Distribution for maximum clarity.*
+![Salary by Seniority](site/public/charts/salary_by_seniority.png)
+
+![Compensation Analysis](site/public/charts/03_compensation_analysis.png)
+
+### 🌍 Location & Language Trends
+The demand for GTM talent is concentrated in major tech hubs, with San Francisco and New York leading. Remote work remains a significant portion of the market.
+
+![Location & Remote](site/public/charts/04_location_remote.png)
+
+![Languages](site/public/charts/08_languages.png)
+
+### 💡 Analysis Highlights
+- **GTM Density**: 37.4% of analyzed roles are specifically focused on Technical GTM operations.
+- **Modern Orchestration**: Tools like **Clay** are rapidly becoming standard for data-driven outbound operations.
+- **Python Dominance**: Python is the clear leader for GTM automation, followed closely by SQL for data analysis.
+- **Premium Comp**: High-level individual contributor roles (Staff/Principal) show strong upward salary pressure in Tier-1 hubs.
+
+*Data source: Builtin.com (Scraped March 2026). Analysis based on 310 curated technical roles.*
+
 
 ---
 
