@@ -31,7 +31,7 @@ Successfully collected **829 unique job listings** from Builtin.com across:
 
 Refined the raw dataset into a structured format focused on Technical Go-To-Market roles.
 
-- **"300 Spartans" Goal**: Achieved **310 leads** identified as "GTM Technical" (37% relevancy rate).
+- **"300 Spartans" Goal**: Achieved **310 job postings** identified as "GTM Technical" (37% relevancy rate).
 - **Tech Stack Extraction**: Captured modern GTM tools including **Clay**, **n8n**, **Tray.io**, and **Salesforce**.
 - **Data Fidelity**: Used JSON as the primary source to preserve 100% text accuracy (solving CSV parsing issues with HTML/newlines).
 
@@ -142,7 +142,7 @@ If the primary actor returns a 403 (Subscription/Proxy error), the script automa
 
 ---
 
-*Code and analysis by Antigravity AI, inspired by the AI Engineering Field Guide.*
+*Code and analysis done by Antigravity AI, inspired by the AI Engineering Field Guide.*
 
 ---
 
